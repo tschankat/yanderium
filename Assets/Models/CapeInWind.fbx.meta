@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: aceb3c6cad3512742b07e47afa3d075b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CoatCape:Coat1
+    100004: CoatCape:Coat2
+    100006: CoatCape:Coat3
+    100008: CoatCape:Coat4
+    100010: CoatCape:Coat5
+    100012: CoatCape:CoatCapeMesh
+    100014: CoatCape:CoatNull
+    100016: CoatCape:LeftCoatArm1
+    100018: CoatCape:LeftCoatArm2
+    100020: CoatCape:LeftCoatArm3
+    100022: CoatCape:LeftCoatArm4
+    100024: CoatCape:LeftCoatArm5
+    100026: CoatCape:RightCoatArm1
+    100028: CoatCape:RightCoatArm2
+    100030: CoatCape:RightCoatArm3
+    100032: CoatCape:RightCoatArm4
+    100034: CoatCape:RightCoatArm5
+    100036: Coat1
+    100038: Coat2
+    100040: Coat3
+    100042: Coat4
+    100044: Coat5
+    100046: CoatCapeMesh
+    100048: CoatNull
+    100050: LeftCoatArm1
+    100052: LeftCoatArm2
+    100054: LeftCoatArm3
+    100056: LeftCoatArm4
+    100058: LeftCoatArm5
+    100060: RightCoatArm1
+    100062: RightCoatArm2
+    100064: RightCoatArm3
+    100066: RightCoatArm4
+    100068: RightCoatArm5
+    400000: //RootNode
+    400002: CoatCape:Coat1
+    400004: CoatCape:Coat2
+    400006: CoatCape:Coat3
+    400008: CoatCape:Coat4
+    400010: CoatCape:Coat5
+    400012: CoatCape:CoatCapeMesh
+    400014: CoatCape:CoatNull
+    400016: CoatCape:LeftCoatArm1
+    400018: CoatCape:LeftCoatArm2
+    400020: CoatCape:LeftCoatArm3
+    400022: CoatCape:LeftCoatArm4
+    400024: CoatCape:LeftCoatArm5
+    400026: CoatCape:RightCoatArm1
+    400028: CoatCape:RightCoatArm2
+    400030: CoatCape:RightCoatArm3
+    400032: CoatCape:RightCoatArm4
+    400034: CoatCape:RightCoatArm5
+    400036: Coat1
+    400038: Coat2
+    400040: Coat3
+    400042: Coat4
+    400044: Coat5
+    400046: CoatCapeMesh
+    400048: CoatNull
+    400050: LeftCoatArm1
+    400052: LeftCoatArm2
+    400054: LeftCoatArm3
+    400056: LeftCoatArm4
+    400058: LeftCoatArm5
+    400060: RightCoatArm1
+    400062: RightCoatArm2
+    400064: RightCoatArm3
+    400066: RightCoatArm4
+    400068: RightCoatArm5
+    4300000: CoatCape:CoatCapeMesh
+    4300002: CoatCapeMesh
+    7400000: BlowInWind
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: CoatCape:CoatCapeMesh
+    13700002: CoatCapeMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BlowInWind
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CoatCapeMesh
+        weight: 1
+      - path: CoatNull
+        weight: 1
+      - path: CoatNull/Coat1
+        weight: 1
+      - path: CoatNull/Coat1/Coat2
+        weight: 1
+      - path: CoatNull/Coat1/Coat2/Coat3
+        weight: 1
+      - path: CoatNull/Coat1/Coat2/Coat3/Coat4
+        weight: 1
+      - path: CoatNull/Coat1/Coat2/Coat3/Coat4/Coat5
+        weight: 1
+      - path: CoatNull/LeftCoatArm1
+        weight: 1
+      - path: CoatNull/LeftCoatArm1/LeftCoatArm2
+        weight: 1
+      - path: CoatNull/LeftCoatArm1/LeftCoatArm2/LeftCoatArm3
+        weight: 1
+      - path: CoatNull/LeftCoatArm1/LeftCoatArm2/LeftCoatArm3/LeftCoatArm4
+        weight: 1
+      - path: CoatNull/LeftCoatArm1/LeftCoatArm2/LeftCoatArm3/LeftCoatArm4/LeftCoatArm5
+        weight: 1
+      - path: CoatNull/RightCoatArm1
+        weight: 1
+      - path: CoatNull/RightCoatArm1/RightCoatArm2
+        weight: 1
+      - path: CoatNull/RightCoatArm1/RightCoatArm2/RightCoatArm3
+        weight: 1
+      - path: CoatNull/RightCoatArm1/RightCoatArm2/RightCoatArm3/RightCoatArm4
+        weight: 1
+      - path: CoatNull/RightCoatArm1/RightCoatArm2/RightCoatArm3/RightCoatArm4/RightCoatArm5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

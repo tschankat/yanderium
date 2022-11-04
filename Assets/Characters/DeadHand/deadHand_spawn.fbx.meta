@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: fc3b5d90870281d4c84a84b22f0e9d71
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Arm1
+    100002: Arm2
+    100004: Deadhand
+    100006: //RootNode
+    100008: DeadHandNull
+    100010: Hand
+    100012: Index1
+    100014: Index2
+    100016: Index3
+    100018: Index4
+    100020: locator1
+    100022: Middle1
+    100024: Middle2
+    100026: Middle3
+    100028: Middle4
+    100030: Pinky1
+    100032: Pinky2
+    100034: Pinky3
+    100036: Pinky4
+    100038: Ring1
+    100040: Ring2
+    100042: Ring3
+    100044: Ring4
+    100046: Thumb1
+    100048: Thumb2
+    100050: Thumb3
+    100052: Thumb4
+    400000: Arm1
+    400002: Arm2
+    400004: Deadhand
+    400006: //RootNode
+    400008: DeadHandNull
+    400010: Hand
+    400012: Index1
+    400014: Index2
+    400016: Index3
+    400018: Index4
+    400020: locator1
+    400022: Middle1
+    400024: Middle2
+    400026: Middle3
+    400028: Middle4
+    400030: Pinky1
+    400032: Pinky2
+    400034: Pinky3
+    400036: Pinky4
+    400038: Ring1
+    400040: Ring2
+    400042: Ring3
+    400044: Ring4
+    400046: Thumb1
+    400048: Thumb2
+    400050: Thumb3
+    400052: Thumb4
+    4300000: Deadhand
+    7400000: DemonArmRise
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Deadhand
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: DemonArmRise
+      takeName: Take 001
+      firstFrame: 9
+      lastFrame: 60
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Deadhand
+        weight: 1
+      - path: DeadHandNull
+        weight: 1
+      - path: DeadHandNull/Arm1
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Index1
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Index1/Index2
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Index1/Index2/Index3
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Index1/Index2/Index3/Index4
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/locator1
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Middle1
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Middle1/Middle2
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Middle1/Middle2/Middle3
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Middle1/Middle2/Middle3/Middle4
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Pinky1
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Pinky1/Pinky2
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Pinky1/Pinky2/Pinky3
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Pinky1/Pinky2/Pinky3/Pinky4
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Ring1
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Ring1/Ring2
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Ring1/Ring2/Ring3
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Ring1/Ring2/Ring3/Ring4
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Thumb1
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Thumb1/Thumb2
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Thumb1/Thumb2/Thumb3
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Thumb1/Thumb2/Thumb3/Thumb4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

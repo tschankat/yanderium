@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: 8690debca0586194ba0e376cd49d5184
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: katana.001
+    100002: katana.002
+    100004: katana3
+    100006: //RootNode
+    100008: KatanaCaseDoor
+    100010: KatanaCaseMesh
+    100012: polySurface17
+    100014: polySurface18
+    100016: polySurface19
+    100018: polySurface21
+    100020: polySurface9
+    100022: transform3
+    100024: transform4
+    100026: transform5
+    100028: transform6
+    100030: transform7
+    100032: transform8
+    400000: katana.001
+    400002: katana.002
+    400004: katana3
+    400006: //RootNode
+    400008: KatanaCaseDoor
+    400010: KatanaCaseMesh
+    400012: polySurface17
+    400014: polySurface18
+    400016: polySurface19
+    400018: polySurface21
+    400020: polySurface9
+    400022: transform3
+    400024: transform4
+    400026: transform5
+    400028: transform6
+    400030: transform7
+    400032: transform8
+    2300000: katana.001
+    2300002: katana.002
+    2300004: KatanaCaseDoor
+    2300006: KatanaCaseMesh
+    3300000: katana.001
+    3300002: katana.002
+    3300004: KatanaCaseDoor
+    3300006: KatanaCaseMesh
+    4300000: katana.002
+    4300002: katana.001
+    4300004: KatanaCaseDoor
+    4300006: KatanaCaseMesh
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

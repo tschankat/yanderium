@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 9b931f8e150267641b6eb22678f05cf3
+timeCreated: 1511083929
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ND_Foot_L
+    100002: ND_Foot_R
+    100004: ND_Hand_L
+    100006: ND_Hand_R
+    100008: ND_Head
+    100010: ND_LwrArm_L
+    100012: ND_LwrArm_R
+    100014: ND_LwrLeg_L
+    100016: ND_LwrLeg_R
+    100018: ND_Root1
+    100020: ND_TailJoint_1
+    100022: ND_TailJoint_2
+    100024: ND_TailJoint_3
+    100026: ND_TailJoint_Base
+    100028: ND_TailJoint_End
+    100030: ND_UprArm_L
+    100032: ND_UprArm_R
+    100034: ND_UprBody
+    100036: ND_UprLeg_L
+    100038: ND_UprLeg_R
+    100040: //RootNode
+    100042: polySurface15
+    400000: ND_Foot_L
+    400002: ND_Foot_R
+    400004: ND_Hand_L
+    400006: ND_Hand_R
+    400008: ND_Head
+    400010: ND_LwrArm_L
+    400012: ND_LwrArm_R
+    400014: ND_LwrLeg_L
+    400016: ND_LwrLeg_R
+    400018: ND_Root1
+    400020: ND_TailJoint_1
+    400022: ND_TailJoint_2
+    400024: ND_TailJoint_3
+    400026: ND_TailJoint_Base
+    400028: ND_TailJoint_End
+    400030: ND_UprArm_L
+    400032: ND_UprArm_R
+    400034: ND_UprBody
+    400036: ND_UprLeg_L
+    400038: ND_UprLeg_R
+    400040: //RootNode
+    400042: polySurface15
+    4300000: polySurface15
+    9500000: //RootNode
+    13700000: polySurface15
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

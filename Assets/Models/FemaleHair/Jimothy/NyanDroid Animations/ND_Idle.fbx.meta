@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: dcad10e0f817b374091bcfe6b8d48c57
+timeCreated: 1513477481
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ND_Foot_L
+    100002: ND_Foot_R
+    100004: ND_Hand_L
+    100006: ND_Hand_R
+    100008: ND_Head
+    100010: ND_Hip
+    100012: //RootNode
+    100014: ND_LwrArm_L
+    100016: ND_LwrArm_R
+    100018: ND_LwrLeg_L
+    100020: ND_LwrLeg_R
+    100022: ND_Root
+    100024: ND_TailJoint_1
+    100026: ND_TailJoint_2
+    100028: ND_TailJoint_3
+    100030: ND_TailJoint_Base
+    100032: ND_TailJoint_End
+    100034: ND_UprArm_L
+    100036: ND_UprArm_R
+    100038: ND_UprBody
+    100040: ND_UprLeg_L
+    100042: ND_UprLeg_R
+    400000: ND_Foot_L
+    400002: ND_Foot_R
+    400004: ND_Hand_L
+    400006: ND_Hand_R
+    400008: ND_Head
+    400010: ND_Hip
+    400012: //RootNode
+    400014: ND_LwrArm_L
+    400016: ND_LwrArm_R
+    400018: ND_LwrLeg_L
+    400020: ND_LwrLeg_R
+    400022: ND_Root
+    400024: ND_TailJoint_1
+    400026: ND_TailJoint_2
+    400028: ND_TailJoint_3
+    400030: ND_TailJoint_Base
+    400032: ND_TailJoint_End
+    400034: ND_UprArm_L
+    400036: ND_UprArm_R
+    400038: ND_UprBody
+    400040: ND_UprLeg_L
+    400042: ND_UprLeg_R
+    7400000: ND_Idle
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ND_Idle
+      takeName: ND_Idle_00
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ND_Root
+        weight: 1
+      - path: ND_Root/ND_Hip
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_TailJoint_Base
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_TailJoint_Base/ND_TailJoint_1
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_TailJoint_Base/ND_TailJoint_1/ND_TailJoint_2
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_TailJoint_Base/ND_TailJoint_1/ND_TailJoint_2/ND_TailJoint_3
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_TailJoint_Base/ND_TailJoint_1/ND_TailJoint_2/ND_TailJoint_3/ND_TailJoint_End
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_UprBody
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_UprBody/ND_Head
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_UprBody/ND_UprArm_L
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_UprBody/ND_UprArm_L/ND_LwrArm_L
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_UprBody/ND_UprArm_L/ND_LwrArm_L/ND_Hand_L
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_UprBody/ND_UprArm_R
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_UprBody/ND_UprArm_R/ND_LwrArm_R
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_UprBody/ND_UprArm_R/ND_LwrArm_R/ND_Hand_R
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_UprLeg_L
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_UprLeg_L/ND_LwrLeg_L
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_UprLeg_L/ND_LwrLeg_L/ND_Foot_L
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_UprLeg_R
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_UprLeg_R/ND_LwrLeg_R
+        weight: 1
+      - path: ND_Root/ND_Hip/ND_UprLeg_R/ND_LwrLeg_R/ND_Foot_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

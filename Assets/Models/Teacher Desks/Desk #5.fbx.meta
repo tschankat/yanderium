@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 488d20364c3e7644cbbe101c843e99f6
+timeCreated: 1433710011
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 'Book #1'
+    100002: 'Book #1.001'
+    100004: 'Book #1.002'
+    100006: 'Book #1.003'
+    100008: 'Book #1.004'
+    100010: 'Book #1.005'
+    100012: 'Book #1.006'
+    100014: 'Book #1.007'
+    100016: Chair.001
+    100018: Computer
+    100020: Cup
+    100022: //RootNode
+    100024: Hole Puncher
+    100026: Keyboard
+    100028: Lamp
+    100030: Monitor
+    100032: Mouse
+    100034: Mouse Pad
+    100036: Pen
+    100038: Pen.001
+    100040: Pen.002
+    100042: Pencil
+    100044: Pencil Cup
+    100046: Pencil.001
+    100048: Pencil.002
+    100050: Pencil.003
+    100052: Pencil.004
+    100054: Rubber
+    100056: Scissor
+    100058: Stapler
+    100060: Tape
+    400000: 'Book #1'
+    400002: 'Book #1.001'
+    400004: 'Book #1.002'
+    400006: 'Book #1.003'
+    400008: 'Book #1.004'
+    400010: 'Book #1.005'
+    400012: 'Book #1.006'
+    400014: 'Book #1.007'
+    400016: Chair.001
+    400018: Computer
+    400020: Cup
+    400022: //RootNode
+    400024: Hole Puncher
+    400026: Keyboard
+    400028: Lamp
+    400030: Monitor
+    400032: Mouse
+    400034: Mouse Pad
+    400036: Pen
+    400038: Pen.001
+    400040: Pen.002
+    400042: Pencil
+    400044: Pencil Cup
+    400046: Pencil.001
+    400048: Pencil.002
+    400050: Pencil.003
+    400052: Pencil.004
+    400054: Rubber
+    400056: Scissor
+    400058: Stapler
+    400060: Tape
+    2300000: 'Book #1'
+    2300002: 'Book #1.001'
+    2300004: 'Book #1.002'
+    2300006: 'Book #1.003'
+    2300008: 'Book #1.004'
+    2300010: 'Book #1.005'
+    2300012: 'Book #1.006'
+    2300014: 'Book #1.007'
+    2300016: Chair.001
+    2300018: Computer
+    2300020: Cup
+    2300022: //RootNode
+    2300024: Hole Puncher
+    2300026: Keyboard
+    2300028: Lamp
+    2300030: Monitor
+    2300032: Mouse
+    2300034: Mouse Pad
+    2300036: Pen
+    2300038: Pen.001
+    2300040: Pen.002
+    2300042: Pencil
+    2300044: Pencil Cup
+    2300046: Pencil.001
+    2300048: Pencil.002
+    2300050: Pencil.003
+    2300052: Pencil.004
+    2300054: Rubber
+    2300056: Scissor
+    2300058: Stapler
+    2300060: Tape
+    3300000: 'Book #1'
+    3300002: 'Book #1.001'
+    3300004: 'Book #1.002'
+    3300006: 'Book #1.003'
+    3300008: 'Book #1.004'
+    3300010: 'Book #1.005'
+    3300012: 'Book #1.006'
+    3300014: 'Book #1.007'
+    3300016: Chair.001
+    3300018: Computer
+    3300020: Cup
+    3300022: //RootNode
+    3300024: Hole Puncher
+    3300026: Keyboard
+    3300028: Lamp
+    3300030: Monitor
+    3300032: Mouse
+    3300034: Mouse Pad
+    3300036: Pen
+    3300038: Pen.001
+    3300040: Pen.002
+    3300042: Pencil
+    3300044: Pencil Cup
+    3300046: Pencil.001
+    3300048: Pencil.002
+    3300050: Pencil.003
+    3300052: Pencil.004
+    3300054: Rubber
+    3300056: Scissor
+    3300058: Stapler
+    3300060: Tape
+    4300000: Teacher Desk
+    4300002: Chair.001
+    4300004: Pen
+    4300006: Pen.001
+    4300008: Pen.002
+    4300010: Pencil.002
+    4300012: Pencil.001
+    4300014: Pencil
+    4300016: Pencil.004
+    4300018: Pencil.003
+    4300020: Scissor
+    4300022: Pencil Cup
+    4300024: Hole Puncher
+    4300026: Stapler
+    4300028: Lamp
+    4300030: Mouse Pad
+    4300032: Tape
+    4300034: Cup
+    4300036: 'Book #1.001'
+    4300038: 'Book #1'
+    4300040: 'Book #1.002'
+    4300042: 'Book #1.003'
+    4300044: 'Book #1.004'
+    4300046: 'Book #1.005'
+    4300048: 'Book #1.006'
+    4300050: 'Book #1.007'
+    4300052: Rubber
+    4300054: Monitor
+    4300056: Computer
+    4300058: Keyboard
+    4300060: Mouse
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

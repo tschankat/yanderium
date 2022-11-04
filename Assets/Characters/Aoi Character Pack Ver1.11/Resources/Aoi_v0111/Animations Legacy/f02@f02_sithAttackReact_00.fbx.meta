@@ -1,0 +1,1052 @@
+fileFormatVersion: 2
+guid: a1952ae6881a4c449882eb8c3ae853bd
+timeCreated: 1512694405
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: atama_n
+    100002: b_lip_center
+    100004: Back_skart1
+    100006: Back_skart2
+    100008: Back_skart3
+    100010: BackHair1
+    100012: BackHair2
+    100014: BackHair3
+    100016: BackHair4
+    100018: cheek_Left
+    100020: cheek_Right
+    100022: chin
+    100024: eye_Left
+    100026: eye_Right
+    100028: eyebrow_a_Left
+    100030: eyebrow_a_Right
+    100032: eyebrow_b_Left
+    100034: eyebrow_b_Right
+    100036: eyelid_und1_Left
+    100038: eyelid_und1_Right
+    100040: eyelid_und2_Left
+    100042: eyelid_und2_Right
+    100044: eyelid_und_Left
+    100046: eyelid_und_Right
+    100048: eyerid1_Left
+    100050: eyerid1_Right
+    100052: eyerid2_Left
+    100054: eyerid2_Right
+    100056: eyerid_Left
+    100058: eyerid_Right
+    100060: //RootNode
+    100062: f02_schoolwear_210_h
+    100064: face
+    100066: Front_skart1
+    100068: Front_skart2
+    100070: Front_skart3
+    100072: FrontHair
+    100074: Glasses_Null
+    100076: Head
+    100078: Head_null
+    100080: Hips
+    100082: inner_corner_of_eye_Left
+    100084: inner_corner_of_eye_Right
+    100086: jaw
+    100088: Left_skart1
+    100090: Left_skart2
+    100092: Left_skart3
+    100094: LeftArm
+    100096: LeftArmRoll
+    100098: LeftBreast
+    100100: LeftEarring_Null
+    100102: LeftFoot
+    100104: LeftForeArm
+    100106: LeftForeArm_Helper
+    100108: LeftForeArmRoll
+    100110: LeftHair1
+    100112: LeftHair2
+    100114: LeftHair3
+    100116: LeftHand
+    100118: LeftHandIndex1
+    100120: LeftHandIndex2
+    100122: LeftHandIndex3
+    100124: LeftHandIndexNull
+    100126: LeftHanditem_Null
+    100128: LeftHandMiddle1
+    100130: LeftHandMiddle2
+    100132: LeftHandMiddle3
+    100134: LeftHandMiddleNull
+    100136: LeftHandPinky1
+    100138: LeftHandPinky2
+    100140: LeftHandPinky3
+    100142: LeftHandPinkyNull
+    100144: LeftHandRing1
+    100146: LeftHandRing2
+    100148: LeftHandRing3
+    100150: LeftHandRingNull
+    100152: LeftHandThumb1
+    100154: LeftHandThumb2
+    100156: LeftHandThumb3
+    100158: LeftHandThumbNull
+    100160: LeftHip_Helper
+    100162: LeftLeg
+    100164: LeftLeg_Helper
+    100166: LeftNipple
+    100168: LeftShoulder
+    100170: LeftToes
+    100172: LeftToesNull
+    100174: LeftUpLeg
+    100176: lip_Left
+    100178: lip_Right
+    100180: lip_t_Left
+    100182: lip_t_Right
+    100184: lip_top_Left
+    100186: lip_top_Right
+    100188: lip_u_Left
+    100190: lip_u_Right
+    100192: mayu
+    100194: Neck
+    100196: nose
+    100198: nostrir_Left
+    100200: nostrir_Right
+    100202: PelvisRoot
+    100204: Right_skart1
+    100206: Right_skart2
+    100208: Right_skart3
+    100210: RightArm
+    100212: RightArmRoll
+    100214: RightBreast
+    100216: RightEarring_Null
+    100218: RightFoot
+    100220: RightForeArm
+    100222: RightForeArm_Helper
+    100224: RightForeArmRoll
+    100226: RightHair1
+    100228: RightHair2
+    100230: RightHair3
+    100232: RightHand
+    100234: RightHandIndex1
+    100236: RightHandIndex2
+    100238: RightHandIndex3
+    100240: RightHandIndexNull
+    100242: RightHanditem_Null
+    100244: RightHandMiddle1
+    100246: RightHandMiddle2
+    100248: RightHandMiddle3
+    100250: RightHandMiddleNull
+    100252: RightHandPinky1
+    100254: RightHandPinky2
+    100256: RightHandPinky3
+    100258: RightHandPinkyNull
+    100260: RightHandRing1
+    100262: RightHandRing2
+    100264: RightHandRing3
+    100266: RightHandRingNull
+    100268: RightHandThumb1
+    100270: RightHandThumb2
+    100272: RightHandThumb3
+    100274: RightHandThumbNull
+    100276: RightHip_Helper
+    100278: RightLeg
+    100280: RightLeg_Helper
+    100282: RightNipple
+    100284: RightShoulder
+    100286: RightToes
+    100288: RightToesNull
+    100290: RightUpLeg
+    100292: rip_btm_Left
+    100294: rip_btm_Right
+    100296: Spine
+    100298: Spine1
+    100300: Spine2
+    100302: Spine3
+    100304: tail_of_eye_Left
+    100306: tail_of_eye_Right
+    100308: temple_Left
+    100310: temple_Right
+    100312: u_lip_center
+    100314: double_sword_victim_hit_reaction2:atama_n
+    100316: double_sword_victim_hit_reaction2:b_lip_center
+    100318: double_sword_victim_hit_reaction2:Back_skart1
+    100320: double_sword_victim_hit_reaction2:Back_skart2
+    100322: double_sword_victim_hit_reaction2:Back_skart3
+    100324: double_sword_victim_hit_reaction2:BackHair1
+    100326: double_sword_victim_hit_reaction2:BackHair2
+    100328: double_sword_victim_hit_reaction2:BackHair3
+    100330: double_sword_victim_hit_reaction2:BackHair4
+    100332: double_sword_victim_hit_reaction2:cheek_Left
+    100334: double_sword_victim_hit_reaction2:cheek_Right
+    100336: double_sword_victim_hit_reaction2:chin
+    100338: double_sword_victim_hit_reaction2:eye_Left
+    100340: double_sword_victim_hit_reaction2:eye_Right
+    100342: double_sword_victim_hit_reaction2:eyebrow_a_Left
+    100344: double_sword_victim_hit_reaction2:eyebrow_a_Right
+    100346: double_sword_victim_hit_reaction2:eyebrow_b_Left
+    100348: double_sword_victim_hit_reaction2:eyebrow_b_Right
+    100350: double_sword_victim_hit_reaction2:eyelid_und1_Left
+    100352: double_sword_victim_hit_reaction2:eyelid_und1_Right
+    100354: double_sword_victim_hit_reaction2:eyelid_und2_Left
+    100356: double_sword_victim_hit_reaction2:eyelid_und2_Right
+    100358: double_sword_victim_hit_reaction2:eyelid_und_Left
+    100360: double_sword_victim_hit_reaction2:eyelid_und_Right
+    100362: double_sword_victim_hit_reaction2:eyerid1_Left
+    100364: double_sword_victim_hit_reaction2:eyerid1_Right
+    100366: double_sword_victim_hit_reaction2:eyerid2_Left
+    100368: double_sword_victim_hit_reaction2:eyerid2_Right
+    100370: double_sword_victim_hit_reaction2:eyerid_Left
+    100372: double_sword_victim_hit_reaction2:eyerid_Right
+    100374: double_sword_victim_hit_reaction2:f02_schoolwear_210_h
+    100376: double_sword_victim_hit_reaction2:face
+    100378: double_sword_victim_hit_reaction2:Front_skart1
+    100380: double_sword_victim_hit_reaction2:Front_skart2
+    100382: double_sword_victim_hit_reaction2:Front_skart3
+    100384: double_sword_victim_hit_reaction2:FrontHair
+    100386: double_sword_victim_hit_reaction2:Glasses_Null
+    100388: double_sword_victim_hit_reaction2:Head
+    100390: double_sword_victim_hit_reaction2:Head_null
+    100392: double_sword_victim_hit_reaction2:Hips
+    100394: double_sword_victim_hit_reaction2:inner_corner_of_eye_Left
+    100396: double_sword_victim_hit_reaction2:inner_corner_of_eye_Right
+    100398: double_sword_victim_hit_reaction2:jaw
+    100400: double_sword_victim_hit_reaction2:Left_skart1
+    100402: double_sword_victim_hit_reaction2:Left_skart2
+    100404: double_sword_victim_hit_reaction2:Left_skart3
+    100406: double_sword_victim_hit_reaction2:LeftArm
+    100408: double_sword_victim_hit_reaction2:LeftArmRoll
+    100410: double_sword_victim_hit_reaction2:LeftBreast
+    100412: double_sword_victim_hit_reaction2:LeftEarring_Null
+    100414: double_sword_victim_hit_reaction2:LeftFoot
+    100416: double_sword_victim_hit_reaction2:LeftForeArm
+    100418: double_sword_victim_hit_reaction2:LeftForeArm_Helper
+    100420: double_sword_victim_hit_reaction2:LeftForeArmRoll
+    100422: double_sword_victim_hit_reaction2:LeftHair1
+    100424: double_sword_victim_hit_reaction2:LeftHair2
+    100426: double_sword_victim_hit_reaction2:LeftHair3
+    100428: double_sword_victim_hit_reaction2:LeftHand
+    100430: double_sword_victim_hit_reaction2:LeftHandIndex1
+    100432: double_sword_victim_hit_reaction2:LeftHandIndex2
+    100434: double_sword_victim_hit_reaction2:LeftHandIndex3
+    100436: double_sword_victim_hit_reaction2:LeftHandIndexNull
+    100438: double_sword_victim_hit_reaction2:LeftHanditem_Null
+    100440: double_sword_victim_hit_reaction2:LeftHandMiddle1
+    100442: double_sword_victim_hit_reaction2:LeftHandMiddle2
+    100444: double_sword_victim_hit_reaction2:LeftHandMiddle3
+    100446: double_sword_victim_hit_reaction2:LeftHandMiddleNull
+    100448: double_sword_victim_hit_reaction2:LeftHandPinky1
+    100450: double_sword_victim_hit_reaction2:LeftHandPinky2
+    100452: double_sword_victim_hit_reaction2:LeftHandPinky3
+    100454: double_sword_victim_hit_reaction2:LeftHandPinkyNull
+    100456: double_sword_victim_hit_reaction2:LeftHandRing1
+    100458: double_sword_victim_hit_reaction2:LeftHandRing2
+    100460: double_sword_victim_hit_reaction2:LeftHandRing3
+    100462: double_sword_victim_hit_reaction2:LeftHandRingNull
+    100464: double_sword_victim_hit_reaction2:LeftHandThumb1
+    100466: double_sword_victim_hit_reaction2:LeftHandThumb2
+    100468: double_sword_victim_hit_reaction2:LeftHandThumb3
+    100470: double_sword_victim_hit_reaction2:LeftHandThumbNull
+    100472: double_sword_victim_hit_reaction2:LeftHip_Helper
+    100474: double_sword_victim_hit_reaction2:LeftLeg
+    100476: double_sword_victim_hit_reaction2:LeftLeg_Helper
+    100478: double_sword_victim_hit_reaction2:LeftNipple
+    100480: double_sword_victim_hit_reaction2:LeftShoulder
+    100482: double_sword_victim_hit_reaction2:LeftToes
+    100484: double_sword_victim_hit_reaction2:LeftToesNull
+    100486: double_sword_victim_hit_reaction2:LeftUpLeg
+    100488: double_sword_victim_hit_reaction2:lip_Left
+    100490: double_sword_victim_hit_reaction2:lip_Right
+    100492: double_sword_victim_hit_reaction2:lip_t_Left
+    100494: double_sword_victim_hit_reaction2:lip_t_Right
+    100496: double_sword_victim_hit_reaction2:lip_top_Left
+    100498: double_sword_victim_hit_reaction2:lip_top_Right
+    100500: double_sword_victim_hit_reaction2:lip_u_Left
+    100502: double_sword_victim_hit_reaction2:lip_u_Right
+    100504: double_sword_victim_hit_reaction2:mayu
+    100506: double_sword_victim_hit_reaction2:Neck
+    100508: double_sword_victim_hit_reaction2:nose
+    100510: double_sword_victim_hit_reaction2:nostrir_Left
+    100512: double_sword_victim_hit_reaction2:nostrir_Right
+    100514: double_sword_victim_hit_reaction2:PelvisRoot
+    100516: double_sword_victim_hit_reaction2:Right_skart1
+    100518: double_sword_victim_hit_reaction2:Right_skart2
+    100520: double_sword_victim_hit_reaction2:Right_skart3
+    100522: double_sword_victim_hit_reaction2:RightArm
+    100524: double_sword_victim_hit_reaction2:RightArmRoll
+    100526: double_sword_victim_hit_reaction2:RightBreast
+    100528: double_sword_victim_hit_reaction2:RightEarring_Null
+    100530: double_sword_victim_hit_reaction2:RightFoot
+    100532: double_sword_victim_hit_reaction2:RightForeArm
+    100534: double_sword_victim_hit_reaction2:RightForeArm_Helper
+    100536: double_sword_victim_hit_reaction2:RightForeArmRoll
+    100538: double_sword_victim_hit_reaction2:RightHair1
+    100540: double_sword_victim_hit_reaction2:RightHair2
+    100542: double_sword_victim_hit_reaction2:RightHair3
+    100544: double_sword_victim_hit_reaction2:RightHand
+    100546: double_sword_victim_hit_reaction2:RightHandIndex1
+    100548: double_sword_victim_hit_reaction2:RightHandIndex2
+    100550: double_sword_victim_hit_reaction2:RightHandIndex3
+    100552: double_sword_victim_hit_reaction2:RightHandIndexNull
+    100554: double_sword_victim_hit_reaction2:RightHanditem_Null
+    100556: double_sword_victim_hit_reaction2:RightHandMiddle1
+    100558: double_sword_victim_hit_reaction2:RightHandMiddle2
+    100560: double_sword_victim_hit_reaction2:RightHandMiddle3
+    100562: double_sword_victim_hit_reaction2:RightHandMiddleNull
+    100564: double_sword_victim_hit_reaction2:RightHandPinky1
+    100566: double_sword_victim_hit_reaction2:RightHandPinky2
+    100568: double_sword_victim_hit_reaction2:RightHandPinky3
+    100570: double_sword_victim_hit_reaction2:RightHandPinkyNull
+    100572: double_sword_victim_hit_reaction2:RightHandRing1
+    100574: double_sword_victim_hit_reaction2:RightHandRing2
+    100576: double_sword_victim_hit_reaction2:RightHandRing3
+    100578: double_sword_victim_hit_reaction2:RightHandRingNull
+    100580: double_sword_victim_hit_reaction2:RightHandThumb1
+    100582: double_sword_victim_hit_reaction2:RightHandThumb2
+    100584: double_sword_victim_hit_reaction2:RightHandThumb3
+    100586: double_sword_victim_hit_reaction2:RightHandThumbNull
+    100588: double_sword_victim_hit_reaction2:RightHip_Helper
+    100590: double_sword_victim_hit_reaction2:RightLeg
+    100592: double_sword_victim_hit_reaction2:RightLeg_Helper
+    100594: double_sword_victim_hit_reaction2:RightNipple
+    100596: double_sword_victim_hit_reaction2:RightShoulder
+    100598: double_sword_victim_hit_reaction2:RightToes
+    100600: double_sword_victim_hit_reaction2:RightToesNull
+    100602: double_sword_victim_hit_reaction2:RightUpLeg
+    100604: double_sword_victim_hit_reaction2:rip_btm_Left
+    100606: double_sword_victim_hit_reaction2:rip_btm_Right
+    100608: double_sword_victim_hit_reaction2:Spine
+    100610: double_sword_victim_hit_reaction2:Spine1
+    100612: double_sword_victim_hit_reaction2:Spine2
+    100614: double_sword_victim_hit_reaction2:Spine3
+    100616: double_sword_victim_hit_reaction2:tail_of_eye_Left
+    100618: double_sword_victim_hit_reaction2:tail_of_eye_Right
+    100620: double_sword_victim_hit_reaction2:temple_Left
+    100622: double_sword_victim_hit_reaction2:temple_Right
+    100624: double_sword_victim_hit_reaction2:u_lip_center
+    400000: atama_n
+    400002: b_lip_center
+    400004: Back_skart1
+    400006: Back_skart2
+    400008: Back_skart3
+    400010: BackHair1
+    400012: BackHair2
+    400014: BackHair3
+    400016: BackHair4
+    400018: cheek_Left
+    400020: cheek_Right
+    400022: chin
+    400024: eye_Left
+    400026: eye_Right
+    400028: eyebrow_a_Left
+    400030: eyebrow_a_Right
+    400032: eyebrow_b_Left
+    400034: eyebrow_b_Right
+    400036: eyelid_und1_Left
+    400038: eyelid_und1_Right
+    400040: eyelid_und2_Left
+    400042: eyelid_und2_Right
+    400044: eyelid_und_Left
+    400046: eyelid_und_Right
+    400048: eyerid1_Left
+    400050: eyerid1_Right
+    400052: eyerid2_Left
+    400054: eyerid2_Right
+    400056: eyerid_Left
+    400058: eyerid_Right
+    400060: //RootNode
+    400062: f02_schoolwear_210_h
+    400064: face
+    400066: Front_skart1
+    400068: Front_skart2
+    400070: Front_skart3
+    400072: FrontHair
+    400074: Glasses_Null
+    400076: Head
+    400078: Head_null
+    400080: Hips
+    400082: inner_corner_of_eye_Left
+    400084: inner_corner_of_eye_Right
+    400086: jaw
+    400088: Left_skart1
+    400090: Left_skart2
+    400092: Left_skart3
+    400094: LeftArm
+    400096: LeftArmRoll
+    400098: LeftBreast
+    400100: LeftEarring_Null
+    400102: LeftFoot
+    400104: LeftForeArm
+    400106: LeftForeArm_Helper
+    400108: LeftForeArmRoll
+    400110: LeftHair1
+    400112: LeftHair2
+    400114: LeftHair3
+    400116: LeftHand
+    400118: LeftHandIndex1
+    400120: LeftHandIndex2
+    400122: LeftHandIndex3
+    400124: LeftHandIndexNull
+    400126: LeftHanditem_Null
+    400128: LeftHandMiddle1
+    400130: LeftHandMiddle2
+    400132: LeftHandMiddle3
+    400134: LeftHandMiddleNull
+    400136: LeftHandPinky1
+    400138: LeftHandPinky2
+    400140: LeftHandPinky3
+    400142: LeftHandPinkyNull
+    400144: LeftHandRing1
+    400146: LeftHandRing2
+    400148: LeftHandRing3
+    400150: LeftHandRingNull
+    400152: LeftHandThumb1
+    400154: LeftHandThumb2
+    400156: LeftHandThumb3
+    400158: LeftHandThumbNull
+    400160: LeftHip_Helper
+    400162: LeftLeg
+    400164: LeftLeg_Helper
+    400166: LeftNipple
+    400168: LeftShoulder
+    400170: LeftToes
+    400172: LeftToesNull
+    400174: LeftUpLeg
+    400176: lip_Left
+    400178: lip_Right
+    400180: lip_t_Left
+    400182: lip_t_Right
+    400184: lip_top_Left
+    400186: lip_top_Right
+    400188: lip_u_Left
+    400190: lip_u_Right
+    400192: mayu
+    400194: Neck
+    400196: nose
+    400198: nostrir_Left
+    400200: nostrir_Right
+    400202: PelvisRoot
+    400204: Right_skart1
+    400206: Right_skart2
+    400208: Right_skart3
+    400210: RightArm
+    400212: RightArmRoll
+    400214: RightBreast
+    400216: RightEarring_Null
+    400218: RightFoot
+    400220: RightForeArm
+    400222: RightForeArm_Helper
+    400224: RightForeArmRoll
+    400226: RightHair1
+    400228: RightHair2
+    400230: RightHair3
+    400232: RightHand
+    400234: RightHandIndex1
+    400236: RightHandIndex2
+    400238: RightHandIndex3
+    400240: RightHandIndexNull
+    400242: RightHanditem_Null
+    400244: RightHandMiddle1
+    400246: RightHandMiddle2
+    400248: RightHandMiddle3
+    400250: RightHandMiddleNull
+    400252: RightHandPinky1
+    400254: RightHandPinky2
+    400256: RightHandPinky3
+    400258: RightHandPinkyNull
+    400260: RightHandRing1
+    400262: RightHandRing2
+    400264: RightHandRing3
+    400266: RightHandRingNull
+    400268: RightHandThumb1
+    400270: RightHandThumb2
+    400272: RightHandThumb3
+    400274: RightHandThumbNull
+    400276: RightHip_Helper
+    400278: RightLeg
+    400280: RightLeg_Helper
+    400282: RightNipple
+    400284: RightShoulder
+    400286: RightToes
+    400288: RightToesNull
+    400290: RightUpLeg
+    400292: rip_btm_Left
+    400294: rip_btm_Right
+    400296: Spine
+    400298: Spine1
+    400300: Spine2
+    400302: Spine3
+    400304: tail_of_eye_Left
+    400306: tail_of_eye_Right
+    400308: temple_Left
+    400310: temple_Right
+    400312: u_lip_center
+    400314: double_sword_victim_hit_reaction2:atama_n
+    400316: double_sword_victim_hit_reaction2:b_lip_center
+    400318: double_sword_victim_hit_reaction2:Back_skart1
+    400320: double_sword_victim_hit_reaction2:Back_skart2
+    400322: double_sword_victim_hit_reaction2:Back_skart3
+    400324: double_sword_victim_hit_reaction2:BackHair1
+    400326: double_sword_victim_hit_reaction2:BackHair2
+    400328: double_sword_victim_hit_reaction2:BackHair3
+    400330: double_sword_victim_hit_reaction2:BackHair4
+    400332: double_sword_victim_hit_reaction2:cheek_Left
+    400334: double_sword_victim_hit_reaction2:cheek_Right
+    400336: double_sword_victim_hit_reaction2:chin
+    400338: double_sword_victim_hit_reaction2:eye_Left
+    400340: double_sword_victim_hit_reaction2:eye_Right
+    400342: double_sword_victim_hit_reaction2:eyebrow_a_Left
+    400344: double_sword_victim_hit_reaction2:eyebrow_a_Right
+    400346: double_sword_victim_hit_reaction2:eyebrow_b_Left
+    400348: double_sword_victim_hit_reaction2:eyebrow_b_Right
+    400350: double_sword_victim_hit_reaction2:eyelid_und1_Left
+    400352: double_sword_victim_hit_reaction2:eyelid_und1_Right
+    400354: double_sword_victim_hit_reaction2:eyelid_und2_Left
+    400356: double_sword_victim_hit_reaction2:eyelid_und2_Right
+    400358: double_sword_victim_hit_reaction2:eyelid_und_Left
+    400360: double_sword_victim_hit_reaction2:eyelid_und_Right
+    400362: double_sword_victim_hit_reaction2:eyerid1_Left
+    400364: double_sword_victim_hit_reaction2:eyerid1_Right
+    400366: double_sword_victim_hit_reaction2:eyerid2_Left
+    400368: double_sword_victim_hit_reaction2:eyerid2_Right
+    400370: double_sword_victim_hit_reaction2:eyerid_Left
+    400372: double_sword_victim_hit_reaction2:eyerid_Right
+    400374: double_sword_victim_hit_reaction2:f02_schoolwear_210_h
+    400376: double_sword_victim_hit_reaction2:face
+    400378: double_sword_victim_hit_reaction2:Front_skart1
+    400380: double_sword_victim_hit_reaction2:Front_skart2
+    400382: double_sword_victim_hit_reaction2:Front_skart3
+    400384: double_sword_victim_hit_reaction2:FrontHair
+    400386: double_sword_victim_hit_reaction2:Glasses_Null
+    400388: double_sword_victim_hit_reaction2:Head
+    400390: double_sword_victim_hit_reaction2:Head_null
+    400392: double_sword_victim_hit_reaction2:Hips
+    400394: double_sword_victim_hit_reaction2:inner_corner_of_eye_Left
+    400396: double_sword_victim_hit_reaction2:inner_corner_of_eye_Right
+    400398: double_sword_victim_hit_reaction2:jaw
+    400400: double_sword_victim_hit_reaction2:Left_skart1
+    400402: double_sword_victim_hit_reaction2:Left_skart2
+    400404: double_sword_victim_hit_reaction2:Left_skart3
+    400406: double_sword_victim_hit_reaction2:LeftArm
+    400408: double_sword_victim_hit_reaction2:LeftArmRoll
+    400410: double_sword_victim_hit_reaction2:LeftBreast
+    400412: double_sword_victim_hit_reaction2:LeftEarring_Null
+    400414: double_sword_victim_hit_reaction2:LeftFoot
+    400416: double_sword_victim_hit_reaction2:LeftForeArm
+    400418: double_sword_victim_hit_reaction2:LeftForeArm_Helper
+    400420: double_sword_victim_hit_reaction2:LeftForeArmRoll
+    400422: double_sword_victim_hit_reaction2:LeftHair1
+    400424: double_sword_victim_hit_reaction2:LeftHair2
+    400426: double_sword_victim_hit_reaction2:LeftHair3
+    400428: double_sword_victim_hit_reaction2:LeftHand
+    400430: double_sword_victim_hit_reaction2:LeftHandIndex1
+    400432: double_sword_victim_hit_reaction2:LeftHandIndex2
+    400434: double_sword_victim_hit_reaction2:LeftHandIndex3
+    400436: double_sword_victim_hit_reaction2:LeftHandIndexNull
+    400438: double_sword_victim_hit_reaction2:LeftHanditem_Null
+    400440: double_sword_victim_hit_reaction2:LeftHandMiddle1
+    400442: double_sword_victim_hit_reaction2:LeftHandMiddle2
+    400444: double_sword_victim_hit_reaction2:LeftHandMiddle3
+    400446: double_sword_victim_hit_reaction2:LeftHandMiddleNull
+    400448: double_sword_victim_hit_reaction2:LeftHandPinky1
+    400450: double_sword_victim_hit_reaction2:LeftHandPinky2
+    400452: double_sword_victim_hit_reaction2:LeftHandPinky3
+    400454: double_sword_victim_hit_reaction2:LeftHandPinkyNull
+    400456: double_sword_victim_hit_reaction2:LeftHandRing1
+    400458: double_sword_victim_hit_reaction2:LeftHandRing2
+    400460: double_sword_victim_hit_reaction2:LeftHandRing3
+    400462: double_sword_victim_hit_reaction2:LeftHandRingNull
+    400464: double_sword_victim_hit_reaction2:LeftHandThumb1
+    400466: double_sword_victim_hit_reaction2:LeftHandThumb2
+    400468: double_sword_victim_hit_reaction2:LeftHandThumb3
+    400470: double_sword_victim_hit_reaction2:LeftHandThumbNull
+    400472: double_sword_victim_hit_reaction2:LeftHip_Helper
+    400474: double_sword_victim_hit_reaction2:LeftLeg
+    400476: double_sword_victim_hit_reaction2:LeftLeg_Helper
+    400478: double_sword_victim_hit_reaction2:LeftNipple
+    400480: double_sword_victim_hit_reaction2:LeftShoulder
+    400482: double_sword_victim_hit_reaction2:LeftToes
+    400484: double_sword_victim_hit_reaction2:LeftToesNull
+    400486: double_sword_victim_hit_reaction2:LeftUpLeg
+    400488: double_sword_victim_hit_reaction2:lip_Left
+    400490: double_sword_victim_hit_reaction2:lip_Right
+    400492: double_sword_victim_hit_reaction2:lip_t_Left
+    400494: double_sword_victim_hit_reaction2:lip_t_Right
+    400496: double_sword_victim_hit_reaction2:lip_top_Left
+    400498: double_sword_victim_hit_reaction2:lip_top_Right
+    400500: double_sword_victim_hit_reaction2:lip_u_Left
+    400502: double_sword_victim_hit_reaction2:lip_u_Right
+    400504: double_sword_victim_hit_reaction2:mayu
+    400506: double_sword_victim_hit_reaction2:Neck
+    400508: double_sword_victim_hit_reaction2:nose
+    400510: double_sword_victim_hit_reaction2:nostrir_Left
+    400512: double_sword_victim_hit_reaction2:nostrir_Right
+    400514: double_sword_victim_hit_reaction2:PelvisRoot
+    400516: double_sword_victim_hit_reaction2:Right_skart1
+    400518: double_sword_victim_hit_reaction2:Right_skart2
+    400520: double_sword_victim_hit_reaction2:Right_skart3
+    400522: double_sword_victim_hit_reaction2:RightArm
+    400524: double_sword_victim_hit_reaction2:RightArmRoll
+    400526: double_sword_victim_hit_reaction2:RightBreast
+    400528: double_sword_victim_hit_reaction2:RightEarring_Null
+    400530: double_sword_victim_hit_reaction2:RightFoot
+    400532: double_sword_victim_hit_reaction2:RightForeArm
+    400534: double_sword_victim_hit_reaction2:RightForeArm_Helper
+    400536: double_sword_victim_hit_reaction2:RightForeArmRoll
+    400538: double_sword_victim_hit_reaction2:RightHair1
+    400540: double_sword_victim_hit_reaction2:RightHair2
+    400542: double_sword_victim_hit_reaction2:RightHair3
+    400544: double_sword_victim_hit_reaction2:RightHand
+    400546: double_sword_victim_hit_reaction2:RightHandIndex1
+    400548: double_sword_victim_hit_reaction2:RightHandIndex2
+    400550: double_sword_victim_hit_reaction2:RightHandIndex3
+    400552: double_sword_victim_hit_reaction2:RightHandIndexNull
+    400554: double_sword_victim_hit_reaction2:RightHanditem_Null
+    400556: double_sword_victim_hit_reaction2:RightHandMiddle1
+    400558: double_sword_victim_hit_reaction2:RightHandMiddle2
+    400560: double_sword_victim_hit_reaction2:RightHandMiddle3
+    400562: double_sword_victim_hit_reaction2:RightHandMiddleNull
+    400564: double_sword_victim_hit_reaction2:RightHandPinky1
+    400566: double_sword_victim_hit_reaction2:RightHandPinky2
+    400568: double_sword_victim_hit_reaction2:RightHandPinky3
+    400570: double_sword_victim_hit_reaction2:RightHandPinkyNull
+    400572: double_sword_victim_hit_reaction2:RightHandRing1
+    400574: double_sword_victim_hit_reaction2:RightHandRing2
+    400576: double_sword_victim_hit_reaction2:RightHandRing3
+    400578: double_sword_victim_hit_reaction2:RightHandRingNull
+    400580: double_sword_victim_hit_reaction2:RightHandThumb1
+    400582: double_sword_victim_hit_reaction2:RightHandThumb2
+    400584: double_sword_victim_hit_reaction2:RightHandThumb3
+    400586: double_sword_victim_hit_reaction2:RightHandThumbNull
+    400588: double_sword_victim_hit_reaction2:RightHip_Helper
+    400590: double_sword_victim_hit_reaction2:RightLeg
+    400592: double_sword_victim_hit_reaction2:RightLeg_Helper
+    400594: double_sword_victim_hit_reaction2:RightNipple
+    400596: double_sword_victim_hit_reaction2:RightShoulder
+    400598: double_sword_victim_hit_reaction2:RightToes
+    400600: double_sword_victim_hit_reaction2:RightToesNull
+    400602: double_sword_victim_hit_reaction2:RightUpLeg
+    400604: double_sword_victim_hit_reaction2:rip_btm_Left
+    400606: double_sword_victim_hit_reaction2:rip_btm_Right
+    400608: double_sword_victim_hit_reaction2:Spine
+    400610: double_sword_victim_hit_reaction2:Spine1
+    400612: double_sword_victim_hit_reaction2:Spine2
+    400614: double_sword_victim_hit_reaction2:Spine3
+    400616: double_sword_victim_hit_reaction2:tail_of_eye_Left
+    400618: double_sword_victim_hit_reaction2:tail_of_eye_Right
+    400620: double_sword_victim_hit_reaction2:temple_Left
+    400622: double_sword_victim_hit_reaction2:temple_Right
+    400624: double_sword_victim_hit_reaction2:u_lip_center
+    4300000: f02_schoolwear_210_h
+    4300002: double_sword_victim_hit_reaction2:f02_schoolwear_210_h
+    7400000: f02_sithAttackReact_00
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: f02_schoolwear_210_h
+    13700002: double_sword_victim_hit_reaction2:f02_schoolwear_210_h
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: f02_sithAttackReact_00
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 22
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: f02_schoolwear_210_h
+        weight: 1
+      - path: PelvisRoot
+        weight: 1
+      - path: PelvisRoot/Hips
+        weight: 1
+      - path: PelvisRoot/Hips/Back_skart1
+        weight: 1
+      - path: PelvisRoot/Hips/Back_skart1/Back_skart2
+        weight: 1
+      - path: PelvisRoot/Hips/Back_skart1/Back_skart2/Back_skart3
+        weight: 1
+      - path: PelvisRoot/Hips/Front_skart1
+        weight: 1
+      - path: PelvisRoot/Hips/Front_skart1/Front_skart2
+        weight: 1
+      - path: PelvisRoot/Hips/Front_skart1/Front_skart2/Front_skart3
+        weight: 1
+      - path: PelvisRoot/Hips/Left_skart1
+        weight: 1
+      - path: PelvisRoot/Hips/Left_skart1/Left_skart2
+        weight: 1
+      - path: PelvisRoot/Hips/Left_skart1/Left_skart2/Left_skart3
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg/LeftHip_Helper
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToes
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToes/LeftToesNull
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg/LeftLeg_Helper
+        weight: 1
+      - path: PelvisRoot/Hips/Right_skart1
+        weight: 1
+      - path: PelvisRoot/Hips/Right_skart1/Right_skart2
+        weight: 1
+      - path: PelvisRoot/Hips/Right_skart1/Right_skart2/Right_skart3
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg/RightHip_Helper
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg/RightLeg/RightFoot/RightToes
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg/RightLeg/RightFoot/RightToes/RightToesNull
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg/RightLeg/RightLeg_Helper
+        weight: 1
+      - path: PelvisRoot/Hips/Spine
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftBreast
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftBreast/LeftNipple
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArm_Helper
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandIndex1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandIndex1/LeftHandIndex2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3/LeftHandIndexNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHanditem_Null
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandMiddle1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandMiddle1/LeftHandMiddle2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3/LeftHandMiddleNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandPinky1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandPinky1/LeftHandPinky2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3/LeftHandPinkyNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandRing1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandRing1/LeftHandRing2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3/LeftHandRingNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandThumb1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandThumb1/LeftHandThumb2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3/LeftHandThumbNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/cheek_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/cheek_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eye_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eye_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyelid_und1_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyelid_und1_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyelid_und2_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyelid_und2_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyelid_und_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyelid_und_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid1_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid1_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid2_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid2_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/inner_corner_of_eye_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/inner_corner_of_eye_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/b_lip_center
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/chin
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/lip_u_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/lip_u_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/rip_btm_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/rip_btm_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/lip_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/lip_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/lip_t_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/lip_t_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu/eyebrow_a_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu/eyebrow_a_Left/eyebrow_b_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu/eyebrow_a_Left/eyebrow_b_Left/temple_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu/eyebrow_a_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu/eyebrow_a_Right/eyebrow_b_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu/eyebrow_a_Right/eyebrow_b_Right/temple_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/nose
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/nose/nostrir_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/nose/nostrir_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/tail_of_eye_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/tail_of_eye_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/u_lip_center
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/u_lip_center/lip_top_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/u_lip_center/lip_top_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Glasses_Null
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/BackHair1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/BackHair1/BackHair2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/BackHair1/BackHair2/BackHair3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/BackHair1/BackHair2/BackHair3/BackHair4
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/FrontHair
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/LeftHair1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/LeftHair1/LeftHair2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/LeftHair1/LeftHair2/LeftHair3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/RightHair1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/RightHair1/RightHair2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/RightHair1/RightHair2/RightHair3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/LeftEarring_Null
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/RightEarring_Null
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightBreast
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightBreast/RightNipple
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArm_Helper
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandIndex1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandIndex1/RightHandIndex2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3/RightHandIndexNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHanditem_Null
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandMiddle1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandMiddle1/RightHandMiddle2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3/RightHandMiddleNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandPinky1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandPinky1/RightHandPinky2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandPinky1/RightHandPinky2/RightHandPinky3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandPinky1/RightHandPinky2/RightHandPinky3/RightHandPinkyNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandRing1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandRing1/RightHandRing2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandRing1/RightHandRing2/RightHandRing3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandRing1/RightHandRing2/RightHandRing3/RightHandRingNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandThumb1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandThumb1/RightHandThumb2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3/RightHandThumbNull
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

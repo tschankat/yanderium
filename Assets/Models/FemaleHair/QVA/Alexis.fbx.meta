@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 7eb7a29ccd105974b801bebf97828ef7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Alexis rig
+    100004: BaldSchoolgirl.005
+    100006: Bone
+    100008: Bone.002
+    100010: Bone.003
+    100012: Bone.003_end
+    100014: Bone.004
+    100016: Bone.006
+    100018: Bone.007
+    100020: Bone.007_end
+    100022: Armature
+    100024: Bone.001
+    100026: Bone.005
+    100028: Bone.006_end
+    100030: Bone.008
+    100032: Bone.009
+    100034: Bone.009_end
+    100036: Bone.010
+    100038: Bone.011
+    100040: Bone.012
+    100042: Bone.012_end
+    400000: //RootNode
+    400002: Alexis rig
+    400004: BaldSchoolgirl.005
+    400006: Bone
+    400008: Bone.002
+    400010: Bone.003
+    400012: Bone.003_end
+    400014: Bone.004
+    400016: Bone.006
+    400018: Bone.007
+    400020: Bone.007_end
+    400022: Armature
+    400024: Bone.001
+    400026: Bone.005
+    400028: Bone.006_end
+    400030: Bone.008
+    400032: Bone.009
+    400034: Bone.009_end
+    400036: Bone.010
+    400038: Bone.011
+    400040: Bone.012
+    400042: Bone.012_end
+    2300000: BaldSchoolgirl.005
+    3300000: BaldSchoolgirl.005
+    4300000: BaldSchoolgirl.005
+    9500000: //RootNode
+    13700000: BaldSchoolgirl.005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

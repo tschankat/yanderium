@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 26e62406716b37d41bec223f253b3e7e
+timeCreated: 1513150285
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: GrandfatherClock_Mesh_Transparent0
+    100004: GrandfatherClock_Mesh_Transparent1
+    100006: Arrow_LONG_Mesh2
+    100008: Arrow_SHORT_Mesh2
+    100010: Arrows_Grp
+    100012: GrandfatherClock_Mesh 1
+    100014: Pendulum_mesh
+    400000: //RootNode
+    400002: GrandfatherClock_Mesh_Transparent0
+    400004: GrandfatherClock_Mesh_Transparent1
+    400006: Arrow_LONG_Mesh2
+    400008: Arrow_SHORT_Mesh2
+    400010: Arrows_Grp
+    400012: GrandfatherClock_Mesh 1
+    400014: Pendulum_mesh
+    2300000: //RootNode
+    2300002: GrandfatherClock_Mesh_Transparent0
+    2300004: GrandfatherClock_Mesh_Transparent1
+    2300006: Arrow_LONG_Mesh2
+    2300008: Arrow_SHORT_Mesh2
+    2300010: GrandfatherClock_Mesh 1
+    2300012: Pendulum_mesh
+    3300000: //RootNode
+    3300002: GrandfatherClock_Mesh_Transparent0
+    3300004: GrandfatherClock_Mesh_Transparent1
+    3300006: Arrow_LONG_Mesh2
+    3300008: Arrow_SHORT_Mesh2
+    3300010: GrandfatherClock_Mesh 1
+    3300012: Pendulum_mesh
+    4300000: GrandfatherClock_Mesh
+    4300002: GrandfatherClock_Mesh_Transparent0
+    4300004: GrandfatherClock_Mesh_Transparent1
+    4300006: Arrow_SHORT_Mesh2
+    4300008: Arrow_LONG_Mesh2
+    4300010: Pendulum_mesh
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: d54181e6bbf1cab4889c1eb77f510a2a
+timeCreated: 1526884294
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: literaturebannermesh
+    100002: literatureboxmesh
+    100004: literaturebuttonmesh
+    100006: literaturecandlesmesh
+    100008: literaturecupcakemesh
+    100010: literatureknifemesh
+    100012: literaturemangamesh
+    100014: literaturenamemesh
+    100016: literaturenotemesh
+    100018: literaturenovelmesh
+    100020: literaturepenmesh
+    100022: literaturepostermesh
+    100024: literatureropemesh
+    100026: literaturetrashmesh
+    100028: //RootNode
+    400000: literaturebannermesh
+    400002: literatureboxmesh
+    400004: literaturebuttonmesh
+    400006: literaturecandlesmesh
+    400008: literaturecupcakemesh
+    400010: literatureknifemesh
+    400012: literaturemangamesh
+    400014: literaturenamemesh
+    400016: literaturenotemesh
+    400018: literaturenovelmesh
+    400020: literaturepenmesh
+    400022: literaturepostermesh
+    400024: literatureropemesh
+    400026: literaturetrashmesh
+    400028: //RootNode
+    2300000: literaturebannermesh
+    2300002: literatureboxmesh
+    2300004: literaturebuttonmesh
+    2300006: literaturecandlesmesh
+    2300008: literaturecupcakemesh
+    2300010: literatureknifemesh
+    2300012: literaturemangamesh
+    2300014: literaturenamemesh
+    2300016: literaturenotemesh
+    2300018: literaturenovelmesh
+    2300020: literaturepenmesh
+    2300022: literaturepostermesh
+    2300024: literatureropemesh
+    2300026: literaturetrashmesh
+    3300000: literaturebannermesh
+    3300002: literatureboxmesh
+    3300004: literaturebuttonmesh
+    3300006: literaturecandlesmesh
+    3300008: literaturecupcakemesh
+    3300010: literatureknifemesh
+    3300012: literaturemangamesh
+    3300014: literaturenamemesh
+    3300016: literaturenotemesh
+    3300018: literaturenovelmesh
+    3300020: literaturepenmesh
+    3300022: literaturepostermesh
+    3300024: literatureropemesh
+    3300026: literaturetrashmesh
+    4300000: literatureboxmesh
+    4300002: literaturemangamesh
+    4300004: literaturepenmesh
+    4300006: literaturenovelmesh
+    4300008: literaturecupcakemesh
+    4300010: literaturebannermesh
+    4300012: literatureropemesh
+    4300014: literatureknifemesh
+    4300016: literaturetrashmesh
+    4300018: literaturebuttonmesh
+    4300020: literaturepostermesh
+    4300022: literaturenotemesh
+    4300024: literaturecandlesmesh
+    4300026: literaturenamemesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

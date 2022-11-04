@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 1fbdd385333a4a24487c9f0fac34fac8
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: center
+    100002: Hair
+    100004: Hair 1
+    100006: Hair 2
+    100008: Hair 3
+    100010: Hair 4
+    100012: Hair 5
+    100014: Hair 6
+    100016: Hair 7
+    100018: Hair 8
+    100020: Hair_L
+    100022: Hair_L 1
+    100024: Hair_L 2
+    100026: Hair_L 3
+    100028: Hair_L 4
+    100030: Hair_R
+    100032: Hair_R 1
+    100034: Hair_R 2
+    100036: Hair_R 3
+    100038: Hair_R 4
+    100040: head
+    100042: head_t
+    100044: Mesh
+    100046: Side_L
+    100048: Side_L 1
+    100050: Side_L 2
+    100052: Side_L 3
+    100054: Side_L 4
+    100056: Side_L 5
+    100058: Side_L 6
+    100060: Side_L 7
+    100062: Side_R
+    100064: Side_R 1
+    100066: Side_R 2
+    100068: Side_R 3
+    100070: Side_R 4
+    100072: Side_R 5
+    100074: Side_R 6
+    100076: Side_R 7
+    100078: Skeleton
+    100080: transform1
+    100082: transform2
+    100084: transform3
+    100086: //RootNode
+    400000: center
+    400002: Hair
+    400004: Hair 1
+    400006: Hair 2
+    400008: Hair 3
+    400010: Hair 4
+    400012: Hair 5
+    400014: Hair 6
+    400016: Hair 7
+    400018: Hair 8
+    400020: Hair_L
+    400022: Hair_L 1
+    400024: Hair_L 2
+    400026: Hair_L 3
+    400028: Hair_L 4
+    400030: Hair_R
+    400032: Hair_R 1
+    400034: Hair_R 2
+    400036: Hair_R 3
+    400038: Hair_R 4
+    400040: head
+    400042: head_t
+    400044: Mesh
+    400046: Side_L
+    400048: Side_L 1
+    400050: Side_L 2
+    400052: Side_L 3
+    400054: Side_L 4
+    400056: Side_L 5
+    400058: Side_L 6
+    400060: Side_L 7
+    400062: Side_R
+    400064: Side_R 1
+    400066: Side_R 2
+    400068: Side_R 3
+    400070: Side_R 4
+    400072: Side_R 5
+    400074: Side_R 6
+    400076: Side_R 7
+    400078: Skeleton
+    400080: transform1
+    400082: transform2
+    400084: transform3
+    400086: //RootNode
+    4300000: Mesh
+    9500000: //RootNode
+    13700000: Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

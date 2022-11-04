@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: dde79df7f5da8f042921534e45fbac48
+timeCreated: 1511387597
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: KannaHairMesh
+    100006: Left_Bangs_End
+    100008: Left_Bangs_End_end
+    100010: Left_Bangs_Main
+    100012: Left_Bangs_Middle
+    100014: Left_Pigtail_Ball1
+    100016: Left_Pigtail_Ball2
+    100018: Left_Pigtail_Ball3
+    100020: Left_Pigtail_End1
+    100022: Left_Pigtail_End2
+    100024: Left_Pigtail_End2_end
+    100026: Left_Pigtail_Main
+    100028: Right_Bangs_End
+    100030: Right_Bangs_End_end
+    100032: Right_Bangs_Maid
+    100034: Right_Bangs_Middle
+    100036: Right_Pigtail_Ball1
+    100038: Right_Pigtail_Ball2
+    100040: Right_Pigtail_Ball3
+    100042: Right_Pigtail_End1
+    100044: Right_Pigtail_End2
+    100046: Right_Pigtail_End2_end
+    100048: Right_Pigtail_Main
+    100050: Right_Pigtail_Main.001
+    100052: Right_Pigtail_Main.002
+    100054: Right_Pigtail_Main.002_end
+    400000: Armature
+    400002: KannaHairMesh
+    400004: //RootNode
+    400006: Left_Bangs_End
+    400008: Left_Bangs_End_end
+    400010: Left_Bangs_Main
+    400012: Left_Bangs_Middle
+    400014: Left_Pigtail_Ball1
+    400016: Left_Pigtail_Ball2
+    400018: Left_Pigtail_Ball3
+    400020: Left_Pigtail_End1
+    400022: Left_Pigtail_End2
+    400024: Left_Pigtail_End2_end
+    400026: Left_Pigtail_Main
+    400028: Right_Bangs_End
+    400030: Right_Bangs_End_end
+    400032: Right_Bangs_Maid
+    400034: Right_Bangs_Middle
+    400036: Right_Pigtail_Ball1
+    400038: Right_Pigtail_Ball2
+    400040: Right_Pigtail_Ball3
+    400042: Right_Pigtail_End1
+    400044: Right_Pigtail_End2
+    400046: Right_Pigtail_End2_end
+    400048: Right_Pigtail_Main
+    400050: Right_Pigtail_Main.001
+    400052: Right_Pigtail_Main.002
+    400054: Right_Pigtail_Main.002_end
+    4300000: KannaHairMesh
+    9500000: //RootNode
+    13700000: KannaHairMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

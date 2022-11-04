@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: cc36d12763422c8468d7d8ba45a5a220
+timeCreated: 1561391539
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Ceiling
+    100002: Ceiling_0
+    100004: //RootNode
+    100006: Classroom
+    100008: Exterior_Wall_with_Window
+    100010: Exterior_Wall_with_Window 1
+    100012: Exterior_Wall_with_Window_0
+    100014: Exterior_Wall_with_Window_0 1
+    100016: Exterior_Window
+    100018: Exterior_Window 1
+    100020: Exterior_Window_0
+    100022: Exterior_Window_0 1
+    100024: FarLeftFrame
+    100026: FarLeftFrame_0
+    100028: FarRightFrame
+    100030: FarRightFrame 1
+    100032: FarRightFrame_0
+    100034: FarRightFrame_0 1
+    100036: Floor
+    100038: Floor 1
+    100040: Floor 2
+    100042: Floor 3
+    100044: Floor 4
+    100046: Floor 5
+    100048: Floor_0
+    100050: Floor_0 1
+    100052: Floor_0 2
+    100054: Floor_0 3
+    100056: Floor_0 4
+    100058: Floor_0 5
+    100060: Frame1
+    100062: Frame1_0
+    100064: Frame2
+    100066: Frame2_0
+    100068: Frame3
+    100070: Frame3_0
+    100072: Frame4
+    100074: Frame4_0
+    100076: Frame5
+    100078: Frame5_0
+    100080: Frame6
+    100082: Frame6_0
+    100084: Frame7
+    100086: Frame7_0
+    100088: Frame8
+    100090: Frame8_0
+    100092: InfoChanWindow
+    100094: InfoChanWindow_0
+    100096: Interior_Wall
+    100098: Interior_Wall 1
+    100100: Interior_Wall_0
+    100102: Interior_Wall_0 1
+    100104: Interior_Wall_Double_Door
+    100106: Interior_Wall_Double_Door 1
+    100108: Interior_Wall_Double_Door 2
+    100110: Interior_Wall_Double_Door 3
+    100112: Interior_Wall_Double_Door_0
+    100114: Interior_Wall_Double_Door_0 1
+    100116: Interior_Wall_Double_Door_0 2
+    100118: Interior_Wall_Double_Door_0 3
+    100120: Interior_Wall_with_Exterior_Window
+    100122: Interior_Wall_with_Exterior_Window 1
+    100124: Interior_Wall_with_Exterior_Window_0
+    100126: Interior_Wall_with_Exterior_Window_0 1
+    100128: Interior_Wall_with_Window
+    100130: Interior_Wall_with_Window 1
+    100132: Interior_Wall_with_Window_0
+    100134: Interior_Wall_with_Window_0 1
+    100136: Interior_Window
+    100138: Interior_Window_0
+    100140: LeftDoor
+    100142: LeftDoor 1
+    100144: LeftDoor_0
+    100146: LeftDoor_0 1
+    100148: NearLeftFrame
+    100150: NearLeftFrame 1
+    100152: NearLeftFrame_0
+    100154: NearLeftFrame_0 1
+    100156: NearRightFrame
+    100158: NearRightFrame 1
+    100160: NearRightFrame_0
+    100162: NearRightFrame_0 1
+    100164: RightDoor
+    100166: RightDoor 1
+    100168: RightDoor_0
+    100170: RightDoor_0 1
+    100172: Sliding_Double_Doors
+    100174: Sliding_Double_Doors 1
+    100176: Window
+    100178: Window 1
+    100180: Window 10
+    100182: Window 10_0
+    100184: Window 11
+    100186: Window 11_0
+    100188: Window 12
+    100190: Window 12_0
+    100192: Window 13
+    100194: Window 13_0
+    100196: Window 14
+    100198: Window 14_0
+    100200: Window 17
+    100202: Window 17 1
+    100204: Window 17_0
+    100206: Window 17_0 1
+    100208: Window 18
+    100210: Window 18 1
+    100212: Window 18_0
+    100214: Window 18_0 1
+    100216: Window 3
+    100218: Window 3 1
+    100220: Window 3_0
+    100222: Window 3_0 1
+    100224: Window 4
+    100226: Window 4 1
+    100228: Window 4_0
+    100230: Window 4_0 1
+    100232: Window 5
+    100234: Window 5 1
+    100236: Window 5_0
+    100238: Window 5_0 1
+    100240: Window 6
+    100242: Window 6 1
+    100244: Window 6_0
+    100246: Window 6_0 1
+    100248: Window 7
+    100250: Window 7_0
+    100252: Window 8
+    100254: Window 8_0
+    100256: Window 9
+    100258: Window 9_0
+    100260: Window_0
+    100262: Window_0 1
+    400000: Ceiling
+    400002: Ceiling_0
+    400004: //RootNode
+    400006: Classroom
+    400008: Exterior_Wall_with_Window
+    400010: Exterior_Wall_with_Window 1
+    400012: Exterior_Wall_with_Window_0
+    400014: Exterior_Wall_with_Window_0 1
+    400016: Exterior_Window
+    400018: Exterior_Window 1
+    400020: Exterior_Window_0
+    400022: Exterior_Window_0 1
+    400024: FarLeftFrame
+    400026: FarLeftFrame_0
+    400028: FarRightFrame
+    400030: FarRightFrame 1
+    400032: FarRightFrame_0
+    400034: FarRightFrame_0 1
+    400036: Floor
+    400038: Floor 1
+    400040: Floor 2
+    400042: Floor 3
+    400044: Floor 4
+    400046: Floor 5
+    400048: Floor_0
+    400050: Floor_0 1
+    400052: Floor_0 2
+    400054: Floor_0 3
+    400056: Floor_0 4
+    400058: Floor_0 5
+    400060: Frame1
+    400062: Frame1_0
+    400064: Frame2
+    400066: Frame2_0
+    400068: Frame3
+    400070: Frame3_0
+    400072: Frame4
+    400074: Frame4_0
+    400076: Frame5
+    400078: Frame5_0
+    400080: Frame6
+    400082: Frame6_0
+    400084: Frame7
+    400086: Frame7_0
+    400088: Frame8
+    400090: Frame8_0
+    400092: InfoChanWindow
+    400094: InfoChanWindow_0
+    400096: Interior_Wall
+    400098: Interior_Wall 1
+    400100: Interior_Wall_0
+    400102: Interior_Wall_0 1
+    400104: Interior_Wall_Double_Door
+    400106: Interior_Wall_Double_Door 1
+    400108: Interior_Wall_Double_Door 2
+    400110: Interior_Wall_Double_Door 3
+    400112: Interior_Wall_Double_Door_0
+    400114: Interior_Wall_Double_Door_0 1
+    400116: Interior_Wall_Double_Door_0 2
+    400118: Interior_Wall_Double_Door_0 3
+    400120: Interior_Wall_with_Exterior_Window
+    400122: Interior_Wall_with_Exterior_Window 1
+    400124: Interior_Wall_with_Exterior_Window_0
+    400126: Interior_Wall_with_Exterior_Window_0 1
+    400128: Interior_Wall_with_Window
+    400130: Interior_Wall_with_Window 1
+    400132: Interior_Wall_with_Window_0
+    400134: Interior_Wall_with_Window_0 1
+    400136: Interior_Window
+    400138: Interior_Window_0
+    400140: LeftDoor
+    400142: LeftDoor 1
+    400144: LeftDoor_0
+    400146: LeftDoor_0 1
+    400148: NearLeftFrame
+    400150: NearLeftFrame 1
+    400152: NearLeftFrame_0
+    400154: NearLeftFrame_0 1
+    400156: NearRightFrame
+    400158: NearRightFrame 1
+    400160: NearRightFrame_0
+    400162: NearRightFrame_0 1
+    400164: RightDoor
+    400166: RightDoor 1
+    400168: RightDoor_0
+    400170: RightDoor_0 1
+    400172: Sliding_Double_Doors
+    400174: Sliding_Double_Doors 1
+    400176: Window
+    400178: Window 1
+    400180: Window 10
+    400182: Window 10_0
+    400184: Window 11
+    400186: Window 11_0
+    400188: Window 12
+    400190: Window 12_0
+    400192: Window 13
+    400194: Window 13_0
+    400196: Window 14
+    400198: Window 14_0
+    400200: Window 17
+    400202: Window 17 1
+    400204: Window 17_0
+    400206: Window 17_0 1
+    400208: Window 18
+    400210: Window 18 1
+    400212: Window 18_0
+    400214: Window 18_0 1
+    400216: Window 3
+    400218: Window 3 1
+    400220: Window 3_0
+    400222: Window 3_0 1
+    400224: Window 4
+    400226: Window 4 1
+    400228: Window 4_0
+    400230: Window 4_0 1
+    400232: Window 5
+    400234: Window 5 1
+    400236: Window 5_0
+    400238: Window 5_0 1
+    400240: Window 6
+    400242: Window 6 1
+    400244: Window 6_0
+    400246: Window 6_0 1
+    400248: Window 7
+    400250: Window 7_0
+    400252: Window 8
+    400254: Window 8_0
+    400256: Window 9
+    400258: Window 9_0
+    400260: Window_0
+    400262: Window_0 1
+    2300000: Ceiling_0
+    2300002: Exterior_Wall_with_Window_0
+    2300004: Exterior_Wall_with_Window_0 1
+    2300006: Exterior_Window_0
+    2300008: Exterior_Window_0 1
+    2300010: FarLeftFrame_0
+    2300012: FarRightFrame_0
+    2300014: FarRightFrame_0 1
+    2300016: Floor_0
+    2300018: Floor_0 1
+    2300020: Floor_0 2
+    2300022: Floor_0 3
+    2300024: Floor_0 4
+    2300026: Floor_0 5
+    2300028: Frame1_0
+    2300030: Frame2_0
+    2300032: Frame3_0
+    2300034: Frame4_0
+    2300036: Frame5_0
+    2300038: Frame6_0
+    2300040: Frame7_0
+    2300042: Frame8_0
+    2300044: InfoChanWindow_0
+    2300046: Interior_Wall_0
+    2300048: Interior_Wall_0 1
+    2300050: Interior_Wall_Double_Door_0
+    2300052: Interior_Wall_Double_Door_0 1
+    2300054: Interior_Wall_Double_Door_0 2
+    2300056: Interior_Wall_Double_Door_0 3
+    2300058: Interior_Wall_with_Exterior_Window_0
+    2300060: Interior_Wall_with_Exterior_Window_0 1
+    2300062: Interior_Wall_with_Window_0
+    2300064: Interior_Wall_with_Window_0 1
+    2300066: Interior_Window_0
+    2300068: LeftDoor_0
+    2300070: LeftDoor_0 1
+    2300072: NearLeftFrame_0
+    2300074: NearLeftFrame_0 1
+    2300076: NearRightFrame_0
+    2300078: NearRightFrame_0 1
+    2300080: RightDoor_0
+    2300082: RightDoor_0 1
+    2300084: Window 10_0
+    2300086: Window 11_0
+    2300088: Window 12_0
+    2300090: Window 13_0
+    2300092: Window 14_0
+    2300094: Window 17_0
+    2300096: Window 17_0 1
+    2300098: Window 18_0
+    2300100: Window 18_0 1
+    2300102: Window 3_0
+    2300104: Window 3_0 1
+    2300106: Window 4_0
+    2300108: Window 4_0 1
+    2300110: Window 5_0
+    2300112: Window 5_0 1
+    2300114: Window 6_0
+    2300116: Window 6_0 1
+    2300118: Window 7_0
+    2300120: Window 8_0
+    2300122: Window 9_0
+    2300124: Window_0
+    2300126: Window_0 1
+    3300000: Ceiling_0
+    3300002: Exterior_Wall_with_Window_0
+    3300004: Exterior_Wall_with_Window_0 1
+    3300006: Exterior_Window_0
+    3300008: Exterior_Window_0 1
+    3300010: FarLeftFrame_0
+    3300012: FarRightFrame_0
+    3300014: FarRightFrame_0 1
+    3300016: Floor_0
+    3300018: Floor_0 1
+    3300020: Floor_0 2
+    3300022: Floor_0 3
+    3300024: Floor_0 4
+    3300026: Floor_0 5
+    3300028: Frame1_0
+    3300030: Frame2_0
+    3300032: Frame3_0
+    3300034: Frame4_0
+    3300036: Frame5_0
+    3300038: Frame6_0
+    3300040: Frame7_0
+    3300042: Frame8_0
+    3300044: InfoChanWindow_0
+    3300046: Interior_Wall_0
+    3300048: Interior_Wall_0 1
+    3300050: Interior_Wall_Double_Door_0
+    3300052: Interior_Wall_Double_Door_0 1
+    3300054: Interior_Wall_Double_Door_0 2
+    3300056: Interior_Wall_Double_Door_0 3
+    3300058: Interior_Wall_with_Exterior_Window_0
+    3300060: Interior_Wall_with_Exterior_Window_0 1
+    3300062: Interior_Wall_with_Window_0
+    3300064: Interior_Wall_with_Window_0 1
+    3300066: Interior_Window_0
+    3300068: LeftDoor_0
+    3300070: LeftDoor_0 1
+    3300072: NearLeftFrame_0
+    3300074: NearLeftFrame_0 1
+    3300076: NearRightFrame_0
+    3300078: NearRightFrame_0 1
+    3300080: RightDoor_0
+    3300082: RightDoor_0 1
+    3300084: Window 10_0
+    3300086: Window 11_0
+    3300088: Window 12_0
+    3300090: Window 13_0
+    3300092: Window 14_0
+    3300094: Window 17_0
+    3300096: Window 17_0 1
+    3300098: Window 18_0
+    3300100: Window 18_0 1
+    3300102: Window 3_0
+    3300104: Window 3_0 1
+    3300106: Window 4_0
+    3300108: Window 4_0 1
+    3300110: Window 5_0
+    3300112: Window 5_0 1
+    3300114: Window 6_0
+    3300116: Window 6_0 1
+    3300118: Window 7_0
+    3300120: Window 8_0
+    3300122: Window 9_0
+    3300124: Window_0
+    3300126: Window_0 1
+    4300000: Exterior_Wall_with_Window_0
+    4300002: Window 3_0
+    4300004: FarLeftFrame_0
+    4300006: Window 4_0
+    4300008: FarRightFrame_0
+    4300010: Window 5_0
+    4300012: NearLeftFrame_0
+    4300014: Window 6_0
+    4300016: NearRightFrame_0
+    4300018: Window_0
+    4300020: Exterior_Window_0
+    4300022: Interior_Wall_with_Exterior_Window_0
+    4300024: Exterior_Wall_with_Window_0
+    4300026: Window 3_0
+    4300028: InfoChanWindow_0
+    4300030: Window 4_0
+    4300032: FarRightFrame_0
+    4300034: Window 5_0
+    4300036: NearLeftFrame_0
+    4300038: Window 6_0
+    4300040: NearRightFrame_0
+    4300042: Window_0
+    4300044: Exterior_Window_0
+    4300046: Interior_Wall_with_Exterior_Window_0
+    4300048: Interior_Wall_Double_Door_0
+    4300050: Interior_Wall_Double_Door_0
+    4300052: Interior_Wall_with_Window_0
+    4300054: Window 7_0
+    4300056: Frame1_0
+    4300058: Window 8_0
+    4300060: Frame2_0
+    4300062: Window 9_0
+    4300064: Frame3_0
+    4300066: Window 10_0
+    4300068: Frame4_0
+    4300070: Window 11_0
+    4300072: Frame5_0
+    4300074: Window 12_0
+    4300076: Frame6_0
+    4300078: Window 13_0
+    4300080: Frame7_0
+    4300082: Window 14_0
+    4300084: Frame8_0
+    4300086: Interior_Window_0
+    4300088: Interior_Wall_with_Window_0
+    4300090: Interior_Wall_Double_Door_0
+    4300092: Interior_Wall_Double_Door_0
+    4300094: Interior_Wall_0
+    4300096: Interior_Wall_0
+    4300098: Floor_0
+    4300100: Floor_0
+    4300102: Floor_0
+    4300104: Floor_0
+    4300106: Floor_0
+    4300108: Floor_0
+    4300110: Ceiling_0
+    4300112: Window 17_0
+    4300114: LeftDoor_0
+    4300116: Window 18_0
+    4300118: RightDoor_0
+    4300120: Window 17_0
+    4300122: LeftDoor_0
+    4300124: Window 18_0
+    4300126: RightDoor_0
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Ceiling All Sides Light
+    second: {fileID: 2100000, guid: 2921029e4a6955a438bceac30517712b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Classroom Floor Top Left
+    second: {fileID: 2100000, guid: 03fc5332ad272604fbe76a291193632c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Interior_Exterior_Window_Wall_Mat
+    second: {fileID: 2100000, guid: c352392f1ded7064582b3fa197972b9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Interior_Wall_Mat
+    second: {fileID: 2100000, guid: d72c038c1dd3abe4dbf3a0571ac9e322, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_Swinging_Window_Mat
+    second: {fileID: 2100000, guid: 5886a084e8f6cf04ba74934f1a295712, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_Wall_with_Window_Mat
+    second: {fileID: 2100000, guid: d2dacb17927f80d46a01d5384482e3f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_Window_Frame_Mat
+    second: {fileID: 2100000, guid: 2bbc917c07424ef4682f9f204f0d642e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior_Wall_Double_Door_Mat
+    second: {fileID: 2100000, guid: 7c203032bc083ac4d8ec171470307342, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior_Window_Frame_Mat
+    second: {fileID: 2100000, guid: b72abfc4bb1bbad4b83f65f5b75b49b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior_Window_Wall_Mat
+    second: {fileID: 2100000, guid: 2c2af673136e00a4eac4802754044ec1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sliding_Door_with_Window_Mat
+    second: {fileID: 2100000, guid: 70607a0821fa1d647ba0df31db569dd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sliding_Window_Mat
+    second: {fileID: 2100000, guid: b2024ca3c8a689b43adf9a95ca0035ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Small_Sliding_Window_Mat
+    second: {fileID: 2100000, guid: 0c06629b012d1de4d9761ba7fa98db0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_Glass_Mat
+    second: {fileID: 2100000, guid: 1f71d1e393cfb0244a3dd884fb48a9fa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

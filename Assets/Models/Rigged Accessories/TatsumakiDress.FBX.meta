@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: bac5c1938869c7646ad894a74a2760bc
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Back_skart1
+    100002: Back_skart2
+    100004: Back_skart3
+    100006: Back_skart3_end
+    100008: f03
+    100010: Front_skart1
+    100012: Front_skart2
+    100014: Front_skart3
+    100016: Head
+    100018: Hips
+    100020: Left_skart1
+    100022: Left_skart2
+    100024: Left_skart3
+    100026: Left_skart3_end
+    100028: LeftArm
+    100030: LeftArmRoll
+    100032: LeftBreast
+    100034: LeftForeArm
+    100036: LeftForeArm_Helper
+    100038: LeftForeArm_Helper_end
+    100040: LeftForeArmRoll
+    100042: LeftNipple
+    100044: LeftShoulder
+    100046: Neck
+    100048: PelvisRoot
+    100050: Right_skart1
+    100052: Right_skart2
+    100054: Right_skart3
+    100056: Right_skart3_end
+    100058: RightArm
+    100060: RightArmRoll
+    100062: RightBreast
+    100064: RightForeArm
+    100066: RightForeArm_Helper
+    100068: RightForeArm_Helper_end
+    100070: RightForeArmRoll
+    100072: RightNipple
+    100074: RightShoulder
+    100076: Spine
+    100078: Spine1
+    100080: Spine2
+    100082: Spine3
+    100084: //RootNode
+    100086: TatsumakiDressMesh
+    400000: Back_skart1
+    400002: Back_skart2
+    400004: Back_skart3
+    400006: Back_skart3_end
+    400008: f03
+    400010: Front_skart1
+    400012: Front_skart2
+    400014: Front_skart3
+    400016: Head
+    400018: Hips
+    400020: Left_skart1
+    400022: Left_skart2
+    400024: Left_skart3
+    400026: Left_skart3_end
+    400028: LeftArm
+    400030: LeftArmRoll
+    400032: LeftBreast
+    400034: LeftForeArm
+    400036: LeftForeArm_Helper
+    400038: LeftForeArm_Helper_end
+    400040: LeftForeArmRoll
+    400042: LeftNipple
+    400044: LeftShoulder
+    400046: Neck
+    400048: PelvisRoot
+    400050: Right_skart1
+    400052: Right_skart2
+    400054: Right_skart3
+    400056: Right_skart3_end
+    400058: RightArm
+    400060: RightArmRoll
+    400062: RightBreast
+    400064: RightForeArm
+    400066: RightForeArm_Helper
+    400068: RightForeArm_Helper_end
+    400070: RightForeArmRoll
+    400072: RightNipple
+    400074: RightShoulder
+    400076: Spine
+    400078: Spine1
+    400080: Spine2
+    400082: Spine3
+    400084: //RootNode
+    400086: TatsumakiDressMesh
+    4300000: TatsumakiDressMesh
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: TatsumakiDressMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: f03
+        weight: 1
+      - path: f03/PelvisRoot
+        weight: 1
+      - path: f03/PelvisRoot/Hips
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Back_skart1
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Back_skart1/Back_skart2
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Back_skart1/Back_skart2/Back_skart3
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Back_skart1/Back_skart2/Back_skart3/Back_skart3_end
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Front_skart1
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Front_skart1/Front_skart2
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Front_skart1/Front_skart2/Front_skart3
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Left_skart1
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Left_skart1/Left_skart2
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Left_skart1/Left_skart2/Left_skart3
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Left_skart1/Left_skart2/Left_skart3/Left_skart3_end
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Right_skart1
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Right_skart1/Right_skart2
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Right_skart1/Right_skart2/Right_skart3
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Right_skart1/Right_skart2/Right_skart3/Right_skart3_end
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftBreast
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftBreast/LeftNipple
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArm_Helper
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArm_Helper/LeftForeArm_Helper_end
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightBreast
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightBreast/RightNipple
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArm_Helper
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArm_Helper/RightForeArm_Helper_end
+        weight: 1
+      - path: f03/PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll
+        weight: 1
+      - path: TatsumakiDressMesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

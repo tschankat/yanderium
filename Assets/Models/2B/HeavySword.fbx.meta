@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: b47bb22b880d9bf4684c9f3744f204a9
+timeCreated: 1553639951
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Heavy_Full_Metal_Sword
+    100004: Sword_10_low_Plane.035
+    100006: Sword_11_low_Plane.004
+    100008: Sword_12_low_Plane.031
+    100010: Sword_13_low_Plane.025
+    100012: Sword_14_low_Plane.014
+    100014: Sword_15_low_Plane.015
+    100016: Sword_16_low_Circle.004
+    100018: Sword_17_low_Plane.016
+    100020: Sword_18_low_Plane.033
+    100022: Sword_19_low_Plane.032
+    100024: Sword_1_low_Circle.005
+    100026: Sword_20_low_Plane.005
+    100028: Sword_21_low_Plane.023
+    100030: Sword_22_low_Plane.012
+    100032: Sword_23_low_Plane.029
+    100034: Sword_24_low_Plane.010
+    100036: Sword_25_low_Plane.001
+    100038: Sword_26_low_Plane.019
+    100040: Sword_27_low_Circle.009
+    100042: Sword_28_low_Plane.022
+    100044: Sword_29_low_Plane.027
+    100046: Sword_2_low_Plane.009
+    100048: Sword_30_low_Plane.021
+    100050: Sword_31_low_Plane.002
+    100052: Sword_3_low_Circle.001
+    100054: Sword_4_low_Plane.024
+    100056: Sword_5_low_Circle.003
+    100058: Sword_6_low_Plane.013
+    100060: Sword_7_low_Plane.026
+    100062: Sword_8_low_Plane.030
+    100064: Sword_9_low_Plane.008
+    100066: transform1
+    100068: transform10
+    100070: transform11
+    100072: transform12
+    100074: transform13
+    100076: transform14
+    100078: transform15
+    100080: transform16
+    100082: transform17
+    100084: transform18
+    100086: transform19
+    100088: transform2
+    100090: transform20
+    100092: transform21
+    100094: transform22
+    100096: transform23
+    100098: transform24
+    100100: transform25
+    100102: transform26
+    100104: transform27
+    100106: transform28
+    100108: transform29
+    100110: transform3
+    100112: transform30
+    100114: transform31
+    100116: transform4
+    100118: transform5
+    100120: transform6
+    100122: transform7
+    100124: transform8
+    100126: transform9
+    400000: //RootNode
+    400002: Heavy_Full_Metal_Sword
+    400004: Sword_10_low_Plane.035
+    400006: Sword_11_low_Plane.004
+    400008: Sword_12_low_Plane.031
+    400010: Sword_13_low_Plane.025
+    400012: Sword_14_low_Plane.014
+    400014: Sword_15_low_Plane.015
+    400016: Sword_16_low_Circle.004
+    400018: Sword_17_low_Plane.016
+    400020: Sword_18_low_Plane.033
+    400022: Sword_19_low_Plane.032
+    400024: Sword_1_low_Circle.005
+    400026: Sword_20_low_Plane.005
+    400028: Sword_21_low_Plane.023
+    400030: Sword_22_low_Plane.012
+    400032: Sword_23_low_Plane.029
+    400034: Sword_24_low_Plane.010
+    400036: Sword_25_low_Plane.001
+    400038: Sword_26_low_Plane.019
+    400040: Sword_27_low_Circle.009
+    400042: Sword_28_low_Plane.022
+    400044: Sword_29_low_Plane.027
+    400046: Sword_2_low_Plane.009
+    400048: Sword_30_low_Plane.021
+    400050: Sword_31_low_Plane.002
+    400052: Sword_3_low_Circle.001
+    400054: Sword_4_low_Plane.024
+    400056: Sword_5_low_Circle.003
+    400058: Sword_6_low_Plane.013
+    400060: Sword_7_low_Plane.026
+    400062: Sword_8_low_Plane.030
+    400064: Sword_9_low_Plane.008
+    400066: transform1
+    400068: transform10
+    400070: transform11
+    400072: transform12
+    400074: transform13
+    400076: transform14
+    400078: transform15
+    400080: transform16
+    400082: transform17
+    400084: transform18
+    400086: transform19
+    400088: transform2
+    400090: transform20
+    400092: transform21
+    400094: transform22
+    400096: transform23
+    400098: transform24
+    400100: transform25
+    400102: transform26
+    400104: transform27
+    400106: transform28
+    400108: transform29
+    400110: transform3
+    400112: transform30
+    400114: transform31
+    400116: transform4
+    400118: transform5
+    400120: transform6
+    400122: transform7
+    400124: transform8
+    400126: transform9
+    2300000: Heavy_Full_Metal_Sword
+    2300002: //RootNode
+    3300000: Heavy_Full_Metal_Sword
+    3300002: //RootNode
+    4300000: Heavy_Full_Metal_Sword
+    4300002: HeavySwordMesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Heavy_Full_Metal_Sword1
+    second: {fileID: 2100000, guid: 61c433b53aed38a4c8e4bd5c14f06819, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

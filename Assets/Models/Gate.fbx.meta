@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 78b1320311083f34399c082cb2da8f92
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: gate01_1
+    100004: gate01_2
+    100006: pCube11
+    100008: polySurface10
+    100010: polySurface11
+    100012: polySurface2
+    100014: polySurface2 1
+    100016: polySurface3
+    100018: polySurface4
+    100020: polySurface5
+    100022: polySurface6
+    100024: polySurface7
+    100026: polySurface8
+    100028: polySurface9
+    100030: transform11
+    100032: transform12
+    100034: transform13
+    100036: transform14
+    100038: transform15
+    100040: transform16
+    100042: transform17
+    100044: transform18
+    100046: transform19
+    100048: transform20
+    100050: transform21
+    100052: transform22
+    100054: transform23
+    100056: Arch
+    100058: RollingGate
+    100060: ArchMesh
+    100062: RollingGateL
+    100064: RollingGateR
+    400000: //RootNode
+    400002: gate01_1
+    400004: gate01_2
+    400006: pCube11
+    400008: polySurface10
+    400010: polySurface11
+    400012: polySurface2
+    400014: polySurface2 1
+    400016: polySurface3
+    400018: polySurface4
+    400020: polySurface5
+    400022: polySurface6
+    400024: polySurface7
+    400026: polySurface8
+    400028: polySurface9
+    400030: transform11
+    400032: transform12
+    400034: transform13
+    400036: transform14
+    400038: transform15
+    400040: transform16
+    400042: transform17
+    400044: transform18
+    400046: transform19
+    400048: transform20
+    400050: transform21
+    400052: transform22
+    400054: transform23
+    400056: Arch
+    400058: RollingGate
+    400060: ArchMesh
+    400062: RollingGateL
+    400064: RollingGateR
+    2300000: gate01_2
+    2300002: //RootNode
+    2300004: Arch
+    2300006: RollingGate
+    2300008: ArchMesh
+    2300010: RollingGateL
+    2300012: RollingGateR
+    3300000: gate01_2
+    3300002: //RootNode
+    3300004: Arch
+    3300006: RollingGate
+    3300008: ArchMesh
+    3300010: RollingGateL
+    3300012: RollingGateR
+    4300000: gate01_2
+    4300002: Gate
+    4300004: RollingGate
+    4300006: Arch
+    4300008: ArchMesh
+    4300010: RollingGateR
+    4300012: RollingGateL
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 29daad8f20597744690deac6a434e0e0
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BackLeftHair1
+    100002: BackLeftHair2
+    100004: BackLeftHair3
+    100006: BackLeftHair4
+    100008: BackLeftHair5
+    100010: BackLeftHair7
+    100012: BackRightHair1
+    100014: BackRightHair2
+    100016: BackRightHair3
+    100018: BackRightHair4
+    100020: BackRightHair5
+    100022: BackRightHair7
+    100024: FrontHair
+    100026: Head
+    100028: Head_null
+    100030: LeftHair1
+    100032: LeftHair2
+    100034: LeftHair3
+    100036: RightHair1
+    100038: RightHair2
+    100040: RightHair3
+    100042: Skeleton
+    100044: succubus_b_h_body
+    100046: succubus_b_h_lefthairfur
+    100048: succubus_b_h_righthairfur
+    100050: //RootNode
+    100052: TwinPony
+    100054: BackLeftHair7_end
+    100056: BackRightHair7_end
+    100058: FrontHair_end
+    100060: LeftHair3_end
+    100062: RightHair3_end
+    400000: BackLeftHair1
+    400002: BackLeftHair2
+    400004: BackLeftHair3
+    400006: BackLeftHair4
+    400008: BackLeftHair5
+    400010: BackLeftHair7
+    400012: BackRightHair1
+    400014: BackRightHair2
+    400016: BackRightHair3
+    400018: BackRightHair4
+    400020: BackRightHair5
+    400022: BackRightHair7
+    400024: FrontHair
+    400026: Head
+    400028: Head_null
+    400030: LeftHair1
+    400032: LeftHair2
+    400034: LeftHair3
+    400036: RightHair1
+    400038: RightHair2
+    400040: RightHair3
+    400042: Skeleton
+    400044: succubus_b_h_body
+    400046: succubus_b_h_lefthairfur
+    400048: succubus_b_h_righthairfur
+    400050: //RootNode
+    400052: TwinPony
+    400054: BackLeftHair7_end
+    400056: BackRightHair7_end
+    400058: FrontHair_end
+    400060: LeftHair3_end
+    400062: RightHair3_end
+    4300000: succubus_b_h_body
+    4300002: succubus_b_h_righthairfur
+    4300004: succubus_b_h_lefthairfur
+    9500000: //RootNode
+    13700000: succubus_b_h_body
+    13700002: succubus_b_h_lefthairfur
+    13700004: succubus_b_h_righthairfur
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HairAccMat
+    second: {fileID: 2100000, guid: dcbca77ef77125a489709539a7412eeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwinPonyMat
+    second: {fileID: 2100000, guid: ea72b3cd42873a64b99aeef7631dedce, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

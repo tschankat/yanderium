@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 96e841a057df39047bdd5119082c5a81
+timeCreated: 1552333435
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Curtains_grp
+    100002: Curtains_Mesh
+    100004: Curtains_Mesh1
+    100006: Curtains_Mesh2
+    100008: //RootNode
+    100010: pillow_Mesh1
+    100012: pillow_Mesh2
+    100014: Room_Mesh
+    100016: window_Mesh
+    100018: Room_Ceiling_Mesh_External
+    100020: Room_Mesh_External
+    100022: Room_Ceiling_Mesh
+    100024: window_Transparent_Mesh
+    100026: Room_Mesh_ShadowsFix
+    400000: Curtains_grp
+    400002: Curtains_Mesh
+    400004: Curtains_Mesh1
+    400006: Curtains_Mesh2
+    400008: //RootNode
+    400010: pillow_Mesh1
+    400012: pillow_Mesh2
+    400014: Room_Mesh
+    400016: window_Mesh
+    400018: Room_Ceiling_Mesh_External
+    400020: Room_Mesh_External
+    400022: Room_Ceiling_Mesh
+    400024: window_Transparent_Mesh
+    400026: Room_Mesh_ShadowsFix
+    2300000: Curtains_Mesh
+    2300002: Curtains_Mesh1
+    2300004: Curtains_Mesh2
+    2300006: pillow_Mesh1
+    2300008: pillow_Mesh2
+    2300010: Room_Mesh
+    2300012: window_Mesh
+    2300014: Room_Ceiling_Mesh_External
+    2300016: Room_Mesh_External
+    2300018: Room_Ceiling_Mesh
+    2300020: window_Transparent_Mesh
+    2300022: Room_Mesh_ShadowsFix
+    3300000: Curtains_Mesh
+    3300002: Curtains_Mesh1
+    3300004: Curtains_Mesh2
+    3300006: pillow_Mesh1
+    3300008: pillow_Mesh2
+    3300010: Room_Mesh
+    3300012: window_Mesh
+    3300014: Room_Ceiling_Mesh_External
+    3300016: Room_Mesh_External
+    3300018: Room_Ceiling_Mesh
+    3300020: window_Transparent_Mesh
+    3300022: Room_Mesh_ShadowsFix
+    4300000: Room_Mesh
+    4300002: window_Mesh
+    4300004: pillow_Mesh1
+    4300006: pillow_Mesh2
+    4300008: Curtains_Mesh
+    4300010: Curtains_Mesh1
+    4300012: Curtains_Mesh2
+    4300014: Room_Mesh_External
+    4300016: Room_Ceiling_Mesh_External
+    4300018: Room_Ceiling_Mesh
+    4300020: window_Transparent_Mesh
+    4300022: Room_Mesh_ShadowsFix
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtains_Material1
+    second: {fileID: 2100000, guid: 67b40524123e4dd45b3e93e58ce6dafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pillow_Material
+    second: {fileID: 2100000, guid: 51ab2209db69f4848b361301b8b462b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room_Ceiling_Material
+    second: {fileID: 2100000, guid: 0598fd42302a9da4daaeaf530e98a9e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room_Material
+    second: {fileID: 2100000, guid: 0598fd42302a9da4daaeaf530e98a9e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_Solid_Material
+    second: {fileID: 2100000, guid: 1979e94036485b54b945f3fa584c15d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_Transparent_Material
+    second: {fileID: 2100000, guid: bbbeb67eb37fe8f47a9a0370a247c43c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

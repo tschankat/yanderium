@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 97840a7adf77b6e46b46da43df0e26cd
+timeCreated: 1576612027
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: OsanaHouseDrenaje
+    100004: OsanaHouseFacade.007
+    100006: OsanaHouseFacade.008
+    100008: OsanaHouseFacadeDecor
+    100010: OsanaHouseMisc
+    100012: OsanaHouseOverDoorRoof
+    100014: OsanaHouseRoof
+    100016: OsanaHouseSign
+    100018: OsanaHouseSmallRoof
+    100020: OsanaLamp
+    100022: OsanaLamp.001
+    100024: OsanaLamp.002
+    100026: OsanaLamp.003
+    100028: OsanaLamp.004
+    100030: OsanaLamp.005
+    100032: OsanaLamp.006
+    100034: OsanaLamp.007
+    100036: OsanaLamp.008
+    100038: OsanaLamp.009
+    100040: OsanaLamp.010
+    100042: OsanaRingRing
+    100044: OsanaHouseFacade
+    100046: OsanaHouseFacadeWindows
+    400000: //RootNode
+    400002: OsanaHouseDrenaje
+    400004: OsanaHouseFacade.007
+    400006: OsanaHouseFacade.008
+    400008: OsanaHouseFacadeDecor
+    400010: OsanaHouseMisc
+    400012: OsanaHouseOverDoorRoof
+    400014: OsanaHouseRoof
+    400016: OsanaHouseSign
+    400018: OsanaHouseSmallRoof
+    400020: OsanaLamp
+    400022: OsanaLamp.001
+    400024: OsanaLamp.002
+    400026: OsanaLamp.003
+    400028: OsanaLamp.004
+    400030: OsanaLamp.005
+    400032: OsanaLamp.006
+    400034: OsanaLamp.007
+    400036: OsanaLamp.008
+    400038: OsanaLamp.009
+    400040: OsanaLamp.010
+    400042: OsanaRingRing
+    400044: OsanaHouseFacade
+    400046: OsanaHouseFacadeWindows
+    2300000: OsanaHouseDrenaje
+    2300002: OsanaHouseFacade.007
+    2300004: OsanaHouseFacade.008
+    2300006: OsanaHouseFacadeDecor
+    2300008: OsanaHouseMisc
+    2300010: OsanaHouseOverDoorRoof
+    2300012: OsanaHouseRoof
+    2300014: OsanaHouseSign
+    2300016: OsanaHouseSmallRoof
+    2300018: OsanaLamp
+    2300020: OsanaLamp.001
+    2300022: OsanaLamp.002
+    2300024: OsanaLamp.003
+    2300026: OsanaLamp.004
+    2300028: OsanaLamp.005
+    2300030: OsanaLamp.006
+    2300032: OsanaLamp.007
+    2300034: OsanaLamp.008
+    2300036: OsanaLamp.009
+    2300038: OsanaLamp.010
+    2300040: OsanaRingRing
+    2300042: OsanaHouseFacade
+    2300044: OsanaHouseFacadeWindows
+    3300000: OsanaHouseDrenaje
+    3300002: OsanaHouseFacade.007
+    3300004: OsanaHouseFacade.008
+    3300006: OsanaHouseFacadeDecor
+    3300008: OsanaHouseMisc
+    3300010: OsanaHouseOverDoorRoof
+    3300012: OsanaHouseRoof
+    3300014: OsanaHouseSign
+    3300016: OsanaHouseSmallRoof
+    3300018: OsanaLamp
+    3300020: OsanaLamp.001
+    3300022: OsanaLamp.002
+    3300024: OsanaLamp.003
+    3300026: OsanaLamp.004
+    3300028: OsanaLamp.005
+    3300030: OsanaLamp.006
+    3300032: OsanaLamp.007
+    3300034: OsanaLamp.008
+    3300036: OsanaLamp.009
+    3300038: OsanaLamp.010
+    3300040: OsanaRingRing
+    3300042: OsanaHouseFacade
+    3300044: OsanaHouseFacadeWindows
+    4300000: OsanaHouseFacade.007
+    4300002: OsanaHouseFacade.008
+    4300004: OsanaLamp.004
+    4300006: OsanaHouseMisc
+    4300008: OsanaHouseSign
+    4300010: OsanaRingRing
+    4300012: OsanaHouseOverDoorRoof
+    4300014: OsanaHouseFacadeDecor
+    4300016: OsanaHouseRoof
+    4300018: OsanaHouseSmallRoof
+    4300020: OsanaHouseDrenaje
+    4300022: OsanaHouseFacadeWindows
+    4300024: OsanaHouseFacade
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseWallMaterial
+    second: {fileID: 2100000, guid: 2a01931db9226ef478e7aad595723c63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MiscPropsMaterial
+    second: {fileID: 2100000, guid: bb67262ddb648c14f8994309ec2d0651, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowsMaterial
+    second: {fileID: 2100000, guid: a7148183980eb58479f8da6f4f7b18a8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

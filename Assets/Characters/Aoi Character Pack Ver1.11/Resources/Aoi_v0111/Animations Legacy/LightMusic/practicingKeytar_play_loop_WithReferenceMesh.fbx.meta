@@ -1,0 +1,1021 @@
+fileFormatVersion: 2
+guid: a3c6ac59308666b4180ced1b8ca57ecb
+timeCreated: 1536876115
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: atama_n
+    100002: b_lip_center
+    100004: Back_skart1
+    100006: Back_skart2
+    100008: Back_skart3
+    100010: BackHair1
+    100012: BackHair2
+    100014: BackHair3
+    100016: BackHair4
+    100018: ChairTable:GenericClubProps_OpenFoldingChairMesh
+    100020: cheek_Left
+    100022: cheek_Right
+    100024: chin
+    100026: eye_Left
+    100028: eye_Right
+    100030: eyebrow_a_Left
+    100032: eyebrow_a_Right
+    100034: eyebrow_b_Left
+    100036: eyebrow_b_Right
+    100038: eyelid_und1_Left
+    100040: eyelid_und1_Right
+    100042: eyelid_und2_Left
+    100044: eyelid_und2_Right
+    100046: eyelid_und_Left
+    100048: eyelid_und_Right
+    100050: eyerid1_Left
+    100052: eyerid1_Right
+    100054: eyerid2_Left
+    100056: eyerid2_Right
+    100058: eyerid_Left
+    100060: eyerid_Right
+    100062: f02
+    100064: f02_schoolwear_210_h
+    100066: face
+    100068: Front_skart1
+    100070: Front_skart2
+    100072: Front_skart3
+    100074: FrontHair
+    100076: Glasses_Null
+    100078: Head
+    100080: Head_null
+    100082: Hips
+    100084: inner_corner_of_eye_Left
+    100086: inner_corner_of_eye_Right
+    100088: jaw
+    100090: Keytar:KeytarMesh
+    100092: Left_skart1
+    100094: Left_skart2
+    100096: Left_skart3
+    100098: LeftArm
+    100100: LeftArmRoll
+    100102: LeftBreast
+    100104: LeftEarring_Null
+    100106: LeftFoot
+    100108: LeftForeArm
+    100110: LeftForeArm_Helper
+    100112: LeftForeArmRoll
+    100114: LeftHair1
+    100116: LeftHair2
+    100118: LeftHair3
+    100120: LeftHand
+    100122: LeftHandIndex1
+    100124: LeftHandIndex2
+    100126: LeftHandIndex3
+    100128: LeftHandIndexNull
+    100130: LeftHanditem_Null
+    100132: LeftHandMiddle1
+    100134: LeftHandMiddle2
+    100136: LeftHandMiddle3
+    100138: LeftHandMiddleNull
+    100140: LeftHandPinky1
+    100142: LeftHandPinky2
+    100144: LeftHandPinky3
+    100146: LeftHandPinkyNull
+    100148: LeftHandRing1
+    100150: LeftHandRing2
+    100152: LeftHandRing3
+    100154: LeftHandRingNull
+    100156: LeftHandThumb1
+    100158: LeftHandThumb2
+    100160: LeftHandThumb3
+    100162: LeftHandThumbNull
+    100164: LeftHip_Helper
+    100166: LeftLeg
+    100168: LeftLeg_Helper
+    100170: LeftNipple
+    100172: LeftShoulder
+    100174: LeftToes
+    100176: LeftToesNull
+    100178: LeftUpLeg
+    100180: lip_Left
+    100182: lip_Right
+    100184: lip_t_Left
+    100186: lip_t_Right
+    100188: lip_top_Left
+    100190: lip_top_Right
+    100192: lip_u_Left
+    100194: lip_u_Right
+    100196: mayu
+    100198: Neck
+    100200: nose
+    100202: nostrir_Left
+    100204: nostrir_Right
+    100206: PelvisRoot
+    100208: //RootNode
+    100210: Right_skart1
+    100212: Right_skart2
+    100214: Right_skart3
+    100216: RightArm
+    100218: RightArmRoll
+    100220: RightBreast
+    100222: RightEarring_Null
+    100224: RightFoot
+    100226: RightForeArm
+    100228: RightForeArm_Helper
+    100230: RightForeArmRoll
+    100232: RightHair1
+    100234: RightHair2
+    100236: RightHair3
+    100238: RightHand
+    100240: RightHandIndex1
+    100242: RightHandIndex2
+    100244: RightHandIndex3
+    100246: RightHandIndexNull
+    100248: RightHanditem_Null
+    100250: RightHandMiddle1
+    100252: RightHandMiddle2
+    100254: RightHandMiddle3
+    100256: RightHandMiddleNull
+    100258: RightHandPinky1
+    100260: RightHandPinky2
+    100262: RightHandPinky3
+    100264: RightHandPinkyNull
+    100266: RightHandRing1
+    100268: RightHandRing2
+    100270: RightHandRing3
+    100272: RightHandRingNull
+    100274: RightHandThumb1
+    100276: RightHandThumb2
+    100278: RightHandThumb3
+    100280: RightHandThumbNull
+    100282: RightHip_Helper
+    100284: RightLeg
+    100286: RightLeg_Helper
+    100288: RightNipple
+    100290: RightShoulder
+    100292: RightToes
+    100294: RightToesNull
+    100296: RightUpLeg
+    100298: rip_btm_Left
+    100300: rip_btm_Right
+    100302: Sen_Ctrl:ChestEndEffector
+    100304: Sen_Ctrl:ChestOriginEffector
+    100306: Sen_Ctrl:Head
+    100308: Sen_Ctrl:HeadEffector
+    100310: Sen_Ctrl:Hips
+    100312: Sen_Ctrl:HipsEffector
+    100314: Sen_Ctrl:LeftAnkleEffector
+    100316: Sen_Ctrl:LeftArm
+    100318: Sen_Ctrl:LeftArmRoll
+    100320: Sen_Ctrl:LeftElbowEffector
+    100322: Sen_Ctrl:LeftFoot
+    100324: Sen_Ctrl:LeftFootEffector
+    100326: Sen_Ctrl:LeftForeArm
+    100328: Sen_Ctrl:LeftForeArmRoll
+    100330: Sen_Ctrl:LeftHand
+    100332: Sen_Ctrl:LeftHandIndex1
+    100334: Sen_Ctrl:LeftHandIndex2
+    100336: Sen_Ctrl:LeftHandIndex3
+    100338: Sen_Ctrl:LeftHandIndex4
+    100340: Sen_Ctrl:LeftHandIndexEffector
+    100342: Sen_Ctrl:LeftHandMiddle1
+    100344: Sen_Ctrl:LeftHandMiddle2
+    100346: Sen_Ctrl:LeftHandMiddle3
+    100348: Sen_Ctrl:LeftHandMiddle4
+    100350: Sen_Ctrl:LeftHandMiddleEffector
+    100352: Sen_Ctrl:LeftHandPinky1
+    100354: Sen_Ctrl:LeftHandPinky2
+    100356: Sen_Ctrl:LeftHandPinky3
+    100358: Sen_Ctrl:LeftHandPinky4
+    100360: Sen_Ctrl:LeftHandPinkyEffector
+    100362: Sen_Ctrl:LeftHandRing1
+    100364: Sen_Ctrl:LeftHandRing2
+    100366: Sen_Ctrl:LeftHandRing3
+    100368: Sen_Ctrl:LeftHandRing4
+    100370: Sen_Ctrl:LeftHandRingEffector
+    100372: Sen_Ctrl:LeftHandThumb1
+    100374: Sen_Ctrl:LeftHandThumb2
+    100376: Sen_Ctrl:LeftHandThumb3
+    100378: Sen_Ctrl:LeftHandThumb4
+    100380: Sen_Ctrl:LeftHandThumbEffector
+    100382: Sen_Ctrl:LeftHipEffector
+    100384: Sen_Ctrl:LeftKneeEffector
+    100386: Sen_Ctrl:LeftLeg
+    100388: Sen_Ctrl:LeftShoulder
+    100390: Sen_Ctrl:LeftShoulderEffector
+    100392: Sen_Ctrl:LeftToeBase
+    100394: Sen_Ctrl:LeftUpLeg
+    100396: Sen_Ctrl:LeftWristEffector
+    100398: Sen_Ctrl:Neck
+    100400: Sen_Ctrl:Reference
+    100402: Sen_Ctrl:RightAnkleEffector
+    100404: Sen_Ctrl:RightArm
+    100406: Sen_Ctrl:RightArmRoll
+    100408: Sen_Ctrl:RightElbowEffector
+    100410: Sen_Ctrl:RightFoot
+    100412: Sen_Ctrl:RightFootEffector
+    100414: Sen_Ctrl:RightForeArm
+    100416: Sen_Ctrl:RightForeArmRoll
+    100418: Sen_Ctrl:RightHand
+    100420: Sen_Ctrl:RightHandIndex1
+    100422: Sen_Ctrl:RightHandIndex2
+    100424: Sen_Ctrl:RightHandIndex3
+    100426: Sen_Ctrl:RightHandIndex4
+    100428: Sen_Ctrl:RightHandIndexEffector
+    100430: Sen_Ctrl:RightHandMiddle1
+    100432: Sen_Ctrl:RightHandMiddle2
+    100434: Sen_Ctrl:RightHandMiddle3
+    100436: Sen_Ctrl:RightHandMiddle4
+    100438: Sen_Ctrl:RightHandMiddleEffector
+    100440: Sen_Ctrl:RightHandPinky1
+    100442: Sen_Ctrl:RightHandPinky2
+    100444: Sen_Ctrl:RightHandPinky3
+    100446: Sen_Ctrl:RightHandPinky4
+    100448: Sen_Ctrl:RightHandPinkyEffector
+    100450: Sen_Ctrl:RightHandRing1
+    100452: Sen_Ctrl:RightHandRing2
+    100454: Sen_Ctrl:RightHandRing3
+    100456: Sen_Ctrl:RightHandRing4
+    100458: Sen_Ctrl:RightHandRingEffector
+    100460: Sen_Ctrl:RightHandThumb1
+    100462: Sen_Ctrl:RightHandThumb2
+    100464: Sen_Ctrl:RightHandThumb3
+    100466: Sen_Ctrl:RightHandThumb4
+    100468: Sen_Ctrl:RightHandThumbEffector
+    100470: Sen_Ctrl:RightHipEffector
+    100472: Sen_Ctrl:RightKneeEffector
+    100474: Sen_Ctrl:RightLeg
+    100476: Sen_Ctrl:RightShoulder
+    100478: Sen_Ctrl:RightShoulderEffector
+    100480: Sen_Ctrl:RightToeBase
+    100482: Sen_Ctrl:RightUpLeg
+    100484: Sen_Ctrl:RightWristEffector
+    100486: Sen_Ctrl:Spine
+    100488: Sen_Ctrl:Spine1
+    100490: Sen_Ctrl:Spine2
+    100492: Sen_Ctrl:Spine3
+    100494: Spine
+    100496: Spine1
+    100498: Spine2
+    100500: Spine3
+    100502: tail_of_eye_Left
+    100504: tail_of_eye_Right
+    100506: temple_Left
+    100508: temple_Right
+    100510: u_lip_center
+    100512: YanChan_Ctrl:ChestEndEffector
+    100514: YanChan_Ctrl:ChestEndEffector 1
+    100516: YanChan_Ctrl:ChestOriginEffector
+    100518: YanChan_Ctrl:ChestOriginEffector 1
+    100520: YanChan_Ctrl:Head
+    100522: YanChan_Ctrl:Head 1
+    100524: YanChan_Ctrl:HeadEffector
+    100526: YanChan_Ctrl:HeadEffector 1
+    100528: YanChan_Ctrl:Hips
+    100530: YanChan_Ctrl:Hips 1
+    100532: YanChan_Ctrl:HipsEffector
+    100534: YanChan_Ctrl:HipsEffector 1
+    100536: YanChan_Ctrl:LeftAnkleEffector
+    100538: YanChan_Ctrl:LeftAnkleEffector 1
+    100540: YanChan_Ctrl:LeftArm
+    100542: YanChan_Ctrl:LeftArm 1
+    100544: YanChan_Ctrl:LeftArmRoll
+    100546: YanChan_Ctrl:LeftArmRoll 1
+    100548: YanChan_Ctrl:LeftElbowEffector
+    100550: YanChan_Ctrl:LeftElbowEffector 1
+    100552: YanChan_Ctrl:LeftFoot
+    100554: YanChan_Ctrl:LeftFoot 1
+    100556: YanChan_Ctrl:LeftFootEffector
+    100558: YanChan_Ctrl:LeftFootEffector 1
+    100560: YanChan_Ctrl:LeftForeArm
+    100562: YanChan_Ctrl:LeftForeArm 1
+    100564: YanChan_Ctrl:LeftForeArmRoll
+    100566: YanChan_Ctrl:LeftForeArmRoll 1
+    100568: YanChan_Ctrl:LeftHand
+    100570: YanChan_Ctrl:LeftHand 1
+    100572: YanChan_Ctrl:LeftHandIndex1
+    100574: YanChan_Ctrl:LeftHandIndex2
+    100576: YanChan_Ctrl:LeftHandIndex3
+    100578: YanChan_Ctrl:LeftHandIndex4
+    100580: YanChan_Ctrl:LeftHandIndex5
+    100582: YanChan_Ctrl:LeftHandIndex6
+    100584: YanChan_Ctrl:LeftHandIndex7
+    100586: YanChan_Ctrl:LeftHandIndex8
+    100588: YanChan_Ctrl:LeftHandIndexEffector
+    100590: YanChan_Ctrl:LeftHandIndexEffector 1
+    100592: YanChan_Ctrl:LeftHandMiddle1
+    100594: YanChan_Ctrl:LeftHandMiddle2
+    100596: YanChan_Ctrl:LeftHandMiddle3
+    100598: YanChan_Ctrl:LeftHandMiddle4
+    100600: YanChan_Ctrl:LeftHandMiddle5
+    100602: YanChan_Ctrl:LeftHandMiddle6
+    100604: YanChan_Ctrl:LeftHandMiddle7
+    100606: YanChan_Ctrl:LeftHandMiddle8
+    100608: YanChan_Ctrl:LeftHandMiddleEffector
+    100610: YanChan_Ctrl:LeftHandMiddleEffector 1
+    100612: YanChan_Ctrl:LeftHandPinky1
+    100614: YanChan_Ctrl:LeftHandPinky2
+    100616: YanChan_Ctrl:LeftHandPinky3
+    100618: YanChan_Ctrl:LeftHandPinky4
+    100620: YanChan_Ctrl:LeftHandPinky5
+    100622: YanChan_Ctrl:LeftHandPinky6
+    100624: YanChan_Ctrl:LeftHandPinky7
+    100626: YanChan_Ctrl:LeftHandPinky8
+    100628: YanChan_Ctrl:LeftHandPinkyEffector
+    100630: YanChan_Ctrl:LeftHandPinkyEffector 1
+    100632: YanChan_Ctrl:LeftHandRing1
+    100634: YanChan_Ctrl:LeftHandRing2
+    100636: YanChan_Ctrl:LeftHandRing3
+    100638: YanChan_Ctrl:LeftHandRing4
+    100640: YanChan_Ctrl:LeftHandRing5
+    100642: YanChan_Ctrl:LeftHandRing6
+    100644: YanChan_Ctrl:LeftHandRing7
+    100646: YanChan_Ctrl:LeftHandRing8
+    100648: YanChan_Ctrl:LeftHandRingEffector
+    100650: YanChan_Ctrl:LeftHandRingEffector 1
+    100652: YanChan_Ctrl:LeftHandThumb1
+    100654: YanChan_Ctrl:LeftHandThumb2
+    100656: YanChan_Ctrl:LeftHandThumb3
+    100658: YanChan_Ctrl:LeftHandThumb4
+    100660: YanChan_Ctrl:LeftHandThumb5
+    100662: YanChan_Ctrl:LeftHandThumb6
+    100664: YanChan_Ctrl:LeftHandThumb7
+    100666: YanChan_Ctrl:LeftHandThumb8
+    100668: YanChan_Ctrl:LeftHandThumbEffector
+    100670: YanChan_Ctrl:LeftHandThumbEffector 1
+    100672: YanChan_Ctrl:LeftHipEffector
+    100674: YanChan_Ctrl:LeftHipEffector 1
+    100676: YanChan_Ctrl:LeftKneeEffector
+    100678: YanChan_Ctrl:LeftKneeEffector 1
+    100680: YanChan_Ctrl:LeftLeg
+    100682: YanChan_Ctrl:LeftLeg 1
+    100684: YanChan_Ctrl:LeftShoulder
+    100686: YanChan_Ctrl:LeftShoulder 1
+    100688: YanChan_Ctrl:LeftShoulderEffector
+    100690: YanChan_Ctrl:LeftShoulderEffector 1
+    100692: YanChan_Ctrl:LeftToeBase
+    100694: YanChan_Ctrl:LeftToeBase 1
+    100696: YanChan_Ctrl:LeftUpLeg
+    100698: YanChan_Ctrl:LeftUpLeg 1
+    100700: YanChan_Ctrl:LeftWristEffector
+    100702: YanChan_Ctrl:LeftWristEffector 1
+    100704: YanChan_Ctrl:Neck
+    100706: YanChan_Ctrl:Neck 1
+    100708: YanChan_Ctrl:Reference
+    100710: YanChan_Ctrl:Reference 1
+    100712: YanChan_Ctrl:RightAnkleEffector
+    100714: YanChan_Ctrl:RightAnkleEffector 1
+    100716: YanChan_Ctrl:RightArm
+    100718: YanChan_Ctrl:RightArm 1
+    100720: YanChan_Ctrl:RightArmRoll
+    100722: YanChan_Ctrl:RightArmRoll 1
+    100724: YanChan_Ctrl:RightElbowEffector
+    100726: YanChan_Ctrl:RightElbowEffector 1
+    100728: YanChan_Ctrl:RightFoot
+    100730: YanChan_Ctrl:RightFoot 1
+    100732: YanChan_Ctrl:RightFootEffector
+    100734: YanChan_Ctrl:RightFootEffector 1
+    100736: YanChan_Ctrl:RightForeArm
+    100738: YanChan_Ctrl:RightForeArm 1
+    100740: YanChan_Ctrl:RightForeArmRoll
+    100742: YanChan_Ctrl:RightForeArmRoll 1
+    100744: YanChan_Ctrl:RightHand
+    100746: YanChan_Ctrl:RightHand 1
+    100748: YanChan_Ctrl:RightHandIndex1
+    100750: YanChan_Ctrl:RightHandIndex2
+    100752: YanChan_Ctrl:RightHandIndex3
+    100754: YanChan_Ctrl:RightHandIndex4
+    100756: YanChan_Ctrl:RightHandIndex5
+    100758: YanChan_Ctrl:RightHandIndex6
+    100760: YanChan_Ctrl:RightHandIndex7
+    100762: YanChan_Ctrl:RightHandIndex8
+    100764: YanChan_Ctrl:RightHandIndexEffector
+    100766: YanChan_Ctrl:RightHandIndexEffector 1
+    100768: YanChan_Ctrl:RightHandMiddle1
+    100770: YanChan_Ctrl:RightHandMiddle2
+    100772: YanChan_Ctrl:RightHandMiddle3
+    100774: YanChan_Ctrl:RightHandMiddle4
+    100776: YanChan_Ctrl:RightHandMiddle5
+    100778: YanChan_Ctrl:RightHandMiddle6
+    100780: YanChan_Ctrl:RightHandMiddle7
+    100782: YanChan_Ctrl:RightHandMiddle8
+    100784: YanChan_Ctrl:RightHandMiddleEffector
+    100786: YanChan_Ctrl:RightHandMiddleEffector 1
+    100788: YanChan_Ctrl:RightHandPinky1
+    100790: YanChan_Ctrl:RightHandPinky2
+    100792: YanChan_Ctrl:RightHandPinky3
+    100794: YanChan_Ctrl:RightHandPinky4
+    100796: YanChan_Ctrl:RightHandPinky5
+    100798: YanChan_Ctrl:RightHandPinky6
+    100800: YanChan_Ctrl:RightHandPinky7
+    100802: YanChan_Ctrl:RightHandPinky8
+    100804: YanChan_Ctrl:RightHandPinkyEffector
+    100806: YanChan_Ctrl:RightHandPinkyEffector 1
+    100808: YanChan_Ctrl:RightHandRing1
+    100810: YanChan_Ctrl:RightHandRing2
+    100812: YanChan_Ctrl:RightHandRing3
+    100814: YanChan_Ctrl:RightHandRing4
+    100816: YanChan_Ctrl:RightHandRing5
+    100818: YanChan_Ctrl:RightHandRing6
+    100820: YanChan_Ctrl:RightHandRing7
+    100822: YanChan_Ctrl:RightHandRing8
+    100824: YanChan_Ctrl:RightHandRingEffector
+    100826: YanChan_Ctrl:RightHandRingEffector 1
+    100828: YanChan_Ctrl:RightHandThumb1
+    100830: YanChan_Ctrl:RightHandThumb2
+    100832: YanChan_Ctrl:RightHandThumb3
+    100834: YanChan_Ctrl:RightHandThumb4
+    100836: YanChan_Ctrl:RightHandThumb5
+    100838: YanChan_Ctrl:RightHandThumb6
+    100840: YanChan_Ctrl:RightHandThumb7
+    100842: YanChan_Ctrl:RightHandThumb8
+    100844: YanChan_Ctrl:RightHandThumbEffector
+    100846: YanChan_Ctrl:RightHandThumbEffector 1
+    100848: YanChan_Ctrl:RightHipEffector
+    100850: YanChan_Ctrl:RightHipEffector 1
+    100852: YanChan_Ctrl:RightKneeEffector
+    100854: YanChan_Ctrl:RightKneeEffector 1
+    100856: YanChan_Ctrl:RightLeg
+    100858: YanChan_Ctrl:RightLeg 1
+    100860: YanChan_Ctrl:RightShoulder
+    100862: YanChan_Ctrl:RightShoulder 1
+    100864: YanChan_Ctrl:RightShoulderEffector
+    100866: YanChan_Ctrl:RightShoulderEffector 1
+    100868: YanChan_Ctrl:RightToeBase
+    100870: YanChan_Ctrl:RightToeBase 1
+    100872: YanChan_Ctrl:RightUpLeg
+    100874: YanChan_Ctrl:RightUpLeg 1
+    100876: YanChan_Ctrl:RightWristEffector
+    100878: YanChan_Ctrl:RightWristEffector 1
+    100880: YanChan_Ctrl:Spine
+    100882: YanChan_Ctrl:Spine 1
+    100884: YanChan_Ctrl:Spine1
+    100886: YanChan_Ctrl:Spine2
+    100888: YanChan_Ctrl:Spine3
+    100890: YanChan_Ctrl:Spine4
+    100892: YanChan_Ctrl:Spine5
+    100894: YanChan_Ctrl:Spine6
+    400000: atama_n
+    400002: b_lip_center
+    400004: Back_skart1
+    400006: Back_skart2
+    400008: Back_skart3
+    400010: BackHair1
+    400012: BackHair2
+    400014: BackHair3
+    400016: BackHair4
+    400018: ChairTable:GenericClubProps_OpenFoldingChairMesh
+    400020: cheek_Left
+    400022: cheek_Right
+    400024: chin
+    400026: eye_Left
+    400028: eye_Right
+    400030: eyebrow_a_Left
+    400032: eyebrow_a_Right
+    400034: eyebrow_b_Left
+    400036: eyebrow_b_Right
+    400038: eyelid_und1_Left
+    400040: eyelid_und1_Right
+    400042: eyelid_und2_Left
+    400044: eyelid_und2_Right
+    400046: eyelid_und_Left
+    400048: eyelid_und_Right
+    400050: eyerid1_Left
+    400052: eyerid1_Right
+    400054: eyerid2_Left
+    400056: eyerid2_Right
+    400058: eyerid_Left
+    400060: eyerid_Right
+    400062: f02
+    400064: f02_schoolwear_210_h
+    400066: face
+    400068: Front_skart1
+    400070: Front_skart2
+    400072: Front_skart3
+    400074: FrontHair
+    400076: Glasses_Null
+    400078: Head
+    400080: Head_null
+    400082: Hips
+    400084: inner_corner_of_eye_Left
+    400086: inner_corner_of_eye_Right
+    400088: jaw
+    400090: Keytar:KeytarMesh
+    400092: Left_skart1
+    400094: Left_skart2
+    400096: Left_skart3
+    400098: LeftArm
+    400100: LeftArmRoll
+    400102: LeftBreast
+    400104: LeftEarring_Null
+    400106: LeftFoot
+    400108: LeftForeArm
+    400110: LeftForeArm_Helper
+    400112: LeftForeArmRoll
+    400114: LeftHair1
+    400116: LeftHair2
+    400118: LeftHair3
+    400120: LeftHand
+    400122: LeftHandIndex1
+    400124: LeftHandIndex2
+    400126: LeftHandIndex3
+    400128: LeftHandIndexNull
+    400130: LeftHanditem_Null
+    400132: LeftHandMiddle1
+    400134: LeftHandMiddle2
+    400136: LeftHandMiddle3
+    400138: LeftHandMiddleNull
+    400140: LeftHandPinky1
+    400142: LeftHandPinky2
+    400144: LeftHandPinky3
+    400146: LeftHandPinkyNull
+    400148: LeftHandRing1
+    400150: LeftHandRing2
+    400152: LeftHandRing3
+    400154: LeftHandRingNull
+    400156: LeftHandThumb1
+    400158: LeftHandThumb2
+    400160: LeftHandThumb3
+    400162: LeftHandThumbNull
+    400164: LeftHip_Helper
+    400166: LeftLeg
+    400168: LeftLeg_Helper
+    400170: LeftNipple
+    400172: LeftShoulder
+    400174: LeftToes
+    400176: LeftToesNull
+    400178: LeftUpLeg
+    400180: lip_Left
+    400182: lip_Right
+    400184: lip_t_Left
+    400186: lip_t_Right
+    400188: lip_top_Left
+    400190: lip_top_Right
+    400192: lip_u_Left
+    400194: lip_u_Right
+    400196: mayu
+    400198: Neck
+    400200: nose
+    400202: nostrir_Left
+    400204: nostrir_Right
+    400206: PelvisRoot
+    400208: //RootNode
+    400210: Right_skart1
+    400212: Right_skart2
+    400214: Right_skart3
+    400216: RightArm
+    400218: RightArmRoll
+    400220: RightBreast
+    400222: RightEarring_Null
+    400224: RightFoot
+    400226: RightForeArm
+    400228: RightForeArm_Helper
+    400230: RightForeArmRoll
+    400232: RightHair1
+    400234: RightHair2
+    400236: RightHair3
+    400238: RightHand
+    400240: RightHandIndex1
+    400242: RightHandIndex2
+    400244: RightHandIndex3
+    400246: RightHandIndexNull
+    400248: RightHanditem_Null
+    400250: RightHandMiddle1
+    400252: RightHandMiddle2
+    400254: RightHandMiddle3
+    400256: RightHandMiddleNull
+    400258: RightHandPinky1
+    400260: RightHandPinky2
+    400262: RightHandPinky3
+    400264: RightHandPinkyNull
+    400266: RightHandRing1
+    400268: RightHandRing2
+    400270: RightHandRing3
+    400272: RightHandRingNull
+    400274: RightHandThumb1
+    400276: RightHandThumb2
+    400278: RightHandThumb3
+    400280: RightHandThumbNull
+    400282: RightHip_Helper
+    400284: RightLeg
+    400286: RightLeg_Helper
+    400288: RightNipple
+    400290: RightShoulder
+    400292: RightToes
+    400294: RightToesNull
+    400296: RightUpLeg
+    400298: rip_btm_Left
+    400300: rip_btm_Right
+    400302: Sen_Ctrl:ChestEndEffector
+    400304: Sen_Ctrl:ChestOriginEffector
+    400306: Sen_Ctrl:Head
+    400308: Sen_Ctrl:HeadEffector
+    400310: Sen_Ctrl:Hips
+    400312: Sen_Ctrl:HipsEffector
+    400314: Sen_Ctrl:LeftAnkleEffector
+    400316: Sen_Ctrl:LeftArm
+    400318: Sen_Ctrl:LeftArmRoll
+    400320: Sen_Ctrl:LeftElbowEffector
+    400322: Sen_Ctrl:LeftFoot
+    400324: Sen_Ctrl:LeftFootEffector
+    400326: Sen_Ctrl:LeftForeArm
+    400328: Sen_Ctrl:LeftForeArmRoll
+    400330: Sen_Ctrl:LeftHand
+    400332: Sen_Ctrl:LeftHandIndex1
+    400334: Sen_Ctrl:LeftHandIndex2
+    400336: Sen_Ctrl:LeftHandIndex3
+    400338: Sen_Ctrl:LeftHandIndex4
+    400340: Sen_Ctrl:LeftHandIndexEffector
+    400342: Sen_Ctrl:LeftHandMiddle1
+    400344: Sen_Ctrl:LeftHandMiddle2
+    400346: Sen_Ctrl:LeftHandMiddle3
+    400348: Sen_Ctrl:LeftHandMiddle4
+    400350: Sen_Ctrl:LeftHandMiddleEffector
+    400352: Sen_Ctrl:LeftHandPinky1
+    400354: Sen_Ctrl:LeftHandPinky2
+    400356: Sen_Ctrl:LeftHandPinky3
+    400358: Sen_Ctrl:LeftHandPinky4
+    400360: Sen_Ctrl:LeftHandPinkyEffector
+    400362: Sen_Ctrl:LeftHandRing1
+    400364: Sen_Ctrl:LeftHandRing2
+    400366: Sen_Ctrl:LeftHandRing3
+    400368: Sen_Ctrl:LeftHandRing4
+    400370: Sen_Ctrl:LeftHandRingEffector
+    400372: Sen_Ctrl:LeftHandThumb1
+    400374: Sen_Ctrl:LeftHandThumb2
+    400376: Sen_Ctrl:LeftHandThumb3
+    400378: Sen_Ctrl:LeftHandThumb4
+    400380: Sen_Ctrl:LeftHandThumbEffector
+    400382: Sen_Ctrl:LeftHipEffector
+    400384: Sen_Ctrl:LeftKneeEffector
+    400386: Sen_Ctrl:LeftLeg
+    400388: Sen_Ctrl:LeftShoulder
+    400390: Sen_Ctrl:LeftShoulderEffector
+    400392: Sen_Ctrl:LeftToeBase
+    400394: Sen_Ctrl:LeftUpLeg
+    400396: Sen_Ctrl:LeftWristEffector
+    400398: Sen_Ctrl:Neck
+    400400: Sen_Ctrl:Reference
+    400402: Sen_Ctrl:RightAnkleEffector
+    400404: Sen_Ctrl:RightArm
+    400406: Sen_Ctrl:RightArmRoll
+    400408: Sen_Ctrl:RightElbowEffector
+    400410: Sen_Ctrl:RightFoot
+    400412: Sen_Ctrl:RightFootEffector
+    400414: Sen_Ctrl:RightForeArm
+    400416: Sen_Ctrl:RightForeArmRoll
+    400418: Sen_Ctrl:RightHand
+    400420: Sen_Ctrl:RightHandIndex1
+    400422: Sen_Ctrl:RightHandIndex2
+    400424: Sen_Ctrl:RightHandIndex3
+    400426: Sen_Ctrl:RightHandIndex4
+    400428: Sen_Ctrl:RightHandIndexEffector
+    400430: Sen_Ctrl:RightHandMiddle1
+    400432: Sen_Ctrl:RightHandMiddle2
+    400434: Sen_Ctrl:RightHandMiddle3
+    400436: Sen_Ctrl:RightHandMiddle4
+    400438: Sen_Ctrl:RightHandMiddleEffector
+    400440: Sen_Ctrl:RightHandPinky1
+    400442: Sen_Ctrl:RightHandPinky2
+    400444: Sen_Ctrl:RightHandPinky3
+    400446: Sen_Ctrl:RightHandPinky4
+    400448: Sen_Ctrl:RightHandPinkyEffector
+    400450: Sen_Ctrl:RightHandRing1
+    400452: Sen_Ctrl:RightHandRing2
+    400454: Sen_Ctrl:RightHandRing3
+    400456: Sen_Ctrl:RightHandRing4
+    400458: Sen_Ctrl:RightHandRingEffector
+    400460: Sen_Ctrl:RightHandThumb1
+    400462: Sen_Ctrl:RightHandThumb2
+    400464: Sen_Ctrl:RightHandThumb3
+    400466: Sen_Ctrl:RightHandThumb4
+    400468: Sen_Ctrl:RightHandThumbEffector
+    400470: Sen_Ctrl:RightHipEffector
+    400472: Sen_Ctrl:RightKneeEffector
+    400474: Sen_Ctrl:RightLeg
+    400476: Sen_Ctrl:RightShoulder
+    400478: Sen_Ctrl:RightShoulderEffector
+    400480: Sen_Ctrl:RightToeBase
+    400482: Sen_Ctrl:RightUpLeg
+    400484: Sen_Ctrl:RightWristEffector
+    400486: Sen_Ctrl:Spine
+    400488: Sen_Ctrl:Spine1
+    400490: Sen_Ctrl:Spine2
+    400492: Sen_Ctrl:Spine3
+    400494: Spine
+    400496: Spine1
+    400498: Spine2
+    400500: Spine3
+    400502: tail_of_eye_Left
+    400504: tail_of_eye_Right
+    400506: temple_Left
+    400508: temple_Right
+    400510: u_lip_center
+    400512: YanChan_Ctrl:ChestEndEffector
+    400514: YanChan_Ctrl:ChestEndEffector 1
+    400516: YanChan_Ctrl:ChestOriginEffector
+    400518: YanChan_Ctrl:ChestOriginEffector 1
+    400520: YanChan_Ctrl:Head
+    400522: YanChan_Ctrl:Head 1
+    400524: YanChan_Ctrl:HeadEffector
+    400526: YanChan_Ctrl:HeadEffector 1
+    400528: YanChan_Ctrl:Hips
+    400530: YanChan_Ctrl:Hips 1
+    400532: YanChan_Ctrl:HipsEffector
+    400534: YanChan_Ctrl:HipsEffector 1
+    400536: YanChan_Ctrl:LeftAnkleEffector
+    400538: YanChan_Ctrl:LeftAnkleEffector 1
+    400540: YanChan_Ctrl:LeftArm
+    400542: YanChan_Ctrl:LeftArm 1
+    400544: YanChan_Ctrl:LeftArmRoll
+    400546: YanChan_Ctrl:LeftArmRoll 1
+    400548: YanChan_Ctrl:LeftElbowEffector
+    400550: YanChan_Ctrl:LeftElbowEffector 1
+    400552: YanChan_Ctrl:LeftFoot
+    400554: YanChan_Ctrl:LeftFoot 1
+    400556: YanChan_Ctrl:LeftFootEffector
+    400558: YanChan_Ctrl:LeftFootEffector 1
+    400560: YanChan_Ctrl:LeftForeArm
+    400562: YanChan_Ctrl:LeftForeArm 1
+    400564: YanChan_Ctrl:LeftForeArmRoll
+    400566: YanChan_Ctrl:LeftForeArmRoll 1
+    400568: YanChan_Ctrl:LeftHand
+    400570: YanChan_Ctrl:LeftHand 1
+    400572: YanChan_Ctrl:LeftHandIndex1
+    400574: YanChan_Ctrl:LeftHandIndex2
+    400576: YanChan_Ctrl:LeftHandIndex3
+    400578: YanChan_Ctrl:LeftHandIndex4
+    400580: YanChan_Ctrl:LeftHandIndex5
+    400582: YanChan_Ctrl:LeftHandIndex6
+    400584: YanChan_Ctrl:LeftHandIndex7
+    400586: YanChan_Ctrl:LeftHandIndex8
+    400588: YanChan_Ctrl:LeftHandIndexEffector
+    400590: YanChan_Ctrl:LeftHandIndexEffector 1
+    400592: YanChan_Ctrl:LeftHandMiddle1
+    400594: YanChan_Ctrl:LeftHandMiddle2
+    400596: YanChan_Ctrl:LeftHandMiddle3
+    400598: YanChan_Ctrl:LeftHandMiddle4
+    400600: YanChan_Ctrl:LeftHandMiddle5
+    400602: YanChan_Ctrl:LeftHandMiddle6
+    400604: YanChan_Ctrl:LeftHandMiddle7
+    400606: YanChan_Ctrl:LeftHandMiddle8
+    400608: YanChan_Ctrl:LeftHandMiddleEffector
+    400610: YanChan_Ctrl:LeftHandMiddleEffector 1
+    400612: YanChan_Ctrl:LeftHandPinky1
+    400614: YanChan_Ctrl:LeftHandPinky2
+    400616: YanChan_Ctrl:LeftHandPinky3
+    400618: YanChan_Ctrl:LeftHandPinky4
+    400620: YanChan_Ctrl:LeftHandPinky5
+    400622: YanChan_Ctrl:LeftHandPinky6
+    400624: YanChan_Ctrl:LeftHandPinky7
+    400626: YanChan_Ctrl:LeftHandPinky8
+    400628: YanChan_Ctrl:LeftHandPinkyEffector
+    400630: YanChan_Ctrl:LeftHandPinkyEffector 1
+    400632: YanChan_Ctrl:LeftHandRing1
+    400634: YanChan_Ctrl:LeftHandRing2
+    400636: YanChan_Ctrl:LeftHandRing3
+    400638: YanChan_Ctrl:LeftHandRing4
+    400640: YanChan_Ctrl:LeftHandRing5
+    400642: YanChan_Ctrl:LeftHandRing6
+    400644: YanChan_Ctrl:LeftHandRing7
+    400646: YanChan_Ctrl:LeftHandRing8
+    400648: YanChan_Ctrl:LeftHandRingEffector
+    400650: YanChan_Ctrl:LeftHandRingEffector 1
+    400652: YanChan_Ctrl:LeftHandThumb1
+    400654: YanChan_Ctrl:LeftHandThumb2
+    400656: YanChan_Ctrl:LeftHandThumb3
+    400658: YanChan_Ctrl:LeftHandThumb4
+    400660: YanChan_Ctrl:LeftHandThumb5
+    400662: YanChan_Ctrl:LeftHandThumb6
+    400664: YanChan_Ctrl:LeftHandThumb7
+    400666: YanChan_Ctrl:LeftHandThumb8
+    400668: YanChan_Ctrl:LeftHandThumbEffector
+    400670: YanChan_Ctrl:LeftHandThumbEffector 1
+    400672: YanChan_Ctrl:LeftHipEffector
+    400674: YanChan_Ctrl:LeftHipEffector 1
+    400676: YanChan_Ctrl:LeftKneeEffector
+    400678: YanChan_Ctrl:LeftKneeEffector 1
+    400680: YanChan_Ctrl:LeftLeg
+    400682: YanChan_Ctrl:LeftLeg 1
+    400684: YanChan_Ctrl:LeftShoulder
+    400686: YanChan_Ctrl:LeftShoulder 1
+    400688: YanChan_Ctrl:LeftShoulderEffector
+    400690: YanChan_Ctrl:LeftShoulderEffector 1
+    400692: YanChan_Ctrl:LeftToeBase
+    400694: YanChan_Ctrl:LeftToeBase 1
+    400696: YanChan_Ctrl:LeftUpLeg
+    400698: YanChan_Ctrl:LeftUpLeg 1
+    400700: YanChan_Ctrl:LeftWristEffector
+    400702: YanChan_Ctrl:LeftWristEffector 1
+    400704: YanChan_Ctrl:Neck
+    400706: YanChan_Ctrl:Neck 1
+    400708: YanChan_Ctrl:Reference
+    400710: YanChan_Ctrl:Reference 1
+    400712: YanChan_Ctrl:RightAnkleEffector
+    400714: YanChan_Ctrl:RightAnkleEffector 1
+    400716: YanChan_Ctrl:RightArm
+    400718: YanChan_Ctrl:RightArm 1
+    400720: YanChan_Ctrl:RightArmRoll
+    400722: YanChan_Ctrl:RightArmRoll 1
+    400724: YanChan_Ctrl:RightElbowEffector
+    400726: YanChan_Ctrl:RightElbowEffector 1
+    400728: YanChan_Ctrl:RightFoot
+    400730: YanChan_Ctrl:RightFoot 1
+    400732: YanChan_Ctrl:RightFootEffector
+    400734: YanChan_Ctrl:RightFootEffector 1
+    400736: YanChan_Ctrl:RightForeArm
+    400738: YanChan_Ctrl:RightForeArm 1
+    400740: YanChan_Ctrl:RightForeArmRoll
+    400742: YanChan_Ctrl:RightForeArmRoll 1
+    400744: YanChan_Ctrl:RightHand
+    400746: YanChan_Ctrl:RightHand 1
+    400748: YanChan_Ctrl:RightHandIndex1
+    400750: YanChan_Ctrl:RightHandIndex2
+    400752: YanChan_Ctrl:RightHandIndex3
+    400754: YanChan_Ctrl:RightHandIndex4
+    400756: YanChan_Ctrl:RightHandIndex5
+    400758: YanChan_Ctrl:RightHandIndex6
+    400760: YanChan_Ctrl:RightHandIndex7
+    400762: YanChan_Ctrl:RightHandIndex8
+    400764: YanChan_Ctrl:RightHandIndexEffector
+    400766: YanChan_Ctrl:RightHandIndexEffector 1
+    400768: YanChan_Ctrl:RightHandMiddle1
+    400770: YanChan_Ctrl:RightHandMiddle2
+    400772: YanChan_Ctrl:RightHandMiddle3
+    400774: YanChan_Ctrl:RightHandMiddle4
+    400776: YanChan_Ctrl:RightHandMiddle5
+    400778: YanChan_Ctrl:RightHandMiddle6
+    400780: YanChan_Ctrl:RightHandMiddle7
+    400782: YanChan_Ctrl:RightHandMiddle8
+    400784: YanChan_Ctrl:RightHandMiddleEffector
+    400786: YanChan_Ctrl:RightHandMiddleEffector 1
+    400788: YanChan_Ctrl:RightHandPinky1
+    400790: YanChan_Ctrl:RightHandPinky2
+    400792: YanChan_Ctrl:RightHandPinky3
+    400794: YanChan_Ctrl:RightHandPinky4
+    400796: YanChan_Ctrl:RightHandPinky5
+    400798: YanChan_Ctrl:RightHandPinky6
+    400800: YanChan_Ctrl:RightHandPinky7
+    400802: YanChan_Ctrl:RightHandPinky8
+    400804: YanChan_Ctrl:RightHandPinkyEffector
+    400806: YanChan_Ctrl:RightHandPinkyEffector 1
+    400808: YanChan_Ctrl:RightHandRing1
+    400810: YanChan_Ctrl:RightHandRing2
+    400812: YanChan_Ctrl:RightHandRing3
+    400814: YanChan_Ctrl:RightHandRing4
+    400816: YanChan_Ctrl:RightHandRing5
+    400818: YanChan_Ctrl:RightHandRing6
+    400820: YanChan_Ctrl:RightHandRing7
+    400822: YanChan_Ctrl:RightHandRing8
+    400824: YanChan_Ctrl:RightHandRingEffector
+    400826: YanChan_Ctrl:RightHandRingEffector 1
+    400828: YanChan_Ctrl:RightHandThumb1
+    400830: YanChan_Ctrl:RightHandThumb2
+    400832: YanChan_Ctrl:RightHandThumb3
+    400834: YanChan_Ctrl:RightHandThumb4
+    400836: YanChan_Ctrl:RightHandThumb5
+    400838: YanChan_Ctrl:RightHandThumb6
+    400840: YanChan_Ctrl:RightHandThumb7
+    400842: YanChan_Ctrl:RightHandThumb8
+    400844: YanChan_Ctrl:RightHandThumbEffector
+    400846: YanChan_Ctrl:RightHandThumbEffector 1
+    400848: YanChan_Ctrl:RightHipEffector
+    400850: YanChan_Ctrl:RightHipEffector 1
+    400852: YanChan_Ctrl:RightKneeEffector
+    400854: YanChan_Ctrl:RightKneeEffector 1
+    400856: YanChan_Ctrl:RightLeg
+    400858: YanChan_Ctrl:RightLeg 1
+    400860: YanChan_Ctrl:RightShoulder
+    400862: YanChan_Ctrl:RightShoulder 1
+    400864: YanChan_Ctrl:RightShoulderEffector
+    400866: YanChan_Ctrl:RightShoulderEffector 1
+    400868: YanChan_Ctrl:RightToeBase
+    400870: YanChan_Ctrl:RightToeBase 1
+    400872: YanChan_Ctrl:RightUpLeg
+    400874: YanChan_Ctrl:RightUpLeg 1
+    400876: YanChan_Ctrl:RightWristEffector
+    400878: YanChan_Ctrl:RightWristEffector 1
+    400880: YanChan_Ctrl:Spine
+    400882: YanChan_Ctrl:Spine 1
+    400884: YanChan_Ctrl:Spine1
+    400886: YanChan_Ctrl:Spine2
+    400888: YanChan_Ctrl:Spine3
+    400890: YanChan_Ctrl:Spine4
+    400892: YanChan_Ctrl:Spine5
+    400894: YanChan_Ctrl:Spine6
+    2300000: ChairTable:GenericClubProps_OpenFoldingChairMesh
+    2300002: Keytar:KeytarMesh
+    3300000: ChairTable:GenericClubProps_OpenFoldingChairMesh
+    3300002: Keytar:KeytarMesh
+    4300000: f02_schoolwear_210_h
+    4300002: Keytar:KeytarMesh
+    4300004: ChairTable:GenericClubProps_OpenFoldingChairMesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: f02_schoolwear_210_h
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keytar_KeytarMaterial
+    second: {fileID: 2100000, guid: 29a039d702f10c447b03a022272cf64f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: f02_face_00_h
+    second: {fileID: 2100000, guid: b7b2145669a79c645863b4dc08d34f4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: f02_hair_00_h
+    second: {fileID: 2100000, guid: b7b2145669a79c645863b4dc08d34f4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: f02_schoolwear_210_h_c
+    second: {fileID: 2100000, guid: b9ed29e3594a4e14592426fc79433882, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: f02_schoolwear_210_h_s
+    second: {fileID: 2100000, guid: b9ed29e3594a4e14592426fc79433882, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 2984ffcf276fc8d4b89814a55c59735d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 8328decb430f4ba418ca78bd33cb604a
+timeCreated: 1572667137
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BackHair_1
+    100002: BackHair_2
+    100004: BackHair_3
+    100006: BackHair_4
+    100008: BackHair_5
+    100010: BackHair_6
+    100012: BackHair_7
+    100014: BackHair_7_end
+    100016: LeftHair_1
+    100018: LeftHair_2
+    100020: LeftHair_3
+    100022: LeftHair_4
+    100024: LeftHair_5
+    100026: LeftHair_6
+    100028: LeftHair_6_end
+    100030: OC_UmiTazawa
+    100032: //RootNode
+    100034: OC_UmiTazawaRig
+    100036: RightHair_1
+    100038: RightHair_2
+    100040: RightHair_3
+    100042: RightHair_4
+    100044: RightHair_5
+    100046: RightHair_6
+    100048: RightHair_6_end
+    100050: Root
+    400000: BackHair_1
+    400002: BackHair_2
+    400004: BackHair_3
+    400006: BackHair_4
+    400008: BackHair_5
+    400010: BackHair_6
+    400012: BackHair_7
+    400014: BackHair_7_end
+    400016: LeftHair_1
+    400018: LeftHair_2
+    400020: LeftHair_3
+    400022: LeftHair_4
+    400024: LeftHair_5
+    400026: LeftHair_6
+    400028: LeftHair_6_end
+    400030: //RootNode
+    400032: OC_UmiTazawa
+    400034: OC_UmiTazawaRig
+    400036: RightHair_1
+    400038: RightHair_2
+    400040: RightHair_3
+    400042: RightHair_4
+    400044: RightHair_5
+    400046: RightHair_6
+    400048: RightHair_6_end
+    400050: Root
+    4300000: OC_UmiTazawa
+    9500000: //RootNode
+    13700000: OC_UmiTazawa
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OC_UmiTazawa
+    second: {fileID: 2100000, guid: 493fc262a4f0acc4d89d277f19330a03, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

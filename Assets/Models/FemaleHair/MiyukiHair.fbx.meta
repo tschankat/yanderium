@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 6a1345677db6fd34483180b1c0c05482
+timeCreated: 1536442177
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature.001
+    100002: Bone
+    100004: //RootNode
+    100006: MiyukiHairMesh
+    100008: PigtailL
+    100010: PigtailL.001
+    100012: PigtailL.002
+    100014: PigtailL.003
+    100016: PigtailL.004
+    100018: PigtailL.004_end
+    100020: PigtailR
+    100022: PigtailR.001
+    100024: PigtailR.002
+    100026: PigtailR.003
+    100028: PigtailR.004
+    100030: PigtailR.004_end
+    100032: MiyukiHair
+    100034: MiyukiHairROOT
+    100036: MiyukiLeftTail
+    100038: MiyukiLeftTail1
+    100040: MiyukiLeftTail2
+    100042: MiyukiLeftTail3
+    100044: MiyukiLeftTail4
+    100046: MiyukiLeftTail5
+    100048: MiyukiLeftTail6
+    100050: MiyukiLeftTail7
+    100052: MiyukiRightTail
+    100054: MiyukiRightTail1
+    100056: MiyukiRightTail2
+    100058: MiyukiRightTail3
+    100060: MiyukiRightTail4
+    100062: MiyukiRightTail5
+    100064: MiyukiRightTail6
+    100066: MiyukiRightTail7
+    400000: Armature.001
+    400002: Bone
+    400004: //RootNode
+    400006: MiyukiHairMesh
+    400008: PigtailL
+    400010: PigtailL.001
+    400012: PigtailL.002
+    400014: PigtailL.003
+    400016: PigtailL.004
+    400018: PigtailL.004_end
+    400020: PigtailR
+    400022: PigtailR.001
+    400024: PigtailR.002
+    400026: PigtailR.003
+    400028: PigtailR.004
+    400030: PigtailR.004_end
+    400032: MiyukiHair
+    400034: MiyukiHairROOT
+    400036: MiyukiLeftTail
+    400038: MiyukiLeftTail1
+    400040: MiyukiLeftTail2
+    400042: MiyukiLeftTail3
+    400044: MiyukiLeftTail4
+    400046: MiyukiLeftTail5
+    400048: MiyukiLeftTail6
+    400050: MiyukiLeftTail7
+    400052: MiyukiRightTail
+    400054: MiyukiRightTail1
+    400056: MiyukiRightTail2
+    400058: MiyukiRightTail3
+    400060: MiyukiRightTail4
+    400062: MiyukiRightTail5
+    400064: MiyukiRightTail6
+    400066: MiyukiRightTail7
+    4300000: MiyukiHairMesh
+    4300002: MiyukiHair
+    9500000: //RootNode
+    13700000: MiyukiHairMesh
+    13700002: MiyukiHair
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: e1cf737403f50a9408e25acdfe6d3f94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MiyukiHairMaterial
+    second: {fileID: 2100000, guid: 7c23d342d85729349bea18ebeab6ea5c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

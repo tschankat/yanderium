@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 19952afa1cc308a44951e7080e1bd9d3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ChainLinkFence
+    100002: ChainLinkFence0
+    100004: ChainLinkFence1
+    100006: //RootNode
+    100008: ChainLinks
+    100010: ChainLinks 1
+    100012: ChainLinks 2
+    100014: Pipe1
+    100016: Pipe1 1
+    100018: Pipe1 2
+    100020: Pipe2
+    100022: Pipe3
+    100024: Pipe3 1
+    100026: Pipe5
+    100028: Pipe5 1
+    100030: Pipe5 2
+    100032: Pipe6
+    100034: Pipe6 1
+    100036: Pipe6 2
+    100038: Pipe7
+    100040: Pipe7 1
+    100042: Pipe7 2
+    100044: Pipe8
+    100046: SmallChainLinks
+    100048: SmallChainLinks 1
+    100050: SmallChainLinks 2
+    100052: SmallChainLinks1
+    100054: SmallChainLinks2
+    100056: SmallChainLinks3
+    400000: ChainLinkFence
+    400002: ChainLinkFence0
+    400004: ChainLinkFence1
+    400006: //RootNode
+    400008: ChainLinks
+    400010: ChainLinks 1
+    400012: ChainLinks 2
+    400014: Pipe1
+    400016: Pipe1 1
+    400018: Pipe1 2
+    400020: Pipe2
+    400022: Pipe3
+    400024: Pipe3 1
+    400026: Pipe5
+    400028: Pipe5 1
+    400030: Pipe5 2
+    400032: Pipe6
+    400034: Pipe6 1
+    400036: Pipe6 2
+    400038: Pipe7
+    400040: Pipe7 1
+    400042: Pipe7 2
+    400044: Pipe8
+    400046: SmallChainLinks
+    400048: SmallChainLinks 1
+    400050: SmallChainLinks 2
+    400052: SmallChainLinks1
+    400054: SmallChainLinks2
+    400056: SmallChainLinks3
+    2300000: ChainLinks
+    2300002: ChainLinks 1
+    2300004: ChainLinks 2
+    2300006: Pipe1
+    2300008: Pipe1 1
+    2300010: Pipe1 2
+    2300012: Pipe2
+    2300014: Pipe3
+    2300016: Pipe3 1
+    2300018: Pipe5
+    2300020: Pipe5 1
+    2300022: Pipe5 2
+    2300024: Pipe6
+    2300026: Pipe6 1
+    2300028: Pipe6 2
+    2300030: Pipe7
+    2300032: Pipe7 1
+    2300034: Pipe7 2
+    2300036: Pipe8
+    2300038: SmallChainLinks
+    2300040: SmallChainLinks 1
+    2300042: SmallChainLinks 2
+    2300044: SmallChainLinks1
+    2300046: SmallChainLinks2
+    2300048: SmallChainLinks3
+    3300000: ChainLinks
+    3300002: ChainLinks 1
+    3300004: ChainLinks 2
+    3300006: Pipe1
+    3300008: Pipe1 1
+    3300010: Pipe1 2
+    3300012: Pipe2
+    3300014: Pipe3
+    3300016: Pipe3 1
+    3300018: Pipe5
+    3300020: Pipe5 1
+    3300022: Pipe5 2
+    3300024: Pipe6
+    3300026: Pipe6 1
+    3300028: Pipe6 2
+    3300030: Pipe7
+    3300032: Pipe7 1
+    3300034: Pipe7 2
+    3300036: Pipe8
+    3300038: SmallChainLinks
+    3300040: SmallChainLinks 1
+    3300042: SmallChainLinks 2
+    3300044: SmallChainLinks1
+    3300046: SmallChainLinks2
+    3300048: SmallChainLinks3
+    4300000: Pipe7
+    4300002: Pipe6
+    4300004: Pipe5
+    4300006: Pipe3
+    4300008: Pipe2
+    4300010: Pipe1
+    4300012: SmallChainLinks
+    4300014: ChainLinks
+    4300016: SmallChainLinks3
+    4300018: Pipe7
+    4300020: Pipe6
+    4300022: Pipe5
+    4300024: Pipe3
+    4300026: Pipe1
+    4300028: SmallChainLinks
+    4300030: ChainLinks
+    4300032: SmallChainLinks1
+    4300034: Pipe8
+    4300036: Pipe7
+    4300038: Pipe6
+    4300040: Pipe5
+    4300042: Pipe1
+    4300044: SmallChainLinks
+    4300046: ChainLinks
+    4300048: SmallChainLinks2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

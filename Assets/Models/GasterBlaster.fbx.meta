@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 2001b6a0add54fe499657e6e9c0919ce
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Beam
+    100002: //RootNode
+    100004: GasterBlasterMesh
+    100006: LeftJaw
+    100008: LeftJawNull
+    100010: RightJaw
+    100012: RightJawNull
+    100014: Skull
+    100016: SkullNull
+    100018: LeftEye
+    100020: RightEye
+    100022: GasterBlasterEyesMesh
+    100024: Eyes
+    100026: BeamParent
+    400000: Beam
+    400002: //RootNode
+    400004: GasterBlasterMesh
+    400006: LeftJaw
+    400008: LeftJawNull
+    400010: RightJaw
+    400012: RightJawNull
+    400014: Skull
+    400016: SkullNull
+    400018: LeftEye
+    400020: RightEye
+    400022: GasterBlasterEyesMesh
+    400024: Eyes
+    400026: BeamParent
+    2300000: Beam
+    2300002: LeftEye
+    2300004: RightEye
+    2300006: GasterBlasterEyesMesh
+    2300008: Eyes
+    2300010: BeamParent
+    3300000: Beam
+    3300002: LeftEye
+    3300004: RightEye
+    3300006: GasterBlasterEyesMesh
+    3300008: Eyes
+    3300010: BeamParent
+    4300000: GasterBlasterMesh
+    4300002: Beam
+    4300004: RightEye
+    4300006: LeftEye
+    4300008: GasterBlasterEyesMesh
+    4300010: Eyes
+    4300012: BeamParent
+    7400000: Blast
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: GasterBlasterMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Blast
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GasterBlasterMesh
+        weight: 1
+      - path: Skull
+        weight: 1
+      - path: Skull/Beam
+        weight: 1
+      - path: Skull/LeftJaw
+        weight: 1
+      - path: Skull/LeftJaw/LeftJawNull
+        weight: 1
+      - path: Skull/RightJaw
+        weight: 1
+      - path: Skull/RightJaw/RightJawNull
+        weight: 1
+      - path: Skull/SkullNull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

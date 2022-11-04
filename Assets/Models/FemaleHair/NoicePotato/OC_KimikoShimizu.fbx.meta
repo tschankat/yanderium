@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 2b2349baba07f174881ae552ca212b6f
+timeCreated: 1572667137
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BackDrills_1
+    100002: BackDrills_10
+    100004: BackDrills_10_end
+    100006: BackDrills_2
+    100008: BackDrills_3
+    100010: BackDrills_4
+    100012: BackDrills_5
+    100014: BackDrills_6
+    100016: BackDrills_7
+    100018: BackDrills_8
+    100020: BackDrills_9
+    100022: LeftDrill_1
+    100024: LeftDrill_2
+    100026: LeftDrill_3
+    100028: LeftDrill_4
+    100030: LeftDrill_5
+    100032: LeftDrill_6
+    100034: LeftDrill_7
+    100036: LeftDrill_8
+    100038: LeftDrill_9
+    100040: LeftDrill_9_end
+    100042: //RootNode
+    100044: OC_KimikoShimizu
+    100046: OC_KimikoShimizuRig
+    100048: RightDrill_1
+    100050: RightDrill_2
+    100052: RightDrill_3
+    100054: RightDrill_4
+    100056: RightDrill_5
+    100058: RightDrill_6
+    100060: RightDrill_7
+    100062: RightDrill_8
+    100064: RightDrill_9
+    100066: RightDrill_9_end
+    100068: Root
+    400000: BackDrills_1
+    400002: BackDrills_10
+    400004: BackDrills_10_end
+    400006: BackDrills_2
+    400008: BackDrills_3
+    400010: BackDrills_4
+    400012: BackDrills_5
+    400014: BackDrills_6
+    400016: BackDrills_7
+    400018: BackDrills_8
+    400020: BackDrills_9
+    400022: LeftDrill_1
+    400024: LeftDrill_2
+    400026: LeftDrill_3
+    400028: LeftDrill_4
+    400030: LeftDrill_5
+    400032: LeftDrill_6
+    400034: LeftDrill_7
+    400036: LeftDrill_8
+    400038: LeftDrill_9
+    400040: LeftDrill_9_end
+    400042: //RootNode
+    400044: OC_KimikoShimizu
+    400046: OC_KimikoShimizuRig
+    400048: RightDrill_1
+    400050: RightDrill_2
+    400052: RightDrill_3
+    400054: RightDrill_4
+    400056: RightDrill_5
+    400058: RightDrill_6
+    400060: RightDrill_7
+    400062: RightDrill_8
+    400064: RightDrill_9
+    400066: RightDrill_9_end
+    400068: Root
+    4300000: OC_KimikoShimizu
+    9500000: //RootNode
+    13700000: OC_KimikoShimizu
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OC_KimikoShimizu
+    second: {fileID: 2100000, guid: f6a881d14a653174ebad3005f5b2a8f0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

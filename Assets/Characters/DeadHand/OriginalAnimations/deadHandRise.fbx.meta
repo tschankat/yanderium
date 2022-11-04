@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 832c5abf8ec26bc44857ea2f2bdaff39
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Arm1
+    100002: Arm2
+    100004: ArmCTRL1
+    100006: ArmCTRL2
+    100008: CArmCTRL
+    100010: CArmCTRL2
+    100012: CIndexCTRL1
+    100014: CIndexCTRL2
+    100016: CIndexCTRL3
+    100018: CMiddleCTRL1
+    100020: CMiddleCTRL2
+    100022: CMiddleCTRL3
+    100024: CPinkyCTRL1
+    100026: CPinkyCTRL2
+    100028: CPinkyCTRL3
+    100030: CRingCTRL1
+    100032: CRingCTRL2
+    100034: CRingCTRL3
+    100036: CThumbCTRL1
+    100038: CThumbCTRL2
+    100040: CThumbCTRL3
+    100042: CWristCTRL
+    100044: DArmCTRL
+    100046: DArmCTRL2
+    100048: Deadhand
+    100050: DeadHandNull
+    100052: //RootNode
+    100054: DIndexCTRL1
+    100056: DIndexCTRL2
+    100058: DIndexCTRL3
+    100060: DMiddleCTRL1
+    100062: DMiddleCTRL2
+    100064: DMiddleCTRL3
+    100066: DPinkyCTRL1
+    100068: DPinkyCTRL2
+    100070: DPinkyCTRL3
+    100072: DRingCTRL1
+    100074: DRingCTRL2
+    100076: DRingCTRL3
+    100078: DThumbCTRL1
+    100080: DThumbCTRL2
+    100082: DThumbCTRL3
+    100084: DWristCTRL
+    100086: Hand
+    100088: IK_FK_CTRL
+    100090: IK_Hand_CTRL
+    100092: ikHandle1
+    100094: Index1
+    100096: Index2
+    100098: Index3
+    100100: Index4
+    100102: IndexCTRL1
+    100104: IndexCTRL2
+    100106: IndexCTRL3
+    100108: locator1
+    100110: Middle1
+    100112: Middle2
+    100114: Middle3
+    100116: Middle4
+    100118: MiddleCTRL1
+    100120: MiddleCTRL2
+    100122: MiddleCTRL3
+    100124: Pinky1
+    100126: Pinky2
+    100128: Pinky3
+    100130: Pinky4
+    100132: PinkyCTRL1
+    100134: PinkyCTRL2
+    100136: PinkyCTRL3
+    100138: PoleVectorCTRL
+    100140: Ring1
+    100142: Ring2
+    100144: Ring3
+    100146: Ring4
+    100148: RingCTRL1
+    100150: RingCTRL2
+    100152: RingCTRL3
+    100154: Root_CTRL
+    100156: Thumb1
+    100158: Thumb2
+    100160: Thumb3
+    100162: Thumb4
+    100164: ThumbCTRL1
+    100166: ThumbCTRL2
+    100168: ThumbCTRL3
+    100170: WristCTRL
+    400000: Arm1
+    400002: Arm2
+    400004: ArmCTRL1
+    400006: ArmCTRL2
+    400008: CArmCTRL
+    400010: CArmCTRL2
+    400012: CIndexCTRL1
+    400014: CIndexCTRL2
+    400016: CIndexCTRL3
+    400018: CMiddleCTRL1
+    400020: CMiddleCTRL2
+    400022: CMiddleCTRL3
+    400024: CPinkyCTRL1
+    400026: CPinkyCTRL2
+    400028: CPinkyCTRL3
+    400030: CRingCTRL1
+    400032: CRingCTRL2
+    400034: CRingCTRL3
+    400036: CThumbCTRL1
+    400038: CThumbCTRL2
+    400040: CThumbCTRL3
+    400042: CWristCTRL
+    400044: DArmCTRL
+    400046: DArmCTRL2
+    400048: Deadhand
+    400050: DeadHandNull
+    400052: //RootNode
+    400054: DIndexCTRL1
+    400056: DIndexCTRL2
+    400058: DIndexCTRL3
+    400060: DMiddleCTRL1
+    400062: DMiddleCTRL2
+    400064: DMiddleCTRL3
+    400066: DPinkyCTRL1
+    400068: DPinkyCTRL2
+    400070: DPinkyCTRL3
+    400072: DRingCTRL1
+    400074: DRingCTRL2
+    400076: DRingCTRL3
+    400078: DThumbCTRL1
+    400080: DThumbCTRL2
+    400082: DThumbCTRL3
+    400084: DWristCTRL
+    400086: Hand
+    400088: IK_FK_CTRL
+    400090: IK_Hand_CTRL
+    400092: ikHandle1
+    400094: Index1
+    400096: Index2
+    400098: Index3
+    400100: Index4
+    400102: IndexCTRL1
+    400104: IndexCTRL2
+    400106: IndexCTRL3
+    400108: locator1
+    400110: Middle1
+    400112: Middle2
+    400114: Middle3
+    400116: Middle4
+    400118: MiddleCTRL1
+    400120: MiddleCTRL2
+    400122: MiddleCTRL3
+    400124: Pinky1
+    400126: Pinky2
+    400128: Pinky3
+    400130: Pinky4
+    400132: PinkyCTRL1
+    400134: PinkyCTRL2
+    400136: PinkyCTRL3
+    400138: PoleVectorCTRL
+    400140: Ring1
+    400142: Ring2
+    400144: Ring3
+    400146: Ring4
+    400148: RingCTRL1
+    400150: RingCTRL2
+    400152: RingCTRL3
+    400154: Root_CTRL
+    400156: Thumb1
+    400158: Thumb2
+    400160: Thumb3
+    400162: Thumb4
+    400164: ThumbCTRL1
+    400166: ThumbCTRL2
+    400168: ThumbCTRL3
+    400170: WristCTRL
+    4300000: Deadhand
+    7400000: DemonArmRiseOld
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Deadhand
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: DemonArmRiseOld
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Deadhand
+        weight: 1
+      - path: DeadHandNull
+        weight: 1
+      - path: DeadHandNull/Arm1
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Index1
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Index1/Index2
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Index1/Index2/Index3
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Index1/Index2/Index3/Index4
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/locator1
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Middle1
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Middle1/Middle2
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Middle1/Middle2/Middle3
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Middle1/Middle2/Middle3/Middle4
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Pinky1
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Pinky1/Pinky2
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Pinky1/Pinky2/Pinky3
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Pinky1/Pinky2/Pinky3/Pinky4
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Ring1
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Ring1/Ring2
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Ring1/Ring2/Ring3
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Ring1/Ring2/Ring3/Ring4
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Thumb1
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Thumb1/Thumb2
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Thumb1/Thumb2/Thumb3
+        weight: 1
+      - path: DeadHandNull/Arm1/Arm2/Hand/Thumb1/Thumb2/Thumb3/Thumb4
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: Root_CTRL
+        weight: 1
+      - path: Root_CTRL/DArmCTRL
+        weight: 1
+      - path: Root_CTRL/DArmCTRL/CArmCTRL
+        weight: 1
+      - path: Root_CTRL/DArmCTRL/CArmCTRL/ArmCTRL1
+        weight: 1
+      - path: Root_CTRL/DArmCTRL/CArmCTRL/ArmCTRL1/DArmCTRL2
+        weight: 1
+      - path: Root_CTRL/DArmCTRL/CArmCTRL/ArmCTRL1/DArmCTRL2/CArmCTRL2
+        weight: 1
+      - path: Root_CTRL/DArmCTRL/CArmCTRL/ArmCTRL1/DArmCTRL2/CArmCTRL2/ArmCTRL2
+        weight: 1
+      - path: Root_CTRL/DArmCTRL/CArmCTRL/ArmCTRL1/DArmCTRL2/CArmCTRL2/ArmCTRL2/DWristCTRL
+        weight: 1
+      - path: Root_CTRL/DArmCTRL/CArmCTRL/ArmCTRL1/DArmCTRL2/CArmCTRL2/ArmCTRL2/DWristCTRL/CWristCTRL
+        weight: 1
+      - path: Root_CTRL/DArmCTRL/CArmCTRL/ArmCTRL1/DArmCTRL2/CArmCTRL2/ArmCTRL2/DWristCTRL/CWristCTRL/WristCTRL
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DIndexCTRL1
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DIndexCTRL1/CIndexCTRL1
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DIndexCTRL1/CIndexCTRL1/IndexCTRL1
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DIndexCTRL1/CIndexCTRL1/IndexCTRL1/DIndexCTRL2
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DIndexCTRL1/CIndexCTRL1/IndexCTRL1/DIndexCTRL2/CIndexCTRL2
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DIndexCTRL1/CIndexCTRL1/IndexCTRL1/DIndexCTRL2/CIndexCTRL2/IndexCTRL2
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DIndexCTRL1/CIndexCTRL1/IndexCTRL1/DIndexCTRL2/CIndexCTRL2/IndexCTRL2/DIndexCTRL3
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DIndexCTRL1/CIndexCTRL1/IndexCTRL1/DIndexCTRL2/CIndexCTRL2/IndexCTRL2/DIndexCTRL3/CIndexCTRL3
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DIndexCTRL1/CIndexCTRL1/IndexCTRL1/DIndexCTRL2/CIndexCTRL2/IndexCTRL2/DIndexCTRL3/CIndexCTRL3/IndexCTRL3
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DMiddleCTRL1
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DMiddleCTRL1/CMiddleCTRL1
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DMiddleCTRL1/CMiddleCTRL1/MiddleCTRL1
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DMiddleCTRL1/CMiddleCTRL1/MiddleCTRL1/DMiddleCTRL2
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DMiddleCTRL1/CMiddleCTRL1/MiddleCTRL1/DMiddleCTRL2/CMiddleCTRL2
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DMiddleCTRL1/CMiddleCTRL1/MiddleCTRL1/DMiddleCTRL2/CMiddleCTRL2/MiddleCTRL2
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DMiddleCTRL1/CMiddleCTRL1/MiddleCTRL1/DMiddleCTRL2/CMiddleCTRL2/MiddleCTRL2/DMiddleCTRL3
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DMiddleCTRL1/CMiddleCTRL1/MiddleCTRL1/DMiddleCTRL2/CMiddleCTRL2/MiddleCTRL2/DMiddleCTRL3/CMiddleCTRL3
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DMiddleCTRL1/CMiddleCTRL1/MiddleCTRL1/DMiddleCTRL2/CMiddleCTRL2/MiddleCTRL2/DMiddleCTRL3/CMiddleCTRL3/MiddleCTRL3
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DPinkyCTRL1
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DPinkyCTRL1/CPinkyCTRL1
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DPinkyCTRL1/PinkyCTRL1
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DPinkyCTRL1/PinkyCTRL1/DPinkyCTRL2
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DPinkyCTRL1/PinkyCTRL1/DPinkyCTRL2/CPinkyCTRL2
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DPinkyCTRL1/PinkyCTRL1/DPinkyCTRL2/CPinkyCTRL2/PinkyCTRL2
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DPinkyCTRL1/PinkyCTRL1/DPinkyCTRL2/CPinkyCTRL2/PinkyCTRL2/DPinkyCTRL3
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DPinkyCTRL1/PinkyCTRL1/DPinkyCTRL2/CPinkyCTRL2/PinkyCTRL2/DPinkyCTRL3/CPinkyCTRL3
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DPinkyCTRL1/PinkyCTRL1/DPinkyCTRL2/CPinkyCTRL2/PinkyCTRL2/DPinkyCTRL3/CPinkyCTRL3/PinkyCTRL3
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DRingCTRL1
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DRingCTRL1/CRingCTRL1
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DRingCTRL1/CRingCTRL1/RingCTRL1
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DRingCTRL1/CRingCTRL1/RingCTRL1/DRingCTRL2
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DRingCTRL1/CRingCTRL1/RingCTRL1/DRingCTRL2/CRingCTRL2
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DRingCTRL1/CRingCTRL1/RingCTRL1/DRingCTRL2/CRingCTRL2/RingCTRL2
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DRingCTRL1/CRingCTRL1/RingCTRL1/DRingCTRL2/CRingCTRL2/RingCTRL2/DRingCTRL3
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DRingCTRL1/CRingCTRL1/RingCTRL1/DRingCTRL2/CRingCTRL2/RingCTRL2/DRingCTRL3/CRingCTRL3
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DRingCTRL1/CRingCTRL1/RingCTRL1/DRingCTRL2/CRingCTRL2/RingCTRL2/DRingCTRL3/CRingCTRL3/RingCTRL3
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DThumbCTRL1
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DThumbCTRL1/CThumbCTRL1
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DThumbCTRL1/CThumbCTRL1/ThumbCTRL1
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DThumbCTRL1/CThumbCTRL1/ThumbCTRL1/DThumbCTRL2
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DThumbCTRL1/CThumbCTRL1/ThumbCTRL1/DThumbCTRL2/CThumbCTRL2
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DThumbCTRL1/CThumbCTRL1/ThumbCTRL1/DThumbCTRL2/CThumbCTRL2/ThumbCTRL2
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DThumbCTRL1/CThumbCTRL1/ThumbCTRL1/DThumbCTRL2/CThumbCTRL2/ThumbCTRL2/DThumbCTRL3
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DThumbCTRL1/CThumbCTRL1/ThumbCTRL1/DThumbCTRL2/CThumbCTRL2/ThumbCTRL2/DThumbCTRL3/CThumbCTRL3
+        weight: 1
+      - path: Root_CTRL/IK_FK_CTRL/DThumbCTRL1/CThumbCTRL1/ThumbCTRL1/DThumbCTRL2/CThumbCTRL2/ThumbCTRL2/DThumbCTRL3/CThumbCTRL3/ThumbCTRL3
+        weight: 1
+      - path: Root_CTRL/IK_Hand_CTRL
+        weight: 1
+      - path: Root_CTRL/PoleVectorCTRL
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

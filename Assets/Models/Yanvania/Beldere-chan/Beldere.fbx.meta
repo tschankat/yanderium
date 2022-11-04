@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 6d562b66416261b4a968a1152acad50c
+timeCreated: 1553363357
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: armature
+    100002: //RootNode
+    100004: BodyMesh
+    100006: cape1
+    100008: cape2
+    100010: cape3
+    100012: cape4
+    100014: cape4_end
+    100016: ClothesMesh
+    100018: eye.L
+    100020: eye.L_end
+    100022: eye.R
+    100024: eye.R_end
+    100026: foot.L
+    100028: foot.R
+    100030: hair1
+    100032: hair2
+    100034: hair3
+    100036: hair4
+    100038: hair4_end
+    100040: HairMesh
+    100042: hand.L
+    100044: hand.R
+    100046: head
+    100048: index1.L
+    100050: index1.R
+    100052: index2.L
+    100054: index2.R
+    100056: index3.L
+    100058: index3.L_end
+    100060: index3.R
+    100062: index3.R_end
+    100064: lowarm.L
+    100066: lowarm.R
+    100068: lowleg.L
+    100070: lowleg.R
+    100072: mid1.L
+    100074: mid1.R
+    100076: mid2.L
+    100078: mid2.R
+    100080: mid3.L
+    100082: mid3.L_end
+    100084: mid3.R
+    100086: mid3.R_end
+    100088: neck
+    100090: pinky1.L
+    100092: pinky1.R
+    100094: pinky2.L
+    100096: pinky2.R
+    100098: pinky3.L
+    100100: pinky3.L_end
+    100102: pinky3.R
+    100104: pinky3.R_end
+    100106: ring1.L
+    100108: ring1.R
+    100110: ring2.L
+    100112: ring2.R
+    100114: ring3.L
+    100116: ring3.L_end
+    100118: ring3.R
+    100120: ring3.R_end
+    100122: root
+    100124: shoulder.L
+    100126: shoulder.R
+    100128: spine1
+    100130: spine2
+    100132: spine3
+    100134: thumb1.L
+    100136: thumb1.R
+    100138: thumb2.L
+    100140: thumb2.R
+    100142: thumb3.L
+    100144: thumb3.L_end
+    100146: thumb3.R
+    100148: thumb3.R_end
+    100150: toe.L
+    100152: toe.L_end
+    100154: toe.R
+    100156: toe.R_end
+    100158: uparm.L
+    100160: uparm.R
+    100162: upleg.L
+    100164: upleg.R
+    400000: armature
+    400002: //RootNode
+    400004: BodyMesh
+    400006: cape1
+    400008: cape2
+    400010: cape3
+    400012: cape4
+    400014: cape4_end
+    400016: ClothesMesh
+    400018: eye.L
+    400020: eye.L_end
+    400022: eye.R
+    400024: eye.R_end
+    400026: foot.L
+    400028: foot.R
+    400030: hair1
+    400032: hair2
+    400034: hair3
+    400036: hair4
+    400038: hair4_end
+    400040: HairMesh
+    400042: hand.L
+    400044: hand.R
+    400046: head
+    400048: index1.L
+    400050: index1.R
+    400052: index2.L
+    400054: index2.R
+    400056: index3.L
+    400058: index3.L_end
+    400060: index3.R
+    400062: index3.R_end
+    400064: lowarm.L
+    400066: lowarm.R
+    400068: lowleg.L
+    400070: lowleg.R
+    400072: mid1.L
+    400074: mid1.R
+    400076: mid2.L
+    400078: mid2.R
+    400080: mid3.L
+    400082: mid3.L_end
+    400084: mid3.R
+    400086: mid3.R_end
+    400088: neck
+    400090: pinky1.L
+    400092: pinky1.R
+    400094: pinky2.L
+    400096: pinky2.R
+    400098: pinky3.L
+    400100: pinky3.L_end
+    400102: pinky3.R
+    400104: pinky3.R_end
+    400106: ring1.L
+    400108: ring1.R
+    400110: ring2.L
+    400112: ring2.R
+    400114: ring3.L
+    400116: ring3.L_end
+    400118: ring3.R
+    400120: ring3.R_end
+    400122: root
+    400124: shoulder.L
+    400126: shoulder.R
+    400128: spine1
+    400130: spine2
+    400132: spine3
+    400134: thumb1.L
+    400136: thumb1.R
+    400138: thumb2.L
+    400140: thumb2.R
+    400142: thumb3.L
+    400144: thumb3.L_end
+    400146: thumb3.R
+    400148: thumb3.R_end
+    400150: toe.L
+    400152: toe.L_end
+    400154: toe.R
+    400156: toe.R_end
+    400158: uparm.L
+    400160: uparm.R
+    400162: upleg.L
+    400164: upleg.R
+    4300000: BodyMesh
+    4300002: HairMesh
+    4300004: ClothesMesh
+    9500000: //RootNode
+    13700000: BodyMesh
+    13700002: ClothesMesh
+    13700004: HairMesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: 6b154237c6ce3c742a1a6868fe91275a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clothes
+    second: {fileID: 2100000, guid: 35d6382c2a0c4ea48851139a776c03ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair
+    second: {fileID: 2100000, guid: 886435437fa723648850ea66ff25c38d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head
+    second: {fileID: 2100000, guid: 002fbc89a29565f41aca44fb8c18e412, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

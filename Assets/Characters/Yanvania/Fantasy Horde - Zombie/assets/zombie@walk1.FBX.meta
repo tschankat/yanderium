@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: b3b726b1efd5817498917bdf37d6f1f7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Base HumanHead
+    100002: Base HumanNeck
+    100004: Base HumanRCollarbone
+    100006: Base HumanRUpperarm
+    100008: Base HumanLDigit32
+    100010: Base HumanLDigit22
+    100012: Base HumanLDigit42
+    100014: Base HumanLDigit31
+    100016: Base HumanSpine3
+    100018: Base HumanRibcage
+    100020: Base HumanLDigit13
+    100022: Base HumanLDigit11 1
+    100024: Base HumanRThigh
+    100026: Base HumanRDigit11
+    100028: Base HumanSpine1
+    100030: Base HumanLDigit21
+    100032: Base HumanLDigit11
+    100034: Base HumanPelvis
+    100036: Base HumanLUpperarm
+    100038: Base HumanLDigit41
+    100040: Base HumanRForearm
+    100042: Base HumanSpine2
+    100044: Base HumanLCollarbone
+    100046: Base HumanRDigit11 1
+    100048: Base HumanRDigit12
+    100050: Base HumanLThigh
+    100052: Base HumanLDigit12
+    100054: Base HumanLForearm
+    100056: Base Human
+    100058: Base HumanLPalm
+    100060: Base HumanRFoot
+    100062: Base HumanRCalf
+    100064: Base HumanLFoot
+    100066: Base HumanLCalf
+    100068: Base HumanRPalm
+    100070: Base HumanLPlatform
+    100072: Base HumanRDigit13
+    100074: Base HumanRDigit32
+    100076: Base HumanRDigit21
+    100078: bon_gob_war_jaw_tip
+    100080: Base HumanRDigit31
+    100082: Base HumanRDigit22
+    100084: Base HumanRDigit42
+    100086: Base HumanLIKTarget
+    100088: Base HumanRDigit41
+    100090: Base HumanRPlatform
+    100092: Base HumanRIKTarget
+    100094: bon_gob_war_jaw
+    100096: //RootNode
+    400000: Base HumanHead
+    400002: Base HumanNeck
+    400004: Base HumanRCollarbone
+    400006: Base HumanRUpperarm
+    400008: Base HumanLDigit32
+    400010: Base HumanLDigit22
+    400012: Base HumanLDigit42
+    400014: Base HumanLDigit31
+    400016: Base HumanSpine3
+    400018: Base HumanRibcage
+    400020: Base HumanLDigit13
+    400022: Base HumanLDigit11 1
+    400024: Base HumanRThigh
+    400026: Base HumanRDigit11
+    400028: Base HumanSpine1
+    400030: Base HumanLDigit21
+    400032: Base HumanLDigit11
+    400034: Base HumanPelvis
+    400036: Base HumanLUpperarm
+    400038: Base HumanLDigit41
+    400040: Base HumanRForearm
+    400042: Base HumanSpine2
+    400044: Base HumanLCollarbone
+    400046: Base HumanRDigit11 1
+    400048: Base HumanRDigit12
+    400050: Base HumanLThigh
+    400052: Base HumanLDigit12
+    400054: Base HumanLForearm
+    400056: Base Human
+    400058: Base HumanLPalm
+    400060: Base HumanRFoot
+    400062: Base HumanRCalf
+    400064: Base HumanLFoot
+    400066: Base HumanLCalf
+    400068: Base HumanRPalm
+    400070: Base HumanLPlatform
+    400072: Base HumanRDigit13
+    400074: Base HumanRDigit32
+    400076: Base HumanRDigit21
+    400078: bon_gob_war_jaw_tip
+    400080: Base HumanRDigit31
+    400082: Base HumanRDigit22
+    400084: Base HumanRDigit42
+    400086: Base HumanLIKTarget
+    400088: Base HumanRDigit41
+    400090: Base HumanRPlatform
+    400092: Base HumanRIKTarget
+    400094: bon_gob_war_jaw
+    400096: //RootNode
+    7400000: Take 001
+    7400002: walk1
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk1
+      takeName: 
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

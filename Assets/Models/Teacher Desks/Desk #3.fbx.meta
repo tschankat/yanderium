@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 5ca32fa582dccdf4cbb7e2bc1c20c553
+timeCreated: 1433709533
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 'Book #1'
+    100002: 'Book #1.001'
+    100004: 'Book #1.002'
+    100006: 'Book #1.003'
+    100008: 'Book #1.004'
+    100010: 'Book #1.005'
+    100012: 'Book #1.006'
+    100014: 'Book #1.007'
+    100016: 'Book #2'
+    100018: 'Book #2.001'
+    100020: 'Book #2.002'
+    100022: 'Book #2.003'
+    100024: 'Book #2.004'
+    100026: 'Book #2.005'
+    100028: 'Book #3'
+    100030: 'Book #3.001'
+    100032: 'Book #3.002'
+    100034: 'Book #3.003'
+    100036: 'Book #3.004'
+    100038: 'Book #3.005'
+    100040: 'Book #3.006'
+    100042: Chair.001
+    100044: Cup
+    100046: //RootNode
+    100048: Keyboard
+    100050: Lamp
+    100052: Monitor
+    100054: Mouse
+    100056: Mouse Pad
+    100058: Paper Holder
+    100060: Paper Stack
+    100062: Pen
+    100064: Pencil
+    100066: Pencil Cup
+    100068: Pencil.001
+    100070: Pencil.002
+    100072: Rubber
+    100074: Ruler
+    400000: 'Book #1'
+    400002: 'Book #1.001'
+    400004: 'Book #1.002'
+    400006: 'Book #1.003'
+    400008: 'Book #1.004'
+    400010: 'Book #1.005'
+    400012: 'Book #1.006'
+    400014: 'Book #1.007'
+    400016: 'Book #2'
+    400018: 'Book #2.001'
+    400020: 'Book #2.002'
+    400022: 'Book #2.003'
+    400024: 'Book #2.004'
+    400026: 'Book #2.005'
+    400028: 'Book #3'
+    400030: 'Book #3.001'
+    400032: 'Book #3.002'
+    400034: 'Book #3.003'
+    400036: 'Book #3.004'
+    400038: 'Book #3.005'
+    400040: 'Book #3.006'
+    400042: Chair.001
+    400044: Cup
+    400046: //RootNode
+    400048: Keyboard
+    400050: Lamp
+    400052: Monitor
+    400054: Mouse
+    400056: Mouse Pad
+    400058: Paper Holder
+    400060: Paper Stack
+    400062: Pen
+    400064: Pencil
+    400066: Pencil Cup
+    400068: Pencil.001
+    400070: Pencil.002
+    400072: Rubber
+    400074: Ruler
+    2300000: 'Book #1'
+    2300002: 'Book #1.001'
+    2300004: 'Book #1.002'
+    2300006: 'Book #1.003'
+    2300008: 'Book #1.004'
+    2300010: 'Book #1.005'
+    2300012: 'Book #1.006'
+    2300014: 'Book #1.007'
+    2300016: 'Book #2'
+    2300018: 'Book #2.001'
+    2300020: 'Book #2.002'
+    2300022: 'Book #2.003'
+    2300024: 'Book #2.004'
+    2300026: 'Book #2.005'
+    2300028: 'Book #3'
+    2300030: 'Book #3.001'
+    2300032: 'Book #3.002'
+    2300034: 'Book #3.003'
+    2300036: 'Book #3.004'
+    2300038: 'Book #3.005'
+    2300040: 'Book #3.006'
+    2300042: Chair.001
+    2300044: Cup
+    2300046: //RootNode
+    2300048: Keyboard
+    2300050: Lamp
+    2300052: Monitor
+    2300054: Mouse
+    2300056: Mouse Pad
+    2300058: Paper Holder
+    2300060: Paper Stack
+    2300062: Pen
+    2300064: Pencil
+    2300066: Pencil Cup
+    2300068: Pencil.001
+    2300070: Pencil.002
+    2300072: Rubber
+    2300074: Ruler
+    3300000: 'Book #1'
+    3300002: 'Book #1.001'
+    3300004: 'Book #1.002'
+    3300006: 'Book #1.003'
+    3300008: 'Book #1.004'
+    3300010: 'Book #1.005'
+    3300012: 'Book #1.006'
+    3300014: 'Book #1.007'
+    3300016: 'Book #2'
+    3300018: 'Book #2.001'
+    3300020: 'Book #2.002'
+    3300022: 'Book #2.003'
+    3300024: 'Book #2.004'
+    3300026: 'Book #2.005'
+    3300028: 'Book #3'
+    3300030: 'Book #3.001'
+    3300032: 'Book #3.002'
+    3300034: 'Book #3.003'
+    3300036: 'Book #3.004'
+    3300038: 'Book #3.005'
+    3300040: 'Book #3.006'
+    3300042: Chair.001
+    3300044: Cup
+    3300046: //RootNode
+    3300048: Keyboard
+    3300050: Lamp
+    3300052: Monitor
+    3300054: Mouse
+    3300056: Mouse Pad
+    3300058: Paper Holder
+    3300060: Paper Stack
+    3300062: Pen
+    3300064: Pencil
+    3300066: Pencil Cup
+    3300068: Pencil.001
+    3300070: Pencil.002
+    3300072: Rubber
+    3300074: Ruler
+    4300000: Teacher Desk
+    4300002: Chair.001
+    4300004: Pen
+    4300006: Lamp
+    4300008: Mouse Pad
+    4300010: Cup
+    4300012: Ruler
+    4300014: Paper Holder
+    4300016: Paper Stack
+    4300018: 'Book #1.006'
+    4300020: 'Book #3.002'
+    4300022: 'Book #2.005'
+    4300024: 'Book #1.007'
+    4300026: 'Book #3.001'
+    4300028: 'Book #3'
+    4300030: 'Book #2'
+    4300032: 'Book #1'
+    4300034: 'Book #1.005'
+    4300036: 'Book #3.006'
+    4300038: 'Book #3.003'
+    4300040: 'Book #2.004'
+    4300042: 'Book #1.004'
+    4300044: 'Book #1.003'
+    4300046: 'Book #1.001'
+    4300048: 'Book #2.001'
+    4300050: 'Book #3.005'
+    4300052: Pencil.002
+    4300054: Pencil.001
+    4300056: Pencil
+    4300058: Pencil Cup
+    4300060: 'Book #2.003'
+    4300062: 'Book #2.002'
+    4300064: 'Book #3.004'
+    4300066: 'Book #1.002'
+    4300068: Mouse
+    4300070: Keyboard
+    4300072: Monitor
+    4300074: Rubber
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

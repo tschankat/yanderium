@@ -1,0 +1,1634 @@
+fileFormatVersion: 2
+guid: e018b228d437de24888fe72ac5d063bf
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: CookingClub_MiniWiniJar_LidMesh1
+    100002: CookingClub_MiniWiniJarMesh1
+    100004: //RootNode
+    100006: YanChan_Rig34_schoolOutfit:atama_n
+    100008: YanChan_Rig34_schoolOutfit:b_lip_center
+    100010: YanChan_Rig34_schoolOutfit:Back_skart1
+    100012: YanChan_Rig34_schoolOutfit:Back_skart2
+    100014: YanChan_Rig34_schoolOutfit:Back_skart3
+    100016: YanChan_Rig34_schoolOutfit:BackHair1
+    100018: YanChan_Rig34_schoolOutfit:BackHair2
+    100020: YanChan_Rig34_schoolOutfit:BackHair3
+    100022: YanChan_Rig34_schoolOutfit:BackHair4
+    100024: YanChan_Rig34_schoolOutfit:cheek_Left
+    100026: YanChan_Rig34_schoolOutfit:cheek_Right
+    100028: YanChan_Rig34_schoolOutfit:chin
+    100030: YanChan_Rig34_schoolOutfit:eye_Left
+    100032: YanChan_Rig34_schoolOutfit:eye_Right
+    100034: YanChan_Rig34_schoolOutfit:eyebrow_a_Left
+    100036: YanChan_Rig34_schoolOutfit:eyebrow_a_Right
+    100038: YanChan_Rig34_schoolOutfit:eyebrow_b_Left
+    100040: YanChan_Rig34_schoolOutfit:eyebrow_b_Right
+    100042: YanChan_Rig34_schoolOutfit:eyelid_und1_Left
+    100044: YanChan_Rig34_schoolOutfit:eyelid_und1_Right
+    100046: YanChan_Rig34_schoolOutfit:eyelid_und2_Left
+    100048: YanChan_Rig34_schoolOutfit:eyelid_und2_Right
+    100050: YanChan_Rig34_schoolOutfit:eyelid_und_Left
+    100052: YanChan_Rig34_schoolOutfit:eyelid_und_Right
+    100054: YanChan_Rig34_schoolOutfit:eyerid1_Left
+    100056: YanChan_Rig34_schoolOutfit:eyerid1_Right
+    100058: YanChan_Rig34_schoolOutfit:eyerid2_Left
+    100060: YanChan_Rig34_schoolOutfit:eyerid2_Right
+    100062: YanChan_Rig34_schoolOutfit:eyerid_Left
+    100064: YanChan_Rig34_schoolOutfit:eyerid_Right
+    100066: YanChan_Rig34_schoolOutfit:f02_schoolwear_210_h
+    100068: YanChan_Rig34_schoolOutfit:face
+    100070: YanChan_Rig34_schoolOutfit:Front_skart1
+    100072: YanChan_Rig34_schoolOutfit:Front_skart2
+    100074: YanChan_Rig34_schoolOutfit:Front_skart3
+    100076: YanChan_Rig34_schoolOutfit:FrontHair
+    100078: YanChan_Rig34_schoolOutfit:Glasses_Null
+    100080: YanChan_Rig34_schoolOutfit:Head
+    100082: YanChan_Rig34_schoolOutfit:Head_null
+    100084: YanChan_Rig34_schoolOutfit:Hips
+    100086: YanChan_Rig34_schoolOutfit:inner_corner_of_eye_Left
+    100088: YanChan_Rig34_schoolOutfit:inner_corner_of_eye_Right
+    100090: YanChan_Rig34_schoolOutfit:jaw
+    100092: YanChan_Rig34_schoolOutfit:Left_skart1
+    100094: YanChan_Rig34_schoolOutfit:Left_skart2
+    100096: YanChan_Rig34_schoolOutfit:Left_skart3
+    100098: YanChan_Rig34_schoolOutfit:LeftArm
+    100100: YanChan_Rig34_schoolOutfit:LeftArmRoll
+    100102: YanChan_Rig34_schoolOutfit:LeftBreast
+    100104: YanChan_Rig34_schoolOutfit:LeftEarring_Null
+    100106: YanChan_Rig34_schoolOutfit:LeftFoot
+    100108: YanChan_Rig34_schoolOutfit:LeftForeArm
+    100110: YanChan_Rig34_schoolOutfit:LeftForeArm_Helper
+    100112: YanChan_Rig34_schoolOutfit:LeftForeArmRoll
+    100114: YanChan_Rig34_schoolOutfit:LeftHair1
+    100116: YanChan_Rig34_schoolOutfit:LeftHair2
+    100118: YanChan_Rig34_schoolOutfit:LeftHair3
+    100120: YanChan_Rig34_schoolOutfit:LeftHand
+    100122: YanChan_Rig34_schoolOutfit:LeftHandIndex1
+    100124: YanChan_Rig34_schoolOutfit:LeftHandIndex2
+    100126: YanChan_Rig34_schoolOutfit:LeftHandIndex3
+    100128: YanChan_Rig34_schoolOutfit:LeftHandIndexNull
+    100130: YanChan_Rig34_schoolOutfit:LeftHanditem_Null
+    100132: YanChan_Rig34_schoolOutfit:LeftHandMiddle1
+    100134: YanChan_Rig34_schoolOutfit:LeftHandMiddle2
+    100136: YanChan_Rig34_schoolOutfit:LeftHandMiddle3
+    100138: YanChan_Rig34_schoolOutfit:LeftHandMiddleNull
+    100140: YanChan_Rig34_schoolOutfit:LeftHandPinky1
+    100142: YanChan_Rig34_schoolOutfit:LeftHandPinky2
+    100144: YanChan_Rig34_schoolOutfit:LeftHandPinky3
+    100146: YanChan_Rig34_schoolOutfit:LeftHandPinkyNull
+    100148: YanChan_Rig34_schoolOutfit:LeftHandRing1
+    100150: YanChan_Rig34_schoolOutfit:LeftHandRing2
+    100152: YanChan_Rig34_schoolOutfit:LeftHandRing3
+    100154: YanChan_Rig34_schoolOutfit:LeftHandRingNull
+    100156: YanChan_Rig34_schoolOutfit:LeftHandThumb1
+    100158: YanChan_Rig34_schoolOutfit:LeftHandThumb2
+    100160: YanChan_Rig34_schoolOutfit:LeftHandThumb3
+    100162: YanChan_Rig34_schoolOutfit:LeftHandThumbNull
+    100164: YanChan_Rig34_schoolOutfit:LeftHip_Helper
+    100166: YanChan_Rig34_schoolOutfit:LeftLeg
+    100168: YanChan_Rig34_schoolOutfit:LeftLeg_Helper
+    100170: YanChan_Rig34_schoolOutfit:LeftNipple
+    100172: YanChan_Rig34_schoolOutfit:LeftShoulder
+    100174: YanChan_Rig34_schoolOutfit:LeftToes
+    100176: YanChan_Rig34_schoolOutfit:LeftToesNull
+    100178: YanChan_Rig34_schoolOutfit:LeftUpLeg
+    100180: YanChan_Rig34_schoolOutfit:lip_Left
+    100182: YanChan_Rig34_schoolOutfit:lip_Right
+    100184: YanChan_Rig34_schoolOutfit:lip_t_Left
+    100186: YanChan_Rig34_schoolOutfit:lip_t_Right
+    100188: YanChan_Rig34_schoolOutfit:lip_top_Left
+    100190: YanChan_Rig34_schoolOutfit:lip_top_Right
+    100192: YanChan_Rig34_schoolOutfit:lip_u_Left
+    100194: YanChan_Rig34_schoolOutfit:lip_u_Right
+    100196: YanChan_Rig34_schoolOutfit:mayu
+    100198: YanChan_Rig34_schoolOutfit:Neck
+    100200: YanChan_Rig34_schoolOutfit:nose
+    100202: YanChan_Rig34_schoolOutfit:nostrir_Left
+    100204: YanChan_Rig34_schoolOutfit:nostrir_Right
+    100206: YanChan_Rig34_schoolOutfit:PelvisRoot
+    100208: YanChan_Rig34_schoolOutfit:Right_skart1
+    100210: YanChan_Rig34_schoolOutfit:Right_skart2
+    100212: YanChan_Rig34_schoolOutfit:Right_skart3
+    100214: YanChan_Rig34_schoolOutfit:RightArm
+    100216: YanChan_Rig34_schoolOutfit:RightArmRoll
+    100218: YanChan_Rig34_schoolOutfit:RightBreast
+    100220: YanChan_Rig34_schoolOutfit:RightEarring_Null
+    100222: YanChan_Rig34_schoolOutfit:RightFoot
+    100224: YanChan_Rig34_schoolOutfit:RightForeArm
+    100226: YanChan_Rig34_schoolOutfit:RightForeArm_Helper
+    100228: YanChan_Rig34_schoolOutfit:RightForeArmRoll
+    100230: YanChan_Rig34_schoolOutfit:RightHair1
+    100232: YanChan_Rig34_schoolOutfit:RightHair2
+    100234: YanChan_Rig34_schoolOutfit:RightHair3
+    100236: YanChan_Rig34_schoolOutfit:RightHand
+    100238: YanChan_Rig34_schoolOutfit:RightHandIndex1
+    100240: YanChan_Rig34_schoolOutfit:RightHandIndex2
+    100242: YanChan_Rig34_schoolOutfit:RightHandIndex3
+    100244: YanChan_Rig34_schoolOutfit:RightHandIndexNull
+    100246: YanChan_Rig34_schoolOutfit:RightHanditem_Null
+    100248: YanChan_Rig34_schoolOutfit:RightHandMiddle1
+    100250: YanChan_Rig34_schoolOutfit:RightHandMiddle2
+    100252: YanChan_Rig34_schoolOutfit:RightHandMiddle3
+    100254: YanChan_Rig34_schoolOutfit:RightHandMiddleNull
+    100256: YanChan_Rig34_schoolOutfit:RightHandPinky1
+    100258: YanChan_Rig34_schoolOutfit:RightHandPinky2
+    100260: YanChan_Rig34_schoolOutfit:RightHandPinky3
+    100262: YanChan_Rig34_schoolOutfit:RightHandPinkyNull
+    100264: YanChan_Rig34_schoolOutfit:RightHandRing1
+    100266: YanChan_Rig34_schoolOutfit:RightHandRing2
+    100268: YanChan_Rig34_schoolOutfit:RightHandRing3
+    100270: YanChan_Rig34_schoolOutfit:RightHandRingNull
+    100272: YanChan_Rig34_schoolOutfit:RightHandThumb1
+    100274: YanChan_Rig34_schoolOutfit:RightHandThumb2
+    100276: YanChan_Rig34_schoolOutfit:RightHandThumb3
+    100278: YanChan_Rig34_schoolOutfit:RightHandThumbNull
+    100280: YanChan_Rig34_schoolOutfit:RightHip_Helper
+    100282: YanChan_Rig34_schoolOutfit:RightLeg
+    100284: YanChan_Rig34_schoolOutfit:RightLeg_Helper
+    100286: YanChan_Rig34_schoolOutfit:RightNipple
+    100288: YanChan_Rig34_schoolOutfit:RightShoulder
+    100290: YanChan_Rig34_schoolOutfit:RightToes
+    100292: YanChan_Rig34_schoolOutfit:RightToesNull
+    100294: YanChan_Rig34_schoolOutfit:RightUpLeg
+    100296: YanChan_Rig34_schoolOutfit:rip_btm_Left
+    100298: YanChan_Rig34_schoolOutfit:rip_btm_Right
+    100300: YanChan_Rig34_schoolOutfit:Spine
+    100302: YanChan_Rig34_schoolOutfit:Spine1
+    100304: YanChan_Rig34_schoolOutfit:Spine2
+    100306: YanChan_Rig34_schoolOutfit:Spine3
+    100308: YanChan_Rig34_schoolOutfit:tail_of_eye_Left
+    100310: YanChan_Rig34_schoolOutfit:tail_of_eye_Right
+    100312: YanChan_Rig34_schoolOutfit:temple_Left
+    100314: YanChan_Rig34_schoolOutfit:temple_Right
+    100316: YanChan_Rig34_schoolOutfit:u_lip_center
+    100318: atama_n
+    100320: b_lip_center
+    100322: Back_skart1
+    100324: Back_skart2
+    100326: Back_skart3
+    100328: BackHair1
+    100330: BackHair2
+    100332: BackHair3
+    100334: BackHair4
+    100336: cheek_Left
+    100338: cheek_Right
+    100340: chin
+    100342: eye_Left
+    100344: eye_Right
+    100346: eyebrow_a_Left
+    100348: eyebrow_a_Right
+    100350: eyebrow_b_Left
+    100352: eyebrow_b_Right
+    100354: eyelid_und1_Left
+    100356: eyelid_und1_Right
+    100358: eyelid_und2_Left
+    100360: eyelid_und2_Right
+    100362: eyelid_und_Left
+    100364: eyelid_und_Right
+    100366: eyerid1_Left
+    100368: eyerid1_Right
+    100370: eyerid2_Left
+    100372: eyerid2_Right
+    100374: eyerid_Left
+    100376: eyerid_Right
+    100378: f02_schoolwear_210_h
+    100380: face
+    100382: Front_skart1
+    100384: Front_skart2
+    100386: Front_skart3
+    100388: FrontHair
+    100390: Glasses_Null
+    100392: Head
+    100394: Head_null
+    100396: Hips
+    100398: inner_corner_of_eye_Left
+    100400: inner_corner_of_eye_Right
+    100402: jaw
+    100404: Left_skart1
+    100406: Left_skart2
+    100408: Left_skart3
+    100410: LeftArm
+    100412: LeftArmRoll
+    100414: LeftBreast
+    100416: LeftEarring_Null
+    100418: LeftFoot
+    100420: LeftForeArm
+    100422: LeftForeArm_Helper
+    100424: LeftForeArmRoll
+    100426: LeftHair1
+    100428: LeftHair2
+    100430: LeftHair3
+    100432: LeftHand
+    100434: LeftHandIndex1
+    100436: LeftHandIndex2
+    100438: LeftHandIndex3
+    100440: LeftHandIndexNull
+    100442: LeftHanditem_Null
+    100444: LeftHandMiddle1
+    100446: LeftHandMiddle2
+    100448: LeftHandMiddle3
+    100450: LeftHandMiddleNull
+    100452: LeftHandPinky1
+    100454: LeftHandPinky2
+    100456: LeftHandPinky3
+    100458: LeftHandPinkyNull
+    100460: LeftHandRing1
+    100462: LeftHandRing2
+    100464: LeftHandRing3
+    100466: LeftHandRingNull
+    100468: LeftHandThumb1
+    100470: LeftHandThumb2
+    100472: LeftHandThumb3
+    100474: LeftHandThumbNull
+    100476: LeftHip_Helper
+    100478: LeftLeg
+    100480: LeftLeg_Helper
+    100482: LeftNipple
+    100484: LeftShoulder
+    100486: LeftToes
+    100488: LeftToesNull
+    100490: LeftUpLeg
+    100492: lip_Left
+    100494: lip_Right
+    100496: lip_t_Left
+    100498: lip_t_Right
+    100500: lip_top_Left
+    100502: lip_top_Right
+    100504: lip_u_Left
+    100506: lip_u_Right
+    100508: mayu
+    100510: Neck
+    100512: nose
+    100514: nostrir_Left
+    100516: nostrir_Right
+    100518: PelvisRoot
+    100520: Right_skart1
+    100522: Right_skart2
+    100524: Right_skart3
+    100526: RightArm
+    100528: RightArmRoll
+    100530: RightBreast
+    100532: RightEarring_Null
+    100534: RightFoot
+    100536: RightForeArm
+    100538: RightForeArm_Helper
+    100540: RightForeArmRoll
+    100542: RightHair1
+    100544: RightHair2
+    100546: RightHair3
+    100548: RightHand
+    100550: RightHandIndex1
+    100552: RightHandIndex2
+    100554: RightHandIndex3
+    100556: RightHandIndexNull
+    100558: RightHanditem_Null
+    100560: RightHandMiddle1
+    100562: RightHandMiddle2
+    100564: RightHandMiddle3
+    100566: RightHandMiddleNull
+    100568: RightHandPinky1
+    100570: RightHandPinky2
+    100572: RightHandPinky3
+    100574: RightHandPinkyNull
+    100576: RightHandRing1
+    100578: RightHandRing2
+    100580: RightHandRing3
+    100582: RightHandRingNull
+    100584: RightHandThumb1
+    100586: RightHandThumb2
+    100588: RightHandThumb3
+    100590: RightHandThumbNull
+    100592: RightHip_Helper
+    100594: RightLeg
+    100596: RightLeg_Helper
+    100598: RightNipple
+    100600: RightShoulder
+    100602: RightToes
+    100604: RightToesNull
+    100606: RightUpLeg
+    100608: rip_btm_Left
+    100610: rip_btm_Right
+    100612: Spine
+    100614: Spine1
+    100616: Spine2
+    100618: Spine3
+    100620: tail_of_eye_Left
+    100622: tail_of_eye_Right
+    100624: temple_Left
+    100626: temple_Right
+    100628: u_lip_center
+    100630: CookingClub_MiniWiniJar_BodyMesh
+    100632: CookingClub_MiniWiniJar_LidMesh
+    100634: CookingClub_CounterTopMesh
+    100636: CookingClub_CuttingBoardMesh
+    100638: CookingClub_Fridge_BigDoorMesh
+    100640: CookingClub_Fridge_BodyMesh
+    100642: CookingClub_Fridge_DoorPivot1Mesh
+    100644: CookingClub_Fridge_DoorPivot2Mesh
+    100646: CookingClub_Fridge_ShelvesMesh
+    100648: CookingClub_Fridge_SmallDoorMesh
+    100650: CookingClub_FridgeMesh
+    100652: CookingClub_KnifeBlockMesh
+    100654: CookingClub_MiniWiniJar_BodyMesh 1
+    100656: CookingClub_MiniWiniJar_BodyMesh1
+    100658: CookingClub_MiniWiniJar_LidMesh 1
+    100660: CookingClub_MiniWiniJar_LidMesh2
+    100662: CookingClub_MiniWiniJarMesh
+    100664: CookingClub_PlateMesh
+    100666: CookingClub_SingleMiniwiniMesh
+    100668: CookingClub_SingleOctoSausageMesh
+    100670: Knife
+    100672: Knife1
+    100674: RRM_COG
+    100676: RRM_l_newArmDriver
+    100678: RRM_l_newArmDriver_AimLctr
+    100680: RRM_l_newArmDriver_Clavicle
+    100682: RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_Shoulder_AimLctr
+    100684: RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_Shoulder_TargetLctr
+    100686: RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_ShoulderCtrl
+    100688: RRM_l_newArmDriver_ClavicleGrp
+    100690: RRM_l_newArmDriver_ConnectorGrp
+    100692: RRM_l_newArmDriver_Elbow
+    100694: RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_Wrist_AimLctr
+    100696: RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_Wrist_TargetLctr
+    100698: RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_WristCtrl
+    100700: RRM_l_newArmDriver_ElbowAimLctr
+    100702: RRM_l_newArmDriver_ElbowAimLctrGrp
+    100704: RRM_l_newArmDriver_ElbowGrp
+    100706: RRM_l_newArmDriver_Lower1
+    100708: RRM_l_newArmDriver_Lower1Grp
+    100710: RRM_l_newArmDriver_Parent
+    100712: RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_Clavicle_AimLctr
+    100714: RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_Clavicle_TargetLctr
+    100716: RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_ClavicleCtrl
+    100718: RRM_l_newArmDriver_Shoulder
+    100720: RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_Elbow_AimLctr
+    100722: RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_Elbow_TargetLctr
+    100724: RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_ElbowCtrl
+    100726: RRM_l_newArmDriver_ShoulderGrp
+    100728: RRM_l_newArmDriver_Upper1
+    100730: RRM_l_newArmDriver_Upper1Grp
+    100732: RRM_l_newArmDriver_Wrist
+    100734: RRM_l_newArmDriver_WristGrp
+    100736: RRM_MAIN
+    100738: RRM_newArmDriver
+    100740: RRM_r_newArmDriver
+    100742: RRM_r_newArmDriver_AimLctr
+    100744: RRM_r_newArmDriver_Clavicle
+    100746: RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_Shoulder_AimLctr
+    100748: RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_Shoulder_TargetLctr
+    100750: RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_ShoulderCtrl
+    100752: RRM_r_newArmDriver_ClavicleGrp
+    100754: RRM_r_newArmDriver_ConnectorGrp
+    100756: RRM_r_newArmDriver_Elbow
+    100758: RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_Wrist_AimLctr
+    100760: RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_Wrist_TargetLctr
+    100762: RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_WristCtrl
+    100764: RRM_r_newArmDriver_ElbowAimLctr
+    100766: RRM_r_newArmDriver_ElbowAimLctrGrp
+    100768: RRM_r_newArmDriver_ElbowGrp
+    100770: RRM_r_newArmDriver_Lower1
+    100772: RRM_r_newArmDriver_Lower1Grp
+    100774: RRM_r_newArmDriver_Parent
+    100776: RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_Clavicle_AimLctr
+    100778: RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_Clavicle_TargetLctr
+    100780: RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_ClavicleCtrl
+    100782: RRM_r_newArmDriver_Shoulder
+    100784: RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_Elbow_AimLctr
+    100786: RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_Elbow_TargetLctr
+    100788: RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_ElbowCtrl
+    100790: RRM_r_newArmDriver_ShoulderGrp
+    100792: RRM_r_newArmDriver_Upper1
+    100794: RRM_r_newArmDriver_Upper1Grp
+    100796: RRM_r_newArmDriver_Wrist
+    100798: RRM_r_newArmDriver_WristGrp
+    100800: RRM_ROOT
+    100802: RRM_ROOT_RRM_l_newArmDriver_Parent_AimLctr
+    100804: RRM_ROOT_RRM_l_newArmDriver_Parent_TargetLctr
+    100806: RRM_ROOT_RRM_l_newArmDriver_ParentCtrl
+    100808: RRM_ROOT_RRM_r_newArmDriver_Parent_AimLctr
+    100810: RRM_ROOT_RRM_r_newArmDriver_Parent_TargetLctr
+    100812: RRM_ROOT_RRM_r_newArmDriver_ParentCtrl
+    100814: SwitchWorld_Head
+    400000: CookingClub_MiniWiniJar_LidMesh1
+    400002: CookingClub_MiniWiniJarMesh1
+    400004: //RootNode
+    400006: YanChan_Rig34_schoolOutfit:atama_n
+    400008: YanChan_Rig34_schoolOutfit:b_lip_center
+    400010: YanChan_Rig34_schoolOutfit:Back_skart1
+    400012: YanChan_Rig34_schoolOutfit:Back_skart2
+    400014: YanChan_Rig34_schoolOutfit:Back_skart3
+    400016: YanChan_Rig34_schoolOutfit:BackHair1
+    400018: YanChan_Rig34_schoolOutfit:BackHair2
+    400020: YanChan_Rig34_schoolOutfit:BackHair3
+    400022: YanChan_Rig34_schoolOutfit:BackHair4
+    400024: YanChan_Rig34_schoolOutfit:cheek_Left
+    400026: YanChan_Rig34_schoolOutfit:cheek_Right
+    400028: YanChan_Rig34_schoolOutfit:chin
+    400030: YanChan_Rig34_schoolOutfit:eye_Left
+    400032: YanChan_Rig34_schoolOutfit:eye_Right
+    400034: YanChan_Rig34_schoolOutfit:eyebrow_a_Left
+    400036: YanChan_Rig34_schoolOutfit:eyebrow_a_Right
+    400038: YanChan_Rig34_schoolOutfit:eyebrow_b_Left
+    400040: YanChan_Rig34_schoolOutfit:eyebrow_b_Right
+    400042: YanChan_Rig34_schoolOutfit:eyelid_und1_Left
+    400044: YanChan_Rig34_schoolOutfit:eyelid_und1_Right
+    400046: YanChan_Rig34_schoolOutfit:eyelid_und2_Left
+    400048: YanChan_Rig34_schoolOutfit:eyelid_und2_Right
+    400050: YanChan_Rig34_schoolOutfit:eyelid_und_Left
+    400052: YanChan_Rig34_schoolOutfit:eyelid_und_Right
+    400054: YanChan_Rig34_schoolOutfit:eyerid1_Left
+    400056: YanChan_Rig34_schoolOutfit:eyerid1_Right
+    400058: YanChan_Rig34_schoolOutfit:eyerid2_Left
+    400060: YanChan_Rig34_schoolOutfit:eyerid2_Right
+    400062: YanChan_Rig34_schoolOutfit:eyerid_Left
+    400064: YanChan_Rig34_schoolOutfit:eyerid_Right
+    400066: YanChan_Rig34_schoolOutfit:f02_schoolwear_210_h
+    400068: YanChan_Rig34_schoolOutfit:face
+    400070: YanChan_Rig34_schoolOutfit:Front_skart1
+    400072: YanChan_Rig34_schoolOutfit:Front_skart2
+    400074: YanChan_Rig34_schoolOutfit:Front_skart3
+    400076: YanChan_Rig34_schoolOutfit:FrontHair
+    400078: YanChan_Rig34_schoolOutfit:Glasses_Null
+    400080: YanChan_Rig34_schoolOutfit:Head
+    400082: YanChan_Rig34_schoolOutfit:Head_null
+    400084: YanChan_Rig34_schoolOutfit:Hips
+    400086: YanChan_Rig34_schoolOutfit:inner_corner_of_eye_Left
+    400088: YanChan_Rig34_schoolOutfit:inner_corner_of_eye_Right
+    400090: YanChan_Rig34_schoolOutfit:jaw
+    400092: YanChan_Rig34_schoolOutfit:Left_skart1
+    400094: YanChan_Rig34_schoolOutfit:Left_skart2
+    400096: YanChan_Rig34_schoolOutfit:Left_skart3
+    400098: YanChan_Rig34_schoolOutfit:LeftArm
+    400100: YanChan_Rig34_schoolOutfit:LeftArmRoll
+    400102: YanChan_Rig34_schoolOutfit:LeftBreast
+    400104: YanChan_Rig34_schoolOutfit:LeftEarring_Null
+    400106: YanChan_Rig34_schoolOutfit:LeftFoot
+    400108: YanChan_Rig34_schoolOutfit:LeftForeArm
+    400110: YanChan_Rig34_schoolOutfit:LeftForeArm_Helper
+    400112: YanChan_Rig34_schoolOutfit:LeftForeArmRoll
+    400114: YanChan_Rig34_schoolOutfit:LeftHair1
+    400116: YanChan_Rig34_schoolOutfit:LeftHair2
+    400118: YanChan_Rig34_schoolOutfit:LeftHair3
+    400120: YanChan_Rig34_schoolOutfit:LeftHand
+    400122: YanChan_Rig34_schoolOutfit:LeftHandIndex1
+    400124: YanChan_Rig34_schoolOutfit:LeftHandIndex2
+    400126: YanChan_Rig34_schoolOutfit:LeftHandIndex3
+    400128: YanChan_Rig34_schoolOutfit:LeftHandIndexNull
+    400130: YanChan_Rig34_schoolOutfit:LeftHanditem_Null
+    400132: YanChan_Rig34_schoolOutfit:LeftHandMiddle1
+    400134: YanChan_Rig34_schoolOutfit:LeftHandMiddle2
+    400136: YanChan_Rig34_schoolOutfit:LeftHandMiddle3
+    400138: YanChan_Rig34_schoolOutfit:LeftHandMiddleNull
+    400140: YanChan_Rig34_schoolOutfit:LeftHandPinky1
+    400142: YanChan_Rig34_schoolOutfit:LeftHandPinky2
+    400144: YanChan_Rig34_schoolOutfit:LeftHandPinky3
+    400146: YanChan_Rig34_schoolOutfit:LeftHandPinkyNull
+    400148: YanChan_Rig34_schoolOutfit:LeftHandRing1
+    400150: YanChan_Rig34_schoolOutfit:LeftHandRing2
+    400152: YanChan_Rig34_schoolOutfit:LeftHandRing3
+    400154: YanChan_Rig34_schoolOutfit:LeftHandRingNull
+    400156: YanChan_Rig34_schoolOutfit:LeftHandThumb1
+    400158: YanChan_Rig34_schoolOutfit:LeftHandThumb2
+    400160: YanChan_Rig34_schoolOutfit:LeftHandThumb3
+    400162: YanChan_Rig34_schoolOutfit:LeftHandThumbNull
+    400164: YanChan_Rig34_schoolOutfit:LeftHip_Helper
+    400166: YanChan_Rig34_schoolOutfit:LeftLeg
+    400168: YanChan_Rig34_schoolOutfit:LeftLeg_Helper
+    400170: YanChan_Rig34_schoolOutfit:LeftNipple
+    400172: YanChan_Rig34_schoolOutfit:LeftShoulder
+    400174: YanChan_Rig34_schoolOutfit:LeftToes
+    400176: YanChan_Rig34_schoolOutfit:LeftToesNull
+    400178: YanChan_Rig34_schoolOutfit:LeftUpLeg
+    400180: YanChan_Rig34_schoolOutfit:lip_Left
+    400182: YanChan_Rig34_schoolOutfit:lip_Right
+    400184: YanChan_Rig34_schoolOutfit:lip_t_Left
+    400186: YanChan_Rig34_schoolOutfit:lip_t_Right
+    400188: YanChan_Rig34_schoolOutfit:lip_top_Left
+    400190: YanChan_Rig34_schoolOutfit:lip_top_Right
+    400192: YanChan_Rig34_schoolOutfit:lip_u_Left
+    400194: YanChan_Rig34_schoolOutfit:lip_u_Right
+    400196: YanChan_Rig34_schoolOutfit:mayu
+    400198: YanChan_Rig34_schoolOutfit:Neck
+    400200: YanChan_Rig34_schoolOutfit:nose
+    400202: YanChan_Rig34_schoolOutfit:nostrir_Left
+    400204: YanChan_Rig34_schoolOutfit:nostrir_Right
+    400206: YanChan_Rig34_schoolOutfit:PelvisRoot
+    400208: YanChan_Rig34_schoolOutfit:Right_skart1
+    400210: YanChan_Rig34_schoolOutfit:Right_skart2
+    400212: YanChan_Rig34_schoolOutfit:Right_skart3
+    400214: YanChan_Rig34_schoolOutfit:RightArm
+    400216: YanChan_Rig34_schoolOutfit:RightArmRoll
+    400218: YanChan_Rig34_schoolOutfit:RightBreast
+    400220: YanChan_Rig34_schoolOutfit:RightEarring_Null
+    400222: YanChan_Rig34_schoolOutfit:RightFoot
+    400224: YanChan_Rig34_schoolOutfit:RightForeArm
+    400226: YanChan_Rig34_schoolOutfit:RightForeArm_Helper
+    400228: YanChan_Rig34_schoolOutfit:RightForeArmRoll
+    400230: YanChan_Rig34_schoolOutfit:RightHair1
+    400232: YanChan_Rig34_schoolOutfit:RightHair2
+    400234: YanChan_Rig34_schoolOutfit:RightHair3
+    400236: YanChan_Rig34_schoolOutfit:RightHand
+    400238: YanChan_Rig34_schoolOutfit:RightHandIndex1
+    400240: YanChan_Rig34_schoolOutfit:RightHandIndex2
+    400242: YanChan_Rig34_schoolOutfit:RightHandIndex3
+    400244: YanChan_Rig34_schoolOutfit:RightHandIndexNull
+    400246: YanChan_Rig34_schoolOutfit:RightHanditem_Null
+    400248: YanChan_Rig34_schoolOutfit:RightHandMiddle1
+    400250: YanChan_Rig34_schoolOutfit:RightHandMiddle2
+    400252: YanChan_Rig34_schoolOutfit:RightHandMiddle3
+    400254: YanChan_Rig34_schoolOutfit:RightHandMiddleNull
+    400256: YanChan_Rig34_schoolOutfit:RightHandPinky1
+    400258: YanChan_Rig34_schoolOutfit:RightHandPinky2
+    400260: YanChan_Rig34_schoolOutfit:RightHandPinky3
+    400262: YanChan_Rig34_schoolOutfit:RightHandPinkyNull
+    400264: YanChan_Rig34_schoolOutfit:RightHandRing1
+    400266: YanChan_Rig34_schoolOutfit:RightHandRing2
+    400268: YanChan_Rig34_schoolOutfit:RightHandRing3
+    400270: YanChan_Rig34_schoolOutfit:RightHandRingNull
+    400272: YanChan_Rig34_schoolOutfit:RightHandThumb1
+    400274: YanChan_Rig34_schoolOutfit:RightHandThumb2
+    400276: YanChan_Rig34_schoolOutfit:RightHandThumb3
+    400278: YanChan_Rig34_schoolOutfit:RightHandThumbNull
+    400280: YanChan_Rig34_schoolOutfit:RightHip_Helper
+    400282: YanChan_Rig34_schoolOutfit:RightLeg
+    400284: YanChan_Rig34_schoolOutfit:RightLeg_Helper
+    400286: YanChan_Rig34_schoolOutfit:RightNipple
+    400288: YanChan_Rig34_schoolOutfit:RightShoulder
+    400290: YanChan_Rig34_schoolOutfit:RightToes
+    400292: YanChan_Rig34_schoolOutfit:RightToesNull
+    400294: YanChan_Rig34_schoolOutfit:RightUpLeg
+    400296: YanChan_Rig34_schoolOutfit:rip_btm_Left
+    400298: YanChan_Rig34_schoolOutfit:rip_btm_Right
+    400300: YanChan_Rig34_schoolOutfit:Spine
+    400302: YanChan_Rig34_schoolOutfit:Spine1
+    400304: YanChan_Rig34_schoolOutfit:Spine2
+    400306: YanChan_Rig34_schoolOutfit:Spine3
+    400308: YanChan_Rig34_schoolOutfit:tail_of_eye_Left
+    400310: YanChan_Rig34_schoolOutfit:tail_of_eye_Right
+    400312: YanChan_Rig34_schoolOutfit:temple_Left
+    400314: YanChan_Rig34_schoolOutfit:temple_Right
+    400316: YanChan_Rig34_schoolOutfit:u_lip_center
+    400318: atama_n
+    400320: b_lip_center
+    400322: Back_skart1
+    400324: Back_skart2
+    400326: Back_skart3
+    400328: BackHair1
+    400330: BackHair2
+    400332: BackHair3
+    400334: BackHair4
+    400336: cheek_Left
+    400338: cheek_Right
+    400340: chin
+    400342: eye_Left
+    400344: eye_Right
+    400346: eyebrow_a_Left
+    400348: eyebrow_a_Right
+    400350: eyebrow_b_Left
+    400352: eyebrow_b_Right
+    400354: eyelid_und1_Left
+    400356: eyelid_und1_Right
+    400358: eyelid_und2_Left
+    400360: eyelid_und2_Right
+    400362: eyelid_und_Left
+    400364: eyelid_und_Right
+    400366: eyerid1_Left
+    400368: eyerid1_Right
+    400370: eyerid2_Left
+    400372: eyerid2_Right
+    400374: eyerid_Left
+    400376: eyerid_Right
+    400378: f02_schoolwear_210_h
+    400380: face
+    400382: Front_skart1
+    400384: Front_skart2
+    400386: Front_skart3
+    400388: FrontHair
+    400390: Glasses_Null
+    400392: Head
+    400394: Head_null
+    400396: Hips
+    400398: inner_corner_of_eye_Left
+    400400: inner_corner_of_eye_Right
+    400402: jaw
+    400404: Left_skart1
+    400406: Left_skart2
+    400408: Left_skart3
+    400410: LeftArm
+    400412: LeftArmRoll
+    400414: LeftBreast
+    400416: LeftEarring_Null
+    400418: LeftFoot
+    400420: LeftForeArm
+    400422: LeftForeArm_Helper
+    400424: LeftForeArmRoll
+    400426: LeftHair1
+    400428: LeftHair2
+    400430: LeftHair3
+    400432: LeftHand
+    400434: LeftHandIndex1
+    400436: LeftHandIndex2
+    400438: LeftHandIndex3
+    400440: LeftHandIndexNull
+    400442: LeftHanditem_Null
+    400444: LeftHandMiddle1
+    400446: LeftHandMiddle2
+    400448: LeftHandMiddle3
+    400450: LeftHandMiddleNull
+    400452: LeftHandPinky1
+    400454: LeftHandPinky2
+    400456: LeftHandPinky3
+    400458: LeftHandPinkyNull
+    400460: LeftHandRing1
+    400462: LeftHandRing2
+    400464: LeftHandRing3
+    400466: LeftHandRingNull
+    400468: LeftHandThumb1
+    400470: LeftHandThumb2
+    400472: LeftHandThumb3
+    400474: LeftHandThumbNull
+    400476: LeftHip_Helper
+    400478: LeftLeg
+    400480: LeftLeg_Helper
+    400482: LeftNipple
+    400484: LeftShoulder
+    400486: LeftToes
+    400488: LeftToesNull
+    400490: LeftUpLeg
+    400492: lip_Left
+    400494: lip_Right
+    400496: lip_t_Left
+    400498: lip_t_Right
+    400500: lip_top_Left
+    400502: lip_top_Right
+    400504: lip_u_Left
+    400506: lip_u_Right
+    400508: mayu
+    400510: Neck
+    400512: nose
+    400514: nostrir_Left
+    400516: nostrir_Right
+    400518: PelvisRoot
+    400520: Right_skart1
+    400522: Right_skart2
+    400524: Right_skart3
+    400526: RightArm
+    400528: RightArmRoll
+    400530: RightBreast
+    400532: RightEarring_Null
+    400534: RightFoot
+    400536: RightForeArm
+    400538: RightForeArm_Helper
+    400540: RightForeArmRoll
+    400542: RightHair1
+    400544: RightHair2
+    400546: RightHair3
+    400548: RightHand
+    400550: RightHandIndex1
+    400552: RightHandIndex2
+    400554: RightHandIndex3
+    400556: RightHandIndexNull
+    400558: RightHanditem_Null
+    400560: RightHandMiddle1
+    400562: RightHandMiddle2
+    400564: RightHandMiddle3
+    400566: RightHandMiddleNull
+    400568: RightHandPinky1
+    400570: RightHandPinky2
+    400572: RightHandPinky3
+    400574: RightHandPinkyNull
+    400576: RightHandRing1
+    400578: RightHandRing2
+    400580: RightHandRing3
+    400582: RightHandRingNull
+    400584: RightHandThumb1
+    400586: RightHandThumb2
+    400588: RightHandThumb3
+    400590: RightHandThumbNull
+    400592: RightHip_Helper
+    400594: RightLeg
+    400596: RightLeg_Helper
+    400598: RightNipple
+    400600: RightShoulder
+    400602: RightToes
+    400604: RightToesNull
+    400606: RightUpLeg
+    400608: rip_btm_Left
+    400610: rip_btm_Right
+    400612: Spine
+    400614: Spine1
+    400616: Spine2
+    400618: Spine3
+    400620: tail_of_eye_Left
+    400622: tail_of_eye_Right
+    400624: temple_Left
+    400626: temple_Right
+    400628: u_lip_center
+    400630: CookingClub_MiniWiniJar_BodyMesh
+    400632: CookingClub_MiniWiniJar_LidMesh
+    400634: CookingClub_CounterTopMesh
+    400636: CookingClub_CuttingBoardMesh
+    400638: CookingClub_Fridge_BigDoorMesh
+    400640: CookingClub_Fridge_BodyMesh
+    400642: CookingClub_Fridge_DoorPivot1Mesh
+    400644: CookingClub_Fridge_DoorPivot2Mesh
+    400646: CookingClub_Fridge_ShelvesMesh
+    400648: CookingClub_Fridge_SmallDoorMesh
+    400650: CookingClub_FridgeMesh
+    400652: CookingClub_KnifeBlockMesh
+    400654: CookingClub_MiniWiniJar_BodyMesh 1
+    400656: CookingClub_MiniWiniJar_BodyMesh1
+    400658: CookingClub_MiniWiniJar_LidMesh 1
+    400660: CookingClub_MiniWiniJar_LidMesh2
+    400662: CookingClub_MiniWiniJarMesh
+    400664: CookingClub_PlateMesh
+    400666: CookingClub_SingleMiniwiniMesh
+    400668: CookingClub_SingleOctoSausageMesh
+    400670: Knife
+    400672: Knife1
+    400674: RRM_COG
+    400676: RRM_l_newArmDriver
+    400678: RRM_l_newArmDriver_AimLctr
+    400680: RRM_l_newArmDriver_Clavicle
+    400682: RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_Shoulder_AimLctr
+    400684: RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_Shoulder_TargetLctr
+    400686: RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_ShoulderCtrl
+    400688: RRM_l_newArmDriver_ClavicleGrp
+    400690: RRM_l_newArmDriver_ConnectorGrp
+    400692: RRM_l_newArmDriver_Elbow
+    400694: RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_Wrist_AimLctr
+    400696: RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_Wrist_TargetLctr
+    400698: RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_WristCtrl
+    400700: RRM_l_newArmDriver_ElbowAimLctr
+    400702: RRM_l_newArmDriver_ElbowAimLctrGrp
+    400704: RRM_l_newArmDriver_ElbowGrp
+    400706: RRM_l_newArmDriver_Lower1
+    400708: RRM_l_newArmDriver_Lower1Grp
+    400710: RRM_l_newArmDriver_Parent
+    400712: RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_Clavicle_AimLctr
+    400714: RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_Clavicle_TargetLctr
+    400716: RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_ClavicleCtrl
+    400718: RRM_l_newArmDriver_Shoulder
+    400720: RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_Elbow_AimLctr
+    400722: RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_Elbow_TargetLctr
+    400724: RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_ElbowCtrl
+    400726: RRM_l_newArmDriver_ShoulderGrp
+    400728: RRM_l_newArmDriver_Upper1
+    400730: RRM_l_newArmDriver_Upper1Grp
+    400732: RRM_l_newArmDriver_Wrist
+    400734: RRM_l_newArmDriver_WristGrp
+    400736: RRM_MAIN
+    400738: RRM_newArmDriver
+    400740: RRM_r_newArmDriver
+    400742: RRM_r_newArmDriver_AimLctr
+    400744: RRM_r_newArmDriver_Clavicle
+    400746: RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_Shoulder_AimLctr
+    400748: RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_Shoulder_TargetLctr
+    400750: RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_ShoulderCtrl
+    400752: RRM_r_newArmDriver_ClavicleGrp
+    400754: RRM_r_newArmDriver_ConnectorGrp
+    400756: RRM_r_newArmDriver_Elbow
+    400758: RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_Wrist_AimLctr
+    400760: RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_Wrist_TargetLctr
+    400762: RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_WristCtrl
+    400764: RRM_r_newArmDriver_ElbowAimLctr
+    400766: RRM_r_newArmDriver_ElbowAimLctrGrp
+    400768: RRM_r_newArmDriver_ElbowGrp
+    400770: RRM_r_newArmDriver_Lower1
+    400772: RRM_r_newArmDriver_Lower1Grp
+    400774: RRM_r_newArmDriver_Parent
+    400776: RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_Clavicle_AimLctr
+    400778: RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_Clavicle_TargetLctr
+    400780: RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_ClavicleCtrl
+    400782: RRM_r_newArmDriver_Shoulder
+    400784: RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_Elbow_AimLctr
+    400786: RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_Elbow_TargetLctr
+    400788: RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_ElbowCtrl
+    400790: RRM_r_newArmDriver_ShoulderGrp
+    400792: RRM_r_newArmDriver_Upper1
+    400794: RRM_r_newArmDriver_Upper1Grp
+    400796: RRM_r_newArmDriver_Wrist
+    400798: RRM_r_newArmDriver_WristGrp
+    400800: RRM_ROOT
+    400802: RRM_ROOT_RRM_l_newArmDriver_Parent_AimLctr
+    400804: RRM_ROOT_RRM_l_newArmDriver_Parent_TargetLctr
+    400806: RRM_ROOT_RRM_l_newArmDriver_ParentCtrl
+    400808: RRM_ROOT_RRM_r_newArmDriver_Parent_AimLctr
+    400810: RRM_ROOT_RRM_r_newArmDriver_Parent_TargetLctr
+    400812: RRM_ROOT_RRM_r_newArmDriver_ParentCtrl
+    400814: SwitchWorld_Head
+    2300000: CookingClub_MiniWiniJar_LidMesh1
+    2300002: CookingClub_CounterTopMesh
+    2300004: CookingClub_CuttingBoardMesh
+    2300006: CookingClub_Fridge_BigDoorMesh
+    2300008: CookingClub_Fridge_BodyMesh
+    2300010: CookingClub_Fridge_DoorPivot1Mesh
+    2300012: CookingClub_Fridge_DoorPivot2Mesh
+    2300014: CookingClub_Fridge_ShelvesMesh
+    2300016: CookingClub_Fridge_SmallDoorMesh
+    2300018: CookingClub_KnifeBlockMesh
+    2300020: CookingClub_MiniWiniJar_BodyMesh
+    2300022: CookingClub_MiniWiniJar_BodyMesh 1
+    2300024: CookingClub_MiniWiniJar_BodyMesh1
+    2300026: CookingClub_MiniWiniJar_LidMesh
+    2300028: CookingClub_MiniWiniJar_LidMesh 1
+    2300030: CookingClub_MiniWiniJar_LidMesh2
+    2300032: CookingClub_PlateMesh
+    2300034: CookingClub_SingleMiniwiniMesh
+    2300036: CookingClub_SingleOctoSausageMesh
+    2300038: Knife
+    2300040: Knife1
+    3300000: CookingClub_MiniWiniJar_LidMesh1
+    3300002: CookingClub_CounterTopMesh
+    3300004: CookingClub_CuttingBoardMesh
+    3300006: CookingClub_Fridge_BigDoorMesh
+    3300008: CookingClub_Fridge_BodyMesh
+    3300010: CookingClub_Fridge_DoorPivot1Mesh
+    3300012: CookingClub_Fridge_DoorPivot2Mesh
+    3300014: CookingClub_Fridge_ShelvesMesh
+    3300016: CookingClub_Fridge_SmallDoorMesh
+    3300018: CookingClub_KnifeBlockMesh
+    3300020: CookingClub_MiniWiniJar_BodyMesh
+    3300022: CookingClub_MiniWiniJar_BodyMesh 1
+    3300024: CookingClub_MiniWiniJar_BodyMesh1
+    3300026: CookingClub_MiniWiniJar_LidMesh
+    3300028: CookingClub_MiniWiniJar_LidMesh 1
+    3300030: CookingClub_MiniWiniJar_LidMesh2
+    3300032: CookingClub_PlateMesh
+    3300034: CookingClub_SingleMiniwiniMesh
+    3300036: CookingClub_SingleOctoSausageMesh
+    3300038: Knife
+    3300040: Knife1
+    4300000: CookingClub_MiniWiniJar_LidMesh1
+    4300002: YanChan_Rig34_schoolOutfit:f02_schoolwear_210_h
+    4300004: f02_schoolwear_210_h
+    4300006: CookingClub_MiniWiniJar_BodyMesh
+    4300008: CookingClub_MiniWiniJar_LidMesh
+    4300010: CookingClub_SingleMiniwiniMesh
+    4300012: CookingClub_SingleOctoSausageMesh
+    4300014: Knife1
+    4300016: CookingClub_CounterTopMesh
+    4300018: CookingClub_PlateMesh
+    4300020: CookingClub_KnifeBlockMesh
+    4300022: CookingClub_CuttingBoardMesh
+    4300024: CookingClub_MiniWiniJar_BodyMesh
+    4300026: CookingClub_MiniWiniJar_LidMesh
+    4300028: CookingClub_Fridge_BigDoorMesh
+    4300030: CookingClub_Fridge_SmallDoorMesh
+    4300032: CookingClub_Fridge_DoorPivot2Mesh
+    4300034: CookingClub_Fridge_DoorPivot1Mesh
+    4300036: CookingClub_Fridge_BodyMesh
+    4300038: CookingClub_Fridge_ShelvesMesh
+    4300040: CookingClub_MiniWiniJar_LidMesh2
+    4300042: CookingClub_MiniWiniJar_BodyMesh1
+    4300044: Knife
+    7400000: f02_prepareFood_00
+    7400002: f02_cutFood_00
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: YanChan_Rig34_schoolOutfit:f02_schoolwear_210_h
+    13700002: f02_schoolwear_210_h
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: f02_prepareFood_00
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 240
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:f02_schoolwear_210_h
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Back_skart1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Back_skart1/YanChan_Rig34_schoolOutfit:Back_skart2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Back_skart1/YanChan_Rig34_schoolOutfit:Back_skart2/YanChan_Rig34_schoolOutfit:Back_skart3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Front_skart1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Front_skart1/YanChan_Rig34_schoolOutfit:Front_skart2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Front_skart1/YanChan_Rig34_schoolOutfit:Front_skart2/YanChan_Rig34_schoolOutfit:Front_skart3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Left_skart1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Left_skart1/YanChan_Rig34_schoolOutfit:Left_skart2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Left_skart1/YanChan_Rig34_schoolOutfit:Left_skart2/YanChan_Rig34_schoolOutfit:Left_skart3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:LeftUpLeg
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:LeftUpLeg/YanChan_Rig34_schoolOutfit:LeftHip_Helper
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:LeftUpLeg/YanChan_Rig34_schoolOutfit:LeftLeg
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:LeftUpLeg/YanChan_Rig34_schoolOutfit:LeftLeg/YanChan_Rig34_schoolOutfit:LeftFoot
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:LeftUpLeg/YanChan_Rig34_schoolOutfit:LeftLeg/YanChan_Rig34_schoolOutfit:LeftFoot/YanChan_Rig34_schoolOutfit:LeftToes
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:LeftUpLeg/YanChan_Rig34_schoolOutfit:LeftLeg/YanChan_Rig34_schoolOutfit:LeftFoot/YanChan_Rig34_schoolOutfit:LeftToes/YanChan_Rig34_schoolOutfit:LeftToesNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:LeftUpLeg/YanChan_Rig34_schoolOutfit:LeftLeg/YanChan_Rig34_schoolOutfit:LeftLeg_Helper
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Right_skart1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Right_skart1/YanChan_Rig34_schoolOutfit:Right_skart2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Right_skart1/YanChan_Rig34_schoolOutfit:Right_skart2/YanChan_Rig34_schoolOutfit:Right_skart3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:RightUpLeg
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:RightUpLeg/YanChan_Rig34_schoolOutfit:RightHip_Helper
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:RightUpLeg/YanChan_Rig34_schoolOutfit:RightLeg
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:RightUpLeg/YanChan_Rig34_schoolOutfit:RightLeg/YanChan_Rig34_schoolOutfit:RightFoot
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:RightUpLeg/YanChan_Rig34_schoolOutfit:RightLeg/YanChan_Rig34_schoolOutfit:RightFoot/YanChan_Rig34_schoolOutfit:RightToes
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:RightUpLeg/YanChan_Rig34_schoolOutfit:RightLeg/YanChan_Rig34_schoolOutfit:RightFoot/YanChan_Rig34_schoolOutfit:RightToes/YanChan_Rig34_schoolOutfit:RightToesNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:RightUpLeg/YanChan_Rig34_schoolOutfit:RightLeg/YanChan_Rig34_schoolOutfit:RightLeg_Helper
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftBreast
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftBreast/YanChan_Rig34_schoolOutfit:LeftNipple
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArm_Helper
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandIndex1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandIndex1/YanChan_Rig34_schoolOutfit:LeftHandIndex2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandIndex1/YanChan_Rig34_schoolOutfit:LeftHandIndex2/YanChan_Rig34_schoolOutfit:LeftHandIndex3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandIndex1/YanChan_Rig34_schoolOutfit:LeftHandIndex2/YanChan_Rig34_schoolOutfit:LeftHandIndex3/YanChan_Rig34_schoolOutfit:LeftHandIndexNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHanditem_Null
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHanditem_Null/CookingClub_MiniWiniJar_LidMesh1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandMiddle1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandMiddle1/YanChan_Rig34_schoolOutfit:LeftHandMiddle2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandMiddle1/YanChan_Rig34_schoolOutfit:LeftHandMiddle2/YanChan_Rig34_schoolOutfit:LeftHandMiddle3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandMiddle1/YanChan_Rig34_schoolOutfit:LeftHandMiddle2/YanChan_Rig34_schoolOutfit:LeftHandMiddle3/YanChan_Rig34_schoolOutfit:LeftHandMiddleNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandPinky1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandPinky1/YanChan_Rig34_schoolOutfit:LeftHandPinky2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandPinky1/YanChan_Rig34_schoolOutfit:LeftHandPinky2/YanChan_Rig34_schoolOutfit:LeftHandPinky3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandPinky1/YanChan_Rig34_schoolOutfit:LeftHandPinky2/YanChan_Rig34_schoolOutfit:LeftHandPinky3/YanChan_Rig34_schoolOutfit:LeftHandPinkyNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandRing1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandRing1/YanChan_Rig34_schoolOutfit:LeftHandRing2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandRing1/YanChan_Rig34_schoolOutfit:LeftHandRing2/YanChan_Rig34_schoolOutfit:LeftHandRing3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandRing1/YanChan_Rig34_schoolOutfit:LeftHandRing2/YanChan_Rig34_schoolOutfit:LeftHandRing3/YanChan_Rig34_schoolOutfit:LeftHandRingNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandThumb1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandThumb1/YanChan_Rig34_schoolOutfit:LeftHandThumb2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandThumb1/YanChan_Rig34_schoolOutfit:LeftHandThumb2/YanChan_Rig34_schoolOutfit:LeftHandThumb3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandThumb1/YanChan_Rig34_schoolOutfit:LeftHandThumb2/YanChan_Rig34_schoolOutfit:LeftHandThumb3/YanChan_Rig34_schoolOutfit:LeftHandThumbNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:cheek_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:cheek_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eye_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eye_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyelid_und1_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyelid_und1_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyelid_und2_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyelid_und2_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyelid_und_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyelid_und_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyerid1_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyerid1_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyerid2_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyerid2_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyerid_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyerid_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:inner_corner_of_eye_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:inner_corner_of_eye_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:jaw
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:jaw/YanChan_Rig34_schoolOutfit:b_lip_center
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:jaw/YanChan_Rig34_schoolOutfit:chin
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:jaw/YanChan_Rig34_schoolOutfit:lip_u_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:jaw/YanChan_Rig34_schoolOutfit:lip_u_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:jaw/YanChan_Rig34_schoolOutfit:rip_btm_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:jaw/YanChan_Rig34_schoolOutfit:rip_btm_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:lip_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:lip_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:lip_t_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:lip_t_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:mayu
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:mayu/YanChan_Rig34_schoolOutfit:eyebrow_a_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:mayu/YanChan_Rig34_schoolOutfit:eyebrow_a_Left/YanChan_Rig34_schoolOutfit:eyebrow_b_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:mayu/YanChan_Rig34_schoolOutfit:eyebrow_a_Left/YanChan_Rig34_schoolOutfit:eyebrow_b_Left/YanChan_Rig34_schoolOutfit:temple_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:mayu/YanChan_Rig34_schoolOutfit:eyebrow_a_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:mayu/YanChan_Rig34_schoolOutfit:eyebrow_a_Right/YanChan_Rig34_schoolOutfit:eyebrow_b_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:mayu/YanChan_Rig34_schoolOutfit:eyebrow_a_Right/YanChan_Rig34_schoolOutfit:eyebrow_b_Right/YanChan_Rig34_schoolOutfit:temple_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:nose
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:nose/YanChan_Rig34_schoolOutfit:nostrir_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:nose/YanChan_Rig34_schoolOutfit:nostrir_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:tail_of_eye_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:tail_of_eye_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:u_lip_center
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:u_lip_center/YanChan_Rig34_schoolOutfit:lip_top_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:u_lip_center/YanChan_Rig34_schoolOutfit:lip_top_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Glasses_Null
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:BackHair1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:BackHair1/YanChan_Rig34_schoolOutfit:BackHair2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:BackHair1/YanChan_Rig34_schoolOutfit:BackHair2/YanChan_Rig34_schoolOutfit:BackHair3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:BackHair1/YanChan_Rig34_schoolOutfit:BackHair2/YanChan_Rig34_schoolOutfit:BackHair3/YanChan_Rig34_schoolOutfit:BackHair4
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:FrontHair
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:LeftHair1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:LeftHair1/YanChan_Rig34_schoolOutfit:LeftHair2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:LeftHair1/YanChan_Rig34_schoolOutfit:LeftHair2/YanChan_Rig34_schoolOutfit:LeftHair3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:RightHair1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:RightHair1/YanChan_Rig34_schoolOutfit:RightHair2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:RightHair1/YanChan_Rig34_schoolOutfit:RightHair2/YanChan_Rig34_schoolOutfit:RightHair3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:LeftEarring_Null
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:RightEarring_Null
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightBreast
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightBreast/YanChan_Rig34_schoolOutfit:RightNipple
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArm_Helper
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandIndex1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandIndex1/YanChan_Rig34_schoolOutfit:RightHandIndex2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandIndex1/YanChan_Rig34_schoolOutfit:RightHandIndex2/YanChan_Rig34_schoolOutfit:RightHandIndex3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandIndex1/YanChan_Rig34_schoolOutfit:RightHandIndex2/YanChan_Rig34_schoolOutfit:RightHandIndex3/YanChan_Rig34_schoolOutfit:RightHandIndexNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHanditem_Null
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHanditem_Null/CookingClub_MiniWiniJarMesh1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandMiddle1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandMiddle1/YanChan_Rig34_schoolOutfit:RightHandMiddle2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandMiddle1/YanChan_Rig34_schoolOutfit:RightHandMiddle2/YanChan_Rig34_schoolOutfit:RightHandMiddle3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandMiddle1/YanChan_Rig34_schoolOutfit:RightHandMiddle2/YanChan_Rig34_schoolOutfit:RightHandMiddle3/YanChan_Rig34_schoolOutfit:RightHandMiddleNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandPinky1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandPinky1/YanChan_Rig34_schoolOutfit:RightHandPinky2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandPinky1/YanChan_Rig34_schoolOutfit:RightHandPinky2/YanChan_Rig34_schoolOutfit:RightHandPinky3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandPinky1/YanChan_Rig34_schoolOutfit:RightHandPinky2/YanChan_Rig34_schoolOutfit:RightHandPinky3/YanChan_Rig34_schoolOutfit:RightHandPinkyNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandRing1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandRing1/YanChan_Rig34_schoolOutfit:RightHandRing2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandRing1/YanChan_Rig34_schoolOutfit:RightHandRing2/YanChan_Rig34_schoolOutfit:RightHandRing3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandRing1/YanChan_Rig34_schoolOutfit:RightHandRing2/YanChan_Rig34_schoolOutfit:RightHandRing3/YanChan_Rig34_schoolOutfit:RightHandRingNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandThumb1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandThumb1/YanChan_Rig34_schoolOutfit:RightHandThumb2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandThumb1/YanChan_Rig34_schoolOutfit:RightHandThumb2/YanChan_Rig34_schoolOutfit:RightHandThumb3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandThumb1/YanChan_Rig34_schoolOutfit:RightHandThumb2/YanChan_Rig34_schoolOutfit:RightHandThumb3/YanChan_Rig34_schoolOutfit:RightHandThumbNull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: f02_cutFood_00
+      takeName: Take 001
+      firstFrame: 240
+      lastFrame: 450
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:f02_schoolwear_210_h
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Back_skart1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Back_skart1/YanChan_Rig34_schoolOutfit:Back_skart2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Back_skart1/YanChan_Rig34_schoolOutfit:Back_skart2/YanChan_Rig34_schoolOutfit:Back_skart3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Front_skart1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Front_skart1/YanChan_Rig34_schoolOutfit:Front_skart2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Front_skart1/YanChan_Rig34_schoolOutfit:Front_skart2/YanChan_Rig34_schoolOutfit:Front_skart3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Left_skart1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Left_skart1/YanChan_Rig34_schoolOutfit:Left_skart2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Left_skart1/YanChan_Rig34_schoolOutfit:Left_skart2/YanChan_Rig34_schoolOutfit:Left_skart3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:LeftUpLeg
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:LeftUpLeg/YanChan_Rig34_schoolOutfit:LeftHip_Helper
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:LeftUpLeg/YanChan_Rig34_schoolOutfit:LeftLeg
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:LeftUpLeg/YanChan_Rig34_schoolOutfit:LeftLeg/YanChan_Rig34_schoolOutfit:LeftFoot
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:LeftUpLeg/YanChan_Rig34_schoolOutfit:LeftLeg/YanChan_Rig34_schoolOutfit:LeftFoot/YanChan_Rig34_schoolOutfit:LeftToes
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:LeftUpLeg/YanChan_Rig34_schoolOutfit:LeftLeg/YanChan_Rig34_schoolOutfit:LeftFoot/YanChan_Rig34_schoolOutfit:LeftToes/YanChan_Rig34_schoolOutfit:LeftToesNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:LeftUpLeg/YanChan_Rig34_schoolOutfit:LeftLeg/YanChan_Rig34_schoolOutfit:LeftLeg_Helper
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Right_skart1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Right_skart1/YanChan_Rig34_schoolOutfit:Right_skart2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Right_skart1/YanChan_Rig34_schoolOutfit:Right_skart2/YanChan_Rig34_schoolOutfit:Right_skart3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:RightUpLeg
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:RightUpLeg/YanChan_Rig34_schoolOutfit:RightHip_Helper
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:RightUpLeg/YanChan_Rig34_schoolOutfit:RightLeg
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:RightUpLeg/YanChan_Rig34_schoolOutfit:RightLeg/YanChan_Rig34_schoolOutfit:RightFoot
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:RightUpLeg/YanChan_Rig34_schoolOutfit:RightLeg/YanChan_Rig34_schoolOutfit:RightFoot/YanChan_Rig34_schoolOutfit:RightToes
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:RightUpLeg/YanChan_Rig34_schoolOutfit:RightLeg/YanChan_Rig34_schoolOutfit:RightFoot/YanChan_Rig34_schoolOutfit:RightToes/YanChan_Rig34_schoolOutfit:RightToesNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:RightUpLeg/YanChan_Rig34_schoolOutfit:RightLeg/YanChan_Rig34_schoolOutfit:RightLeg_Helper
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftBreast
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftBreast/YanChan_Rig34_schoolOutfit:LeftNipple
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArm_Helper
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandIndex1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandIndex1/YanChan_Rig34_schoolOutfit:LeftHandIndex2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandIndex1/YanChan_Rig34_schoolOutfit:LeftHandIndex2/YanChan_Rig34_schoolOutfit:LeftHandIndex3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandIndex1/YanChan_Rig34_schoolOutfit:LeftHandIndex2/YanChan_Rig34_schoolOutfit:LeftHandIndex3/YanChan_Rig34_schoolOutfit:LeftHandIndexNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHanditem_Null
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHanditem_Null/CookingClub_MiniWiniJar_LidMesh1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandMiddle1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandMiddle1/YanChan_Rig34_schoolOutfit:LeftHandMiddle2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandMiddle1/YanChan_Rig34_schoolOutfit:LeftHandMiddle2/YanChan_Rig34_schoolOutfit:LeftHandMiddle3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandMiddle1/YanChan_Rig34_schoolOutfit:LeftHandMiddle2/YanChan_Rig34_schoolOutfit:LeftHandMiddle3/YanChan_Rig34_schoolOutfit:LeftHandMiddleNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandPinky1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandPinky1/YanChan_Rig34_schoolOutfit:LeftHandPinky2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandPinky1/YanChan_Rig34_schoolOutfit:LeftHandPinky2/YanChan_Rig34_schoolOutfit:LeftHandPinky3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandPinky1/YanChan_Rig34_schoolOutfit:LeftHandPinky2/YanChan_Rig34_schoolOutfit:LeftHandPinky3/YanChan_Rig34_schoolOutfit:LeftHandPinkyNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandRing1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandRing1/YanChan_Rig34_schoolOutfit:LeftHandRing2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandRing1/YanChan_Rig34_schoolOutfit:LeftHandRing2/YanChan_Rig34_schoolOutfit:LeftHandRing3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandRing1/YanChan_Rig34_schoolOutfit:LeftHandRing2/YanChan_Rig34_schoolOutfit:LeftHandRing3/YanChan_Rig34_schoolOutfit:LeftHandRingNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandThumb1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandThumb1/YanChan_Rig34_schoolOutfit:LeftHandThumb2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandThumb1/YanChan_Rig34_schoolOutfit:LeftHandThumb2/YanChan_Rig34_schoolOutfit:LeftHandThumb3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:LeftShoulder/YanChan_Rig34_schoolOutfit:LeftArm/YanChan_Rig34_schoolOutfit:LeftArmRoll/YanChan_Rig34_schoolOutfit:LeftForeArm/YanChan_Rig34_schoolOutfit:LeftForeArmRoll/YanChan_Rig34_schoolOutfit:LeftHand/YanChan_Rig34_schoolOutfit:LeftHandThumb1/YanChan_Rig34_schoolOutfit:LeftHandThumb2/YanChan_Rig34_schoolOutfit:LeftHandThumb3/YanChan_Rig34_schoolOutfit:LeftHandThumbNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:cheek_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:cheek_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eye_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eye_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyelid_und1_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyelid_und1_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyelid_und2_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyelid_und2_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyelid_und_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyelid_und_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyerid1_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyerid1_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyerid2_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyerid2_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyerid_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:eyerid_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:inner_corner_of_eye_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:inner_corner_of_eye_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:jaw
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:jaw/YanChan_Rig34_schoolOutfit:b_lip_center
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:jaw/YanChan_Rig34_schoolOutfit:chin
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:jaw/YanChan_Rig34_schoolOutfit:lip_u_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:jaw/YanChan_Rig34_schoolOutfit:lip_u_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:jaw/YanChan_Rig34_schoolOutfit:rip_btm_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:jaw/YanChan_Rig34_schoolOutfit:rip_btm_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:lip_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:lip_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:lip_t_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:lip_t_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:mayu
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:mayu/YanChan_Rig34_schoolOutfit:eyebrow_a_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:mayu/YanChan_Rig34_schoolOutfit:eyebrow_a_Left/YanChan_Rig34_schoolOutfit:eyebrow_b_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:mayu/YanChan_Rig34_schoolOutfit:eyebrow_a_Left/YanChan_Rig34_schoolOutfit:eyebrow_b_Left/YanChan_Rig34_schoolOutfit:temple_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:mayu/YanChan_Rig34_schoolOutfit:eyebrow_a_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:mayu/YanChan_Rig34_schoolOutfit:eyebrow_a_Right/YanChan_Rig34_schoolOutfit:eyebrow_b_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:mayu/YanChan_Rig34_schoolOutfit:eyebrow_a_Right/YanChan_Rig34_schoolOutfit:eyebrow_b_Right/YanChan_Rig34_schoolOutfit:temple_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:nose
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:nose/YanChan_Rig34_schoolOutfit:nostrir_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:nose/YanChan_Rig34_schoolOutfit:nostrir_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:tail_of_eye_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:tail_of_eye_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:u_lip_center
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:u_lip_center/YanChan_Rig34_schoolOutfit:lip_top_Left
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:face/YanChan_Rig34_schoolOutfit:atama_n/YanChan_Rig34_schoolOutfit:u_lip_center/YanChan_Rig34_schoolOutfit:lip_top_Right
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Glasses_Null
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:BackHair1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:BackHair1/YanChan_Rig34_schoolOutfit:BackHair2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:BackHair1/YanChan_Rig34_schoolOutfit:BackHair2/YanChan_Rig34_schoolOutfit:BackHair3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:BackHair1/YanChan_Rig34_schoolOutfit:BackHair2/YanChan_Rig34_schoolOutfit:BackHair3/YanChan_Rig34_schoolOutfit:BackHair4
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:FrontHair
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:LeftHair1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:LeftHair1/YanChan_Rig34_schoolOutfit:LeftHair2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:LeftHair1/YanChan_Rig34_schoolOutfit:LeftHair2/YanChan_Rig34_schoolOutfit:LeftHair3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:RightHair1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:RightHair1/YanChan_Rig34_schoolOutfit:RightHair2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:Head_null/YanChan_Rig34_schoolOutfit:RightHair1/YanChan_Rig34_schoolOutfit:RightHair2/YanChan_Rig34_schoolOutfit:RightHair3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:LeftEarring_Null
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:Neck/YanChan_Rig34_schoolOutfit:Head/YanChan_Rig34_schoolOutfit:RightEarring_Null
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightBreast
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightBreast/YanChan_Rig34_schoolOutfit:RightNipple
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArm_Helper
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandIndex1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandIndex1/YanChan_Rig34_schoolOutfit:RightHandIndex2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandIndex1/YanChan_Rig34_schoolOutfit:RightHandIndex2/YanChan_Rig34_schoolOutfit:RightHandIndex3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandIndex1/YanChan_Rig34_schoolOutfit:RightHandIndex2/YanChan_Rig34_schoolOutfit:RightHandIndex3/YanChan_Rig34_schoolOutfit:RightHandIndexNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHanditem_Null
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHanditem_Null/CookingClub_MiniWiniJarMesh1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandMiddle1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandMiddle1/YanChan_Rig34_schoolOutfit:RightHandMiddle2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandMiddle1/YanChan_Rig34_schoolOutfit:RightHandMiddle2/YanChan_Rig34_schoolOutfit:RightHandMiddle3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandMiddle1/YanChan_Rig34_schoolOutfit:RightHandMiddle2/YanChan_Rig34_schoolOutfit:RightHandMiddle3/YanChan_Rig34_schoolOutfit:RightHandMiddleNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandPinky1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandPinky1/YanChan_Rig34_schoolOutfit:RightHandPinky2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandPinky1/YanChan_Rig34_schoolOutfit:RightHandPinky2/YanChan_Rig34_schoolOutfit:RightHandPinky3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandPinky1/YanChan_Rig34_schoolOutfit:RightHandPinky2/YanChan_Rig34_schoolOutfit:RightHandPinky3/YanChan_Rig34_schoolOutfit:RightHandPinkyNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandRing1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandRing1/YanChan_Rig34_schoolOutfit:RightHandRing2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandRing1/YanChan_Rig34_schoolOutfit:RightHandRing2/YanChan_Rig34_schoolOutfit:RightHandRing3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandRing1/YanChan_Rig34_schoolOutfit:RightHandRing2/YanChan_Rig34_schoolOutfit:RightHandRing3/YanChan_Rig34_schoolOutfit:RightHandRingNull
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandThumb1
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandThumb1/YanChan_Rig34_schoolOutfit:RightHandThumb2
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandThumb1/YanChan_Rig34_schoolOutfit:RightHandThumb2/YanChan_Rig34_schoolOutfit:RightHandThumb3
+        weight: 1
+      - path: YanChan_Rig34_schoolOutfit:PelvisRoot/YanChan_Rig34_schoolOutfit:Hips/YanChan_Rig34_schoolOutfit:Spine/YanChan_Rig34_schoolOutfit:Spine1/YanChan_Rig34_schoolOutfit:Spine2/YanChan_Rig34_schoolOutfit:Spine3/YanChan_Rig34_schoolOutfit:RightShoulder/YanChan_Rig34_schoolOutfit:RightArm/YanChan_Rig34_schoolOutfit:RightArmRoll/YanChan_Rig34_schoolOutfit:RightForeArm/YanChan_Rig34_schoolOutfit:RightForeArmRoll/YanChan_Rig34_schoolOutfit:RightHand/YanChan_Rig34_schoolOutfit:RightHandThumb1/YanChan_Rig34_schoolOutfit:RightHandThumb2/YanChan_Rig34_schoolOutfit:RightHandThumb3/YanChan_Rig34_schoolOutfit:RightHandThumbNull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

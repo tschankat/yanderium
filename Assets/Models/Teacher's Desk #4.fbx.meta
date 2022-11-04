@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 92b948d430fd2d34495d89e263800806
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 'Book #1'
+    100002: 'Book #1.001'
+    100004: 'Book #1.002'
+    100006: 'Book #2'
+    100008: 'Book #2.001'
+    100010: 'Book #2.002'
+    100012: 'Book #3'
+    100014: 'Book #3.001'
+    100016: 'Book #3.002'
+    100018: Chair
+    100020: Computer
+    100022: Keyboard
+    100024: Monitor
+    100026: Mouse
+    100028: Mouse Pad
+    100030: Open Book
+    100032: Open Book.001
+    100034: Open Book.002
+    100036: Open Book.003
+    100038: Paper
+    100040: Paper.001
+    100042: Pencil
+    100044: Pencil Cup
+    100046: Pencil.001
+    100048: Pencil.002
+    100050: Pencil.003
+    100052: Pencil.004
+    100054: Pencil.005
+    100056: Rubber
+    100058: Rubber.001
+    100060: Rubber.002
+    100062: Ruler
+    100064: Stapler
+    100066: 'Teacher Desk #4'
+    100068: //RootNode
+    400000: 'Book #1'
+    400002: 'Book #1.001'
+    400004: 'Book #1.002'
+    400006: 'Book #2'
+    400008: 'Book #2.001'
+    400010: 'Book #2.002'
+    400012: 'Book #3'
+    400014: 'Book #3.001'
+    400016: 'Book #3.002'
+    400018: Chair
+    400020: Computer
+    400022: Keyboard
+    400024: Monitor
+    400026: Mouse
+    400028: Mouse Pad
+    400030: Open Book
+    400032: Open Book.001
+    400034: Open Book.002
+    400036: Open Book.003
+    400038: Paper
+    400040: Paper.001
+    400042: Pencil
+    400044: Pencil Cup
+    400046: Pencil.001
+    400048: Pencil.002
+    400050: Pencil.003
+    400052: Pencil.004
+    400054: Pencil.005
+    400056: Rubber
+    400058: Rubber.001
+    400060: Rubber.002
+    400062: Ruler
+    400064: Stapler
+    400066: 'Teacher Desk #4'
+    400068: //RootNode
+    2300000: 'Book #1'
+    2300002: 'Book #1.001'
+    2300004: 'Book #1.002'
+    2300006: 'Book #2'
+    2300008: 'Book #2.001'
+    2300010: 'Book #2.002'
+    2300012: 'Book #3'
+    2300014: 'Book #3.001'
+    2300016: 'Book #3.002'
+    2300018: Chair
+    2300020: Computer
+    2300022: Keyboard
+    2300024: Monitor
+    2300026: Mouse
+    2300028: Mouse Pad
+    2300030: Open Book
+    2300032: Open Book.001
+    2300034: Open Book.002
+    2300036: Open Book.003
+    2300038: Paper
+    2300040: Paper.001
+    2300042: Pencil
+    2300044: Pencil Cup
+    2300046: Pencil.001
+    2300048: Pencil.002
+    2300050: Pencil.003
+    2300052: Pencil.004
+    2300054: Pencil.005
+    2300056: Rubber
+    2300058: Rubber.001
+    2300060: Rubber.002
+    2300062: Ruler
+    2300064: Stapler
+    2300066: 'Teacher Desk #4'
+    3300000: 'Book #1'
+    3300002: 'Book #1.001'
+    3300004: 'Book #1.002'
+    3300006: 'Book #2'
+    3300008: 'Book #2.001'
+    3300010: 'Book #2.002'
+    3300012: 'Book #3'
+    3300014: 'Book #3.001'
+    3300016: 'Book #3.002'
+    3300018: Chair
+    3300020: Computer
+    3300022: Keyboard
+    3300024: Monitor
+    3300026: Mouse
+    3300028: Mouse Pad
+    3300030: Open Book
+    3300032: Open Book.001
+    3300034: Open Book.002
+    3300036: Open Book.003
+    3300038: Paper
+    3300040: Paper.001
+    3300042: Pencil
+    3300044: Pencil Cup
+    3300046: Pencil.001
+    3300048: Pencil.002
+    3300050: Pencil.003
+    3300052: Pencil.004
+    3300054: Pencil.005
+    3300056: Rubber
+    3300058: Rubber.001
+    3300060: Rubber.002
+    3300062: Ruler
+    3300064: Stapler
+    3300066: 'Teacher Desk #4'
+    4300000: Ruler
+    4300002: Mouse Pad
+    4300004: Stapler
+    4300006: Paper.001
+    4300008: Paper
+    4300010: Chair
+    4300012: Open Book.003
+    4300014: 'Book #2'
+    4300016: 'Book #1.001'
+    4300018: Open Book.001
+    4300020: 'Book #1'
+    4300022: Pencil.001
+    4300024: Pencil
+    4300026: Pencil.002
+    4300028: 'Book #3'
+    4300030: Pencil.005
+    4300032: Open Book.002
+    4300034: Rubber.001
+    4300036: Pencil Cup
+    4300038: 'Book #1.002'
+    4300040: 'Book #2.001'
+    4300042: 'Book #3.002'
+    4300044: Mouse
+    4300046: Keyboard
+    4300048: Computer
+    4300050: Monitor
+    4300052: 'Teacher Desk #4'
+    4300054: Open Book
+    4300056: Pencil.003
+    4300058: 'Book #2.002'
+    4300060: 'Book #3.001'
+    4300062: Rubber.002
+    4300064: Rubber
+    4300066: Pencil.004
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

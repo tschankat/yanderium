@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 5d639098cfae8974087a4bfd99b79ec5
+timeCreated: 1515986879
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Eyeball_J01
+    100002: Eyeball_J02
+    100004: Eyeball_J03
+    100006: Eyeball_J04
+    100008: Eyeball_J05
+    100010: Eyeball_J06
+    100012: Eyeball_J07
+    100014: Eyeball_J08
+    100016: Eyeball_J09
+    100018: Eyeball_J10
+    100020: //RootNode
+    100022: EyeSphere_01
+    100024: EyeSphere_02
+    100026: EyeSphere_03
+    100028: EyeSphere_04
+    100030: EyeSphere_05
+    100032: EyeSphere_06
+    100034: EyeSphere_07
+    100036: EyeSphere_08
+    100038: EyeSphere_09
+    100040: EyeSphere_10
+    400000: Eyeball_J01
+    400002: Eyeball_J02
+    400004: Eyeball_J03
+    400006: Eyeball_J04
+    400008: Eyeball_J05
+    400010: Eyeball_J06
+    400012: Eyeball_J07
+    400014: Eyeball_J08
+    400016: Eyeball_J09
+    400018: Eyeball_J10
+    400020: //RootNode
+    400022: EyeSphere_01
+    400024: EyeSphere_02
+    400026: EyeSphere_03
+    400028: EyeSphere_04
+    400030: EyeSphere_05
+    400032: EyeSphere_06
+    400034: EyeSphere_07
+    400036: EyeSphere_08
+    400038: EyeSphere_09
+    400040: EyeSphere_10
+    2300000: EyeSphere_01
+    2300002: EyeSphere_02
+    2300004: EyeSphere_03
+    2300006: EyeSphere_04
+    2300008: EyeSphere_05
+    2300010: EyeSphere_06
+    2300012: EyeSphere_07
+    2300014: EyeSphere_08
+    2300016: EyeSphere_09
+    2300018: EyeSphere_10
+    3300000: EyeSphere_01
+    3300002: EyeSphere_02
+    3300004: EyeSphere_03
+    3300006: EyeSphere_04
+    3300008: EyeSphere_05
+    3300010: EyeSphere_06
+    3300012: EyeSphere_07
+    3300014: EyeSphere_08
+    3300016: EyeSphere_09
+    3300018: EyeSphere_10
+    4300000: EyeSphere_10
+    4300002: EyeSphere_05
+    4300004: EyeSphere_09
+    4300006: EyeSphere_04
+    4300008: EyeSphere_02
+    4300010: EyeSphere_07
+    4300012: EyeSphere_01
+    4300014: EyeSphere_06
+    4300016: EyeSphere_03
+    4300018: EyeSphere_08
+    7400000: Eyeballs_Attack
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Eyeballs_Attack
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Eyeball_J01
+        weight: 1
+      - path: Eyeball_J01/EyeSphere_01
+        weight: 1
+      - path: Eyeball_J02
+        weight: 1
+      - path: Eyeball_J02/EyeSphere_02
+        weight: 1
+      - path: Eyeball_J03
+        weight: 1
+      - path: Eyeball_J03/EyeSphere_03
+        weight: 1
+      - path: Eyeball_J04
+        weight: 1
+      - path: Eyeball_J04/EyeSphere_04
+        weight: 1
+      - path: Eyeball_J05
+        weight: 1
+      - path: Eyeball_J05/EyeSphere_05
+        weight: 1
+      - path: Eyeball_J06
+        weight: 1
+      - path: Eyeball_J06/EyeSphere_06
+        weight: 1
+      - path: Eyeball_J07
+        weight: 1
+      - path: Eyeball_J07/EyeSphere_07
+        weight: 1
+      - path: Eyeball_J08
+        weight: 1
+      - path: Eyeball_J08/EyeSphere_08
+        weight: 1
+      - path: Eyeball_J09
+        weight: 1
+      - path: Eyeball_J09/EyeSphere_09
+        weight: 1
+      - path: Eyeball_J10
+        weight: 1
+      - path: Eyeball_J10/EyeSphere_10
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

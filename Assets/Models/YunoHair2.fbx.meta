@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 7d197769e4cc1274686f4cf0103b6ec3
+timeCreated: 1513470086
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Head
+    100004: Head.001
+    100006: Head.001_end
+    100008: LeftFrontHair
+    100010: LeftFrontHair.001
+    100012: LeftFrontHair.002
+    100014: LeftFrontHair.003
+    100016: LeftFrontHair.004
+    100018: LeftFrontHair.004_end
+    100020: LeftFrontHair.004_end_end
+    100022: LeftPigtail
+    100024: LeftPigtail.001
+    100026: LeftPigtail.002
+    100028: LeftPigtail.003
+    100030: LeftPigtail.004
+    100032: LeftPigtail.004_end
+    100034: LeftPigtail.004_end_end
+    100036: NewYunoHairMesh
+    100038: RightFrontHair
+    100040: RightFrontHair.001
+    100042: RightFrontHair.002
+    100044: RightFrontHair.003
+    100046: RightFrontHair.004
+    100048: RightFrontHair.004_end
+    100050: RightFrontHair.004_end_end
+    100052: RightPigtail
+    100054: RightPigtail.001
+    100056: RightPigtail.002
+    100058: RightPigtail.003
+    100060: RightPigtail.004
+    100062: RightPigtail.004_end
+    100064: RightPigtail.004_end_end
+    100066: //RootNode
+    100068: Head_001
+    100070: LeftFrontHair_001
+    100072: LeftFrontHair_002
+    100074: LeftFrontHair_003
+    100076: LeftFrontHair_004
+    100078: LeftFrontHair_004_end
+    100080: LeftPigtail_001
+    100082: LeftPigtail_002
+    100084: LeftPigtail_003
+    100086: LeftPigtail_004
+    100088: LeftPigtail_004_end
+    100090: RightFrontHair_001
+    100092: RightFrontHair_002
+    100094: RightFrontHair_003
+    100096: RightFrontHair_004
+    100098: RightFrontHair_004_end
+    100100: RightPigtail_001
+    100102: RightPigtail_002
+    100104: RightPigtail_003
+    100106: RightPigtail_004
+    100108: RightPigtail_004_end
+    400000: Armature
+    400002: Head
+    400004: Head.001
+    400006: Head.001_end
+    400008: LeftFrontHair
+    400010: LeftFrontHair.001
+    400012: LeftFrontHair.002
+    400014: LeftFrontHair.003
+    400016: LeftFrontHair.004
+    400018: LeftFrontHair.004_end
+    400020: LeftFrontHair.004_end_end
+    400022: LeftPigtail
+    400024: LeftPigtail.001
+    400026: LeftPigtail.002
+    400028: LeftPigtail.003
+    400030: LeftPigtail.004
+    400032: LeftPigtail.004_end
+    400034: LeftPigtail.004_end_end
+    400036: NewYunoHairMesh
+    400038: RightFrontHair
+    400040: RightFrontHair.001
+    400042: RightFrontHair.002
+    400044: RightFrontHair.003
+    400046: RightFrontHair.004
+    400048: RightFrontHair.004_end
+    400050: RightFrontHair.004_end_end
+    400052: RightPigtail
+    400054: RightPigtail.001
+    400056: RightPigtail.002
+    400058: RightPigtail.003
+    400060: RightPigtail.004
+    400062: RightPigtail.004_end
+    400064: RightPigtail.004_end_end
+    400066: //RootNode
+    400068: Head_001
+    400070: LeftFrontHair_001
+    400072: LeftFrontHair_002
+    400074: LeftFrontHair_003
+    400076: LeftFrontHair_004
+    400078: LeftFrontHair_004_end
+    400080: LeftPigtail_001
+    400082: LeftPigtail_002
+    400084: LeftPigtail_003
+    400086: LeftPigtail_004
+    400088: LeftPigtail_004_end
+    400090: RightFrontHair_001
+    400092: RightFrontHair_002
+    400094: RightFrontHair_003
+    400096: RightFrontHair_004
+    400098: RightFrontHair_004_end
+    400100: RightPigtail_001
+    400102: RightPigtail_002
+    400104: RightPigtail_003
+    400106: RightPigtail_004
+    400108: RightPigtail_004_end
+    4300000: NewYunoHairMesh
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: NewYunoHairMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

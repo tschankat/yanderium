@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: ae2e21ee66b18b94d88b7e4ffa618f01
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: HeadmasterBooks
+    100002: HeadmasterCarpet
+    100004: HeadmasterChairs
+    100006: HeadmasterDesk
+    100008: HeadmasterFloor
+    100010: HeadmasterPlant
+    100012: //RootNode
+    100014: HeadmasterChair
+    100016: HeadmasterCouch
+    100018: HeadmasterTable
+    400000: HeadmasterBooks
+    400002: HeadmasterCarpet
+    400004: HeadmasterChairs
+    400006: HeadmasterDesk
+    400008: HeadmasterFloor
+    400010: HeadmasterPlant
+    400012: //RootNode
+    400014: HeadmasterChair
+    400016: HeadmasterCouch
+    400018: HeadmasterTable
+    2300000: HeadmasterBooks
+    2300002: HeadmasterCarpet
+    2300004: HeadmasterChairs
+    2300006: HeadmasterDesk
+    2300008: HeadmasterFloor
+    2300010: HeadmasterPlant
+    2300012: HeadmasterChair
+    2300014: HeadmasterCouch
+    2300016: HeadmasterTable
+    3300000: HeadmasterBooks
+    3300002: HeadmasterCarpet
+    3300004: HeadmasterChairs
+    3300006: HeadmasterDesk
+    3300008: HeadmasterFloor
+    3300010: HeadmasterPlant
+    3300012: HeadmasterChair
+    3300014: HeadmasterCouch
+    3300016: HeadmasterTable
+    4300000: HeadmasterCarpet
+    4300002: HeadmasterFloor
+    4300004: HeadmasterChairs
+    4300006: HeadmasterDesk
+    4300008: HeadmasterPlant
+    4300010: HeadmasterBooks
+    4300012: HeadmasterTable
+    4300014: HeadmasterChair
+    4300016: HeadmasterCouch
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 6b732c29a81f23647bf0cfb1e10069f0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: GaloGlasses
+    100004: GaloLeftArmband
+    100006: GaloLeftIndexRing
+    100008: GaloLeftMiddleRing
+    100010: GaloLeftPinkyRing
+    100012: GaloLeftWristbands
+    100014: GaloNecklace
+    100016: GaloRightArmband
+    100018: GaloRightIndexRing
+    100020: GaloRightMiddleRing
+    100022: GaloRightPinkyRing
+    100024: GaloRightRingRing
+    100026: GaloRightWristbands
+    100028: GaloEarrings
+    400000: //RootNode
+    400002: GaloGlasses
+    400004: GaloLeftArmband
+    400006: GaloLeftIndexRing
+    400008: GaloLeftMiddleRing
+    400010: GaloLeftPinkyRing
+    400012: GaloLeftWristbands
+    400014: GaloNecklace
+    400016: GaloRightArmband
+    400018: GaloRightIndexRing
+    400020: GaloRightMiddleRing
+    400022: GaloRightPinkyRing
+    400024: GaloRightRingRing
+    400026: GaloRightWristbands
+    400028: GaloEarrings
+    2300000: GaloGlasses
+    2300002: GaloLeftArmband
+    2300004: GaloLeftIndexRing
+    2300006: GaloLeftMiddleRing
+    2300008: GaloLeftPinkyRing
+    2300010: GaloLeftWristbands
+    2300012: GaloNecklace
+    2300014: GaloRightArmband
+    2300016: GaloRightIndexRing
+    2300018: GaloRightMiddleRing
+    2300020: GaloRightPinkyRing
+    2300022: GaloRightRingRing
+    2300024: GaloRightWristbands
+    2300026: GaloEarrings
+    3300000: GaloGlasses
+    3300002: GaloLeftArmband
+    3300004: GaloLeftIndexRing
+    3300006: GaloLeftMiddleRing
+    3300008: GaloLeftPinkyRing
+    3300010: GaloLeftWristbands
+    3300012: GaloNecklace
+    3300014: GaloRightArmband
+    3300016: GaloRightIndexRing
+    3300018: GaloRightMiddleRing
+    3300020: GaloRightPinkyRing
+    3300022: GaloRightRingRing
+    3300024: GaloRightWristbands
+    3300026: GaloEarrings
+    4300000: GaloRightIndexRing
+    4300002: GaloRightMiddleRing
+    4300004: GaloRightRingRing
+    4300006: GaloRightPinkyRing
+    4300008: GaloRightWristbands
+    4300010: GaloRightArmband
+    4300012: GaloLeftIndexRing
+    4300014: GaloLeftMiddleRing
+    4300016: GaloLeftPinkyRing
+    4300018: GaloLeftWristbands
+    4300020: GaloLeftArmband
+    4300022: GaloNecklace
+    4300024: GaloGlasses
+    4300026: GaloEarrings
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

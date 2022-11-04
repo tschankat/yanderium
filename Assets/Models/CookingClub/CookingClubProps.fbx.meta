@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 812c7ef7f7df4404db642d6bb76c70fa
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: CookingClub_ChairMesh
+    100002: CookingClub_CounterTopMesh
+    100004: CookingClub_CuttingBoardMesh
+    100006: CookingClub_Fridge_BigDoorMesh
+    100008: CookingClub_Fridge_BodyMesh
+    100010: CookingClub_Fridge_DoorPivot1Mesh
+    100012: CookingClub_Fridge_DoorPivot2Mesh
+    100014: CookingClub_Fridge_ShelvesMesh
+    100016: CookingClub_Fridge_SmallDoorMesh
+    100018: CookingClub_FridgeMesh
+    100020: CookingClub_KnifeBlockMesh
+    100022: CookingClub_MiniWiniJar_BodyMesh
+    100024: CookingClub_MiniWiniJar_LidMesh
+    100026: CookingClub_MiniWiniJarMesh
+    100028: CookingClub_PlateMesh
+    100030: CookingClub_SingleMiniwiniMesh
+    100032: CookingClub_SingleOctoSausageMesh
+    100034: //RootNode
+    100036: CookingCub_TableMesh
+    400000: CookingClub_ChairMesh
+    400002: CookingClub_CounterTopMesh
+    400004: CookingClub_CuttingBoardMesh
+    400006: CookingClub_Fridge_BigDoorMesh
+    400008: CookingClub_Fridge_BodyMesh
+    400010: CookingClub_Fridge_DoorPivot1Mesh
+    400012: CookingClub_Fridge_DoorPivot2Mesh
+    400014: CookingClub_Fridge_ShelvesMesh
+    400016: CookingClub_Fridge_SmallDoorMesh
+    400018: CookingClub_FridgeMesh
+    400020: CookingClub_KnifeBlockMesh
+    400022: CookingClub_MiniWiniJar_BodyMesh
+    400024: CookingClub_MiniWiniJar_LidMesh
+    400026: CookingClub_MiniWiniJarMesh
+    400028: CookingClub_PlateMesh
+    400030: CookingClub_SingleMiniwiniMesh
+    400032: CookingClub_SingleOctoSausageMesh
+    400034: //RootNode
+    400036: CookingCub_TableMesh
+    2300000: CookingClub_ChairMesh
+    2300002: CookingClub_CounterTopMesh
+    2300004: CookingClub_CuttingBoardMesh
+    2300006: CookingClub_Fridge_BigDoorMesh
+    2300008: CookingClub_Fridge_BodyMesh
+    2300010: CookingClub_Fridge_DoorPivot1Mesh
+    2300012: CookingClub_Fridge_DoorPivot2Mesh
+    2300014: CookingClub_Fridge_ShelvesMesh
+    2300016: CookingClub_Fridge_SmallDoorMesh
+    2300018: CookingClub_KnifeBlockMesh
+    2300020: CookingClub_MiniWiniJar_BodyMesh
+    2300022: CookingClub_MiniWiniJar_LidMesh
+    2300024: CookingClub_PlateMesh
+    2300026: CookingClub_SingleMiniwiniMesh
+    2300028: CookingClub_SingleOctoSausageMesh
+    2300030: CookingCub_TableMesh
+    3300000: CookingClub_ChairMesh
+    3300002: CookingClub_CounterTopMesh
+    3300004: CookingClub_CuttingBoardMesh
+    3300006: CookingClub_Fridge_BigDoorMesh
+    3300008: CookingClub_Fridge_BodyMesh
+    3300010: CookingClub_Fridge_DoorPivot1Mesh
+    3300012: CookingClub_Fridge_DoorPivot2Mesh
+    3300014: CookingClub_Fridge_ShelvesMesh
+    3300016: CookingClub_Fridge_SmallDoorMesh
+    3300018: CookingClub_KnifeBlockMesh
+    3300020: CookingClub_MiniWiniJar_BodyMesh
+    3300022: CookingClub_MiniWiniJar_LidMesh
+    3300024: CookingClub_PlateMesh
+    3300026: CookingClub_SingleMiniwiniMesh
+    3300028: CookingClub_SingleOctoSausageMesh
+    3300030: CookingCub_TableMesh
+    4300000: CookingClub_CounterTopMesh
+    4300002: CookingCub_TableMesh
+    4300004: CookingClub_PlateMesh
+    4300006: CookingClub_KnifeBlockMesh
+    4300008: CookingClub_CuttingBoardMesh
+    4300010: CookingClub_SingleOctoSausageMesh
+    4300012: CookingClub_SingleMiniwiniMesh
+    4300014: CookingClub_ChairMesh
+    4300016: CookingClub_MiniWiniJar_BodyMesh
+    4300018: CookingClub_MiniWiniJar_LidMesh
+    4300020: CookingClub_Fridge_BigDoorMesh
+    4300022: CookingClub_Fridge_SmallDoorMesh
+    4300024: CookingClub_Fridge_DoorPivot2Mesh
+    4300026: CookingClub_Fridge_DoorPivot1Mesh
+    4300028: CookingClub_Fridge_BodyMesh
+    4300030: CookingClub_Fridge_ShelvesMesh
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

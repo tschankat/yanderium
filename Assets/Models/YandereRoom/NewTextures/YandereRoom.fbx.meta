@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 4c81cc34f4b34ee47b004c5cfb563931
+timeCreated: 1507690395
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AirConditioningMesh
+    100002: BookshelfMesh
+    100004: SingleBedMesh
+    100006: SpeakersMesh
+    100008: YandereChairMesh
+    100010: YandereDresserMesh
+    100012: YanderePCMesh
+    100014: //RootNode
+    100016: YandereRoomMesh
+    100018: YandereTVMesh
+    400000: AirConditioningMesh
+    400002: BookshelfMesh
+    400004: SingleBedMesh
+    400006: SpeakersMesh
+    400008: YandereChairMesh
+    400010: YandereDresserMesh
+    400012: YanderePCMesh
+    400014: //RootNode
+    400016: YandereRoomMesh
+    400018: YandereTVMesh
+    2300000: AirConditioningMesh
+    2300002: BookshelfMesh
+    2300004: SingleBedMesh
+    2300006: SpeakersMesh
+    2300008: YandereChairMesh
+    2300010: YandereDresserMesh
+    2300012: YanderePCMesh
+    2300014: YandereRoomMesh
+    2300016: YandereTVMesh
+    3300000: AirConditioningMesh
+    3300002: BookshelfMesh
+    3300004: SingleBedMesh
+    3300006: SpeakersMesh
+    3300008: YandereChairMesh
+    3300010: YandereDresserMesh
+    3300012: YanderePCMesh
+    3300014: YandereRoomMesh
+    3300016: YandereTVMesh
+    4300000: YandereDresserMesh
+    4300002: YandereChairMesh
+    4300004: SingleBedMesh
+    4300006: BookshelfMesh
+    4300008: AirConditioningMesh
+    4300010: YanderePCMesh
+    4300012: YandereTVMesh
+    4300014: YandereRoomMesh
+    4300016: SpeakersMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: f025baee092d9b642998d5c17ae03af4
+timeCreated: 1559122608
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BackSkirtArmor
+    100004: FrontSkirtArmor
+    100006: LeftBicepArmor
+    100008: LeftCalfArmor
+    100010: LeftFootArmor
+    100012: LeftForearmArmor
+    100014: LeftKneeArmor
+    100016: LeftShoulderArmor
+    100018: LeftSkirtArmor
+    100020: LeftThighArmor
+    100022: RightBicepArmor
+    100024: RightCalfArmor
+    100026: RightFootArmor
+    100028: RightForearmArmor
+    100030: RightKneeArmor
+    100032: RightShoulderArmor
+    100034: RightSkirtArmor
+    100036: RightThighArmor
+    100038: TorsoArmor
+    400000: //RootNode
+    400002: BackSkirtArmor
+    400004: FrontSkirtArmor
+    400006: LeftBicepArmor
+    400008: LeftCalfArmor
+    400010: LeftFootArmor
+    400012: LeftForearmArmor
+    400014: LeftKneeArmor
+    400016: LeftShoulderArmor
+    400018: LeftSkirtArmor
+    400020: LeftThighArmor
+    400022: RightBicepArmor
+    400024: RightCalfArmor
+    400026: RightFootArmor
+    400028: RightForearmArmor
+    400030: RightKneeArmor
+    400032: RightShoulderArmor
+    400034: RightSkirtArmor
+    400036: RightThighArmor
+    400038: TorsoArmor
+    2300000: BackSkirtArmor
+    2300002: FrontSkirtArmor
+    2300004: LeftBicepArmor
+    2300006: LeftCalfArmor
+    2300008: LeftFootArmor
+    2300010: LeftForearmArmor
+    2300012: LeftKneeArmor
+    2300014: LeftShoulderArmor
+    2300016: LeftSkirtArmor
+    2300018: LeftThighArmor
+    2300020: RightBicepArmor
+    2300022: RightCalfArmor
+    2300024: RightFootArmor
+    2300026: RightForearmArmor
+    2300028: RightKneeArmor
+    2300030: RightShoulderArmor
+    2300032: RightSkirtArmor
+    2300034: RightThighArmor
+    2300036: TorsoArmor
+    3300000: BackSkirtArmor
+    3300002: FrontSkirtArmor
+    3300004: LeftBicepArmor
+    3300006: LeftCalfArmor
+    3300008: LeftFootArmor
+    3300010: LeftForearmArmor
+    3300012: LeftKneeArmor
+    3300014: LeftShoulderArmor
+    3300016: LeftSkirtArmor
+    3300018: LeftThighArmor
+    3300020: RightBicepArmor
+    3300022: RightCalfArmor
+    3300024: RightFootArmor
+    3300026: RightForearmArmor
+    3300028: RightKneeArmor
+    3300030: RightShoulderArmor
+    3300032: RightSkirtArmor
+    3300034: RightThighArmor
+    3300036: TorsoArmor
+    4300000: TorsoArmor
+    4300002: RightShoulderArmor
+    4300004: RightBicepArmor
+    4300006: RightForearmArmor
+    4300008: LeftShoulderArmor
+    4300010: LeftBicepArmor
+    4300012: LeftForearmArmor
+    4300014: FrontSkirtArmor
+    4300016: BackSkirtArmor
+    4300018: RightSkirtArmor
+    4300020: LeftSkirtArmor
+    4300022: RightThighArmor
+    4300024: RightKneeArmor
+    4300026: RightCalfArmor
+    4300028: RightFootArmor
+    4300030: LeftThighArmor
+    4300032: LeftKneeArmor
+    4300034: LeftCalfArmor
+    4300036: LeftFootArmor
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teresa
+    second: {fileID: 2100000, guid: 0df4b56a9ec45b348a7190081c346257, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

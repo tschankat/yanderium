@@ -1,0 +1,1032 @@
+fileFormatVersion: 2
+guid: f6b84789eb569cf4ab65520e26ba26f8
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: yandere_chan_standing_suicide_2:atama_n
+    100004: yandere_chan_standing_suicide_2:b_lip_center
+    100006: yandere_chan_standing_suicide_2:Back_skart1
+    100008: yandere_chan_standing_suicide_2:Back_skart2
+    100010: yandere_chan_standing_suicide_2:Back_skart3
+    100012: yandere_chan_standing_suicide_2:BackHair1
+    100014: yandere_chan_standing_suicide_2:BackHair2
+    100016: yandere_chan_standing_suicide_2:BackHair3
+    100018: yandere_chan_standing_suicide_2:BackHair4
+    100020: yandere_chan_standing_suicide_2:cheek_Left
+    100022: yandere_chan_standing_suicide_2:cheek_Right
+    100024: yandere_chan_standing_suicide_2:chin
+    100026: yandere_chan_standing_suicide_2:eye_Left
+    100028: yandere_chan_standing_suicide_2:eye_Right
+    100030: yandere_chan_standing_suicide_2:eyebrow_a_Left
+    100032: yandere_chan_standing_suicide_2:eyebrow_a_Right
+    100034: yandere_chan_standing_suicide_2:eyebrow_b_Left
+    100036: yandere_chan_standing_suicide_2:eyebrow_b_Right
+    100038: yandere_chan_standing_suicide_2:eyelid_und1_Left
+    100040: yandere_chan_standing_suicide_2:eyelid_und1_Right
+    100042: yandere_chan_standing_suicide_2:eyelid_und2_Left
+    100044: yandere_chan_standing_suicide_2:eyelid_und2_Right
+    100046: yandere_chan_standing_suicide_2:eyelid_und_Left
+    100048: yandere_chan_standing_suicide_2:eyelid_und_Right
+    100050: yandere_chan_standing_suicide_2:eyerid1_Left
+    100052: yandere_chan_standing_suicide_2:eyerid1_Right
+    100054: yandere_chan_standing_suicide_2:eyerid2_Left
+    100056: yandere_chan_standing_suicide_2:eyerid2_Right
+    100058: yandere_chan_standing_suicide_2:eyerid_Left
+    100060: yandere_chan_standing_suicide_2:eyerid_Right
+    100062: yandere_chan_standing_suicide_2:f02_schoolwear_210_h
+    100064: yandere_chan_standing_suicide_2:face
+    100066: yandere_chan_standing_suicide_2:Front_skart1
+    100068: yandere_chan_standing_suicide_2:Front_skart2
+    100070: yandere_chan_standing_suicide_2:Front_skart3
+    100072: yandere_chan_standing_suicide_2:FrontHair
+    100074: yandere_chan_standing_suicide_2:Glasses_Null
+    100076: yandere_chan_standing_suicide_2:Head
+    100078: yandere_chan_standing_suicide_2:Head_null
+    100080: yandere_chan_standing_suicide_2:Hips
+    100082: yandere_chan_standing_suicide_2:inner_corner_of_eye_Left
+    100084: yandere_chan_standing_suicide_2:inner_corner_of_eye_Right
+    100086: yandere_chan_standing_suicide_2:jaw
+    100088: yandere_chan_standing_suicide_2:Left_skart1
+    100090: yandere_chan_standing_suicide_2:Left_skart2
+    100092: yandere_chan_standing_suicide_2:Left_skart3
+    100094: yandere_chan_standing_suicide_2:LeftArm
+    100096: yandere_chan_standing_suicide_2:LeftArmRoll
+    100098: yandere_chan_standing_suicide_2:LeftBreast
+    100100: yandere_chan_standing_suicide_2:LeftEarring_Null
+    100102: yandere_chan_standing_suicide_2:LeftFoot
+    100104: yandere_chan_standing_suicide_2:LeftForeArm
+    100106: yandere_chan_standing_suicide_2:LeftForeArm_Helper
+    100108: yandere_chan_standing_suicide_2:LeftForeArmRoll
+    100110: yandere_chan_standing_suicide_2:LeftHair1
+    100112: yandere_chan_standing_suicide_2:LeftHair2
+    100114: yandere_chan_standing_suicide_2:LeftHair3
+    100116: yandere_chan_standing_suicide_2:LeftHand
+    100118: yandere_chan_standing_suicide_2:LeftHandIndex1
+    100120: yandere_chan_standing_suicide_2:LeftHandIndex2
+    100122: yandere_chan_standing_suicide_2:LeftHandIndex3
+    100124: yandere_chan_standing_suicide_2:LeftHandIndexNull
+    100126: yandere_chan_standing_suicide_2:LeftHanditem_Null
+    100128: yandere_chan_standing_suicide_2:LeftHandMiddle1
+    100130: yandere_chan_standing_suicide_2:LeftHandMiddle2
+    100132: yandere_chan_standing_suicide_2:LeftHandMiddle3
+    100134: yandere_chan_standing_suicide_2:LeftHandMiddleNull
+    100136: yandere_chan_standing_suicide_2:LeftHandPinky1
+    100138: yandere_chan_standing_suicide_2:LeftHandPinky2
+    100140: yandere_chan_standing_suicide_2:LeftHandPinky3
+    100142: yandere_chan_standing_suicide_2:LeftHandPinkyNull
+    100144: yandere_chan_standing_suicide_2:LeftHandRing1
+    100146: yandere_chan_standing_suicide_2:LeftHandRing2
+    100148: yandere_chan_standing_suicide_2:LeftHandRing3
+    100150: yandere_chan_standing_suicide_2:LeftHandRingNull
+    100152: yandere_chan_standing_suicide_2:LeftHandThumb1
+    100154: yandere_chan_standing_suicide_2:LeftHandThumb2
+    100156: yandere_chan_standing_suicide_2:LeftHandThumb3
+    100158: yandere_chan_standing_suicide_2:LeftHandThumbNull
+    100160: yandere_chan_standing_suicide_2:LeftHip_Helper
+    100162: yandere_chan_standing_suicide_2:LeftLeg
+    100164: yandere_chan_standing_suicide_2:LeftLeg_Helper
+    100166: yandere_chan_standing_suicide_2:LeftNipple
+    100168: yandere_chan_standing_suicide_2:LeftShoulder
+    100170: yandere_chan_standing_suicide_2:LeftToes
+    100172: yandere_chan_standing_suicide_2:LeftToesNull
+    100174: yandere_chan_standing_suicide_2:LeftUpLeg
+    100176: yandere_chan_standing_suicide_2:lip_Left
+    100178: yandere_chan_standing_suicide_2:lip_Right
+    100180: yandere_chan_standing_suicide_2:lip_t_Left
+    100182: yandere_chan_standing_suicide_2:lip_t_Right
+    100184: yandere_chan_standing_suicide_2:lip_top_Left
+    100186: yandere_chan_standing_suicide_2:lip_top_Right
+    100188: yandere_chan_standing_suicide_2:lip_u_Left
+    100190: yandere_chan_standing_suicide_2:lip_u_Right
+    100192: yandere_chan_standing_suicide_2:mayu
+    100194: yandere_chan_standing_suicide_2:Neck
+    100196: yandere_chan_standing_suicide_2:nose
+    100198: yandere_chan_standing_suicide_2:nostrir_Left
+    100200: yandere_chan_standing_suicide_2:nostrir_Right
+    100202: yandere_chan_standing_suicide_2:PelvisRoot
+    100204: yandere_chan_standing_suicide_2:Right_skart1
+    100206: yandere_chan_standing_suicide_2:Right_skart2
+    100208: yandere_chan_standing_suicide_2:Right_skart3
+    100210: yandere_chan_standing_suicide_2:RightArm
+    100212: yandere_chan_standing_suicide_2:RightArmRoll
+    100214: yandere_chan_standing_suicide_2:RightBreast
+    100216: yandere_chan_standing_suicide_2:RightEarring_Null
+    100218: yandere_chan_standing_suicide_2:RightFoot
+    100220: yandere_chan_standing_suicide_2:RightForeArm
+    100222: yandere_chan_standing_suicide_2:RightForeArm_Helper
+    100224: yandere_chan_standing_suicide_2:RightForeArmRoll
+    100226: yandere_chan_standing_suicide_2:RightHair1
+    100228: yandere_chan_standing_suicide_2:RightHair2
+    100230: yandere_chan_standing_suicide_2:RightHair3
+    100232: yandere_chan_standing_suicide_2:RightHand
+    100234: yandere_chan_standing_suicide_2:RightHandIndex1
+    100236: yandere_chan_standing_suicide_2:RightHandIndex2
+    100238: yandere_chan_standing_suicide_2:RightHandIndex3
+    100240: yandere_chan_standing_suicide_2:RightHandIndexNull
+    100242: yandere_chan_standing_suicide_2:RightHanditem_Null
+    100244: yandere_chan_standing_suicide_2:RightHandMiddle1
+    100246: yandere_chan_standing_suicide_2:RightHandMiddle2
+    100248: yandere_chan_standing_suicide_2:RightHandMiddle3
+    100250: yandere_chan_standing_suicide_2:RightHandMiddleNull
+    100252: yandere_chan_standing_suicide_2:RightHandPinky1
+    100254: yandere_chan_standing_suicide_2:RightHandPinky2
+    100256: yandere_chan_standing_suicide_2:RightHandPinky3
+    100258: yandere_chan_standing_suicide_2:RightHandPinkyNull
+    100260: yandere_chan_standing_suicide_2:RightHandRing1
+    100262: yandere_chan_standing_suicide_2:RightHandRing2
+    100264: yandere_chan_standing_suicide_2:RightHandRing3
+    100266: yandere_chan_standing_suicide_2:RightHandRingNull
+    100268: yandere_chan_standing_suicide_2:RightHandThumb1
+    100270: yandere_chan_standing_suicide_2:RightHandThumb2
+    100272: yandere_chan_standing_suicide_2:RightHandThumb3
+    100274: yandere_chan_standing_suicide_2:RightHandThumbNull
+    100276: yandere_chan_standing_suicide_2:RightHip_Helper
+    100278: yandere_chan_standing_suicide_2:RightLeg
+    100280: yandere_chan_standing_suicide_2:RightLeg_Helper
+    100282: yandere_chan_standing_suicide_2:RightNipple
+    100284: yandere_chan_standing_suicide_2:RightShoulder
+    100286: yandere_chan_standing_suicide_2:RightToes
+    100288: yandere_chan_standing_suicide_2:RightToesNull
+    100290: yandere_chan_standing_suicide_2:RightUpLeg
+    100292: yandere_chan_standing_suicide_2:rip_btm_Left
+    100294: yandere_chan_standing_suicide_2:rip_btm_Right
+    100296: yandere_chan_standing_suicide_2:Spine
+    100298: yandere_chan_standing_suicide_2:Spine1
+    100300: yandere_chan_standing_suicide_2:Spine2
+    100302: yandere_chan_standing_suicide_2:Spine3
+    100304: yandere_chan_standing_suicide_2:tail_of_eye_Left
+    100306: yandere_chan_standing_suicide_2:tail_of_eye_Right
+    100308: yandere_chan_standing_suicide_2:temple_Left
+    100310: yandere_chan_standing_suicide_2:temple_Right
+    100312: yandere_chan_standing_suicide_2:u_lip_center
+    100314: atama_n
+    100316: b_lip_center
+    100318: Back_skart1
+    100320: Back_skart2
+    100322: Back_skart3
+    100324: BackHair1
+    100326: BackHair2
+    100328: BackHair3
+    100330: BackHair4
+    100332: cheek_Left
+    100334: cheek_Right
+    100336: chin
+    100338: eye_Left
+    100340: eye_Right
+    100342: eyebrow_a_Left
+    100344: eyebrow_a_Right
+    100346: eyebrow_b_Left
+    100348: eyebrow_b_Right
+    100350: eyelid_und1_Left
+    100352: eyelid_und1_Right
+    100354: eyelid_und2_Left
+    100356: eyelid_und2_Right
+    100358: eyelid_und_Left
+    100360: eyelid_und_Right
+    100362: eyerid1_Left
+    100364: eyerid1_Right
+    100366: eyerid2_Left
+    100368: eyerid2_Right
+    100370: eyerid_Left
+    100372: eyerid_Right
+    100374: f02_schoolwear_210_h
+    100376: face
+    100378: Front_skart1
+    100380: Front_skart2
+    100382: Front_skart3
+    100384: FrontHair
+    100386: Glasses_Null
+    100388: Head
+    100390: Head_null
+    100392: Hips
+    100394: inner_corner_of_eye_Left
+    100396: inner_corner_of_eye_Right
+    100398: jaw
+    100400: Left_skart1
+    100402: Left_skart2
+    100404: Left_skart3
+    100406: LeftArm
+    100408: LeftArmRoll
+    100410: LeftBreast
+    100412: LeftEarring_Null
+    100414: LeftFoot
+    100416: LeftForeArm
+    100418: LeftForeArm_Helper
+    100420: LeftForeArmRoll
+    100422: LeftHair1
+    100424: LeftHair2
+    100426: LeftHair3
+    100428: LeftHand
+    100430: LeftHandIndex1
+    100432: LeftHandIndex2
+    100434: LeftHandIndex3
+    100436: LeftHandIndexNull
+    100438: LeftHanditem_Null
+    100440: LeftHandMiddle1
+    100442: LeftHandMiddle2
+    100444: LeftHandMiddle3
+    100446: LeftHandMiddleNull
+    100448: LeftHandPinky1
+    100450: LeftHandPinky2
+    100452: LeftHandPinky3
+    100454: LeftHandPinkyNull
+    100456: LeftHandRing1
+    100458: LeftHandRing2
+    100460: LeftHandRing3
+    100462: LeftHandRingNull
+    100464: LeftHandThumb1
+    100466: LeftHandThumb2
+    100468: LeftHandThumb3
+    100470: LeftHandThumbNull
+    100472: LeftHip_Helper
+    100474: LeftLeg
+    100476: LeftLeg_Helper
+    100478: LeftNipple
+    100480: LeftShoulder
+    100482: LeftToes
+    100484: LeftToesNull
+    100486: LeftUpLeg
+    100488: lip_Left
+    100490: lip_Right
+    100492: lip_t_Left
+    100494: lip_t_Right
+    100496: lip_top_Left
+    100498: lip_top_Right
+    100500: lip_u_Left
+    100502: lip_u_Right
+    100504: mayu
+    100506: Neck
+    100508: nose
+    100510: nostrir_Left
+    100512: nostrir_Right
+    100514: PelvisRoot
+    100516: Right_skart1
+    100518: Right_skart2
+    100520: Right_skart3
+    100522: RightArm
+    100524: RightArmRoll
+    100526: RightBreast
+    100528: RightEarring_Null
+    100530: RightFoot
+    100532: RightForeArm
+    100534: RightForeArm_Helper
+    100536: RightForeArmRoll
+    100538: RightHair1
+    100540: RightHair2
+    100542: RightHair3
+    100544: RightHand
+    100546: RightHandIndex1
+    100548: RightHandIndex2
+    100550: RightHandIndex3
+    100552: RightHandIndexNull
+    100554: RightHanditem_Null
+    100556: RightHandMiddle1
+    100558: RightHandMiddle2
+    100560: RightHandMiddle3
+    100562: RightHandMiddleNull
+    100564: RightHandPinky1
+    100566: RightHandPinky2
+    100568: RightHandPinky3
+    100570: RightHandPinkyNull
+    100572: RightHandRing1
+    100574: RightHandRing2
+    100576: RightHandRing3
+    100578: RightHandRingNull
+    100580: RightHandThumb1
+    100582: RightHandThumb2
+    100584: RightHandThumb3
+    100586: RightHandThumbNull
+    100588: RightHip_Helper
+    100590: RightLeg
+    100592: RightLeg_Helper
+    100594: RightNipple
+    100596: RightShoulder
+    100598: RightToes
+    100600: RightToesNull
+    100602: RightUpLeg
+    100604: rip_btm_Left
+    100606: rip_btm_Right
+    100608: Spine
+    100610: Spine1
+    100612: Spine2
+    100614: Spine3
+    100616: tail_of_eye_Left
+    100618: tail_of_eye_Right
+    100620: temple_Left
+    100622: temple_Right
+    100624: u_lip_center
+    400000: //RootNode
+    400002: yandere_chan_standing_suicide_2:atama_n
+    400004: yandere_chan_standing_suicide_2:b_lip_center
+    400006: yandere_chan_standing_suicide_2:Back_skart1
+    400008: yandere_chan_standing_suicide_2:Back_skart2
+    400010: yandere_chan_standing_suicide_2:Back_skart3
+    400012: yandere_chan_standing_suicide_2:BackHair1
+    400014: yandere_chan_standing_suicide_2:BackHair2
+    400016: yandere_chan_standing_suicide_2:BackHair3
+    400018: yandere_chan_standing_suicide_2:BackHair4
+    400020: yandere_chan_standing_suicide_2:cheek_Left
+    400022: yandere_chan_standing_suicide_2:cheek_Right
+    400024: yandere_chan_standing_suicide_2:chin
+    400026: yandere_chan_standing_suicide_2:eye_Left
+    400028: yandere_chan_standing_suicide_2:eye_Right
+    400030: yandere_chan_standing_suicide_2:eyebrow_a_Left
+    400032: yandere_chan_standing_suicide_2:eyebrow_a_Right
+    400034: yandere_chan_standing_suicide_2:eyebrow_b_Left
+    400036: yandere_chan_standing_suicide_2:eyebrow_b_Right
+    400038: yandere_chan_standing_suicide_2:eyelid_und1_Left
+    400040: yandere_chan_standing_suicide_2:eyelid_und1_Right
+    400042: yandere_chan_standing_suicide_2:eyelid_und2_Left
+    400044: yandere_chan_standing_suicide_2:eyelid_und2_Right
+    400046: yandere_chan_standing_suicide_2:eyelid_und_Left
+    400048: yandere_chan_standing_suicide_2:eyelid_und_Right
+    400050: yandere_chan_standing_suicide_2:eyerid1_Left
+    400052: yandere_chan_standing_suicide_2:eyerid1_Right
+    400054: yandere_chan_standing_suicide_2:eyerid2_Left
+    400056: yandere_chan_standing_suicide_2:eyerid2_Right
+    400058: yandere_chan_standing_suicide_2:eyerid_Left
+    400060: yandere_chan_standing_suicide_2:eyerid_Right
+    400062: yandere_chan_standing_suicide_2:f02_schoolwear_210_h
+    400064: yandere_chan_standing_suicide_2:face
+    400066: yandere_chan_standing_suicide_2:Front_skart1
+    400068: yandere_chan_standing_suicide_2:Front_skart2
+    400070: yandere_chan_standing_suicide_2:Front_skart3
+    400072: yandere_chan_standing_suicide_2:FrontHair
+    400074: yandere_chan_standing_suicide_2:Glasses_Null
+    400076: yandere_chan_standing_suicide_2:Head
+    400078: yandere_chan_standing_suicide_2:Head_null
+    400080: yandere_chan_standing_suicide_2:Hips
+    400082: yandere_chan_standing_suicide_2:inner_corner_of_eye_Left
+    400084: yandere_chan_standing_suicide_2:inner_corner_of_eye_Right
+    400086: yandere_chan_standing_suicide_2:jaw
+    400088: yandere_chan_standing_suicide_2:Left_skart1
+    400090: yandere_chan_standing_suicide_2:Left_skart2
+    400092: yandere_chan_standing_suicide_2:Left_skart3
+    400094: yandere_chan_standing_suicide_2:LeftArm
+    400096: yandere_chan_standing_suicide_2:LeftArmRoll
+    400098: yandere_chan_standing_suicide_2:LeftBreast
+    400100: yandere_chan_standing_suicide_2:LeftEarring_Null
+    400102: yandere_chan_standing_suicide_2:LeftFoot
+    400104: yandere_chan_standing_suicide_2:LeftForeArm
+    400106: yandere_chan_standing_suicide_2:LeftForeArm_Helper
+    400108: yandere_chan_standing_suicide_2:LeftForeArmRoll
+    400110: yandere_chan_standing_suicide_2:LeftHair1
+    400112: yandere_chan_standing_suicide_2:LeftHair2
+    400114: yandere_chan_standing_suicide_2:LeftHair3
+    400116: yandere_chan_standing_suicide_2:LeftHand
+    400118: yandere_chan_standing_suicide_2:LeftHandIndex1
+    400120: yandere_chan_standing_suicide_2:LeftHandIndex2
+    400122: yandere_chan_standing_suicide_2:LeftHandIndex3
+    400124: yandere_chan_standing_suicide_2:LeftHandIndexNull
+    400126: yandere_chan_standing_suicide_2:LeftHanditem_Null
+    400128: yandere_chan_standing_suicide_2:LeftHandMiddle1
+    400130: yandere_chan_standing_suicide_2:LeftHandMiddle2
+    400132: yandere_chan_standing_suicide_2:LeftHandMiddle3
+    400134: yandere_chan_standing_suicide_2:LeftHandMiddleNull
+    400136: yandere_chan_standing_suicide_2:LeftHandPinky1
+    400138: yandere_chan_standing_suicide_2:LeftHandPinky2
+    400140: yandere_chan_standing_suicide_2:LeftHandPinky3
+    400142: yandere_chan_standing_suicide_2:LeftHandPinkyNull
+    400144: yandere_chan_standing_suicide_2:LeftHandRing1
+    400146: yandere_chan_standing_suicide_2:LeftHandRing2
+    400148: yandere_chan_standing_suicide_2:LeftHandRing3
+    400150: yandere_chan_standing_suicide_2:LeftHandRingNull
+    400152: yandere_chan_standing_suicide_2:LeftHandThumb1
+    400154: yandere_chan_standing_suicide_2:LeftHandThumb2
+    400156: yandere_chan_standing_suicide_2:LeftHandThumb3
+    400158: yandere_chan_standing_suicide_2:LeftHandThumbNull
+    400160: yandere_chan_standing_suicide_2:LeftHip_Helper
+    400162: yandere_chan_standing_suicide_2:LeftLeg
+    400164: yandere_chan_standing_suicide_2:LeftLeg_Helper
+    400166: yandere_chan_standing_suicide_2:LeftNipple
+    400168: yandere_chan_standing_suicide_2:LeftShoulder
+    400170: yandere_chan_standing_suicide_2:LeftToes
+    400172: yandere_chan_standing_suicide_2:LeftToesNull
+    400174: yandere_chan_standing_suicide_2:LeftUpLeg
+    400176: yandere_chan_standing_suicide_2:lip_Left
+    400178: yandere_chan_standing_suicide_2:lip_Right
+    400180: yandere_chan_standing_suicide_2:lip_t_Left
+    400182: yandere_chan_standing_suicide_2:lip_t_Right
+    400184: yandere_chan_standing_suicide_2:lip_top_Left
+    400186: yandere_chan_standing_suicide_2:lip_top_Right
+    400188: yandere_chan_standing_suicide_2:lip_u_Left
+    400190: yandere_chan_standing_suicide_2:lip_u_Right
+    400192: yandere_chan_standing_suicide_2:mayu
+    400194: yandere_chan_standing_suicide_2:Neck
+    400196: yandere_chan_standing_suicide_2:nose
+    400198: yandere_chan_standing_suicide_2:nostrir_Left
+    400200: yandere_chan_standing_suicide_2:nostrir_Right
+    400202: yandere_chan_standing_suicide_2:PelvisRoot
+    400204: yandere_chan_standing_suicide_2:Right_skart1
+    400206: yandere_chan_standing_suicide_2:Right_skart2
+    400208: yandere_chan_standing_suicide_2:Right_skart3
+    400210: yandere_chan_standing_suicide_2:RightArm
+    400212: yandere_chan_standing_suicide_2:RightArmRoll
+    400214: yandere_chan_standing_suicide_2:RightBreast
+    400216: yandere_chan_standing_suicide_2:RightEarring_Null
+    400218: yandere_chan_standing_suicide_2:RightFoot
+    400220: yandere_chan_standing_suicide_2:RightForeArm
+    400222: yandere_chan_standing_suicide_2:RightForeArm_Helper
+    400224: yandere_chan_standing_suicide_2:RightForeArmRoll
+    400226: yandere_chan_standing_suicide_2:RightHair1
+    400228: yandere_chan_standing_suicide_2:RightHair2
+    400230: yandere_chan_standing_suicide_2:RightHair3
+    400232: yandere_chan_standing_suicide_2:RightHand
+    400234: yandere_chan_standing_suicide_2:RightHandIndex1
+    400236: yandere_chan_standing_suicide_2:RightHandIndex2
+    400238: yandere_chan_standing_suicide_2:RightHandIndex3
+    400240: yandere_chan_standing_suicide_2:RightHandIndexNull
+    400242: yandere_chan_standing_suicide_2:RightHanditem_Null
+    400244: yandere_chan_standing_suicide_2:RightHandMiddle1
+    400246: yandere_chan_standing_suicide_2:RightHandMiddle2
+    400248: yandere_chan_standing_suicide_2:RightHandMiddle3
+    400250: yandere_chan_standing_suicide_2:RightHandMiddleNull
+    400252: yandere_chan_standing_suicide_2:RightHandPinky1
+    400254: yandere_chan_standing_suicide_2:RightHandPinky2
+    400256: yandere_chan_standing_suicide_2:RightHandPinky3
+    400258: yandere_chan_standing_suicide_2:RightHandPinkyNull
+    400260: yandere_chan_standing_suicide_2:RightHandRing1
+    400262: yandere_chan_standing_suicide_2:RightHandRing2
+    400264: yandere_chan_standing_suicide_2:RightHandRing3
+    400266: yandere_chan_standing_suicide_2:RightHandRingNull
+    400268: yandere_chan_standing_suicide_2:RightHandThumb1
+    400270: yandere_chan_standing_suicide_2:RightHandThumb2
+    400272: yandere_chan_standing_suicide_2:RightHandThumb3
+    400274: yandere_chan_standing_suicide_2:RightHandThumbNull
+    400276: yandere_chan_standing_suicide_2:RightHip_Helper
+    400278: yandere_chan_standing_suicide_2:RightLeg
+    400280: yandere_chan_standing_suicide_2:RightLeg_Helper
+    400282: yandere_chan_standing_suicide_2:RightNipple
+    400284: yandere_chan_standing_suicide_2:RightShoulder
+    400286: yandere_chan_standing_suicide_2:RightToes
+    400288: yandere_chan_standing_suicide_2:RightToesNull
+    400290: yandere_chan_standing_suicide_2:RightUpLeg
+    400292: yandere_chan_standing_suicide_2:rip_btm_Left
+    400294: yandere_chan_standing_suicide_2:rip_btm_Right
+    400296: yandere_chan_standing_suicide_2:Spine
+    400298: yandere_chan_standing_suicide_2:Spine1
+    400300: yandere_chan_standing_suicide_2:Spine2
+    400302: yandere_chan_standing_suicide_2:Spine3
+    400304: yandere_chan_standing_suicide_2:tail_of_eye_Left
+    400306: yandere_chan_standing_suicide_2:tail_of_eye_Right
+    400308: yandere_chan_standing_suicide_2:temple_Left
+    400310: yandere_chan_standing_suicide_2:temple_Right
+    400312: yandere_chan_standing_suicide_2:u_lip_center
+    400314: atama_n
+    400316: b_lip_center
+    400318: Back_skart1
+    400320: Back_skart2
+    400322: Back_skart3
+    400324: BackHair1
+    400326: BackHair2
+    400328: BackHair3
+    400330: BackHair4
+    400332: cheek_Left
+    400334: cheek_Right
+    400336: chin
+    400338: eye_Left
+    400340: eye_Right
+    400342: eyebrow_a_Left
+    400344: eyebrow_a_Right
+    400346: eyebrow_b_Left
+    400348: eyebrow_b_Right
+    400350: eyelid_und1_Left
+    400352: eyelid_und1_Right
+    400354: eyelid_und2_Left
+    400356: eyelid_und2_Right
+    400358: eyelid_und_Left
+    400360: eyelid_und_Right
+    400362: eyerid1_Left
+    400364: eyerid1_Right
+    400366: eyerid2_Left
+    400368: eyerid2_Right
+    400370: eyerid_Left
+    400372: eyerid_Right
+    400374: f02_schoolwear_210_h
+    400376: face
+    400378: Front_skart1
+    400380: Front_skart2
+    400382: Front_skart3
+    400384: FrontHair
+    400386: Glasses_Null
+    400388: Head
+    400390: Head_null
+    400392: Hips
+    400394: inner_corner_of_eye_Left
+    400396: inner_corner_of_eye_Right
+    400398: jaw
+    400400: Left_skart1
+    400402: Left_skart2
+    400404: Left_skart3
+    400406: LeftArm
+    400408: LeftArmRoll
+    400410: LeftBreast
+    400412: LeftEarring_Null
+    400414: LeftFoot
+    400416: LeftForeArm
+    400418: LeftForeArm_Helper
+    400420: LeftForeArmRoll
+    400422: LeftHair1
+    400424: LeftHair2
+    400426: LeftHair3
+    400428: LeftHand
+    400430: LeftHandIndex1
+    400432: LeftHandIndex2
+    400434: LeftHandIndex3
+    400436: LeftHandIndexNull
+    400438: LeftHanditem_Null
+    400440: LeftHandMiddle1
+    400442: LeftHandMiddle2
+    400444: LeftHandMiddle3
+    400446: LeftHandMiddleNull
+    400448: LeftHandPinky1
+    400450: LeftHandPinky2
+    400452: LeftHandPinky3
+    400454: LeftHandPinkyNull
+    400456: LeftHandRing1
+    400458: LeftHandRing2
+    400460: LeftHandRing3
+    400462: LeftHandRingNull
+    400464: LeftHandThumb1
+    400466: LeftHandThumb2
+    400468: LeftHandThumb3
+    400470: LeftHandThumbNull
+    400472: LeftHip_Helper
+    400474: LeftLeg
+    400476: LeftLeg_Helper
+    400478: LeftNipple
+    400480: LeftShoulder
+    400482: LeftToes
+    400484: LeftToesNull
+    400486: LeftUpLeg
+    400488: lip_Left
+    400490: lip_Right
+    400492: lip_t_Left
+    400494: lip_t_Right
+    400496: lip_top_Left
+    400498: lip_top_Right
+    400500: lip_u_Left
+    400502: lip_u_Right
+    400504: mayu
+    400506: Neck
+    400508: nose
+    400510: nostrir_Left
+    400512: nostrir_Right
+    400514: PelvisRoot
+    400516: Right_skart1
+    400518: Right_skart2
+    400520: Right_skart3
+    400522: RightArm
+    400524: RightArmRoll
+    400526: RightBreast
+    400528: RightEarring_Null
+    400530: RightFoot
+    400532: RightForeArm
+    400534: RightForeArm_Helper
+    400536: RightForeArmRoll
+    400538: RightHair1
+    400540: RightHair2
+    400542: RightHair3
+    400544: RightHand
+    400546: RightHandIndex1
+    400548: RightHandIndex2
+    400550: RightHandIndex3
+    400552: RightHandIndexNull
+    400554: RightHanditem_Null
+    400556: RightHandMiddle1
+    400558: RightHandMiddle2
+    400560: RightHandMiddle3
+    400562: RightHandMiddleNull
+    400564: RightHandPinky1
+    400566: RightHandPinky2
+    400568: RightHandPinky3
+    400570: RightHandPinkyNull
+    400572: RightHandRing1
+    400574: RightHandRing2
+    400576: RightHandRing3
+    400578: RightHandRingNull
+    400580: RightHandThumb1
+    400582: RightHandThumb2
+    400584: RightHandThumb3
+    400586: RightHandThumbNull
+    400588: RightHip_Helper
+    400590: RightLeg
+    400592: RightLeg_Helper
+    400594: RightNipple
+    400596: RightShoulder
+    400598: RightToes
+    400600: RightToesNull
+    400602: RightUpLeg
+    400604: rip_btm_Left
+    400606: rip_btm_Right
+    400608: Spine
+    400610: Spine1
+    400612: Spine2
+    400614: Spine3
+    400616: tail_of_eye_Left
+    400618: tail_of_eye_Right
+    400620: temple_Left
+    400622: temple_Right
+    400624: u_lip_center
+    4300000: yandere_chan_standing_suicide_2:f02_schoolwear_210_h
+    4300002: f02_schoolwear_210_h
+    7400000: f02_suicide_00
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: yandere_chan_standing_suicide_2:f02_schoolwear_210_h
+    13700002: f02_schoolwear_210_h
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: f02_suicide_00
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 357
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:f02_schoolwear_210_h
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Back_skart1
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Back_skart1/yandere_chan_standing_suicide_2:Back_skart2
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Back_skart1/yandere_chan_standing_suicide_2:Back_skart2/yandere_chan_standing_suicide_2:Back_skart3
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Front_skart1
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Front_skart1/yandere_chan_standing_suicide_2:Front_skart2
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Front_skart1/yandere_chan_standing_suicide_2:Front_skart2/yandere_chan_standing_suicide_2:Front_skart3
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Left_skart1
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Left_skart1/yandere_chan_standing_suicide_2:Left_skart2
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Left_skart1/yandere_chan_standing_suicide_2:Left_skart2/yandere_chan_standing_suicide_2:Left_skart3
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:LeftUpLeg
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:LeftUpLeg/yandere_chan_standing_suicide_2:LeftHip_Helper
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:LeftUpLeg/yandere_chan_standing_suicide_2:LeftLeg
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:LeftUpLeg/yandere_chan_standing_suicide_2:LeftLeg/yandere_chan_standing_suicide_2:LeftFoot
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:LeftUpLeg/yandere_chan_standing_suicide_2:LeftLeg/yandere_chan_standing_suicide_2:LeftFoot/yandere_chan_standing_suicide_2:LeftToes
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:LeftUpLeg/yandere_chan_standing_suicide_2:LeftLeg/yandere_chan_standing_suicide_2:LeftFoot/yandere_chan_standing_suicide_2:LeftToes/yandere_chan_standing_suicide_2:LeftToesNull
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:LeftUpLeg/yandere_chan_standing_suicide_2:LeftLeg/yandere_chan_standing_suicide_2:LeftLeg_Helper
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Right_skart1
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Right_skart1/yandere_chan_standing_suicide_2:Right_skart2
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Right_skart1/yandere_chan_standing_suicide_2:Right_skart2/yandere_chan_standing_suicide_2:Right_skart3
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:RightUpLeg
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:RightUpLeg/yandere_chan_standing_suicide_2:RightHip_Helper
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:RightUpLeg/yandere_chan_standing_suicide_2:RightLeg
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:RightUpLeg/yandere_chan_standing_suicide_2:RightLeg/yandere_chan_standing_suicide_2:RightFoot
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:RightUpLeg/yandere_chan_standing_suicide_2:RightLeg/yandere_chan_standing_suicide_2:RightFoot/yandere_chan_standing_suicide_2:RightToes
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:RightUpLeg/yandere_chan_standing_suicide_2:RightLeg/yandere_chan_standing_suicide_2:RightFoot/yandere_chan_standing_suicide_2:RightToes/yandere_chan_standing_suicide_2:RightToesNull
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:RightUpLeg/yandere_chan_standing_suicide_2:RightLeg/yandere_chan_standing_suicide_2:RightLeg_Helper
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftBreast
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftBreast/yandere_chan_standing_suicide_2:LeftNipple
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArm_Helper
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandIndex1
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandIndex1/yandere_chan_standing_suicide_2:LeftHandIndex2
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandIndex1/yandere_chan_standing_suicide_2:LeftHandIndex2/yandere_chan_standing_suicide_2:LeftHandIndex3
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandIndex1/yandere_chan_standing_suicide_2:LeftHandIndex2/yandere_chan_standing_suicide_2:LeftHandIndex3/yandere_chan_standing_suicide_2:LeftHandIndexNull
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHanditem_Null
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandMiddle1
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandMiddle1/yandere_chan_standing_suicide_2:LeftHandMiddle2
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandMiddle1/yandere_chan_standing_suicide_2:LeftHandMiddle2/yandere_chan_standing_suicide_2:LeftHandMiddle3
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandMiddle1/yandere_chan_standing_suicide_2:LeftHandMiddle2/yandere_chan_standing_suicide_2:LeftHandMiddle3/yandere_chan_standing_suicide_2:LeftHandMiddleNull
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandPinky1
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandPinky1/yandere_chan_standing_suicide_2:LeftHandPinky2
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandPinky1/yandere_chan_standing_suicide_2:LeftHandPinky2/yandere_chan_standing_suicide_2:LeftHandPinky3
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandPinky1/yandere_chan_standing_suicide_2:LeftHandPinky2/yandere_chan_standing_suicide_2:LeftHandPinky3/yandere_chan_standing_suicide_2:LeftHandPinkyNull
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandRing1
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandRing1/yandere_chan_standing_suicide_2:LeftHandRing2
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandRing1/yandere_chan_standing_suicide_2:LeftHandRing2/yandere_chan_standing_suicide_2:LeftHandRing3
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandRing1/yandere_chan_standing_suicide_2:LeftHandRing2/yandere_chan_standing_suicide_2:LeftHandRing3/yandere_chan_standing_suicide_2:LeftHandRingNull
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandThumb1
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandThumb1/yandere_chan_standing_suicide_2:LeftHandThumb2
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandThumb1/yandere_chan_standing_suicide_2:LeftHandThumb2/yandere_chan_standing_suicide_2:LeftHandThumb3
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:LeftShoulder/yandere_chan_standing_suicide_2:LeftArm/yandere_chan_standing_suicide_2:LeftArmRoll/yandere_chan_standing_suicide_2:LeftForeArm/yandere_chan_standing_suicide_2:LeftForeArmRoll/yandere_chan_standing_suicide_2:LeftHand/yandere_chan_standing_suicide_2:LeftHandThumb1/yandere_chan_standing_suicide_2:LeftHandThumb2/yandere_chan_standing_suicide_2:LeftHandThumb3/yandere_chan_standing_suicide_2:LeftHandThumbNull
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:cheek_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:cheek_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:eye_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:eye_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:eyelid_und1_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:eyelid_und1_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:eyelid_und2_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:eyelid_und2_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:eyelid_und_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:eyelid_und_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:eyerid1_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:eyerid1_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:eyerid2_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:eyerid2_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:eyerid_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:eyerid_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:inner_corner_of_eye_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:inner_corner_of_eye_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:jaw
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:jaw/yandere_chan_standing_suicide_2:b_lip_center
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:jaw/yandere_chan_standing_suicide_2:chin
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:jaw/yandere_chan_standing_suicide_2:lip_u_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:jaw/yandere_chan_standing_suicide_2:lip_u_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:jaw/yandere_chan_standing_suicide_2:rip_btm_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:jaw/yandere_chan_standing_suicide_2:rip_btm_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:lip_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:lip_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:lip_t_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:lip_t_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:mayu
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:mayu/yandere_chan_standing_suicide_2:eyebrow_a_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:mayu/yandere_chan_standing_suicide_2:eyebrow_a_Left/yandere_chan_standing_suicide_2:eyebrow_b_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:mayu/yandere_chan_standing_suicide_2:eyebrow_a_Left/yandere_chan_standing_suicide_2:eyebrow_b_Left/yandere_chan_standing_suicide_2:temple_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:mayu/yandere_chan_standing_suicide_2:eyebrow_a_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:mayu/yandere_chan_standing_suicide_2:eyebrow_a_Right/yandere_chan_standing_suicide_2:eyebrow_b_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:mayu/yandere_chan_standing_suicide_2:eyebrow_a_Right/yandere_chan_standing_suicide_2:eyebrow_b_Right/yandere_chan_standing_suicide_2:temple_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:nose
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:nose/yandere_chan_standing_suicide_2:nostrir_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:nose/yandere_chan_standing_suicide_2:nostrir_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:tail_of_eye_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:tail_of_eye_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:u_lip_center
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:u_lip_center/yandere_chan_standing_suicide_2:lip_top_Left
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:face/yandere_chan_standing_suicide_2:atama_n/yandere_chan_standing_suicide_2:u_lip_center/yandere_chan_standing_suicide_2:lip_top_Right
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:Glasses_Null
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:Head_null
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:Head_null/yandere_chan_standing_suicide_2:BackHair1
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:Head_null/yandere_chan_standing_suicide_2:BackHair1/yandere_chan_standing_suicide_2:BackHair2
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:Head_null/yandere_chan_standing_suicide_2:BackHair1/yandere_chan_standing_suicide_2:BackHair2/yandere_chan_standing_suicide_2:BackHair3
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:Head_null/yandere_chan_standing_suicide_2:BackHair1/yandere_chan_standing_suicide_2:BackHair2/yandere_chan_standing_suicide_2:BackHair3/yandere_chan_standing_suicide_2:BackHair4
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:Head_null/yandere_chan_standing_suicide_2:FrontHair
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:Head_null/yandere_chan_standing_suicide_2:LeftHair1
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:Head_null/yandere_chan_standing_suicide_2:LeftHair1/yandere_chan_standing_suicide_2:LeftHair2
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:Head_null/yandere_chan_standing_suicide_2:LeftHair1/yandere_chan_standing_suicide_2:LeftHair2/yandere_chan_standing_suicide_2:LeftHair3
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:Head_null/yandere_chan_standing_suicide_2:RightHair1
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:Head_null/yandere_chan_standing_suicide_2:RightHair1/yandere_chan_standing_suicide_2:RightHair2
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:Head_null/yandere_chan_standing_suicide_2:RightHair1/yandere_chan_standing_suicide_2:RightHair2/yandere_chan_standing_suicide_2:RightHair3
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:LeftEarring_Null
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:Neck/yandere_chan_standing_suicide_2:Head/yandere_chan_standing_suicide_2:RightEarring_Null
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightBreast
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightBreast/yandere_chan_standing_suicide_2:RightNipple
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArm_Helper
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandIndex1
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandIndex1/yandere_chan_standing_suicide_2:RightHandIndex2
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandIndex1/yandere_chan_standing_suicide_2:RightHandIndex2/yandere_chan_standing_suicide_2:RightHandIndex3
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandIndex1/yandere_chan_standing_suicide_2:RightHandIndex2/yandere_chan_standing_suicide_2:RightHandIndex3/yandere_chan_standing_suicide_2:RightHandIndexNull
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHanditem_Null
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandMiddle1
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandMiddle1/yandere_chan_standing_suicide_2:RightHandMiddle2
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandMiddle1/yandere_chan_standing_suicide_2:RightHandMiddle2/yandere_chan_standing_suicide_2:RightHandMiddle3
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandMiddle1/yandere_chan_standing_suicide_2:RightHandMiddle2/yandere_chan_standing_suicide_2:RightHandMiddle3/yandere_chan_standing_suicide_2:RightHandMiddleNull
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandPinky1
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandPinky1/yandere_chan_standing_suicide_2:RightHandPinky2
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandPinky1/yandere_chan_standing_suicide_2:RightHandPinky2/yandere_chan_standing_suicide_2:RightHandPinky3
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandPinky1/yandere_chan_standing_suicide_2:RightHandPinky2/yandere_chan_standing_suicide_2:RightHandPinky3/yandere_chan_standing_suicide_2:RightHandPinkyNull
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandRing1
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandRing1/yandere_chan_standing_suicide_2:RightHandRing2
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandRing1/yandere_chan_standing_suicide_2:RightHandRing2/yandere_chan_standing_suicide_2:RightHandRing3
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandRing1/yandere_chan_standing_suicide_2:RightHandRing2/yandere_chan_standing_suicide_2:RightHandRing3/yandere_chan_standing_suicide_2:RightHandRingNull
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandThumb1
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandThumb1/yandere_chan_standing_suicide_2:RightHandThumb2
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandThumb1/yandere_chan_standing_suicide_2:RightHandThumb2/yandere_chan_standing_suicide_2:RightHandThumb3
+        weight: 1
+      - path: yandere_chan_standing_suicide_2:PelvisRoot/yandere_chan_standing_suicide_2:Hips/yandere_chan_standing_suicide_2:Spine/yandere_chan_standing_suicide_2:Spine1/yandere_chan_standing_suicide_2:Spine2/yandere_chan_standing_suicide_2:Spine3/yandere_chan_standing_suicide_2:RightShoulder/yandere_chan_standing_suicide_2:RightArm/yandere_chan_standing_suicide_2:RightArmRoll/yandere_chan_standing_suicide_2:RightForeArm/yandere_chan_standing_suicide_2:RightForeArmRoll/yandere_chan_standing_suicide_2:RightHand/yandere_chan_standing_suicide_2:RightHandThumb1/yandere_chan_standing_suicide_2:RightHandThumb2/yandere_chan_standing_suicide_2:RightHandThumb3/yandere_chan_standing_suicide_2:RightHandThumbNull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

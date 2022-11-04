@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 0a86c0c330757b3468bfda1e99a34ba3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 5_f02schoolwear200h(1)(1)_1_0_0.001
+    100002: 5_f02schoolwear200h(1)_1_0_0.001
+    100004: arm left elbow
+    100006: arm left finger 1a
+    100008: arm left finger 1b
+    100010: arm left finger 1c
+    100012: arm left finger 2a
+    100014: arm left finger 2b
+    100016: arm left finger 2c
+    100018: arm left finger 3a
+    100020: arm left finger 3b
+    100022: arm left finger 3c
+    100024: arm left finger 4a
+    100026: arm left finger 4b
+    100028: arm left finger 4c
+    100030: arm left finger 5a
+    100032: arm left finger 5b
+    100034: arm left finger 5c
+    100036: arm left shoulder 1
+    100038: arm left shoulder 2
+    100040: arm left wrist
+    100042: arm right elbow
+    100044: arm right finger 1a
+    100046: arm right finger 1b
+    100048: arm right finger 1c
+    100050: arm right finger 2a
+    100052: arm right finger 2b
+    100054: arm right finger 2c
+    100056: arm right finger 3a
+    100058: arm right finger 3b
+    100060: arm right finger 3c
+    100062: arm right finger 4a
+    100064: arm right finger 4b
+    100066: arm right finger 4c
+    100068: arm right finger 5a
+    100070: arm right finger 5b
+    100072: arm right finger 5c
+    100074: arm right shoulder 1
+    100076: arm right shoulder 2
+    100078: arm right wrist
+    100080: Armature.003
+    100082: 'boob left '
+    100084: boob left nipple
+    100086: boob left nipple_end
+    100088: boob right
+    100090: boob right nipple
+    100092: boob right nipple_end
+    100094: //RootNode
+    100096: head cheek left
+    100098: head cheek left_end
+    100100: head cheek right
+    100102: head cheek right_end
+    100104: head eyeball left
+    100106: head eyeball left_end
+    100108: head eyeball left_end_end
+    100110: head eyeball right
+    100112: head eyeball right_end
+    100114: head eyebrow left 1
+    100116: head eyebrow left 2
+    100118: head eyebrow right 1
+    100120: head eyebrow right 2
+    100122: head eyebrows middle
+    100124: head eyecorner left inner
+    100126: head eyecorner left inner_end
+    100128: head eyecorner left outer
+    100130: head eyecorner left outer_end
+    100132: head eyecorner right inner
+    100134: head eyecorner right inner_end
+    100136: head eyecorner right outer
+    100138: head eyecorner right outer_end
+    100140: head eyelid lower left 1
+    100142: head eyelid lower left 1_end
+    100144: head eyelid lower left 2
+    100146: head eyelid lower left 2_end
+    100148: head eyelid lower left 3
+    100150: head eyelid lower left 3_end
+    100152: head eyelid lower right 1
+    100154: head eyelid lower right 1_end
+    100156: head eyelid lower right 2
+    100158: head eyelid lower right 2_end
+    100160: head eyelid lower right 3
+    100162: head eyelid lower right 3_end
+    100164: head eyelid upper left  1
+    100166: head eyelid upper left  1_end
+    100168: head eyelid upper left 2
+    100170: head eyelid upper left 2_end
+    100172: head eyelid upper left 3
+    100174: head eyelid upper left 3_end
+    100176: head eyelid upper right 1
+    100178: head eyelid upper right 1_end
+    100180: head eyelid upper right 2
+    100182: head eyelid upper right 2_end
+    100184: head eyelid upper right 3
+    100186: head eyelid upper right 3_end
+    100188: head jaw
+    100190: head lip lower left 1
+    100192: head lip lower left 1_end
+    100194: head lip lower left 2
+    100196: head lip lower left 2_end
+    100198: head lip lower middle
+    100200: head lip lower middle_end
+    100202: head lip lower right 1
+    100204: head lip lower right 1_end
+    100206: head lip lower right 2
+    100208: head lip lower right 2_end
+    100210: head lip upper left 1
+    100212: head lip upper left 1_end
+    100214: head lip upper left 2
+    100216: head lip upper left 2_end
+    100218: head lip upper middle
+    100220: head lip upper right 1
+    100222: head lip upper right 1_end
+    100224: head lip upper right 2
+    100226: head lip upper right 2_end
+    100228: head mouth corner left
+    100230: head mouth corner left_end
+    100232: head mouth corner right
+    100234: head mouth corner right_end
+    100236: head neck lower
+    100238: head neck upper
+    100240: head nose nostril left
+    100242: head nose nostril left_end
+    100244: head nose nostril right
+    100246: head nose nostril right_end
+    100248: head nose tip
+    100250: head temple left
+    100252: head temple left_end
+    100254: head temple right
+    100256: head temple right_end
+    100258: leg left ankle
+    100260: leg left knee
+    100262: leg left thigh
+    100264: leg left toes
+    100266: leg right ankle
+    100268: leg right knee
+    100270: leg right thigh
+    100272: leg right toes
+    100274: root ground
+    100276: root hips
+    100278: skirt back 1
+    100280: skirt back 2
+    100282: skirt back 3
+    100284: skirt back 3_end
+    100286: skirt front 1
+    100288: skirt front 2
+    100290: skirt front 3
+    100292: skirt front 3_end
+    100294: skirt left 1
+    100296: skirt left 2
+    100298: skirt left 3
+    100300: skirt left 3_end
+    100302: skirt right 1
+    100304: skirt right 2
+    100306: skirt right 3
+    100308: skirt right 3_end
+    100310: spine lower
+    100312: spine middle 1
+    100314: spine middle 2
+    100316: spine upper
+    100318: unused trash 01
+    100320: unused trash 01_end
+    100322: unused trash 01_end_end
+    100324: unused trash 02
+    100326: unused trash 02_end
+    100328: unused trash 02_end_end
+    100330: unused trash 03
+    100332: unused trash 03_end
+    100334: unused trash 03_end_end
+    100336: unused trash 04
+    100338: unused trash 04_end
+    100340: unused trash 04_end_end
+    100342: unused trash 05
+    100344: unused trash 05_end
+    100346: unused trash 05_end_end
+    100348: unused trash 06
+    100350: unused trash 07
+    100352: unused trash 07_end
+    100354: unused trash 07_end_end
+    100356: unused trash 08
+    100358: unused trash 09
+    100360: unused trash 09_end
+    100362: unused trash 09_end_end
+    100364: unused trash 10
+    100366: unused trash 11
+    100368: unused trash 11_end
+    100370: unused trash 11_end_end
+    100372: unused trash 12
+    100374: unused trash 12_end
+    100376: unused trash 12a
+    100378: unused trash 12a_end
+    100380: unused trash 14
+    100382: unused trash 14_end
+    100384: unused trash 15
+    100386: unused trash 15_end
+    100388: unused trash 16
+    100390: unused trash 16_end
+    100392: unused trash 17
+    100394: unused trash 17_end
+    100396: unused trash 18
+    100398: unused trash 18_end
+    100400: unused trash 18_end_end
+    100402: unused trash 19
+    100404: unused trash 19_end
+    100406: unused trash 19_end_end
+    100408: unused trash 20
+    100410: unused trash 20_end
+    100412: unused trash 20_end_end
+    100414: unused trash 21
+    100416: unused trash 21_end
+    100418: unused trash 21_end_end
+    100420: unused trash 22
+    100422: unused trash 22_end
+    100424: unused trash 23
+    100426: unused trash 23_end
+    100428: unused trash 24
+    100430: unused trash 24_end
+    100432: unused trash 25
+    100434: unused trash 25_end
+    100436: unused trash 26
+    100438: unused trash 26_end
+    100440: unused trash 27
+    100442: unused trash 27_end
+    100444: unused trash 28
+    100446: unused trash 29
+    100448: unused trash 30
+    100450: unused trash 30_end
+    100452: unused trash 31
+    100454: unused trash 32
+    400000: 5_f02schoolwear200h(1)(1)_1_0_0.001
+    400002: 5_f02schoolwear200h(1)_1_0_0.001
+    400004: arm left elbow
+    400006: arm left finger 1a
+    400008: arm left finger 1b
+    400010: arm left finger 1c
+    400012: arm left finger 2a
+    400014: arm left finger 2b
+    400016: arm left finger 2c
+    400018: arm left finger 3a
+    400020: arm left finger 3b
+    400022: arm left finger 3c
+    400024: arm left finger 4a
+    400026: arm left finger 4b
+    400028: arm left finger 4c
+    400030: arm left finger 5a
+    400032: arm left finger 5b
+    400034: arm left finger 5c
+    400036: arm left shoulder 1
+    400038: arm left shoulder 2
+    400040: arm left wrist
+    400042: arm right elbow
+    400044: arm right finger 1a
+    400046: arm right finger 1b
+    400048: arm right finger 1c
+    400050: arm right finger 2a
+    400052: arm right finger 2b
+    400054: arm right finger 2c
+    400056: arm right finger 3a
+    400058: arm right finger 3b
+    400060: arm right finger 3c
+    400062: arm right finger 4a
+    400064: arm right finger 4b
+    400066: arm right finger 4c
+    400068: arm right finger 5a
+    400070: arm right finger 5b
+    400072: arm right finger 5c
+    400074: arm right shoulder 1
+    400076: arm right shoulder 2
+    400078: arm right wrist
+    400080: Armature.003
+    400082: 'boob left '
+    400084: boob left nipple
+    400086: boob left nipple_end
+    400088: boob right
+    400090: boob right nipple
+    400092: boob right nipple_end
+    400094: //RootNode
+    400096: head cheek left
+    400098: head cheek left_end
+    400100: head cheek right
+    400102: head cheek right_end
+    400104: head eyeball left
+    400106: head eyeball left_end
+    400108: head eyeball left_end_end
+    400110: head eyeball right
+    400112: head eyeball right_end
+    400114: head eyebrow left 1
+    400116: head eyebrow left 2
+    400118: head eyebrow right 1
+    400120: head eyebrow right 2
+    400122: head eyebrows middle
+    400124: head eyecorner left inner
+    400126: head eyecorner left inner_end
+    400128: head eyecorner left outer
+    400130: head eyecorner left outer_end
+    400132: head eyecorner right inner
+    400134: head eyecorner right inner_end
+    400136: head eyecorner right outer
+    400138: head eyecorner right outer_end
+    400140: head eyelid lower left 1
+    400142: head eyelid lower left 1_end
+    400144: head eyelid lower left 2
+    400146: head eyelid lower left 2_end
+    400148: head eyelid lower left 3
+    400150: head eyelid lower left 3_end
+    400152: head eyelid lower right 1
+    400154: head eyelid lower right 1_end
+    400156: head eyelid lower right 2
+    400158: head eyelid lower right 2_end
+    400160: head eyelid lower right 3
+    400162: head eyelid lower right 3_end
+    400164: head eyelid upper left  1
+    400166: head eyelid upper left  1_end
+    400168: head eyelid upper left 2
+    400170: head eyelid upper left 2_end
+    400172: head eyelid upper left 3
+    400174: head eyelid upper left 3_end
+    400176: head eyelid upper right 1
+    400178: head eyelid upper right 1_end
+    400180: head eyelid upper right 2
+    400182: head eyelid upper right 2_end
+    400184: head eyelid upper right 3
+    400186: head eyelid upper right 3_end
+    400188: head jaw
+    400190: head lip lower left 1
+    400192: head lip lower left 1_end
+    400194: head lip lower left 2
+    400196: head lip lower left 2_end
+    400198: head lip lower middle
+    400200: head lip lower middle_end
+    400202: head lip lower right 1
+    400204: head lip lower right 1_end
+    400206: head lip lower right 2
+    400208: head lip lower right 2_end
+    400210: head lip upper left 1
+    400212: head lip upper left 1_end
+    400214: head lip upper left 2
+    400216: head lip upper left 2_end
+    400218: head lip upper middle
+    400220: head lip upper right 1
+    400222: head lip upper right 1_end
+    400224: head lip upper right 2
+    400226: head lip upper right 2_end
+    400228: head mouth corner left
+    400230: head mouth corner left_end
+    400232: head mouth corner right
+    400234: head mouth corner right_end
+    400236: head neck lower
+    400238: head neck upper
+    400240: head nose nostril left
+    400242: head nose nostril left_end
+    400244: head nose nostril right
+    400246: head nose nostril right_end
+    400248: head nose tip
+    400250: head temple left
+    400252: head temple left_end
+    400254: head temple right
+    400256: head temple right_end
+    400258: leg left ankle
+    400260: leg left knee
+    400262: leg left thigh
+    400264: leg left toes
+    400266: leg right ankle
+    400268: leg right knee
+    400270: leg right thigh
+    400272: leg right toes
+    400274: root ground
+    400276: root hips
+    400278: skirt back 1
+    400280: skirt back 2
+    400282: skirt back 3
+    400284: skirt back 3_end
+    400286: skirt front 1
+    400288: skirt front 2
+    400290: skirt front 3
+    400292: skirt front 3_end
+    400294: skirt left 1
+    400296: skirt left 2
+    400298: skirt left 3
+    400300: skirt left 3_end
+    400302: skirt right 1
+    400304: skirt right 2
+    400306: skirt right 3
+    400308: skirt right 3_end
+    400310: spine lower
+    400312: spine middle 1
+    400314: spine middle 2
+    400316: spine upper
+    400318: unused trash 01
+    400320: unused trash 01_end
+    400322: unused trash 01_end_end
+    400324: unused trash 02
+    400326: unused trash 02_end
+    400328: unused trash 02_end_end
+    400330: unused trash 03
+    400332: unused trash 03_end
+    400334: unused trash 03_end_end
+    400336: unused trash 04
+    400338: unused trash 04_end
+    400340: unused trash 04_end_end
+    400342: unused trash 05
+    400344: unused trash 05_end
+    400346: unused trash 05_end_end
+    400348: unused trash 06
+    400350: unused trash 07
+    400352: unused trash 07_end
+    400354: unused trash 07_end_end
+    400356: unused trash 08
+    400358: unused trash 09
+    400360: unused trash 09_end
+    400362: unused trash 09_end_end
+    400364: unused trash 10
+    400366: unused trash 11
+    400368: unused trash 11_end
+    400370: unused trash 11_end_end
+    400372: unused trash 12
+    400374: unused trash 12_end
+    400376: unused trash 12a
+    400378: unused trash 12a_end
+    400380: unused trash 14
+    400382: unused trash 14_end
+    400384: unused trash 15
+    400386: unused trash 15_end
+    400388: unused trash 16
+    400390: unused trash 16_end
+    400392: unused trash 17
+    400394: unused trash 17_end
+    400396: unused trash 18
+    400398: unused trash 18_end
+    400400: unused trash 18_end_end
+    400402: unused trash 19
+    400404: unused trash 19_end
+    400406: unused trash 19_end_end
+    400408: unused trash 20
+    400410: unused trash 20_end
+    400412: unused trash 20_end_end
+    400414: unused trash 21
+    400416: unused trash 21_end
+    400418: unused trash 21_end_end
+    400420: unused trash 22
+    400422: unused trash 22_end
+    400424: unused trash 23
+    400426: unused trash 23_end
+    400428: unused trash 24
+    400430: unused trash 24_end
+    400432: unused trash 25
+    400434: unused trash 25_end
+    400436: unused trash 26
+    400438: unused trash 26_end
+    400440: unused trash 27
+    400442: unused trash 27_end
+    400444: unused trash 28
+    400446: unused trash 29
+    400448: unused trash 30
+    400450: unused trash 30_end
+    400452: unused trash 31
+    400454: unused trash 32
+    4300000: 5_f02schoolwear200h(1)(1)_1_0_0.001
+    4300002: 5_f02schoolwear200h(1)_1_0_0.001
+    9500000: //RootNode
+    13700000: 5_f02schoolwear200h(1)(1)_1_0_0.001
+    13700002: 5_f02schoolwear200h(1)_1_0_0.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

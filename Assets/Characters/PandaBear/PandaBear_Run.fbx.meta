@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 9d2fa7bc6da8bea4eab25649aeca7f6d
+timeCreated: 1525261246
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Head
+    100002: Head_End
+    100004: Hip
+    100006: LeftArm
+    100008: LeftFoot
+    100010: LeftForeArm
+    100012: LeftHand
+    100014: LeftLeg
+    100016: LeftShoulder
+    100018: LeftUpLeg
+    100020: //RootNode
+    100022: Q_NBG_Bear
+    100024: RightArm
+    100026: RightFoot
+    100028: RightForeArm
+    100030: RightHand
+    100032: RightLeg
+    100034: RightShoulder
+    100036: RightUpLeg
+    100038: Root
+    100040: Spine
+    400000: Head
+    400002: Head_End
+    400004: Hip
+    400006: LeftArm
+    400008: LeftFoot
+    400010: LeftForeArm
+    400012: LeftHand
+    400014: LeftLeg
+    400016: LeftShoulder
+    400018: LeftUpLeg
+    400020: //RootNode
+    400022: Q_NBG_Bear
+    400024: RightArm
+    400026: RightFoot
+    400028: RightForeArm
+    400030: RightHand
+    400032: RightLeg
+    400034: RightShoulder
+    400036: RightUpLeg
+    400038: Root
+    400040: Spine
+    4300000: Q_NBG_Bear
+    7400000: Panda_Run
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Q_NBG_Bear
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Panda_Run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Q_NBG_Bear
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Hip
+        weight: 1
+      - path: Root/Hip/LeftUpLeg
+        weight: 1
+      - path: Root/Hip/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Root/Hip/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: Root/Hip/RightUpLeg
+        weight: 1
+      - path: Root/Hip/RightUpLeg/RightLeg
+        weight: 1
+      - path: Root/Hip/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: Root/Hip/Spine
+        weight: 1
+      - path: Root/Hip/Spine/Head
+        weight: 1
+      - path: Root/Hip/Spine/Head/Head_End
+        weight: 1
+      - path: Root/Hip/Spine/LeftShoulder
+        weight: 1
+      - path: Root/Hip/Spine/LeftShoulder/LeftArm
+        weight: 1
+      - path: Root/Hip/Spine/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Root/Hip/Spine/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Root/Hip/Spine/RightShoulder
+        weight: 1
+      - path: Root/Hip/Spine/RightShoulder/RightArm
+        weight: 1
+      - path: Root/Hip/Spine/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Root/Hip/Spine/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

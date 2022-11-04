@@ -1,0 +1,3166 @@
+fileFormatVersion: 2
+guid: 301b68fa8f8efd24f9ece68733c08aab
+timeCreated: 1500617990
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: atama_n
+    100002: b_lip_center
+    100004: Back_skart1
+    100006: Back_skart2
+    100008: Back_skart3
+    100010: BackHair1
+    100012: BackHair2
+    100014: BackHair3
+    100016: BackHair4
+    100018: cheek_Left
+    100020: cheek_Right
+    100022: chin
+    100024: eye_Left
+    100026: eye_Right
+    100028: eyebrow_a_Left
+    100030: eyebrow_a_Right
+    100032: eyebrow_b_Left
+    100034: eyebrow_b_Right
+    100036: eyelid_und1_Left
+    100038: eyelid_und1_Right
+    100040: eyelid_und2_Left
+    100042: eyelid_und2_Right
+    100044: eyelid_und_Left
+    100046: eyelid_und_Right
+    100048: eyerid1_Left
+    100050: eyerid1_Right
+    100052: eyerid2_Left
+    100054: eyerid2_Right
+    100056: eyerid_Left
+    100058: eyerid_Right
+    100060: f02
+    100062: //RootNode
+    100064: f02_schoolwear_210_h
+    100066: face
+    100068: Fem_Ctrl:ChestEndEffector
+    100070: Fem_Ctrl:ChestOriginEffector
+    100072: Fem_Ctrl:Head
+    100074: Fem_Ctrl:HeadEffector
+    100076: Fem_Ctrl:Hips
+    100078: Fem_Ctrl:HipsEffector
+    100080: Fem_Ctrl:LeftAnkleEffector
+    100082: Fem_Ctrl:LeftArm
+    100084: Fem_Ctrl:LeftArmRoll
+    100086: Fem_Ctrl:LeftElbowEffector
+    100088: Fem_Ctrl:LeftFoot
+    100090: Fem_Ctrl:LeftFootEffector
+    100092: Fem_Ctrl:LeftForeArm
+    100094: Fem_Ctrl:LeftForeArmRoll
+    100096: Fem_Ctrl:LeftHand
+    100098: Fem_Ctrl:LeftHandIndex1
+    100100: Fem_Ctrl:LeftHandIndex2
+    100102: Fem_Ctrl:LeftHandIndex3
+    100104: Fem_Ctrl:LeftHandIndex4
+    100106: Fem_Ctrl:LeftHandIndexEffector
+    100108: Fem_Ctrl:LeftHandMiddle1
+    100110: Fem_Ctrl:LeftHandMiddle2
+    100112: Fem_Ctrl:LeftHandMiddle3
+    100114: Fem_Ctrl:LeftHandMiddle4
+    100116: Fem_Ctrl:LeftHandMiddleEffector
+    100118: Fem_Ctrl:LeftHandPinky1
+    100120: Fem_Ctrl:LeftHandPinky2
+    100122: Fem_Ctrl:LeftHandPinky3
+    100124: Fem_Ctrl:LeftHandPinky4
+    100126: Fem_Ctrl:LeftHandPinkyEffector
+    100128: Fem_Ctrl:LeftHandRing1
+    100130: Fem_Ctrl:LeftHandRing2
+    100132: Fem_Ctrl:LeftHandRing3
+    100134: Fem_Ctrl:LeftHandRing4
+    100136: Fem_Ctrl:LeftHandRingEffector
+    100138: Fem_Ctrl:LeftHandThumb1
+    100140: Fem_Ctrl:LeftHandThumb2
+    100142: Fem_Ctrl:LeftHandThumb3
+    100144: Fem_Ctrl:LeftHandThumb4
+    100146: Fem_Ctrl:LeftHandThumbEffector
+    100148: Fem_Ctrl:LeftHipEffector
+    100150: Fem_Ctrl:LeftKneeEffector
+    100152: Fem_Ctrl:LeftLeg
+    100154: Fem_Ctrl:LeftShoulder
+    100156: Fem_Ctrl:LeftShoulderEffector
+    100158: Fem_Ctrl:LeftToeBase
+    100160: Fem_Ctrl:LeftUpLeg
+    100162: Fem_Ctrl:LeftWristEffector
+    100164: Fem_Ctrl:Neck
+    100166: Fem_Ctrl:Reference
+    100168: Fem_Ctrl:RightAnkleEffector
+    100170: Fem_Ctrl:RightArm
+    100172: Fem_Ctrl:RightArmRoll
+    100174: Fem_Ctrl:RightElbowEffector
+    100176: Fem_Ctrl:RightFoot
+    100178: Fem_Ctrl:RightFootEffector
+    100180: Fem_Ctrl:RightForeArm
+    100182: Fem_Ctrl:RightForeArmRoll
+    100184: Fem_Ctrl:RightHand
+    100186: Fem_Ctrl:RightHandIndex1
+    100188: Fem_Ctrl:RightHandIndex2
+    100190: Fem_Ctrl:RightHandIndex3
+    100192: Fem_Ctrl:RightHandIndex4
+    100194: Fem_Ctrl:RightHandIndexEffector
+    100196: Fem_Ctrl:RightHandMiddle1
+    100198: Fem_Ctrl:RightHandMiddle2
+    100200: Fem_Ctrl:RightHandMiddle3
+    100202: Fem_Ctrl:RightHandMiddle4
+    100204: Fem_Ctrl:RightHandMiddleEffector
+    100206: Fem_Ctrl:RightHandPinky1
+    100208: Fem_Ctrl:RightHandPinky2
+    100210: Fem_Ctrl:RightHandPinky3
+    100212: Fem_Ctrl:RightHandPinky4
+    100214: Fem_Ctrl:RightHandPinkyEffector
+    100216: Fem_Ctrl:RightHandRing1
+    100218: Fem_Ctrl:RightHandRing2
+    100220: Fem_Ctrl:RightHandRing3
+    100222: Fem_Ctrl:RightHandRing4
+    100224: Fem_Ctrl:RightHandRingEffector
+    100226: Fem_Ctrl:RightHandThumb1
+    100228: Fem_Ctrl:RightHandThumb2
+    100230: Fem_Ctrl:RightHandThumb3
+    100232: Fem_Ctrl:RightHandThumb4
+    100234: Fem_Ctrl:RightHandThumbEffector
+    100236: Fem_Ctrl:RightHipEffector
+    100238: Fem_Ctrl:RightKneeEffector
+    100240: Fem_Ctrl:RightLeg
+    100242: Fem_Ctrl:RightShoulder
+    100244: Fem_Ctrl:RightShoulderEffector
+    100246: Fem_Ctrl:RightToeBase
+    100248: Fem_Ctrl:RightUpLeg
+    100250: Fem_Ctrl:RightWristEffector
+    100252: Fem_Ctrl:Spine
+    100254: Fem_Ctrl:Spine1
+    100256: Fem_Ctrl:Spine2
+    100258: Fem_Ctrl:Spine3
+    100260: Feme:atama_n
+    100262: Feme:b_lip_center
+    100264: Feme:Back_skart1
+    100266: Feme:Back_skart2
+    100268: Feme:Back_skart3
+    100270: Feme:BackHair1
+    100272: Feme:BackHair2
+    100274: Feme:BackHair3
+    100276: Feme:BackHair4
+    100278: Feme:cheek_Left
+    100280: Feme:cheek_Right
+    100282: Feme:chin
+    100284: Feme:eye_Left
+    100286: Feme:eye_Right
+    100288: Feme:eyebrow_a_Left
+    100290: Feme:eyebrow_a_Right
+    100292: Feme:eyebrow_b_Left
+    100294: Feme:eyebrow_b_Right
+    100296: Feme:eyelid_und1_Left
+    100298: Feme:eyelid_und1_Right
+    100300: Feme:eyelid_und2_Left
+    100302: Feme:eyelid_und2_Right
+    100304: Feme:eyelid_und_Left
+    100306: Feme:eyelid_und_Right
+    100308: Feme:eyerid1_Left
+    100310: Feme:eyerid1_Right
+    100312: Feme:eyerid2_Left
+    100314: Feme:eyerid2_Right
+    100316: Feme:eyerid_Left
+    100318: Feme:eyerid_Right
+    100320: Feme:f02
+    100322: Feme:f02_schoolwear_210_h
+    100324: Feme:face
+    100326: Feme:Front_skart1
+    100328: Feme:Front_skart2
+    100330: Feme:Front_skart3
+    100332: Feme:FrontHair
+    100334: Feme:Glasses_Null
+    100336: Feme:Head
+    100338: Feme:Head_null
+    100340: Feme:Hips
+    100342: Feme:inner_corner_of_eye_Left
+    100344: Feme:inner_corner_of_eye_Right
+    100346: Feme:jaw
+    100348: Feme:Left_skart1
+    100350: Feme:Left_skart2
+    100352: Feme:Left_skart3
+    100354: Feme:LeftArm
+    100356: Feme:LeftArmRoll
+    100358: Feme:LeftBreast
+    100360: Feme:LeftEarring_Null
+    100362: Feme:LeftFoot
+    100364: Feme:LeftForeArm
+    100366: Feme:LeftForeArm_Helper
+    100368: Feme:LeftForeArmRoll
+    100370: Feme:LeftHair1
+    100372: Feme:LeftHair2
+    100374: Feme:LeftHair3
+    100376: Feme:LeftHand
+    100378: Feme:LeftHandIndex1
+    100380: Feme:LeftHandIndex2
+    100382: Feme:LeftHandIndex3
+    100384: Feme:LeftHandIndexNull
+    100386: Feme:LeftHanditem_Null
+    100388: Feme:LeftHandMiddle1
+    100390: Feme:LeftHandMiddle2
+    100392: Feme:LeftHandMiddle3
+    100394: Feme:LeftHandMiddleNull
+    100396: Feme:LeftHandPinky1
+    100398: Feme:LeftHandPinky2
+    100400: Feme:LeftHandPinky3
+    100402: Feme:LeftHandPinkyNull
+    100404: Feme:LeftHandRing1
+    100406: Feme:LeftHandRing2
+    100408: Feme:LeftHandRing3
+    100410: Feme:LeftHandRingNull
+    100412: Feme:LeftHandThumb1
+    100414: Feme:LeftHandThumb2
+    100416: Feme:LeftHandThumb3
+    100418: Feme:LeftHandThumbNull
+    100420: Feme:LeftHip_Helper
+    100422: Feme:LeftLeg
+    100424: Feme:LeftLeg_Helper
+    100426: Feme:LeftNipple
+    100428: Feme:LeftShoulder
+    100430: Feme:LeftToes
+    100432: Feme:LeftToesNull
+    100434: Feme:LeftUpLeg
+    100436: Feme:lip_Left
+    100438: Feme:lip_Right
+    100440: Feme:lip_t_Left
+    100442: Feme:lip_t_Right
+    100444: Feme:lip_top_Left
+    100446: Feme:lip_top_Right
+    100448: Feme:lip_u_Left
+    100450: Feme:lip_u_Right
+    100452: Feme:mayu
+    100454: Feme:Neck
+    100456: Feme:nose
+    100458: Feme:nostrir_Left
+    100460: Feme:nostrir_Right
+    100462: Feme:PelvisRoot
+    100464: Feme:Right_skart1
+    100466: Feme:Right_skart2
+    100468: Feme:Right_skart3
+    100470: Feme:RightArm
+    100472: Feme:RightArmRoll
+    100474: Feme:RightBreast
+    100476: Feme:RightEarring_Null
+    100478: Feme:RightFoot
+    100480: Feme:RightForeArm
+    100482: Feme:RightForeArm_Helper
+    100484: Feme:RightForeArmRoll
+    100486: Feme:RightHair1
+    100488: Feme:RightHair2
+    100490: Feme:RightHair3
+    100492: Feme:RightHand
+    100494: Feme:RightHandIndex1
+    100496: Feme:RightHandIndex2
+    100498: Feme:RightHandIndex3
+    100500: Feme:RightHandIndexNull
+    100502: Feme:RightHanditem_Null
+    100504: Feme:RightHandMiddle1
+    100506: Feme:RightHandMiddle2
+    100508: Feme:RightHandMiddle3
+    100510: Feme:RightHandMiddleNull
+    100512: Feme:RightHandPinky1
+    100514: Feme:RightHandPinky2
+    100516: Feme:RightHandPinky3
+    100518: Feme:RightHandPinkyNull
+    100520: Feme:RightHandRing1
+    100522: Feme:RightHandRing2
+    100524: Feme:RightHandRing3
+    100526: Feme:RightHandRingNull
+    100528: Feme:RightHandThumb1
+    100530: Feme:RightHandThumb2
+    100532: Feme:RightHandThumb3
+    100534: Feme:RightHandThumbNull
+    100536: Feme:RightHip_Helper
+    100538: Feme:RightLeg
+    100540: Feme:RightLeg_Helper
+    100542: Feme:RightNipple
+    100544: Feme:RightShoulder
+    100546: Feme:RightToes
+    100548: Feme:RightToesNull
+    100550: Feme:RightUpLeg
+    100552: Feme:rip_btm_Left
+    100554: Feme:rip_btm_Right
+    100556: Feme:Spine
+    100558: Feme:Spine1
+    100560: Feme:Spine2
+    100562: Feme:Spine3
+    100564: Feme:tail_of_eye_Left
+    100566: Feme:tail_of_eye_Right
+    100568: Feme:temple_Left
+    100570: Feme:temple_Right
+    100572: Feme:u_lip_center
+    100574: Front_skart1
+    100576: Front_skart2
+    100578: Front_skart3
+    100580: FrontHair
+    100582: Glasses_Null
+    100584: Head
+    100586: Head_null
+    100588: Hips
+    100590: inner_corner_of_eye_Left
+    100592: inner_corner_of_eye_Right
+    100594: jaw
+    100596: Left_skart1
+    100598: Left_skart2
+    100600: Left_skart3
+    100602: LeftArm
+    100604: LeftArmRoll
+    100606: LeftBreast
+    100608: LeftEarring_Null
+    100610: LeftFoot
+    100612: LeftForeArm
+    100614: LeftForeArm_Helper
+    100616: LeftForeArmRoll
+    100618: LeftHair1
+    100620: LeftHair2
+    100622: LeftHair3
+    100624: LeftHand
+    100626: LeftHandIndex1
+    100628: LeftHandIndex2
+    100630: LeftHandIndex3
+    100632: LeftHandIndexNull
+    100634: LeftHanditem_Null
+    100636: LeftHandMiddle1
+    100638: LeftHandMiddle2
+    100640: LeftHandMiddle3
+    100642: LeftHandMiddleNull
+    100644: LeftHandPinky1
+    100646: LeftHandPinky2
+    100648: LeftHandPinky3
+    100650: LeftHandPinkyNull
+    100652: LeftHandRing1
+    100654: LeftHandRing2
+    100656: LeftHandRing3
+    100658: LeftHandRingNull
+    100660: LeftHandThumb1
+    100662: LeftHandThumb2
+    100664: LeftHandThumb3
+    100666: LeftHandThumbNull
+    100668: LeftHip_Helper
+    100670: LeftLeg
+    100672: LeftLeg_Helper
+    100674: LeftNipple
+    100676: LeftShoulder
+    100678: LeftToes
+    100680: LeftToesNull
+    100682: LeftUpLeg
+    100684: lip_Left
+    100686: lip_Right
+    100688: lip_t_Left
+    100690: lip_t_Right
+    100692: lip_top_Left
+    100694: lip_top_Right
+    100696: lip_u_Left
+    100698: lip_u_Right
+    100700: LookAt_Ctrl
+    100702: LookAt_Drv
+    100704: LookAt_grp
+    100706: mayu
+    100708: Neck
+    100710: nose
+    100712: nostrir_Left
+    100714: nostrir_Right
+    100716: PelvisRoot
+    100718: Right_skart1
+    100720: Right_skart2
+    100722: Right_skart3
+    100724: RightArm
+    100726: RightArmRoll
+    100728: RightBreast
+    100730: RightEarring_Null
+    100732: RightFoot
+    100734: RightForeArm
+    100736: RightForeArm_Helper
+    100738: RightForeArmRoll
+    100740: RightHair1
+    100742: RightHair2
+    100744: RightHair3
+    100746: RightHand
+    100748: RightHandIndex1
+    100750: RightHandIndex2
+    100752: RightHandIndex3
+    100754: RightHandIndexNull
+    100756: RightHanditem_Null
+    100758: RightHandMiddle1
+    100760: RightHandMiddle2
+    100762: RightHandMiddle3
+    100764: RightHandMiddleNull
+    100766: RightHandPinky1
+    100768: RightHandPinky2
+    100770: RightHandPinky3
+    100772: RightHandPinkyNull
+    100774: RightHandRing1
+    100776: RightHandRing2
+    100778: RightHandRing3
+    100780: RightHandRingNull
+    100782: RightHandThumb1
+    100784: RightHandThumb2
+    100786: RightHandThumb3
+    100788: RightHandThumbNull
+    100790: RightHip_Helper
+    100792: RightLeg
+    100794: RightLeg_Helper
+    100796: RightNipple
+    100798: RightShoulder
+    100800: RightToes
+    100802: RightToesNull
+    100804: RightUpLeg
+    100806: rip_btm_Left
+    100808: rip_btm_Right
+    100810: Sen:atama_n
+    100812: Sen:b_lip_center
+    100814: Sen:cheek_Left
+    100816: Sen:cheek_Right
+    100818: Sen:chin
+    100820: Sen:eye_Left
+    100822: Sen:eye_Right
+    100824: Sen:eyebrow_a_Left
+    100826: Sen:eyebrow_a_Right
+    100828: Sen:eyebrow_b_Left
+    100830: Sen:eyebrow_b_Right
+    100832: Sen:eyelid_und1_Left
+    100834: Sen:eyelid_und1_Right
+    100836: Sen:eyelid_und2_Left
+    100838: Sen:eyelid_und2_Right
+    100840: Sen:eyelid_und_Left
+    100842: Sen:eyelid_und_Right
+    100844: Sen:eyerid1_Left
+    100846: Sen:eyerid1_Right
+    100848: Sen:eyerid2_Left
+    100850: Sen:eyerid2_Right
+    100852: Sen:eyerid_Left
+    100854: Sen:eyerid_Right
+    100856: Sen:face
+    100858: Sen:Glasses_Null
+    100860: Sen:Head
+    100862: Sen:Hips
+    100864: Sen:inner_corner_of_eye_Left
+    100866: Sen:inner_corner_of_eye_Right
+    100868: Sen:jaw
+    100870: Sen:LeftArm
+    100872: Sen:LeftArmRoll
+    100874: Sen:LeftEarring_Null
+    100876: Sen:LeftFoot
+    100878: Sen:LeftForeArm
+    100880: Sen:LeftForeArm_Helper
+    100882: Sen:LeftForeArmRoll
+    100884: Sen:LeftHand
+    100886: Sen:LeftHandIndex1
+    100888: Sen:LeftHandIndex2
+    100890: Sen:LeftHandIndex3
+    100892: Sen:LeftHandIndexNull
+    100894: Sen:LeftHanditem_Null
+    100896: Sen:LeftHandMiddle1
+    100898: Sen:LeftHandMiddle2
+    100900: Sen:LeftHandMiddle3
+    100902: Sen:LeftHandMiddleNull
+    100904: Sen:LeftHandPinky1
+    100906: Sen:LeftHandPinky2
+    100908: Sen:LeftHandPinky3
+    100910: Sen:LeftHandPinkyNull
+    100912: Sen:LeftHandRing1
+    100914: Sen:LeftHandRing2
+    100916: Sen:LeftHandRing3
+    100918: Sen:LeftHandRingNull
+    100920: Sen:LeftHandThumb1
+    100922: Sen:LeftHandThumb2
+    100924: Sen:LeftHandThumb3
+    100926: Sen:LeftHandThumbNull
+    100928: Sen:LeftHip_Helper
+    100930: Sen:LeftLeg
+    100932: Sen:LeftLeg_Helper
+    100934: Sen:LeftShoulder
+    100936: Sen:LeftToes
+    100938: Sen:LeftToesNull
+    100940: Sen:LeftUpLeg
+    100942: Sen:lip_Left
+    100944: Sen:lip_Right
+    100946: Sen:lip_t_Left
+    100948: Sen:lip_t_Right
+    100950: Sen:lip_top_Left
+    100952: Sen:lip_top_Right
+    100954: Sen:lip_u_Left
+    100956: Sen:lip_u_Right
+    100958: Sen:m01_blazer_000_h_NoHead
+    100960: Sen:m01_headMorphs
+    100962: Sen:mayu
+    100964: Sen:Neck
+    100966: Sen:nose
+    100968: Sen:nostrir_Left
+    100970: Sen:nostrir_Right
+    100972: Sen:PelvisRoot
+    100974: Sen:RightArm
+    100976: Sen:RightArmRoll
+    100978: Sen:RightEarring_Null
+    100980: Sen:RightFoot
+    100982: Sen:RightForeArm
+    100984: Sen:RightForeArm_Helper
+    100986: Sen:RightForeArmRoll
+    100988: Sen:RightHand
+    100990: Sen:RightHandIndex1
+    100992: Sen:RightHandIndex2
+    100994: Sen:RightHandIndex3
+    100996: Sen:RightHandIndexNull
+    100998: Sen:RightHanditem_Null
+    101000: Sen:RightHandMiddle1
+    101002: Sen:RightHandMiddle2
+    101004: Sen:RightHandMiddle3
+    101006: Sen:RightHandMiddleNull
+    101008: Sen:RightHandPinky1
+    101010: Sen:RightHandPinky2
+    101012: Sen:RightHandPinky3
+    101014: Sen:RightHandPinkyNull
+    101016: Sen:RightHandRing1
+    101018: Sen:RightHandRing2
+    101020: Sen:RightHandRing3
+    101022: Sen:RightHandRingNull
+    101024: Sen:RightHandThumb1
+    101026: Sen:RightHandThumb2
+    101028: Sen:RightHandThumb3
+    101030: Sen:RightHandThumbNull
+    101032: Sen:RightHip_Helper
+    101034: Sen:RightLeg
+    101036: Sen:RightLeg_Helper
+    101038: Sen:RightShoulder
+    101040: Sen:RightToes
+    101042: Sen:RightToesNull
+    101044: Sen:RightUpLeg
+    101046: Sen:rip_btm_Left
+    101048: Sen:rip_btm_Right
+    101050: Sen:SenHeadMorphs
+    101052: Sen:Senpai_null
+    101054: Sen:Spine
+    101056: Sen:Spine1
+    101058: Sen:Spine2
+    101060: Sen:Spine3
+    101062: Sen:tail_of_eye_Left
+    101064: Sen:tail_of_eye_Right
+    101066: Sen:temple_Left
+    101068: Sen:temple_Right
+    101070: Sen:u_lip_center
+    101072: Spine
+    101074: Spine1
+    101076: Spine2
+    101078: Spine3
+    101080: tail_of_eye_Left
+    101082: tail_of_eye_Right
+    101084: temple_Left
+    101086: temple_Right
+    101088: u_lip_center
+    101090: YanChan_Ctrl:ChestEndEffector
+    101092: YanChan_Ctrl:ChestEndEffector 1
+    101094: YanChan_Ctrl:ChestOriginEffector
+    101096: YanChan_Ctrl:ChestOriginEffector 1
+    101098: YanChan_Ctrl:Head
+    101100: YanChan_Ctrl:Head 1
+    101102: YanChan_Ctrl:HeadEffector
+    101104: YanChan_Ctrl:HeadEffector 1
+    101106: YanChan_Ctrl:Hips
+    101108: YanChan_Ctrl:Hips 1
+    101110: YanChan_Ctrl:HipsEffector
+    101112: YanChan_Ctrl:HipsEffector 1
+    101114: YanChan_Ctrl:LeftAnkleEffector
+    101116: YanChan_Ctrl:LeftAnkleEffector 1
+    101118: YanChan_Ctrl:LeftArm
+    101120: YanChan_Ctrl:LeftArm 1
+    101122: YanChan_Ctrl:LeftArmRoll
+    101124: YanChan_Ctrl:LeftArmRoll 1
+    101126: YanChan_Ctrl:LeftElbowEffector
+    101128: YanChan_Ctrl:LeftElbowEffector 1
+    101130: YanChan_Ctrl:LeftFoot
+    101132: YanChan_Ctrl:LeftFoot 1
+    101134: YanChan_Ctrl:LeftFootEffector
+    101136: YanChan_Ctrl:LeftFootEffector 1
+    101138: YanChan_Ctrl:LeftForeArm
+    101140: YanChan_Ctrl:LeftForeArm 1
+    101142: YanChan_Ctrl:LeftForeArmRoll
+    101144: YanChan_Ctrl:LeftForeArmRoll 1
+    101146: YanChan_Ctrl:LeftHand
+    101148: YanChan_Ctrl:LeftHand 1
+    101150: YanChan_Ctrl:LeftHandIndex1
+    101152: YanChan_Ctrl:LeftHandIndex2
+    101154: YanChan_Ctrl:LeftHandIndex3
+    101156: YanChan_Ctrl:LeftHandIndex4
+    101158: YanChan_Ctrl:LeftHandIndex5
+    101160: YanChan_Ctrl:LeftHandIndex6
+    101162: YanChan_Ctrl:LeftHandIndex7
+    101164: YanChan_Ctrl:LeftHandIndex8
+    101166: YanChan_Ctrl:LeftHandIndexEffector
+    101168: YanChan_Ctrl:LeftHandIndexEffector 1
+    101170: YanChan_Ctrl:LeftHandMiddle1
+    101172: YanChan_Ctrl:LeftHandMiddle2
+    101174: YanChan_Ctrl:LeftHandMiddle3
+    101176: YanChan_Ctrl:LeftHandMiddle4
+    101178: YanChan_Ctrl:LeftHandMiddle5
+    101180: YanChan_Ctrl:LeftHandMiddle6
+    101182: YanChan_Ctrl:LeftHandMiddle7
+    101184: YanChan_Ctrl:LeftHandMiddle8
+    101186: YanChan_Ctrl:LeftHandMiddleEffector
+    101188: YanChan_Ctrl:LeftHandMiddleEffector 1
+    101190: YanChan_Ctrl:LeftHandPinky1
+    101192: YanChan_Ctrl:LeftHandPinky2
+    101194: YanChan_Ctrl:LeftHandPinky3
+    101196: YanChan_Ctrl:LeftHandPinky4
+    101198: YanChan_Ctrl:LeftHandPinky5
+    101200: YanChan_Ctrl:LeftHandPinky6
+    101202: YanChan_Ctrl:LeftHandPinky7
+    101204: YanChan_Ctrl:LeftHandPinky8
+    101206: YanChan_Ctrl:LeftHandPinkyEffector
+    101208: YanChan_Ctrl:LeftHandPinkyEffector 1
+    101210: YanChan_Ctrl:LeftHandRing1
+    101212: YanChan_Ctrl:LeftHandRing2
+    101214: YanChan_Ctrl:LeftHandRing3
+    101216: YanChan_Ctrl:LeftHandRing4
+    101218: YanChan_Ctrl:LeftHandRing5
+    101220: YanChan_Ctrl:LeftHandRing6
+    101222: YanChan_Ctrl:LeftHandRing7
+    101224: YanChan_Ctrl:LeftHandRing8
+    101226: YanChan_Ctrl:LeftHandRingEffector
+    101228: YanChan_Ctrl:LeftHandRingEffector 1
+    101230: YanChan_Ctrl:LeftHandThumb1
+    101232: YanChan_Ctrl:LeftHandThumb2
+    101234: YanChan_Ctrl:LeftHandThumb3
+    101236: YanChan_Ctrl:LeftHandThumb4
+    101238: YanChan_Ctrl:LeftHandThumb5
+    101240: YanChan_Ctrl:LeftHandThumb6
+    101242: YanChan_Ctrl:LeftHandThumb7
+    101244: YanChan_Ctrl:LeftHandThumb8
+    101246: YanChan_Ctrl:LeftHandThumbEffector
+    101248: YanChan_Ctrl:LeftHandThumbEffector 1
+    101250: YanChan_Ctrl:LeftHipEffector
+    101252: YanChan_Ctrl:LeftHipEffector 1
+    101254: YanChan_Ctrl:LeftKneeEffector
+    101256: YanChan_Ctrl:LeftKneeEffector 1
+    101258: YanChan_Ctrl:LeftLeg
+    101260: YanChan_Ctrl:LeftLeg 1
+    101262: YanChan_Ctrl:LeftShoulder
+    101264: YanChan_Ctrl:LeftShoulder 1
+    101266: YanChan_Ctrl:LeftShoulderEffector
+    101268: YanChan_Ctrl:LeftShoulderEffector 1
+    101270: YanChan_Ctrl:LeftToeBase
+    101272: YanChan_Ctrl:LeftToeBase 1
+    101274: YanChan_Ctrl:LeftUpLeg
+    101276: YanChan_Ctrl:LeftUpLeg 1
+    101278: YanChan_Ctrl:LeftWristEffector
+    101280: YanChan_Ctrl:LeftWristEffector 1
+    101282: YanChan_Ctrl:Neck
+    101284: YanChan_Ctrl:Neck 1
+    101286: YanChan_Ctrl:Reference
+    101288: YanChan_Ctrl:Reference 1
+    101290: YanChan_Ctrl:RightAnkleEffector
+    101292: YanChan_Ctrl:RightAnkleEffector 1
+    101294: YanChan_Ctrl:RightArm
+    101296: YanChan_Ctrl:RightArm 1
+    101298: YanChan_Ctrl:RightArmRoll
+    101300: YanChan_Ctrl:RightArmRoll 1
+    101302: YanChan_Ctrl:RightElbowEffector
+    101304: YanChan_Ctrl:RightElbowEffector 1
+    101306: YanChan_Ctrl:RightFoot
+    101308: YanChan_Ctrl:RightFoot 1
+    101310: YanChan_Ctrl:RightFootEffector
+    101312: YanChan_Ctrl:RightFootEffector 1
+    101314: YanChan_Ctrl:RightForeArm
+    101316: YanChan_Ctrl:RightForeArm 1
+    101318: YanChan_Ctrl:RightForeArmRoll
+    101320: YanChan_Ctrl:RightForeArmRoll 1
+    101322: YanChan_Ctrl:RightHand
+    101324: YanChan_Ctrl:RightHand 1
+    101326: YanChan_Ctrl:RightHandIndex1
+    101328: YanChan_Ctrl:RightHandIndex2
+    101330: YanChan_Ctrl:RightHandIndex3
+    101332: YanChan_Ctrl:RightHandIndex4
+    101334: YanChan_Ctrl:RightHandIndex5
+    101336: YanChan_Ctrl:RightHandIndex6
+    101338: YanChan_Ctrl:RightHandIndex7
+    101340: YanChan_Ctrl:RightHandIndex8
+    101342: YanChan_Ctrl:RightHandIndexEffector
+    101344: YanChan_Ctrl:RightHandIndexEffector 1
+    101346: YanChan_Ctrl:RightHandMiddle1
+    101348: YanChan_Ctrl:RightHandMiddle2
+    101350: YanChan_Ctrl:RightHandMiddle3
+    101352: YanChan_Ctrl:RightHandMiddle4
+    101354: YanChan_Ctrl:RightHandMiddle5
+    101356: YanChan_Ctrl:RightHandMiddle6
+    101358: YanChan_Ctrl:RightHandMiddle7
+    101360: YanChan_Ctrl:RightHandMiddle8
+    101362: YanChan_Ctrl:RightHandMiddleEffector
+    101364: YanChan_Ctrl:RightHandMiddleEffector 1
+    101366: YanChan_Ctrl:RightHandPinky1
+    101368: YanChan_Ctrl:RightHandPinky2
+    101370: YanChan_Ctrl:RightHandPinky3
+    101372: YanChan_Ctrl:RightHandPinky4
+    101374: YanChan_Ctrl:RightHandPinky5
+    101376: YanChan_Ctrl:RightHandPinky6
+    101378: YanChan_Ctrl:RightHandPinky7
+    101380: YanChan_Ctrl:RightHandPinky8
+    101382: YanChan_Ctrl:RightHandPinkyEffector
+    101384: YanChan_Ctrl:RightHandPinkyEffector 1
+    101386: YanChan_Ctrl:RightHandRing1
+    101388: YanChan_Ctrl:RightHandRing2
+    101390: YanChan_Ctrl:RightHandRing3
+    101392: YanChan_Ctrl:RightHandRing4
+    101394: YanChan_Ctrl:RightHandRing5
+    101396: YanChan_Ctrl:RightHandRing6
+    101398: YanChan_Ctrl:RightHandRing7
+    101400: YanChan_Ctrl:RightHandRing8
+    101402: YanChan_Ctrl:RightHandRingEffector
+    101404: YanChan_Ctrl:RightHandRingEffector 1
+    101406: YanChan_Ctrl:RightHandThumb1
+    101408: YanChan_Ctrl:RightHandThumb2
+    101410: YanChan_Ctrl:RightHandThumb3
+    101412: YanChan_Ctrl:RightHandThumb4
+    101414: YanChan_Ctrl:RightHandThumb5
+    101416: YanChan_Ctrl:RightHandThumb6
+    101418: YanChan_Ctrl:RightHandThumb7
+    101420: YanChan_Ctrl:RightHandThumb8
+    101422: YanChan_Ctrl:RightHandThumbEffector
+    101424: YanChan_Ctrl:RightHandThumbEffector 1
+    101426: YanChan_Ctrl:RightHipEffector
+    101428: YanChan_Ctrl:RightHipEffector 1
+    101430: YanChan_Ctrl:RightKneeEffector
+    101432: YanChan_Ctrl:RightKneeEffector 1
+    101434: YanChan_Ctrl:RightLeg
+    101436: YanChan_Ctrl:RightLeg 1
+    101438: YanChan_Ctrl:RightShoulder
+    101440: YanChan_Ctrl:RightShoulder 1
+    101442: YanChan_Ctrl:RightShoulderEffector
+    101444: YanChan_Ctrl:RightShoulderEffector 1
+    101446: YanChan_Ctrl:RightToeBase
+    101448: YanChan_Ctrl:RightToeBase 1
+    101450: YanChan_Ctrl:RightUpLeg
+    101452: YanChan_Ctrl:RightUpLeg 1
+    101454: YanChan_Ctrl:RightWristEffector
+    101456: YanChan_Ctrl:RightWristEffector 1
+    101458: YanChan_Ctrl:Spine
+    101460: YanChan_Ctrl:Spine 1
+    101462: YanChan_Ctrl:Spine1
+    101464: YanChan_Ctrl:Spine2
+    101466: YanChan_Ctrl:Spine3
+    101468: YanChan_Ctrl:Spine4
+    101470: YanChan_Ctrl:Spine5
+    101472: YanChan_Ctrl:Spine6
+    400000: atama_n
+    400002: b_lip_center
+    400004: Back_skart1
+    400006: Back_skart2
+    400008: Back_skart3
+    400010: BackHair1
+    400012: BackHair2
+    400014: BackHair3
+    400016: BackHair4
+    400018: cheek_Left
+    400020: cheek_Right
+    400022: chin
+    400024: eye_Left
+    400026: eye_Right
+    400028: eyebrow_a_Left
+    400030: eyebrow_a_Right
+    400032: eyebrow_b_Left
+    400034: eyebrow_b_Right
+    400036: eyelid_und1_Left
+    400038: eyelid_und1_Right
+    400040: eyelid_und2_Left
+    400042: eyelid_und2_Right
+    400044: eyelid_und_Left
+    400046: eyelid_und_Right
+    400048: eyerid1_Left
+    400050: eyerid1_Right
+    400052: eyerid2_Left
+    400054: eyerid2_Right
+    400056: eyerid_Left
+    400058: eyerid_Right
+    400060: f02
+    400062: //RootNode
+    400064: f02_schoolwear_210_h
+    400066: face
+    400068: Fem_Ctrl:ChestEndEffector
+    400070: Fem_Ctrl:ChestOriginEffector
+    400072: Fem_Ctrl:Head
+    400074: Fem_Ctrl:HeadEffector
+    400076: Fem_Ctrl:Hips
+    400078: Fem_Ctrl:HipsEffector
+    400080: Fem_Ctrl:LeftAnkleEffector
+    400082: Fem_Ctrl:LeftArm
+    400084: Fem_Ctrl:LeftArmRoll
+    400086: Fem_Ctrl:LeftElbowEffector
+    400088: Fem_Ctrl:LeftFoot
+    400090: Fem_Ctrl:LeftFootEffector
+    400092: Fem_Ctrl:LeftForeArm
+    400094: Fem_Ctrl:LeftForeArmRoll
+    400096: Fem_Ctrl:LeftHand
+    400098: Fem_Ctrl:LeftHandIndex1
+    400100: Fem_Ctrl:LeftHandIndex2
+    400102: Fem_Ctrl:LeftHandIndex3
+    400104: Fem_Ctrl:LeftHandIndex4
+    400106: Fem_Ctrl:LeftHandIndexEffector
+    400108: Fem_Ctrl:LeftHandMiddle1
+    400110: Fem_Ctrl:LeftHandMiddle2
+    400112: Fem_Ctrl:LeftHandMiddle3
+    400114: Fem_Ctrl:LeftHandMiddle4
+    400116: Fem_Ctrl:LeftHandMiddleEffector
+    400118: Fem_Ctrl:LeftHandPinky1
+    400120: Fem_Ctrl:LeftHandPinky2
+    400122: Fem_Ctrl:LeftHandPinky3
+    400124: Fem_Ctrl:LeftHandPinky4
+    400126: Fem_Ctrl:LeftHandPinkyEffector
+    400128: Fem_Ctrl:LeftHandRing1
+    400130: Fem_Ctrl:LeftHandRing2
+    400132: Fem_Ctrl:LeftHandRing3
+    400134: Fem_Ctrl:LeftHandRing4
+    400136: Fem_Ctrl:LeftHandRingEffector
+    400138: Fem_Ctrl:LeftHandThumb1
+    400140: Fem_Ctrl:LeftHandThumb2
+    400142: Fem_Ctrl:LeftHandThumb3
+    400144: Fem_Ctrl:LeftHandThumb4
+    400146: Fem_Ctrl:LeftHandThumbEffector
+    400148: Fem_Ctrl:LeftHipEffector
+    400150: Fem_Ctrl:LeftKneeEffector
+    400152: Fem_Ctrl:LeftLeg
+    400154: Fem_Ctrl:LeftShoulder
+    400156: Fem_Ctrl:LeftShoulderEffector
+    400158: Fem_Ctrl:LeftToeBase
+    400160: Fem_Ctrl:LeftUpLeg
+    400162: Fem_Ctrl:LeftWristEffector
+    400164: Fem_Ctrl:Neck
+    400166: Fem_Ctrl:Reference
+    400168: Fem_Ctrl:RightAnkleEffector
+    400170: Fem_Ctrl:RightArm
+    400172: Fem_Ctrl:RightArmRoll
+    400174: Fem_Ctrl:RightElbowEffector
+    400176: Fem_Ctrl:RightFoot
+    400178: Fem_Ctrl:RightFootEffector
+    400180: Fem_Ctrl:RightForeArm
+    400182: Fem_Ctrl:RightForeArmRoll
+    400184: Fem_Ctrl:RightHand
+    400186: Fem_Ctrl:RightHandIndex1
+    400188: Fem_Ctrl:RightHandIndex2
+    400190: Fem_Ctrl:RightHandIndex3
+    400192: Fem_Ctrl:RightHandIndex4
+    400194: Fem_Ctrl:RightHandIndexEffector
+    400196: Fem_Ctrl:RightHandMiddle1
+    400198: Fem_Ctrl:RightHandMiddle2
+    400200: Fem_Ctrl:RightHandMiddle3
+    400202: Fem_Ctrl:RightHandMiddle4
+    400204: Fem_Ctrl:RightHandMiddleEffector
+    400206: Fem_Ctrl:RightHandPinky1
+    400208: Fem_Ctrl:RightHandPinky2
+    400210: Fem_Ctrl:RightHandPinky3
+    400212: Fem_Ctrl:RightHandPinky4
+    400214: Fem_Ctrl:RightHandPinkyEffector
+    400216: Fem_Ctrl:RightHandRing1
+    400218: Fem_Ctrl:RightHandRing2
+    400220: Fem_Ctrl:RightHandRing3
+    400222: Fem_Ctrl:RightHandRing4
+    400224: Fem_Ctrl:RightHandRingEffector
+    400226: Fem_Ctrl:RightHandThumb1
+    400228: Fem_Ctrl:RightHandThumb2
+    400230: Fem_Ctrl:RightHandThumb3
+    400232: Fem_Ctrl:RightHandThumb4
+    400234: Fem_Ctrl:RightHandThumbEffector
+    400236: Fem_Ctrl:RightHipEffector
+    400238: Fem_Ctrl:RightKneeEffector
+    400240: Fem_Ctrl:RightLeg
+    400242: Fem_Ctrl:RightShoulder
+    400244: Fem_Ctrl:RightShoulderEffector
+    400246: Fem_Ctrl:RightToeBase
+    400248: Fem_Ctrl:RightUpLeg
+    400250: Fem_Ctrl:RightWristEffector
+    400252: Fem_Ctrl:Spine
+    400254: Fem_Ctrl:Spine1
+    400256: Fem_Ctrl:Spine2
+    400258: Fem_Ctrl:Spine3
+    400260: Feme:atama_n
+    400262: Feme:b_lip_center
+    400264: Feme:Back_skart1
+    400266: Feme:Back_skart2
+    400268: Feme:Back_skart3
+    400270: Feme:BackHair1
+    400272: Feme:BackHair2
+    400274: Feme:BackHair3
+    400276: Feme:BackHair4
+    400278: Feme:cheek_Left
+    400280: Feme:cheek_Right
+    400282: Feme:chin
+    400284: Feme:eye_Left
+    400286: Feme:eye_Right
+    400288: Feme:eyebrow_a_Left
+    400290: Feme:eyebrow_a_Right
+    400292: Feme:eyebrow_b_Left
+    400294: Feme:eyebrow_b_Right
+    400296: Feme:eyelid_und1_Left
+    400298: Feme:eyelid_und1_Right
+    400300: Feme:eyelid_und2_Left
+    400302: Feme:eyelid_und2_Right
+    400304: Feme:eyelid_und_Left
+    400306: Feme:eyelid_und_Right
+    400308: Feme:eyerid1_Left
+    400310: Feme:eyerid1_Right
+    400312: Feme:eyerid2_Left
+    400314: Feme:eyerid2_Right
+    400316: Feme:eyerid_Left
+    400318: Feme:eyerid_Right
+    400320: Feme:f02
+    400322: Feme:f02_schoolwear_210_h
+    400324: Feme:face
+    400326: Feme:Front_skart1
+    400328: Feme:Front_skart2
+    400330: Feme:Front_skart3
+    400332: Feme:FrontHair
+    400334: Feme:Glasses_Null
+    400336: Feme:Head
+    400338: Feme:Head_null
+    400340: Feme:Hips
+    400342: Feme:inner_corner_of_eye_Left
+    400344: Feme:inner_corner_of_eye_Right
+    400346: Feme:jaw
+    400348: Feme:Left_skart1
+    400350: Feme:Left_skart2
+    400352: Feme:Left_skart3
+    400354: Feme:LeftArm
+    400356: Feme:LeftArmRoll
+    400358: Feme:LeftBreast
+    400360: Feme:LeftEarring_Null
+    400362: Feme:LeftFoot
+    400364: Feme:LeftForeArm
+    400366: Feme:LeftForeArm_Helper
+    400368: Feme:LeftForeArmRoll
+    400370: Feme:LeftHair1
+    400372: Feme:LeftHair2
+    400374: Feme:LeftHair3
+    400376: Feme:LeftHand
+    400378: Feme:LeftHandIndex1
+    400380: Feme:LeftHandIndex2
+    400382: Feme:LeftHandIndex3
+    400384: Feme:LeftHandIndexNull
+    400386: Feme:LeftHanditem_Null
+    400388: Feme:LeftHandMiddle1
+    400390: Feme:LeftHandMiddle2
+    400392: Feme:LeftHandMiddle3
+    400394: Feme:LeftHandMiddleNull
+    400396: Feme:LeftHandPinky1
+    400398: Feme:LeftHandPinky2
+    400400: Feme:LeftHandPinky3
+    400402: Feme:LeftHandPinkyNull
+    400404: Feme:LeftHandRing1
+    400406: Feme:LeftHandRing2
+    400408: Feme:LeftHandRing3
+    400410: Feme:LeftHandRingNull
+    400412: Feme:LeftHandThumb1
+    400414: Feme:LeftHandThumb2
+    400416: Feme:LeftHandThumb3
+    400418: Feme:LeftHandThumbNull
+    400420: Feme:LeftHip_Helper
+    400422: Feme:LeftLeg
+    400424: Feme:LeftLeg_Helper
+    400426: Feme:LeftNipple
+    400428: Feme:LeftShoulder
+    400430: Feme:LeftToes
+    400432: Feme:LeftToesNull
+    400434: Feme:LeftUpLeg
+    400436: Feme:lip_Left
+    400438: Feme:lip_Right
+    400440: Feme:lip_t_Left
+    400442: Feme:lip_t_Right
+    400444: Feme:lip_top_Left
+    400446: Feme:lip_top_Right
+    400448: Feme:lip_u_Left
+    400450: Feme:lip_u_Right
+    400452: Feme:mayu
+    400454: Feme:Neck
+    400456: Feme:nose
+    400458: Feme:nostrir_Left
+    400460: Feme:nostrir_Right
+    400462: Feme:PelvisRoot
+    400464: Feme:Right_skart1
+    400466: Feme:Right_skart2
+    400468: Feme:Right_skart3
+    400470: Feme:RightArm
+    400472: Feme:RightArmRoll
+    400474: Feme:RightBreast
+    400476: Feme:RightEarring_Null
+    400478: Feme:RightFoot
+    400480: Feme:RightForeArm
+    400482: Feme:RightForeArm_Helper
+    400484: Feme:RightForeArmRoll
+    400486: Feme:RightHair1
+    400488: Feme:RightHair2
+    400490: Feme:RightHair3
+    400492: Feme:RightHand
+    400494: Feme:RightHandIndex1
+    400496: Feme:RightHandIndex2
+    400498: Feme:RightHandIndex3
+    400500: Feme:RightHandIndexNull
+    400502: Feme:RightHanditem_Null
+    400504: Feme:RightHandMiddle1
+    400506: Feme:RightHandMiddle2
+    400508: Feme:RightHandMiddle3
+    400510: Feme:RightHandMiddleNull
+    400512: Feme:RightHandPinky1
+    400514: Feme:RightHandPinky2
+    400516: Feme:RightHandPinky3
+    400518: Feme:RightHandPinkyNull
+    400520: Feme:RightHandRing1
+    400522: Feme:RightHandRing2
+    400524: Feme:RightHandRing3
+    400526: Feme:RightHandRingNull
+    400528: Feme:RightHandThumb1
+    400530: Feme:RightHandThumb2
+    400532: Feme:RightHandThumb3
+    400534: Feme:RightHandThumbNull
+    400536: Feme:RightHip_Helper
+    400538: Feme:RightLeg
+    400540: Feme:RightLeg_Helper
+    400542: Feme:RightNipple
+    400544: Feme:RightShoulder
+    400546: Feme:RightToes
+    400548: Feme:RightToesNull
+    400550: Feme:RightUpLeg
+    400552: Feme:rip_btm_Left
+    400554: Feme:rip_btm_Right
+    400556: Feme:Spine
+    400558: Feme:Spine1
+    400560: Feme:Spine2
+    400562: Feme:Spine3
+    400564: Feme:tail_of_eye_Left
+    400566: Feme:tail_of_eye_Right
+    400568: Feme:temple_Left
+    400570: Feme:temple_Right
+    400572: Feme:u_lip_center
+    400574: Front_skart1
+    400576: Front_skart2
+    400578: Front_skart3
+    400580: FrontHair
+    400582: Glasses_Null
+    400584: Head
+    400586: Head_null
+    400588: Hips
+    400590: inner_corner_of_eye_Left
+    400592: inner_corner_of_eye_Right
+    400594: jaw
+    400596: Left_skart1
+    400598: Left_skart2
+    400600: Left_skart3
+    400602: LeftArm
+    400604: LeftArmRoll
+    400606: LeftBreast
+    400608: LeftEarring_Null
+    400610: LeftFoot
+    400612: LeftForeArm
+    400614: LeftForeArm_Helper
+    400616: LeftForeArmRoll
+    400618: LeftHair1
+    400620: LeftHair2
+    400622: LeftHair3
+    400624: LeftHand
+    400626: LeftHandIndex1
+    400628: LeftHandIndex2
+    400630: LeftHandIndex3
+    400632: LeftHandIndexNull
+    400634: LeftHanditem_Null
+    400636: LeftHandMiddle1
+    400638: LeftHandMiddle2
+    400640: LeftHandMiddle3
+    400642: LeftHandMiddleNull
+    400644: LeftHandPinky1
+    400646: LeftHandPinky2
+    400648: LeftHandPinky3
+    400650: LeftHandPinkyNull
+    400652: LeftHandRing1
+    400654: LeftHandRing2
+    400656: LeftHandRing3
+    400658: LeftHandRingNull
+    400660: LeftHandThumb1
+    400662: LeftHandThumb2
+    400664: LeftHandThumb3
+    400666: LeftHandThumbNull
+    400668: LeftHip_Helper
+    400670: LeftLeg
+    400672: LeftLeg_Helper
+    400674: LeftNipple
+    400676: LeftShoulder
+    400678: LeftToes
+    400680: LeftToesNull
+    400682: LeftUpLeg
+    400684: lip_Left
+    400686: lip_Right
+    400688: lip_t_Left
+    400690: lip_t_Right
+    400692: lip_top_Left
+    400694: lip_top_Right
+    400696: lip_u_Left
+    400698: lip_u_Right
+    400700: LookAt_Ctrl
+    400702: LookAt_Drv
+    400704: LookAt_grp
+    400706: mayu
+    400708: Neck
+    400710: nose
+    400712: nostrir_Left
+    400714: nostrir_Right
+    400716: PelvisRoot
+    400718: Right_skart1
+    400720: Right_skart2
+    400722: Right_skart3
+    400724: RightArm
+    400726: RightArmRoll
+    400728: RightBreast
+    400730: RightEarring_Null
+    400732: RightFoot
+    400734: RightForeArm
+    400736: RightForeArm_Helper
+    400738: RightForeArmRoll
+    400740: RightHair1
+    400742: RightHair2
+    400744: RightHair3
+    400746: RightHand
+    400748: RightHandIndex1
+    400750: RightHandIndex2
+    400752: RightHandIndex3
+    400754: RightHandIndexNull
+    400756: RightHanditem_Null
+    400758: RightHandMiddle1
+    400760: RightHandMiddle2
+    400762: RightHandMiddle3
+    400764: RightHandMiddleNull
+    400766: RightHandPinky1
+    400768: RightHandPinky2
+    400770: RightHandPinky3
+    400772: RightHandPinkyNull
+    400774: RightHandRing1
+    400776: RightHandRing2
+    400778: RightHandRing3
+    400780: RightHandRingNull
+    400782: RightHandThumb1
+    400784: RightHandThumb2
+    400786: RightHandThumb3
+    400788: RightHandThumbNull
+    400790: RightHip_Helper
+    400792: RightLeg
+    400794: RightLeg_Helper
+    400796: RightNipple
+    400798: RightShoulder
+    400800: RightToes
+    400802: RightToesNull
+    400804: RightUpLeg
+    400806: rip_btm_Left
+    400808: rip_btm_Right
+    400810: Sen:atama_n
+    400812: Sen:b_lip_center
+    400814: Sen:cheek_Left
+    400816: Sen:cheek_Right
+    400818: Sen:chin
+    400820: Sen:eye_Left
+    400822: Sen:eye_Right
+    400824: Sen:eyebrow_a_Left
+    400826: Sen:eyebrow_a_Right
+    400828: Sen:eyebrow_b_Left
+    400830: Sen:eyebrow_b_Right
+    400832: Sen:eyelid_und1_Left
+    400834: Sen:eyelid_und1_Right
+    400836: Sen:eyelid_und2_Left
+    400838: Sen:eyelid_und2_Right
+    400840: Sen:eyelid_und_Left
+    400842: Sen:eyelid_und_Right
+    400844: Sen:eyerid1_Left
+    400846: Sen:eyerid1_Right
+    400848: Sen:eyerid2_Left
+    400850: Sen:eyerid2_Right
+    400852: Sen:eyerid_Left
+    400854: Sen:eyerid_Right
+    400856: Sen:face
+    400858: Sen:Glasses_Null
+    400860: Sen:Head
+    400862: Sen:Hips
+    400864: Sen:inner_corner_of_eye_Left
+    400866: Sen:inner_corner_of_eye_Right
+    400868: Sen:jaw
+    400870: Sen:LeftArm
+    400872: Sen:LeftArmRoll
+    400874: Sen:LeftEarring_Null
+    400876: Sen:LeftFoot
+    400878: Sen:LeftForeArm
+    400880: Sen:LeftForeArm_Helper
+    400882: Sen:LeftForeArmRoll
+    400884: Sen:LeftHand
+    400886: Sen:LeftHandIndex1
+    400888: Sen:LeftHandIndex2
+    400890: Sen:LeftHandIndex3
+    400892: Sen:LeftHandIndexNull
+    400894: Sen:LeftHanditem_Null
+    400896: Sen:LeftHandMiddle1
+    400898: Sen:LeftHandMiddle2
+    400900: Sen:LeftHandMiddle3
+    400902: Sen:LeftHandMiddleNull
+    400904: Sen:LeftHandPinky1
+    400906: Sen:LeftHandPinky2
+    400908: Sen:LeftHandPinky3
+    400910: Sen:LeftHandPinkyNull
+    400912: Sen:LeftHandRing1
+    400914: Sen:LeftHandRing2
+    400916: Sen:LeftHandRing3
+    400918: Sen:LeftHandRingNull
+    400920: Sen:LeftHandThumb1
+    400922: Sen:LeftHandThumb2
+    400924: Sen:LeftHandThumb3
+    400926: Sen:LeftHandThumbNull
+    400928: Sen:LeftHip_Helper
+    400930: Sen:LeftLeg
+    400932: Sen:LeftLeg_Helper
+    400934: Sen:LeftShoulder
+    400936: Sen:LeftToes
+    400938: Sen:LeftToesNull
+    400940: Sen:LeftUpLeg
+    400942: Sen:lip_Left
+    400944: Sen:lip_Right
+    400946: Sen:lip_t_Left
+    400948: Sen:lip_t_Right
+    400950: Sen:lip_top_Left
+    400952: Sen:lip_top_Right
+    400954: Sen:lip_u_Left
+    400956: Sen:lip_u_Right
+    400958: Sen:m01_blazer_000_h_NoHead
+    400960: Sen:m01_headMorphs
+    400962: Sen:mayu
+    400964: Sen:Neck
+    400966: Sen:nose
+    400968: Sen:nostrir_Left
+    400970: Sen:nostrir_Right
+    400972: Sen:PelvisRoot
+    400974: Sen:RightArm
+    400976: Sen:RightArmRoll
+    400978: Sen:RightEarring_Null
+    400980: Sen:RightFoot
+    400982: Sen:RightForeArm
+    400984: Sen:RightForeArm_Helper
+    400986: Sen:RightForeArmRoll
+    400988: Sen:RightHand
+    400990: Sen:RightHandIndex1
+    400992: Sen:RightHandIndex2
+    400994: Sen:RightHandIndex3
+    400996: Sen:RightHandIndexNull
+    400998: Sen:RightHanditem_Null
+    401000: Sen:RightHandMiddle1
+    401002: Sen:RightHandMiddle2
+    401004: Sen:RightHandMiddle3
+    401006: Sen:RightHandMiddleNull
+    401008: Sen:RightHandPinky1
+    401010: Sen:RightHandPinky2
+    401012: Sen:RightHandPinky3
+    401014: Sen:RightHandPinkyNull
+    401016: Sen:RightHandRing1
+    401018: Sen:RightHandRing2
+    401020: Sen:RightHandRing3
+    401022: Sen:RightHandRingNull
+    401024: Sen:RightHandThumb1
+    401026: Sen:RightHandThumb2
+    401028: Sen:RightHandThumb3
+    401030: Sen:RightHandThumbNull
+    401032: Sen:RightHip_Helper
+    401034: Sen:RightLeg
+    401036: Sen:RightLeg_Helper
+    401038: Sen:RightShoulder
+    401040: Sen:RightToes
+    401042: Sen:RightToesNull
+    401044: Sen:RightUpLeg
+    401046: Sen:rip_btm_Left
+    401048: Sen:rip_btm_Right
+    401050: Sen:SenHeadMorphs
+    401052: Sen:Senpai_null
+    401054: Sen:Spine
+    401056: Sen:Spine1
+    401058: Sen:Spine2
+    401060: Sen:Spine3
+    401062: Sen:tail_of_eye_Left
+    401064: Sen:tail_of_eye_Right
+    401066: Sen:temple_Left
+    401068: Sen:temple_Right
+    401070: Sen:u_lip_center
+    401072: Spine
+    401074: Spine1
+    401076: Spine2
+    401078: Spine3
+    401080: tail_of_eye_Left
+    401082: tail_of_eye_Right
+    401084: temple_Left
+    401086: temple_Right
+    401088: u_lip_center
+    401090: YanChan_Ctrl:ChestEndEffector
+    401092: YanChan_Ctrl:ChestEndEffector 1
+    401094: YanChan_Ctrl:ChestOriginEffector
+    401096: YanChan_Ctrl:ChestOriginEffector 1
+    401098: YanChan_Ctrl:Head
+    401100: YanChan_Ctrl:Head 1
+    401102: YanChan_Ctrl:HeadEffector
+    401104: YanChan_Ctrl:HeadEffector 1
+    401106: YanChan_Ctrl:Hips
+    401108: YanChan_Ctrl:Hips 1
+    401110: YanChan_Ctrl:HipsEffector
+    401112: YanChan_Ctrl:HipsEffector 1
+    401114: YanChan_Ctrl:LeftAnkleEffector
+    401116: YanChan_Ctrl:LeftAnkleEffector 1
+    401118: YanChan_Ctrl:LeftArm
+    401120: YanChan_Ctrl:LeftArm 1
+    401122: YanChan_Ctrl:LeftArmRoll
+    401124: YanChan_Ctrl:LeftArmRoll 1
+    401126: YanChan_Ctrl:LeftElbowEffector
+    401128: YanChan_Ctrl:LeftElbowEffector 1
+    401130: YanChan_Ctrl:LeftFoot
+    401132: YanChan_Ctrl:LeftFoot 1
+    401134: YanChan_Ctrl:LeftFootEffector
+    401136: YanChan_Ctrl:LeftFootEffector 1
+    401138: YanChan_Ctrl:LeftForeArm
+    401140: YanChan_Ctrl:LeftForeArm 1
+    401142: YanChan_Ctrl:LeftForeArmRoll
+    401144: YanChan_Ctrl:LeftForeArmRoll 1
+    401146: YanChan_Ctrl:LeftHand
+    401148: YanChan_Ctrl:LeftHand 1
+    401150: YanChan_Ctrl:LeftHandIndex1
+    401152: YanChan_Ctrl:LeftHandIndex2
+    401154: YanChan_Ctrl:LeftHandIndex3
+    401156: YanChan_Ctrl:LeftHandIndex4
+    401158: YanChan_Ctrl:LeftHandIndex5
+    401160: YanChan_Ctrl:LeftHandIndex6
+    401162: YanChan_Ctrl:LeftHandIndex7
+    401164: YanChan_Ctrl:LeftHandIndex8
+    401166: YanChan_Ctrl:LeftHandIndexEffector
+    401168: YanChan_Ctrl:LeftHandIndexEffector 1
+    401170: YanChan_Ctrl:LeftHandMiddle1
+    401172: YanChan_Ctrl:LeftHandMiddle2
+    401174: YanChan_Ctrl:LeftHandMiddle3
+    401176: YanChan_Ctrl:LeftHandMiddle4
+    401178: YanChan_Ctrl:LeftHandMiddle5
+    401180: YanChan_Ctrl:LeftHandMiddle6
+    401182: YanChan_Ctrl:LeftHandMiddle7
+    401184: YanChan_Ctrl:LeftHandMiddle8
+    401186: YanChan_Ctrl:LeftHandMiddleEffector
+    401188: YanChan_Ctrl:LeftHandMiddleEffector 1
+    401190: YanChan_Ctrl:LeftHandPinky1
+    401192: YanChan_Ctrl:LeftHandPinky2
+    401194: YanChan_Ctrl:LeftHandPinky3
+    401196: YanChan_Ctrl:LeftHandPinky4
+    401198: YanChan_Ctrl:LeftHandPinky5
+    401200: YanChan_Ctrl:LeftHandPinky6
+    401202: YanChan_Ctrl:LeftHandPinky7
+    401204: YanChan_Ctrl:LeftHandPinky8
+    401206: YanChan_Ctrl:LeftHandPinkyEffector
+    401208: YanChan_Ctrl:LeftHandPinkyEffector 1
+    401210: YanChan_Ctrl:LeftHandRing1
+    401212: YanChan_Ctrl:LeftHandRing2
+    401214: YanChan_Ctrl:LeftHandRing3
+    401216: YanChan_Ctrl:LeftHandRing4
+    401218: YanChan_Ctrl:LeftHandRing5
+    401220: YanChan_Ctrl:LeftHandRing6
+    401222: YanChan_Ctrl:LeftHandRing7
+    401224: YanChan_Ctrl:LeftHandRing8
+    401226: YanChan_Ctrl:LeftHandRingEffector
+    401228: YanChan_Ctrl:LeftHandRingEffector 1
+    401230: YanChan_Ctrl:LeftHandThumb1
+    401232: YanChan_Ctrl:LeftHandThumb2
+    401234: YanChan_Ctrl:LeftHandThumb3
+    401236: YanChan_Ctrl:LeftHandThumb4
+    401238: YanChan_Ctrl:LeftHandThumb5
+    401240: YanChan_Ctrl:LeftHandThumb6
+    401242: YanChan_Ctrl:LeftHandThumb7
+    401244: YanChan_Ctrl:LeftHandThumb8
+    401246: YanChan_Ctrl:LeftHandThumbEffector
+    401248: YanChan_Ctrl:LeftHandThumbEffector 1
+    401250: YanChan_Ctrl:LeftHipEffector
+    401252: YanChan_Ctrl:LeftHipEffector 1
+    401254: YanChan_Ctrl:LeftKneeEffector
+    401256: YanChan_Ctrl:LeftKneeEffector 1
+    401258: YanChan_Ctrl:LeftLeg
+    401260: YanChan_Ctrl:LeftLeg 1
+    401262: YanChan_Ctrl:LeftShoulder
+    401264: YanChan_Ctrl:LeftShoulder 1
+    401266: YanChan_Ctrl:LeftShoulderEffector
+    401268: YanChan_Ctrl:LeftShoulderEffector 1
+    401270: YanChan_Ctrl:LeftToeBase
+    401272: YanChan_Ctrl:LeftToeBase 1
+    401274: YanChan_Ctrl:LeftUpLeg
+    401276: YanChan_Ctrl:LeftUpLeg 1
+    401278: YanChan_Ctrl:LeftWristEffector
+    401280: YanChan_Ctrl:LeftWristEffector 1
+    401282: YanChan_Ctrl:Neck
+    401284: YanChan_Ctrl:Neck 1
+    401286: YanChan_Ctrl:Reference
+    401288: YanChan_Ctrl:Reference 1
+    401290: YanChan_Ctrl:RightAnkleEffector
+    401292: YanChan_Ctrl:RightAnkleEffector 1
+    401294: YanChan_Ctrl:RightArm
+    401296: YanChan_Ctrl:RightArm 1
+    401298: YanChan_Ctrl:RightArmRoll
+    401300: YanChan_Ctrl:RightArmRoll 1
+    401302: YanChan_Ctrl:RightElbowEffector
+    401304: YanChan_Ctrl:RightElbowEffector 1
+    401306: YanChan_Ctrl:RightFoot
+    401308: YanChan_Ctrl:RightFoot 1
+    401310: YanChan_Ctrl:RightFootEffector
+    401312: YanChan_Ctrl:RightFootEffector 1
+    401314: YanChan_Ctrl:RightForeArm
+    401316: YanChan_Ctrl:RightForeArm 1
+    401318: YanChan_Ctrl:RightForeArmRoll
+    401320: YanChan_Ctrl:RightForeArmRoll 1
+    401322: YanChan_Ctrl:RightHand
+    401324: YanChan_Ctrl:RightHand 1
+    401326: YanChan_Ctrl:RightHandIndex1
+    401328: YanChan_Ctrl:RightHandIndex2
+    401330: YanChan_Ctrl:RightHandIndex3
+    401332: YanChan_Ctrl:RightHandIndex4
+    401334: YanChan_Ctrl:RightHandIndex5
+    401336: YanChan_Ctrl:RightHandIndex6
+    401338: YanChan_Ctrl:RightHandIndex7
+    401340: YanChan_Ctrl:RightHandIndex8
+    401342: YanChan_Ctrl:RightHandIndexEffector
+    401344: YanChan_Ctrl:RightHandIndexEffector 1
+    401346: YanChan_Ctrl:RightHandMiddle1
+    401348: YanChan_Ctrl:RightHandMiddle2
+    401350: YanChan_Ctrl:RightHandMiddle3
+    401352: YanChan_Ctrl:RightHandMiddle4
+    401354: YanChan_Ctrl:RightHandMiddle5
+    401356: YanChan_Ctrl:RightHandMiddle6
+    401358: YanChan_Ctrl:RightHandMiddle7
+    401360: YanChan_Ctrl:RightHandMiddle8
+    401362: YanChan_Ctrl:RightHandMiddleEffector
+    401364: YanChan_Ctrl:RightHandMiddleEffector 1
+    401366: YanChan_Ctrl:RightHandPinky1
+    401368: YanChan_Ctrl:RightHandPinky2
+    401370: YanChan_Ctrl:RightHandPinky3
+    401372: YanChan_Ctrl:RightHandPinky4
+    401374: YanChan_Ctrl:RightHandPinky5
+    401376: YanChan_Ctrl:RightHandPinky6
+    401378: YanChan_Ctrl:RightHandPinky7
+    401380: YanChan_Ctrl:RightHandPinky8
+    401382: YanChan_Ctrl:RightHandPinkyEffector
+    401384: YanChan_Ctrl:RightHandPinkyEffector 1
+    401386: YanChan_Ctrl:RightHandRing1
+    401388: YanChan_Ctrl:RightHandRing2
+    401390: YanChan_Ctrl:RightHandRing3
+    401392: YanChan_Ctrl:RightHandRing4
+    401394: YanChan_Ctrl:RightHandRing5
+    401396: YanChan_Ctrl:RightHandRing6
+    401398: YanChan_Ctrl:RightHandRing7
+    401400: YanChan_Ctrl:RightHandRing8
+    401402: YanChan_Ctrl:RightHandRingEffector
+    401404: YanChan_Ctrl:RightHandRingEffector 1
+    401406: YanChan_Ctrl:RightHandThumb1
+    401408: YanChan_Ctrl:RightHandThumb2
+    401410: YanChan_Ctrl:RightHandThumb3
+    401412: YanChan_Ctrl:RightHandThumb4
+    401414: YanChan_Ctrl:RightHandThumb5
+    401416: YanChan_Ctrl:RightHandThumb6
+    401418: YanChan_Ctrl:RightHandThumb7
+    401420: YanChan_Ctrl:RightHandThumb8
+    401422: YanChan_Ctrl:RightHandThumbEffector
+    401424: YanChan_Ctrl:RightHandThumbEffector 1
+    401426: YanChan_Ctrl:RightHipEffector
+    401428: YanChan_Ctrl:RightHipEffector 1
+    401430: YanChan_Ctrl:RightKneeEffector
+    401432: YanChan_Ctrl:RightKneeEffector 1
+    401434: YanChan_Ctrl:RightLeg
+    401436: YanChan_Ctrl:RightLeg 1
+    401438: YanChan_Ctrl:RightShoulder
+    401440: YanChan_Ctrl:RightShoulder 1
+    401442: YanChan_Ctrl:RightShoulderEffector
+    401444: YanChan_Ctrl:RightShoulderEffector 1
+    401446: YanChan_Ctrl:RightToeBase
+    401448: YanChan_Ctrl:RightToeBase 1
+    401450: YanChan_Ctrl:RightUpLeg
+    401452: YanChan_Ctrl:RightUpLeg 1
+    401454: YanChan_Ctrl:RightWristEffector
+    401456: YanChan_Ctrl:RightWristEffector 1
+    401458: YanChan_Ctrl:Spine
+    401460: YanChan_Ctrl:Spine 1
+    401462: YanChan_Ctrl:Spine1
+    401464: YanChan_Ctrl:Spine2
+    401466: YanChan_Ctrl:Spine3
+    401468: YanChan_Ctrl:Spine4
+    401470: YanChan_Ctrl:Spine5
+    401472: YanChan_Ctrl:Spine6
+    7400000: f02_tsunWalk_00
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: f02_tsunWalk_00
+      takeName: Osana_Walk_BothHands_02
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: f02
+        weight: 1
+      - path: f02/f02_schoolwear_210_h
+        weight: 1
+      - path: Fem_Ctrl:Reference
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:ChestEndEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:ChestOriginEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:HeadEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:LeftUpLeg
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:LeftUpLeg/Fem_Ctrl:LeftLeg
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:LeftUpLeg/Fem_Ctrl:LeftLeg/Fem_Ctrl:LeftFoot
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:LeftUpLeg/Fem_Ctrl:LeftLeg/Fem_Ctrl:LeftFoot/Fem_Ctrl:LeftToeBase
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:RightUpLeg
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:RightUpLeg/Fem_Ctrl:RightLeg
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:RightUpLeg/Fem_Ctrl:RightLeg/Fem_Ctrl:RightFoot
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:RightUpLeg/Fem_Ctrl:RightLeg/Fem_Ctrl:RightFoot/Fem_Ctrl:RightToeBase
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandIndex1
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandIndex1/Fem_Ctrl:LeftHandIndex2
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandIndex1/Fem_Ctrl:LeftHandIndex2/Fem_Ctrl:LeftHandIndex3
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandIndex1/Fem_Ctrl:LeftHandIndex2/Fem_Ctrl:LeftHandIndex3/Fem_Ctrl:LeftHandIndex4
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandMiddle1
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandMiddle1/Fem_Ctrl:LeftHandMiddle2
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandMiddle1/Fem_Ctrl:LeftHandMiddle2/Fem_Ctrl:LeftHandMiddle3
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandMiddle1/Fem_Ctrl:LeftHandMiddle2/Fem_Ctrl:LeftHandMiddle3/Fem_Ctrl:LeftHandMiddle4
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandPinky1
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandPinky1/Fem_Ctrl:LeftHandPinky2
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandPinky1/Fem_Ctrl:LeftHandPinky2/Fem_Ctrl:LeftHandPinky3
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandPinky1/Fem_Ctrl:LeftHandPinky2/Fem_Ctrl:LeftHandPinky3/Fem_Ctrl:LeftHandPinky4
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandRing1
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandRing1/Fem_Ctrl:LeftHandRing2
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandRing1/Fem_Ctrl:LeftHandRing2/Fem_Ctrl:LeftHandRing3
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandRing1/Fem_Ctrl:LeftHandRing2/Fem_Ctrl:LeftHandRing3/Fem_Ctrl:LeftHandRing4
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandThumb1
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandThumb1/Fem_Ctrl:LeftHandThumb2
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandThumb1/Fem_Ctrl:LeftHandThumb2/Fem_Ctrl:LeftHandThumb3
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:LeftShoulder/Fem_Ctrl:LeftArm/Fem_Ctrl:LeftArmRoll/Fem_Ctrl:LeftForeArm/Fem_Ctrl:LeftForeArmRoll/Fem_Ctrl:LeftHand/Fem_Ctrl:LeftHandThumb1/Fem_Ctrl:LeftHandThumb2/Fem_Ctrl:LeftHandThumb3/Fem_Ctrl:LeftHandThumb4
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:Neck
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:Neck/Fem_Ctrl:Head
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandIndex1
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandIndex1/Fem_Ctrl:RightHandIndex2
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandIndex1/Fem_Ctrl:RightHandIndex2/Fem_Ctrl:RightHandIndex3
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandIndex1/Fem_Ctrl:RightHandIndex2/Fem_Ctrl:RightHandIndex3/Fem_Ctrl:RightHandIndex4
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandMiddle1
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandMiddle1/Fem_Ctrl:RightHandMiddle2
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandMiddle1/Fem_Ctrl:RightHandMiddle2/Fem_Ctrl:RightHandMiddle3
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandMiddle1/Fem_Ctrl:RightHandMiddle2/Fem_Ctrl:RightHandMiddle3/Fem_Ctrl:RightHandMiddle4
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandPinky1
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandPinky1/Fem_Ctrl:RightHandPinky2
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandPinky1/Fem_Ctrl:RightHandPinky2/Fem_Ctrl:RightHandPinky3
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandPinky1/Fem_Ctrl:RightHandPinky2/Fem_Ctrl:RightHandPinky3/Fem_Ctrl:RightHandPinky4
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandRing1
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandRing1/Fem_Ctrl:RightHandRing2
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandRing1/Fem_Ctrl:RightHandRing2/Fem_Ctrl:RightHandRing3
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandRing1/Fem_Ctrl:RightHandRing2/Fem_Ctrl:RightHandRing3/Fem_Ctrl:RightHandRing4
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandThumb1
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandThumb1/Fem_Ctrl:RightHandThumb2
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandThumb1/Fem_Ctrl:RightHandThumb2/Fem_Ctrl:RightHandThumb3
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:Hips/Fem_Ctrl:Spine/Fem_Ctrl:Spine1/Fem_Ctrl:Spine2/Fem_Ctrl:Spine3/Fem_Ctrl:RightShoulder/Fem_Ctrl:RightArm/Fem_Ctrl:RightArmRoll/Fem_Ctrl:RightForeArm/Fem_Ctrl:RightForeArmRoll/Fem_Ctrl:RightHand/Fem_Ctrl:RightHandThumb1/Fem_Ctrl:RightHandThumb2/Fem_Ctrl:RightHandThumb3/Fem_Ctrl:RightHandThumb4
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:HipsEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:LeftAnkleEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:LeftElbowEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:LeftFootEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:LeftHandIndexEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:LeftHandMiddleEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:LeftHandPinkyEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:LeftHandRingEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:LeftHandThumbEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:LeftHipEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:LeftKneeEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:LeftShoulderEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:LeftWristEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:RightAnkleEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:RightElbowEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:RightFootEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:RightHandIndexEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:RightHandMiddleEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:RightHandPinkyEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:RightHandRingEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:RightHandThumbEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:RightHipEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:RightKneeEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:RightShoulderEffector
+        weight: 1
+      - path: Fem_Ctrl:Reference/Fem_Ctrl:RightWristEffector
+        weight: 1
+      - path: Feme:f02
+        weight: 1
+      - path: Feme:f02/Feme:f02_schoolwear_210_h
+        weight: 1
+      - path: Feme:PelvisRoot
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Back_skart1
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Back_skart1/Feme:Back_skart2
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Back_skart1/Feme:Back_skart2/Feme:Back_skart3
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Front_skart1
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Front_skart1/Feme:Front_skart2
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Front_skart1/Feme:Front_skart2/Feme:Front_skart3
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Left_skart1
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Left_skart1/Feme:Left_skart2
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Left_skart1/Feme:Left_skart2/Feme:Left_skart3
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:LeftUpLeg
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:LeftUpLeg/Feme:LeftHip_Helper
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:LeftUpLeg/Feme:LeftLeg
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:LeftUpLeg/Feme:LeftLeg/Feme:LeftFoot
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:LeftUpLeg/Feme:LeftLeg/Feme:LeftFoot/Feme:LeftToes
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:LeftUpLeg/Feme:LeftLeg/Feme:LeftFoot/Feme:LeftToes/Feme:LeftToesNull
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:LeftUpLeg/Feme:LeftLeg/Feme:LeftLeg_Helper
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Right_skart1
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Right_skart1/Feme:Right_skart2
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Right_skart1/Feme:Right_skart2/Feme:Right_skart3
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:RightUpLeg
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:RightUpLeg/Feme:RightHip_Helper
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:RightUpLeg/Feme:RightLeg
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:RightUpLeg/Feme:RightLeg/Feme:RightFoot
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:RightUpLeg/Feme:RightLeg/Feme:RightFoot/Feme:RightToes
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:RightUpLeg/Feme:RightLeg/Feme:RightFoot/Feme:RightToes/Feme:RightToesNull
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:RightUpLeg/Feme:RightLeg/Feme:RightLeg_Helper
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftBreast
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftBreast/Feme:LeftNipple
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArm_Helper
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandIndex1
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandIndex1/Feme:LeftHandIndex2
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandIndex1/Feme:LeftHandIndex2/Feme:LeftHandIndex3
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandIndex1/Feme:LeftHandIndex2/Feme:LeftHandIndex3/Feme:LeftHandIndexNull
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHanditem_Null
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandMiddle1
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandMiddle1/Feme:LeftHandMiddle2
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandMiddle1/Feme:LeftHandMiddle2/Feme:LeftHandMiddle3
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandMiddle1/Feme:LeftHandMiddle2/Feme:LeftHandMiddle3/Feme:LeftHandMiddleNull
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandPinky1
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandPinky1/Feme:LeftHandPinky2
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandPinky1/Feme:LeftHandPinky2/Feme:LeftHandPinky3
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandPinky1/Feme:LeftHandPinky2/Feme:LeftHandPinky3/Feme:LeftHandPinkyNull
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandRing1
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandRing1/Feme:LeftHandRing2
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandRing1/Feme:LeftHandRing2/Feme:LeftHandRing3
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandRing1/Feme:LeftHandRing2/Feme:LeftHandRing3/Feme:LeftHandRingNull
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandThumb1
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandThumb1/Feme:LeftHandThumb2
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandThumb1/Feme:LeftHandThumb2/Feme:LeftHandThumb3
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:LeftShoulder/Feme:LeftArm/Feme:LeftArmRoll/Feme:LeftForeArm/Feme:LeftForeArmRoll/Feme:LeftHand/Feme:LeftHandThumb1/Feme:LeftHandThumb2/Feme:LeftHandThumb3/Feme:LeftHandThumbNull
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:cheek_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:cheek_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:eye_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:eye_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:eyelid_und1_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:eyelid_und1_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:eyelid_und2_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:eyelid_und2_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:eyelid_und_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:eyelid_und_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:eyerid1_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:eyerid1_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:eyerid2_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:eyerid2_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:eyerid_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:eyerid_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:inner_corner_of_eye_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:inner_corner_of_eye_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:jaw
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:jaw/Feme:b_lip_center
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:jaw/Feme:chin
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:jaw/Feme:lip_u_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:jaw/Feme:lip_u_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:jaw/Feme:rip_btm_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:jaw/Feme:rip_btm_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:lip_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:lip_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:lip_t_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:lip_t_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:mayu
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:mayu/Feme:eyebrow_a_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:mayu/Feme:eyebrow_a_Left/Feme:eyebrow_b_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:mayu/Feme:eyebrow_a_Left/Feme:eyebrow_b_Left/Feme:temple_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:mayu/Feme:eyebrow_a_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:mayu/Feme:eyebrow_a_Right/Feme:eyebrow_b_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:mayu/Feme:eyebrow_a_Right/Feme:eyebrow_b_Right/Feme:temple_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:nose
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:nose/Feme:nostrir_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:nose/Feme:nostrir_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:tail_of_eye_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:tail_of_eye_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:u_lip_center
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:u_lip_center/Feme:lip_top_Left
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:face/Feme:atama_n/Feme:u_lip_center/Feme:lip_top_Right
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:Glasses_Null
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:Head_null
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:Head_null/Feme:BackHair1
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:Head_null/Feme:BackHair1/Feme:BackHair2
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:Head_null/Feme:BackHair1/Feme:BackHair2/Feme:BackHair3
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:Head_null/Feme:BackHair1/Feme:BackHair2/Feme:BackHair3/Feme:BackHair4
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:Head_null/Feme:FrontHair
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:Head_null/Feme:LeftHair1
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:Head_null/Feme:LeftHair1/Feme:LeftHair2
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:Head_null/Feme:LeftHair1/Feme:LeftHair2/Feme:LeftHair3
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:Head_null/Feme:RightHair1
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:Head_null/Feme:RightHair1/Feme:RightHair2
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:Head_null/Feme:RightHair1/Feme:RightHair2/Feme:RightHair3
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:LeftEarring_Null
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:Neck/Feme:Head/Feme:RightEarring_Null
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightBreast
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightBreast/Feme:RightNipple
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArm_Helper
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandIndex1
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandIndex1/Feme:RightHandIndex2
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandIndex1/Feme:RightHandIndex2/Feme:RightHandIndex3
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandIndex1/Feme:RightHandIndex2/Feme:RightHandIndex3/Feme:RightHandIndexNull
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHanditem_Null
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandMiddle1
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandMiddle1/Feme:RightHandMiddle2
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandMiddle1/Feme:RightHandMiddle2/Feme:RightHandMiddle3
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandMiddle1/Feme:RightHandMiddle2/Feme:RightHandMiddle3/Feme:RightHandMiddleNull
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandPinky1
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandPinky1/Feme:RightHandPinky2
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandPinky1/Feme:RightHandPinky2/Feme:RightHandPinky3
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandPinky1/Feme:RightHandPinky2/Feme:RightHandPinky3/Feme:RightHandPinkyNull
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandRing1
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandRing1/Feme:RightHandRing2
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandRing1/Feme:RightHandRing2/Feme:RightHandRing3
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandRing1/Feme:RightHandRing2/Feme:RightHandRing3/Feme:RightHandRingNull
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandThumb1
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandThumb1/Feme:RightHandThumb2
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandThumb1/Feme:RightHandThumb2/Feme:RightHandThumb3
+        weight: 1
+      - path: Feme:PelvisRoot/Feme:Hips/Feme:Spine/Feme:Spine1/Feme:Spine2/Feme:Spine3/Feme:RightShoulder/Feme:RightArm/Feme:RightArmRoll/Feme:RightForeArm/Feme:RightForeArmRoll/Feme:RightHand/Feme:RightHandThumb1/Feme:RightHandThumb2/Feme:RightHandThumb3/Feme:RightHandThumbNull
+        weight: 1
+      - path: LookAt_grp
+        weight: 1
+      - path: LookAt_grp/LookAt_Ctrl
+        weight: 1
+      - path: LookAt_grp/LookAt_Drv
+        weight: 1
+      - path: PelvisRoot
+        weight: 1
+      - path: PelvisRoot/Hips
+        weight: 1
+      - path: PelvisRoot/Hips/Back_skart1
+        weight: 1
+      - path: PelvisRoot/Hips/Back_skart1/Back_skart2
+        weight: 1
+      - path: PelvisRoot/Hips/Back_skart1/Back_skart2/Back_skart3
+        weight: 1
+      - path: PelvisRoot/Hips/Front_skart1
+        weight: 1
+      - path: PelvisRoot/Hips/Front_skart1/Front_skart2
+        weight: 1
+      - path: PelvisRoot/Hips/Front_skart1/Front_skart2/Front_skart3
+        weight: 1
+      - path: PelvisRoot/Hips/Left_skart1
+        weight: 1
+      - path: PelvisRoot/Hips/Left_skart1/Left_skart2
+        weight: 1
+      - path: PelvisRoot/Hips/Left_skart1/Left_skart2/Left_skart3
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg/LeftHip_Helper
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToes
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToes/LeftToesNull
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg/LeftLeg_Helper
+        weight: 1
+      - path: PelvisRoot/Hips/Right_skart1
+        weight: 1
+      - path: PelvisRoot/Hips/Right_skart1/Right_skart2
+        weight: 1
+      - path: PelvisRoot/Hips/Right_skart1/Right_skart2/Right_skart3
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg/RightHip_Helper
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg/RightLeg/RightFoot/RightToes
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg/RightLeg/RightFoot/RightToes/RightToesNull
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg/RightLeg/RightLeg_Helper
+        weight: 1
+      - path: PelvisRoot/Hips/Spine
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftBreast
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftBreast/LeftNipple
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArm_Helper
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandIndex1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandIndex1/LeftHandIndex2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3/LeftHandIndexNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHanditem_Null
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandMiddle1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandMiddle1/LeftHandMiddle2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3/LeftHandMiddleNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandPinky1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandPinky1/LeftHandPinky2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3/LeftHandPinkyNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandRing1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandRing1/LeftHandRing2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3/LeftHandRingNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandThumb1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandThumb1/LeftHandThumb2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3/LeftHandThumbNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/cheek_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/cheek_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eye_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eye_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyelid_und1_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyelid_und1_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyelid_und2_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyelid_und2_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyelid_und_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyelid_und_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid1_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid1_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid2_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid2_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/inner_corner_of_eye_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/inner_corner_of_eye_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/b_lip_center
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/chin
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/lip_u_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/lip_u_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/rip_btm_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/rip_btm_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/lip_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/lip_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/lip_t_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/lip_t_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu/eyebrow_a_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu/eyebrow_a_Left/eyebrow_b_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu/eyebrow_a_Left/eyebrow_b_Left/temple_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu/eyebrow_a_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu/eyebrow_a_Right/eyebrow_b_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu/eyebrow_a_Right/eyebrow_b_Right/temple_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/nose
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/nose/nostrir_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/nose/nostrir_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/tail_of_eye_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/tail_of_eye_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/u_lip_center
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/u_lip_center/lip_top_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/u_lip_center/lip_top_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Glasses_Null
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/BackHair1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/BackHair1/BackHair2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/BackHair1/BackHair2/BackHair3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/BackHair1/BackHair2/BackHair3/BackHair4
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/FrontHair
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/LeftHair1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/LeftHair1/LeftHair2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/LeftHair1/LeftHair2/LeftHair3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/RightHair1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/RightHair1/RightHair2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/RightHair1/RightHair2/RightHair3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/LeftEarring_Null
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/RightEarring_Null
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightBreast
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightBreast/RightNipple
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArm_Helper
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandIndex1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandIndex1/RightHandIndex2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3/RightHandIndexNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHanditem_Null
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandMiddle1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandMiddle1/RightHandMiddle2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3/RightHandMiddleNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandPinky1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandPinky1/RightHandPinky2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandPinky1/RightHandPinky2/RightHandPinky3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandPinky1/RightHandPinky2/RightHandPinky3/RightHandPinkyNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandRing1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandRing1/RightHandRing2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandRing1/RightHandRing2/RightHandRing3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandRing1/RightHandRing2/RightHandRing3/RightHandRingNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandThumb1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandThumb1/RightHandThumb2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3/RightHandThumbNull
+        weight: 1
+      - path: Sen:m01_blazer_000_h_NoHead
+        weight: 1
+      - path: Sen:SenHeadMorphs
+        weight: 1
+      - path: Sen:SenHeadMorphs/Sen:m01_headMorphs
+        weight: 1
+      - path: Sen:Senpai_null
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:LeftUpLeg
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:LeftUpLeg/Sen:LeftHip_Helper
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:LeftUpLeg/Sen:LeftLeg
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:LeftUpLeg/Sen:LeftLeg/Sen:LeftFoot
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:LeftUpLeg/Sen:LeftLeg/Sen:LeftFoot/Sen:LeftToes
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:LeftUpLeg/Sen:LeftLeg/Sen:LeftFoot/Sen:LeftToes/Sen:LeftToesNull
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:LeftUpLeg/Sen:LeftLeg/Sen:LeftLeg_Helper
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:RightUpLeg
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:RightUpLeg/Sen:RightHip_Helper
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:RightUpLeg/Sen:RightLeg
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:RightUpLeg/Sen:RightLeg/Sen:RightFoot
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:RightUpLeg/Sen:RightLeg/Sen:RightFoot/Sen:RightToes
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:RightUpLeg/Sen:RightLeg/Sen:RightFoot/Sen:RightToes/Sen:RightToesNull
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:RightUpLeg/Sen:RightLeg/Sen:RightLeg_Helper
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArm_Helper
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandIndex1
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandIndex1/Sen:LeftHandIndex2
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandIndex1/Sen:LeftHandIndex2/Sen:LeftHandIndex3
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandIndex1/Sen:LeftHandIndex2/Sen:LeftHandIndex3/Sen:LeftHandIndexNull
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHanditem_Null
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandMiddle1
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandMiddle1/Sen:LeftHandMiddle2
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandMiddle1/Sen:LeftHandMiddle2/Sen:LeftHandMiddle3
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandMiddle1/Sen:LeftHandMiddle2/Sen:LeftHandMiddle3/Sen:LeftHandMiddleNull
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandPinky1
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandPinky1/Sen:LeftHandPinky2
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandPinky1/Sen:LeftHandPinky2/Sen:LeftHandPinky3
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandPinky1/Sen:LeftHandPinky2/Sen:LeftHandPinky3/Sen:LeftHandPinkyNull
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandRing1
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandRing1/Sen:LeftHandRing2
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandRing1/Sen:LeftHandRing2/Sen:LeftHandRing3
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandRing1/Sen:LeftHandRing2/Sen:LeftHandRing3/Sen:LeftHandRingNull
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandThumb1
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandThumb1/Sen:LeftHandThumb2
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandThumb1/Sen:LeftHandThumb2/Sen:LeftHandThumb3
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:LeftShoulder/Sen:LeftArm/Sen:LeftArmRoll/Sen:LeftForeArm/Sen:LeftForeArmRoll/Sen:LeftHand/Sen:LeftHandThumb1/Sen:LeftHandThumb2/Sen:LeftHandThumb3/Sen:LeftHandThumbNull
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:cheek_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:cheek_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:eye_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:eye_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:eyelid_und1_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:eyelid_und1_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:eyelid_und2_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:eyelid_und2_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:eyelid_und_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:eyelid_und_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:eyerid1_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:eyerid1_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:eyerid2_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:eyerid2_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:eyerid_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:eyerid_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:inner_corner_of_eye_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:inner_corner_of_eye_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:jaw
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:jaw/Sen:b_lip_center
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:jaw/Sen:chin
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:jaw/Sen:lip_u_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:jaw/Sen:lip_u_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:jaw/Sen:rip_btm_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:jaw/Sen:rip_btm_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:lip_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:lip_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:lip_t_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:lip_t_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:mayu
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:mayu/Sen:eyebrow_a_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:mayu/Sen:eyebrow_a_Left/Sen:eyebrow_b_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:mayu/Sen:eyebrow_a_Left/Sen:eyebrow_b_Left/Sen:temple_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:mayu/Sen:eyebrow_a_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:mayu/Sen:eyebrow_a_Right/Sen:eyebrow_b_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:mayu/Sen:eyebrow_a_Right/Sen:eyebrow_b_Right/Sen:temple_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:nose
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:nose/Sen:nostrir_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:nose/Sen:nostrir_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:tail_of_eye_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:tail_of_eye_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:u_lip_center
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:u_lip_center/Sen:lip_top_Left
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:face/Sen:atama_n/Sen:u_lip_center/Sen:lip_top_Right
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:Glasses_Null
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:LeftEarring_Null
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:Neck/Sen:Head/Sen:RightEarring_Null
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArm_Helper
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandIndex1
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandIndex1/Sen:RightHandIndex2
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandIndex1/Sen:RightHandIndex2/Sen:RightHandIndex3
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandIndex1/Sen:RightHandIndex2/Sen:RightHandIndex3/Sen:RightHandIndexNull
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHanditem_Null
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandMiddle1
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandMiddle1/Sen:RightHandMiddle2
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandMiddle1/Sen:RightHandMiddle2/Sen:RightHandMiddle3
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandMiddle1/Sen:RightHandMiddle2/Sen:RightHandMiddle3/Sen:RightHandMiddleNull
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandPinky1
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandPinky1/Sen:RightHandPinky2
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandPinky1/Sen:RightHandPinky2/Sen:RightHandPinky3
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandPinky1/Sen:RightHandPinky2/Sen:RightHandPinky3/Sen:RightHandPinkyNull
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandRing1
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandRing1/Sen:RightHandRing2
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandRing1/Sen:RightHandRing2/Sen:RightHandRing3
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandRing1/Sen:RightHandRing2/Sen:RightHandRing3/Sen:RightHandRingNull
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandThumb1
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandThumb1/Sen:RightHandThumb2
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandThumb1/Sen:RightHandThumb2/Sen:RightHandThumb3
+        weight: 1
+      - path: Sen:Senpai_null/Sen:PelvisRoot/Sen:Hips/Sen:Spine/Sen:Spine1/Sen:Spine2/Sen:Spine3/Sen:RightShoulder/Sen:RightArm/Sen:RightArmRoll/Sen:RightForeArm/Sen:RightForeArmRoll/Sen:RightHand/Sen:RightHandThumb1/Sen:RightHandThumb2/Sen:RightHandThumb3/Sen:RightHandThumbNull
+        weight: 1
+      - path: YanChan_Ctrl:Reference
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:ChestEndEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:ChestOriginEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:HeadEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:LeftUpLeg
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:LeftUpLeg/YanChan_Ctrl:LeftLeg
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:LeftUpLeg/YanChan_Ctrl:LeftLeg/YanChan_Ctrl:LeftFoot
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:LeftUpLeg/YanChan_Ctrl:LeftLeg/YanChan_Ctrl:LeftFoot/YanChan_Ctrl:LeftToeBase
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:RightUpLeg
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:RightUpLeg/YanChan_Ctrl:RightLeg
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:RightUpLeg/YanChan_Ctrl:RightLeg/YanChan_Ctrl:RightFoot
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:RightUpLeg/YanChan_Ctrl:RightLeg/YanChan_Ctrl:RightFoot/YanChan_Ctrl:RightToeBase
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandIndex1
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandIndex1/YanChan_Ctrl:LeftHandIndex2
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandIndex1/YanChan_Ctrl:LeftHandIndex2/YanChan_Ctrl:LeftHandIndex3
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandIndex1/YanChan_Ctrl:LeftHandIndex2/YanChan_Ctrl:LeftHandIndex3/YanChan_Ctrl:LeftHandIndex4
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandMiddle1
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandMiddle1/YanChan_Ctrl:LeftHandMiddle2
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandMiddle1/YanChan_Ctrl:LeftHandMiddle2/YanChan_Ctrl:LeftHandMiddle3
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandMiddle1/YanChan_Ctrl:LeftHandMiddle2/YanChan_Ctrl:LeftHandMiddle3/YanChan_Ctrl:LeftHandMiddle4
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandPinky1
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandPinky1/YanChan_Ctrl:LeftHandPinky2
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandPinky1/YanChan_Ctrl:LeftHandPinky2/YanChan_Ctrl:LeftHandPinky3
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandPinky1/YanChan_Ctrl:LeftHandPinky2/YanChan_Ctrl:LeftHandPinky3/YanChan_Ctrl:LeftHandPinky4
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandRing1
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandRing1/YanChan_Ctrl:LeftHandRing2
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandRing1/YanChan_Ctrl:LeftHandRing2/YanChan_Ctrl:LeftHandRing3
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandRing1/YanChan_Ctrl:LeftHandRing2/YanChan_Ctrl:LeftHandRing3/YanChan_Ctrl:LeftHandRing4
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandThumb1
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandThumb1/YanChan_Ctrl:LeftHandThumb2
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandThumb1/YanChan_Ctrl:LeftHandThumb2/YanChan_Ctrl:LeftHandThumb3
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:LeftShoulder/YanChan_Ctrl:LeftArm/YanChan_Ctrl:LeftArmRoll/YanChan_Ctrl:LeftForeArm/YanChan_Ctrl:LeftForeArmRoll/YanChan_Ctrl:LeftHand/YanChan_Ctrl:LeftHandThumb1/YanChan_Ctrl:LeftHandThumb2/YanChan_Ctrl:LeftHandThumb3/YanChan_Ctrl:LeftHandThumb4
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:Neck
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:Neck/YanChan_Ctrl:Head
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandIndex1
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandIndex1/YanChan_Ctrl:RightHandIndex2
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandIndex1/YanChan_Ctrl:RightHandIndex2/YanChan_Ctrl:RightHandIndex3
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandIndex1/YanChan_Ctrl:RightHandIndex2/YanChan_Ctrl:RightHandIndex3/YanChan_Ctrl:RightHandIndex4
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandMiddle1
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandMiddle1/YanChan_Ctrl:RightHandMiddle2
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandMiddle1/YanChan_Ctrl:RightHandMiddle2/YanChan_Ctrl:RightHandMiddle3
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandMiddle1/YanChan_Ctrl:RightHandMiddle2/YanChan_Ctrl:RightHandMiddle3/YanChan_Ctrl:RightHandMiddle4
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandPinky1
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandPinky1/YanChan_Ctrl:RightHandPinky2
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandPinky1/YanChan_Ctrl:RightHandPinky2/YanChan_Ctrl:RightHandPinky3
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandPinky1/YanChan_Ctrl:RightHandPinky2/YanChan_Ctrl:RightHandPinky3/YanChan_Ctrl:RightHandPinky4
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandRing1
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandRing1/YanChan_Ctrl:RightHandRing2
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandRing1/YanChan_Ctrl:RightHandRing2/YanChan_Ctrl:RightHandRing3
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandRing1/YanChan_Ctrl:RightHandRing2/YanChan_Ctrl:RightHandRing3/YanChan_Ctrl:RightHandRing4
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandThumb1
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandThumb1/YanChan_Ctrl:RightHandThumb2
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandThumb1/YanChan_Ctrl:RightHandThumb2/YanChan_Ctrl:RightHandThumb3
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:Hips/YanChan_Ctrl:Spine/YanChan_Ctrl:Spine1/YanChan_Ctrl:Spine2/YanChan_Ctrl:Spine3/YanChan_Ctrl:RightShoulder/YanChan_Ctrl:RightArm/YanChan_Ctrl:RightArmRoll/YanChan_Ctrl:RightForeArm/YanChan_Ctrl:RightForeArmRoll/YanChan_Ctrl:RightHand/YanChan_Ctrl:RightHandThumb1/YanChan_Ctrl:RightHandThumb2/YanChan_Ctrl:RightHandThumb3/YanChan_Ctrl:RightHandThumb4
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:HipsEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:LeftAnkleEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:LeftElbowEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:LeftFootEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:LeftHandIndexEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:LeftHandMiddleEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:LeftHandPinkyEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:LeftHandRingEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:LeftHandThumbEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:LeftHipEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:LeftKneeEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:LeftShoulderEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:LeftWristEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:RightAnkleEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:RightElbowEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:RightFootEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:RightHandIndexEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:RightHandMiddleEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:RightHandPinkyEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:RightHandRingEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:RightHandThumbEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:RightHipEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:RightKneeEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:RightShoulderEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference/YanChan_Ctrl:RightWristEffector
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:ChestEndEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:ChestOriginEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:HeadEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:LeftUpLeg
+          1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:LeftUpLeg
+          1/YanChan_Ctrl:LeftLeg 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:LeftUpLeg
+          1/YanChan_Ctrl:LeftLeg 1/YanChan_Ctrl:LeftFoot 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:LeftUpLeg
+          1/YanChan_Ctrl:LeftLeg 1/YanChan_Ctrl:LeftFoot 1/YanChan_Ctrl:LeftToeBase
+          1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:RightUpLeg
+          1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:RightUpLeg
+          1/YanChan_Ctrl:RightLeg 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:RightUpLeg
+          1/YanChan_Ctrl:RightLeg 1/YanChan_Ctrl:RightFoot 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:RightUpLeg
+          1/YanChan_Ctrl:RightLeg 1/YanChan_Ctrl:RightFoot 1/YanChan_Ctrl:RightToeBase
+          1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandIndex5
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandIndex5/YanChan_Ctrl:LeftHandIndex6
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandIndex5/YanChan_Ctrl:LeftHandIndex6/YanChan_Ctrl:LeftHandIndex7
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandIndex5/YanChan_Ctrl:LeftHandIndex6/YanChan_Ctrl:LeftHandIndex7/YanChan_Ctrl:LeftHandIndex8
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandMiddle5
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandMiddle5/YanChan_Ctrl:LeftHandMiddle6
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandMiddle5/YanChan_Ctrl:LeftHandMiddle6/YanChan_Ctrl:LeftHandMiddle7
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandMiddle5/YanChan_Ctrl:LeftHandMiddle6/YanChan_Ctrl:LeftHandMiddle7/YanChan_Ctrl:LeftHandMiddle8
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandPinky5
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandPinky5/YanChan_Ctrl:LeftHandPinky6
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandPinky5/YanChan_Ctrl:LeftHandPinky6/YanChan_Ctrl:LeftHandPinky7
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandPinky5/YanChan_Ctrl:LeftHandPinky6/YanChan_Ctrl:LeftHandPinky7/YanChan_Ctrl:LeftHandPinky8
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandRing5
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandRing5/YanChan_Ctrl:LeftHandRing6
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandRing5/YanChan_Ctrl:LeftHandRing6/YanChan_Ctrl:LeftHandRing7
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandRing5/YanChan_Ctrl:LeftHandRing6/YanChan_Ctrl:LeftHandRing7/YanChan_Ctrl:LeftHandRing8
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandThumb5
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandThumb5/YanChan_Ctrl:LeftHandThumb6
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandThumb5/YanChan_Ctrl:LeftHandThumb6/YanChan_Ctrl:LeftHandThumb7
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:LeftShoulder
+          1/YanChan_Ctrl:LeftArm 1/YanChan_Ctrl:LeftArmRoll 1/YanChan_Ctrl:LeftForeArm
+          1/YanChan_Ctrl:LeftForeArmRoll 1/YanChan_Ctrl:LeftHand 1/YanChan_Ctrl:LeftHandThumb5/YanChan_Ctrl:LeftHandThumb6/YanChan_Ctrl:LeftHandThumb7/YanChan_Ctrl:LeftHandThumb8
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:Neck
+          1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:Neck
+          1/YanChan_Ctrl:Head 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandIndex5
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandIndex5/YanChan_Ctrl:RightHandIndex6
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandIndex5/YanChan_Ctrl:RightHandIndex6/YanChan_Ctrl:RightHandIndex7
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandIndex5/YanChan_Ctrl:RightHandIndex6/YanChan_Ctrl:RightHandIndex7/YanChan_Ctrl:RightHandIndex8
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandMiddle5
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandMiddle5/YanChan_Ctrl:RightHandMiddle6
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandMiddle5/YanChan_Ctrl:RightHandMiddle6/YanChan_Ctrl:RightHandMiddle7
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandMiddle5/YanChan_Ctrl:RightHandMiddle6/YanChan_Ctrl:RightHandMiddle7/YanChan_Ctrl:RightHandMiddle8
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandPinky5
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandPinky5/YanChan_Ctrl:RightHandPinky6
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandPinky5/YanChan_Ctrl:RightHandPinky6/YanChan_Ctrl:RightHandPinky7
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandPinky5/YanChan_Ctrl:RightHandPinky6/YanChan_Ctrl:RightHandPinky7/YanChan_Ctrl:RightHandPinky8
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandRing5
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandRing5/YanChan_Ctrl:RightHandRing6
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandRing5/YanChan_Ctrl:RightHandRing6/YanChan_Ctrl:RightHandRing7
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandRing5/YanChan_Ctrl:RightHandRing6/YanChan_Ctrl:RightHandRing7/YanChan_Ctrl:RightHandRing8
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandThumb5
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandThumb5/YanChan_Ctrl:RightHandThumb6
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandThumb5/YanChan_Ctrl:RightHandThumb6/YanChan_Ctrl:RightHandThumb7
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:Hips 1/YanChan_Ctrl:Spine 1/YanChan_Ctrl:Spine4/YanChan_Ctrl:Spine5/YanChan_Ctrl:Spine6/YanChan_Ctrl:RightShoulder
+          1/YanChan_Ctrl:RightArm 1/YanChan_Ctrl:RightArmRoll 1/YanChan_Ctrl:RightForeArm
+          1/YanChan_Ctrl:RightForeArmRoll 1/YanChan_Ctrl:RightHand 1/YanChan_Ctrl:RightHandThumb5/YanChan_Ctrl:RightHandThumb6/YanChan_Ctrl:RightHandThumb7/YanChan_Ctrl:RightHandThumb8
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:HipsEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:LeftAnkleEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:LeftElbowEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:LeftFootEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:LeftHandIndexEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:LeftHandMiddleEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:LeftHandPinkyEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:LeftHandRingEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:LeftHandThumbEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:LeftHipEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:LeftKneeEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:LeftShoulderEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:LeftWristEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:RightAnkleEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:RightElbowEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:RightFootEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:RightHandIndexEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:RightHandMiddleEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:RightHandPinkyEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:RightHandRingEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:RightHandThumbEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:RightHipEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:RightKneeEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:RightShoulderEffector 1
+        weight: 1
+      - path: YanChan_Ctrl:Reference 1/YanChan_Ctrl:RightWristEffector 1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

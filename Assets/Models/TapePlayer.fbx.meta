@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 30830ee7b1b8e044c85cbedc907e9e64
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Player_UVd:Cover_Rotate_Axis:Cassette_Tape_Position
+    100002: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis
+    100004: Player_UVd:Cover_Rotate_Axis:Tape_Holder
+    100006: Player_UVd:Cover_Rotate_Axis:window
+    100008: Player_UVd:cylinder1
+    100010: Player_UVd:cylinder2
+    100012: Player_UVd:eject
+    100014: Player_UVd:forward
+    100016: Player_UVd:main_body
+    100018: Player_UVd:play
+    100020: Player_UVd:record
+    100022: Player_UVd:reverse
+    100024: Tape:case1
+    100026: Tape:roll1
+    100028: Tape:roll2
+    100030: Tape:Tape
+    100032: Tape:tape1
+    100034: //RootNode
+    400000: Player_UVd:Cover_Rotate_Axis:Cassette_Tape_Position
+    400002: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis
+    400004: Player_UVd:Cover_Rotate_Axis:Tape_Holder
+    400006: Player_UVd:Cover_Rotate_Axis:window
+    400008: Player_UVd:cylinder1
+    400010: Player_UVd:cylinder2
+    400012: Player_UVd:eject
+    400014: Player_UVd:forward
+    400016: Player_UVd:main_body
+    400018: Player_UVd:play
+    400020: Player_UVd:record
+    400022: Player_UVd:reverse
+    400024: Tape:case1
+    400026: Tape:roll1
+    400028: Tape:roll2
+    400030: Tape:Tape
+    400032: Tape:tape1
+    400034: //RootNode
+    2300000: Player_UVd:Cover_Rotate_Axis:Tape_Holder
+    2300002: Player_UVd:Cover_Rotate_Axis:window
+    2300004: Player_UVd:cylinder1
+    2300006: Player_UVd:cylinder2
+    2300008: Player_UVd:eject
+    2300010: Player_UVd:forward
+    2300012: Player_UVd:main_body
+    2300014: Player_UVd:play
+    2300016: Player_UVd:record
+    2300018: Player_UVd:reverse
+    2300020: Tape:case1
+    2300022: Tape:roll1
+    2300024: Tape:roll2
+    2300026: Tape:tape1
+    3300000: Player_UVd:Cover_Rotate_Axis:Tape_Holder
+    3300002: Player_UVd:Cover_Rotate_Axis:window
+    3300004: Player_UVd:cylinder1
+    3300006: Player_UVd:cylinder2
+    3300008: Player_UVd:eject
+    3300010: Player_UVd:forward
+    3300012: Player_UVd:main_body
+    3300014: Player_UVd:play
+    3300016: Player_UVd:record
+    3300018: Player_UVd:reverse
+    3300020: Tape:case1
+    3300022: Tape:roll1
+    3300024: Tape:roll2
+    3300026: Tape:tape1
+    4300000: Player_UVd:eject
+    4300002: Player_UVd:record
+    4300004: Player_UVd:forward
+    4300006: Player_UVd:play
+    4300008: Player_UVd:reverse
+    4300010: Player_UVd:cylinder2
+    4300012: Player_UVd:cylinder1
+    4300014: Player_UVd:main_body
+    4300016: Player_UVd:Cover_Rotate_Axis:Tape_Holder
+    4300018: Player_UVd:Cover_Rotate_Axis:window
+    4300020: Tape:case1
+    4300022: Tape:roll1
+    4300024: Tape:roll2
+    4300026: Tape:tape1
+    7400000: InsertTape
+    7400002: PressPlay
+    7400004: PressEject
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: InsertTape
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Player_UVd:Cover_Rotate_Axis:Cassette_Tape_Position
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Player_UVd:Cover_Rotate_Axis:Tape_Holder
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Player_UVd:Cover_Rotate_Axis:window
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Tape:Tape
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Tape:Tape/Tape:case1
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Tape:Tape/Tape:roll1
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Tape:Tape/Tape:roll2
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Tape:Tape/Tape:tape1
+        weight: 1
+      - path: Player_UVd:cylinder1
+        weight: 1
+      - path: Player_UVd:cylinder2
+        weight: 1
+      - path: Player_UVd:eject
+        weight: 1
+      - path: Player_UVd:forward
+        weight: 1
+      - path: Player_UVd:main_body
+        weight: 1
+      - path: Player_UVd:play
+        weight: 1
+      - path: Player_UVd:record
+        weight: 1
+      - path: Player_UVd:reverse
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PressPlay
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 95
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Player_UVd:Cover_Rotate_Axis:Cassette_Tape_Position
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Player_UVd:Cover_Rotate_Axis:Tape_Holder
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Player_UVd:Cover_Rotate_Axis:window
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Tape:Tape
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Tape:Tape/Tape:case1
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Tape:Tape/Tape:roll1
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Tape:Tape/Tape:roll2
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Tape:Tape/Tape:tape1
+        weight: 1
+      - path: Player_UVd:cylinder1
+        weight: 1
+      - path: Player_UVd:cylinder2
+        weight: 1
+      - path: Player_UVd:eject
+        weight: 1
+      - path: Player_UVd:forward
+        weight: 1
+      - path: Player_UVd:main_body
+        weight: 1
+      - path: Player_UVd:play
+        weight: 1
+      - path: Player_UVd:record
+        weight: 1
+      - path: Player_UVd:reverse
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PressEject
+      takeName: Take 001
+      firstFrame: 95
+      lastFrame: 105
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Player_UVd:Cover_Rotate_Axis:Cassette_Tape_Position
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Player_UVd:Cover_Rotate_Axis:Tape_Holder
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Player_UVd:Cover_Rotate_Axis:window
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Tape:Tape
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Tape:Tape/Tape:case1
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Tape:Tape/Tape:roll1
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Tape:Tape/Tape:roll2
+        weight: 1
+      - path: Player_UVd:Cover_Rotate_Axis:Cover_Rotate_Axis/Tape:Tape/Tape:tape1
+        weight: 1
+      - path: Player_UVd:cylinder1
+        weight: 1
+      - path: Player_UVd:cylinder2
+        weight: 1
+      - path: Player_UVd:eject
+        weight: 1
+      - path: Player_UVd:forward
+        weight: 1
+      - path: Player_UVd:main_body
+        weight: 1
+      - path: Player_UVd:play
+        weight: 1
+      - path: Player_UVd:record
+        weight: 1
+      - path: Player_UVd:reverse
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

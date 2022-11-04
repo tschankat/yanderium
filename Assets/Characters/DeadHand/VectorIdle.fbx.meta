@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: ce216ec7d77a73b4f9bf8104b98ca563
+timeCreated: 1556668446
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arm1
+    100002: Arm2
+    100004: ArmCTRL1
+    100006: ArmCTRL2
+    100008: CArmCTRL
+    100010: CArmCTRL2
+    100012: CIndexCTRL1
+    100014: CIndexCTRL2
+    100016: CIndexCTRL3
+    100018: CMiddleCTRL1
+    100020: CMiddleCTRL2
+    100022: CMiddleCTRL3
+    100024: CPinkyCTRL1
+    100026: CPinkyCTRL2
+    100028: CPinkyCTRL3
+    100030: CRingCTRL1
+    100032: CRingCTRL2
+    100034: CRingCTRL3
+    100036: CThumbCTRL1
+    100038: CThumbCTRL2
+    100040: CThumbCTRL3
+    100042: CWristCTRL
+    100044: DArmCTRL
+    100046: DArmCTRL2
+    100048: Deadhand
+    100050: DeadHandNull
+    100052: DIndexCTRL1
+    100054: DIndexCTRL2
+    100056: DIndexCTRL3
+    100058: DMiddleCTRL1
+    100060: DMiddleCTRL2
+    100062: DMiddleCTRL3
+    100064: DPinkyCTRL1
+    100066: DPinkyCTRL2
+    100068: DPinkyCTRL3
+    100070: DRingCTRL1
+    100072: DRingCTRL2
+    100074: DRingCTRL3
+    100076: DThumbCTRL1
+    100078: DThumbCTRL2
+    100080: DThumbCTRL3
+    100082: DWristCTRL
+    100084: Hand
+    100086: IK_FK_CTRL
+    100088: IK_Hand_CTRL
+    100090: ikHandle1
+    100092: Index1
+    100094: Index2
+    100096: Index3
+    100098: Index4
+    100100: IndexCTRL1
+    100102: IndexCTRL2
+    100104: IndexCTRL3
+    100106: locator1
+    100108: Middle1
+    100110: Middle2
+    100112: Middle3
+    100114: Middle4
+    100116: MiddleCTRL1
+    100118: MiddleCTRL2
+    100120: MiddleCTRL3
+    100122: Pinky1
+    100124: Pinky2
+    100126: Pinky3
+    100128: Pinky4
+    100130: PinkyCTRL1
+    100132: PinkyCTRL2
+    100134: PinkyCTRL3
+    100136: PoleVectorCTRL
+    100138: Ring1
+    100140: Ring2
+    100142: Ring3
+    100144: Ring4
+    100146: RingCTRL1
+    100148: RingCTRL2
+    100150: RingCTRL3
+    100152: Root_CTRL
+    100154: Thumb1
+    100156: Thumb2
+    100158: Thumb3
+    100160: Thumb4
+    100162: ThumbCTRL1
+    100164: ThumbCTRL2
+    100166: ThumbCTRL3
+    100168: //RootNode
+    100170: WristCTRL
+    400000: Arm1
+    400002: Arm2
+    400004: ArmCTRL1
+    400006: ArmCTRL2
+    400008: CArmCTRL
+    400010: CArmCTRL2
+    400012: CIndexCTRL1
+    400014: CIndexCTRL2
+    400016: CIndexCTRL3
+    400018: CMiddleCTRL1
+    400020: CMiddleCTRL2
+    400022: CMiddleCTRL3
+    400024: CPinkyCTRL1
+    400026: CPinkyCTRL2
+    400028: CPinkyCTRL3
+    400030: CRingCTRL1
+    400032: CRingCTRL2
+    400034: CRingCTRL3
+    400036: CThumbCTRL1
+    400038: CThumbCTRL2
+    400040: CThumbCTRL3
+    400042: CWristCTRL
+    400044: DArmCTRL
+    400046: DArmCTRL2
+    400048: Deadhand
+    400050: DeadHandNull
+    400052: DIndexCTRL1
+    400054: DIndexCTRL2
+    400056: DIndexCTRL3
+    400058: DMiddleCTRL1
+    400060: DMiddleCTRL2
+    400062: DMiddleCTRL3
+    400064: DPinkyCTRL1
+    400066: DPinkyCTRL2
+    400068: DPinkyCTRL3
+    400070: DRingCTRL1
+    400072: DRingCTRL2
+    400074: DRingCTRL3
+    400076: DThumbCTRL1
+    400078: DThumbCTRL2
+    400080: DThumbCTRL3
+    400082: DWristCTRL
+    400084: Hand
+    400086: IK_FK_CTRL
+    400088: IK_Hand_CTRL
+    400090: ikHandle1
+    400092: Index1
+    400094: Index2
+    400096: Index3
+    400098: Index4
+    400100: IndexCTRL1
+    400102: IndexCTRL2
+    400104: IndexCTRL3
+    400106: locator1
+    400108: Middle1
+    400110: Middle2
+    400112: Middle3
+    400114: Middle4
+    400116: MiddleCTRL1
+    400118: MiddleCTRL2
+    400120: MiddleCTRL3
+    400122: Pinky1
+    400124: Pinky2
+    400126: Pinky3
+    400128: Pinky4
+    400130: PinkyCTRL1
+    400132: PinkyCTRL2
+    400134: PinkyCTRL3
+    400136: PoleVectorCTRL
+    400138: Ring1
+    400140: Ring2
+    400142: Ring3
+    400144: Ring4
+    400146: RingCTRL1
+    400148: RingCTRL2
+    400150: RingCTRL3
+    400152: Root_CTRL
+    400154: Thumb1
+    400156: Thumb2
+    400158: Thumb3
+    400160: Thumb4
+    400162: ThumbCTRL1
+    400164: ThumbCTRL2
+    400166: ThumbCTRL3
+    400168: //RootNode
+    400170: WristCTRL
+    4300000: Deadhand
+    7400000: VectorIdle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Deadhand
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 9756efb5673fe1f44abe88720af03e43, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: VectorIdle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

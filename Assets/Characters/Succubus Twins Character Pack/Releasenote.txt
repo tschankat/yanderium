@@ -1,0 +1,52 @@
+-------------------------------------------
+
+GameAssetStudio
+http://gameassetstudio.com/
+
+-------------------------------------------
+
+===========================================
+Ver 1.12 Update Information
+===========================================
+
+1. Some directory names have been changed. 
+2. Some file names have been changed. 
+3. In Unity 4.6.2 and higher versions the Cutoff in the toon_cutoff shader wasn't working properly. This has been fixed.
+4. Adjusted the light in viewer.
+5. Fixed an import error with animation.fbx.
+6. You can now set the Alpha cutoff of the toon_cutoff shader. 0.9 is the recommended setting.
+
+===========================================
+Ver 1.11 Update Information
+===========================================
+
+1.Fixed a bug where importing GameAssetStudio assets at the same time would overwrite some files.
+2.Fixed a bug where facial expressions were not displaying in the Viewer.
+3.The Viewer's Key Configuration Settings are no longer needed.
+4.Stopped compilation of the previous version which contained a bug.
+5.The directory structure has been changed.
+6.The name of directory has been changed.
+7.The name of file has been changed.
+
+===========================================
+Ver 1.10 Update Information
+===========================================
+1. The following effects have been added.
+- Magic Spell - Hand (Stationary)
+- Magic Spell - Shot (Stationary)
+- Magic Spell - Bullet (Stationary)
+- Magic Spell - Bullet (Moves 4m)
+- Magic Spell - Bullet (Moves 8m)
+- Magic Spell - Bullet (Moves 20m)
+- Damage Effect
+- Seduced Effect
+- Seduce Effect
+- Materialization Effect
+
+2.The following model data has been changed.
+- The Face Material set on Arum's Body model has been deleted.
+- The Face Material set on Asphodel's Body model has been deleted.
+
+3. Models with particle effects have been included as samples.
+
+4. You may now preview particle effects with the Viewer.

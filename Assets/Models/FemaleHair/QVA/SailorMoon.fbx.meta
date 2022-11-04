@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 1728767ab67284c47872c6e5ca7cbc1a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone.001
+    100004: Bone.002
+    100006: Bone.003
+    100008: Bone.004
+    100010: Bone.005
+    100012: Bone.006
+    100014: Bone.007
+    100016: Bone.008
+    100018: Bone.009
+    100020: Bone.010
+    100022: Bone.011
+    100024: Bone.012
+    100026: Bone.013
+    100028: Bone.014
+    100030: Bone.014_end
+    100032: Bone.015
+    100034: Bone.016
+    100036: Bone.017
+    100038: Bone.018
+    100040: Bone.019
+    100042: Bone.020
+    100044: Bone.021
+    100046: Bone.022
+    100048: Bone.023
+    100050: Bone.023_end
+    100052: Bone.024
+    100054: Bone.025
+    100056: Bone.026
+    100058: Bone.027
+    100060: Bone.028
+    100062: Bone.029
+    100064: Bone.030
+    100066: Bone.031
+    100068: Bone.032
+    100070: Bone.033
+    100072: Bone.034
+    100074: Bone.035
+    100076: Bone.035_end
+    100078: Bone.036
+    100080: Bone.037
+    100082: Bone.038
+    100084: Bone.039
+    100086: Bone.040
+    100088: Bone.041
+    100090: Bone.042
+    100092: Bone.043
+    100094: Bone.044
+    100096: Bone.045
+    100098: Bone.045_end
+    100100: Sailor Moon
+    100102: Sailor Moon + Transformed
+    100104: //RootNode
+    100106: Bone.010_end
+    100108: Bone.015_end
+    100110: Sailor MOON
+    100112: Sailor Moon 2
+    100114: Sailor Moon 1
+    400000: Bone
+    400002: Bone.001
+    400004: Bone.002
+    400006: Bone.003
+    400008: Bone.004
+    400010: Bone.005
+    400012: Bone.006
+    400014: Bone.007
+    400016: Bone.008
+    400018: Bone.009
+    400020: Bone.010
+    400022: Bone.011
+    400024: Bone.012
+    400026: Bone.013
+    400028: Bone.014
+    400030: Bone.014_end
+    400032: Bone.015
+    400034: Bone.016
+    400036: Bone.017
+    400038: Bone.018
+    400040: Bone.019
+    400042: Bone.020
+    400044: Bone.021
+    400046: Bone.022
+    400048: Bone.023
+    400050: Bone.023_end
+    400052: Bone.024
+    400054: Bone.025
+    400056: Bone.026
+    400058: Bone.027
+    400060: Bone.028
+    400062: Bone.029
+    400064: Bone.030
+    400066: Bone.031
+    400068: Bone.032
+    400070: Bone.033
+    400072: Bone.034
+    400074: Bone.035
+    400076: Bone.035_end
+    400078: Bone.036
+    400080: Bone.037
+    400082: Bone.038
+    400084: Bone.039
+    400086: Bone.040
+    400088: Bone.041
+    400090: Bone.042
+    400092: Bone.043
+    400094: Bone.044
+    400096: Bone.045
+    400098: Bone.045_end
+    400100: Sailor Moon
+    400102: Sailor Moon + Transformed
+    400104: //RootNode
+    400106: Bone.010_end
+    400108: Bone.015_end
+    400110: Sailor MOON
+    400112: Sailor Moon 2
+    400114: Sailor Moon 1
+    4300000: Sailor Moon
+    4300002: Sailor Moon 2
+    4300004: Sailor Moon 1
+    9500000: //RootNode
+    13700000: Sailor Moon
+    13700002: Sailor Moon 2
+    13700004: Sailor Moon 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

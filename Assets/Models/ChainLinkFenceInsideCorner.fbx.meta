@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 47b51eed23603e8489ae710c35851086
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ChainLinkFence
+    100002: ChainLinkFence1
+    100004: //RootNode
+    100006: ChainLinks
+    100008: ChainLinks 1
+    100010: Pipe1
+    100012: Pipe1 1
+    100014: Pipe2
+    100016: Pipe3
+    100018: Pipe3 1
+    100020: Pipe4
+    100022: Pipe5
+    100024: Pipe5 1
+    100026: Pipe6
+    100028: Pipe6 1
+    100030: Pipe7
+    100032: Pipe7 1
+    100034: SmallChainLinks
+    100036: SmallChainLinks 1
+    100038: SmallChainLinks1
+    100040: SmallChainLinks2
+    400000: ChainLinkFence
+    400002: ChainLinkFence1
+    400004: //RootNode
+    400006: ChainLinks
+    400008: ChainLinks 1
+    400010: Pipe1
+    400012: Pipe1 1
+    400014: Pipe2
+    400016: Pipe3
+    400018: Pipe3 1
+    400020: Pipe4
+    400022: Pipe5
+    400024: Pipe5 1
+    400026: Pipe6
+    400028: Pipe6 1
+    400030: Pipe7
+    400032: Pipe7 1
+    400034: SmallChainLinks
+    400036: SmallChainLinks 1
+    400038: SmallChainLinks1
+    400040: SmallChainLinks2
+    2300000: ChainLinks
+    2300002: ChainLinks 1
+    2300004: Pipe1
+    2300006: Pipe1 1
+    2300008: Pipe2
+    2300010: Pipe3
+    2300012: Pipe3 1
+    2300014: Pipe4
+    2300016: Pipe5
+    2300018: Pipe5 1
+    2300020: Pipe6
+    2300022: Pipe6 1
+    2300024: Pipe7
+    2300026: Pipe7 1
+    2300028: SmallChainLinks
+    2300030: SmallChainLinks 1
+    2300032: SmallChainLinks1
+    2300034: SmallChainLinks2
+    3300000: ChainLinks
+    3300002: ChainLinks 1
+    3300004: Pipe1
+    3300006: Pipe1 1
+    3300008: Pipe2
+    3300010: Pipe3
+    3300012: Pipe3 1
+    3300014: Pipe4
+    3300016: Pipe5
+    3300018: Pipe5 1
+    3300020: Pipe6
+    3300022: Pipe6 1
+    3300024: Pipe7
+    3300026: Pipe7 1
+    3300028: SmallChainLinks
+    3300030: SmallChainLinks 1
+    3300032: SmallChainLinks1
+    3300034: SmallChainLinks2
+    4300000: Pipe7
+    4300002: Pipe6
+    4300004: Pipe5
+    4300006: Pipe4
+    4300008: Pipe3
+    4300010: Pipe2
+    4300012: Pipe1
+    4300014: SmallChainLinks
+    4300016: ChainLinks
+    4300018: Pipe7
+    4300020: Pipe6
+    4300022: Pipe5
+    4300024: Pipe3
+    4300026: Pipe1
+    4300028: SmallChainLinks
+    4300030: ChainLinks
+    4300032: SmallChainLinks1
+    4300034: SmallChainLinks2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

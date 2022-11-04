@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: f2acfa0a5ef84c24f8d361682360c3da
+timeCreated: 1563055514
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SM_Drain
+    100004: SM_Entrance_Drain
+    100006: SM_Entrance_Roof
+    100008: SM_Floor
+    100010: SM_Roof_A
+    100012: SM_Roof_A002
+    100014: SM_Roof_A003
+    100016: SM_Roof_A004
+    100018: SM_Roof_A005
+    100020: SM_Roof_End_A
+    100022: SM_Roof_End_A002
+    100024: SM_Roofbeam_A
+    100026: SM_Roofbeam_A001
+    100028: SM_Roofbeam_A002
+    100030: SM_Roofbeam_A003
+    100032: SM_Roofbeam_A004
+    100034: SM_Roofbeam_A005
+    100036: SM_Roofbeam_A006
+    100038: SM_Sideboard
+    100040: SM_Wall_Clean_A
+    100042: SM_Wall_Clean_A001
+    100044: SM_Wall_Clean_B
+    100046: SM_Wall_Clean_C
+    100048: SM_Wall_Clean_C001
+    100050: SM_Wall_Door_A
+    100052: SM_Wall_Door_B
+    100054: SM_Wall_Door_B001
+    100056: SM_Wall_End_A
+    100058: SM_Wall_End_A001
+    100060: SM_Wall_Roof_End_A
+    100062: SM_Wall_Roof_End_A001
+    100064: SM_Wall_Windowed_A
+    100066: SM_Wall_Windowed_A001
+    100068: SM_Wall_Windowed_A002
+    100070: SM_Wall_Windowed_A003
+    100072: SM_Water_Chanel_Entrance
+    100074: SM_Water_Channel_Straight_A
+    100076: SM_Water_Channel_Straight_A001
+    100078: SM_Water_Channel_Straight_A002
+    100080: SM_Water_Channel_Straight_A003
+    100082: SM_Water_Channel_Straight_A004
+    100084: SM_Water_Channel_Straight_A005
+    100086: SM_Water_Channel_Straight_A006
+    400000: //RootNode
+    400002: SM_Drain
+    400004: SM_Entrance_Drain
+    400006: SM_Entrance_Roof
+    400008: SM_Floor
+    400010: SM_Roof_A
+    400012: SM_Roof_A002
+    400014: SM_Roof_A003
+    400016: SM_Roof_A004
+    400018: SM_Roof_A005
+    400020: SM_Roof_End_A
+    400022: SM_Roof_End_A002
+    400024: SM_Roofbeam_A
+    400026: SM_Roofbeam_A001
+    400028: SM_Roofbeam_A002
+    400030: SM_Roofbeam_A003
+    400032: SM_Roofbeam_A004
+    400034: SM_Roofbeam_A005
+    400036: SM_Roofbeam_A006
+    400038: SM_Sideboard
+    400040: SM_Wall_Clean_A
+    400042: SM_Wall_Clean_A001
+    400044: SM_Wall_Clean_B
+    400046: SM_Wall_Clean_C
+    400048: SM_Wall_Clean_C001
+    400050: SM_Wall_Door_A
+    400052: SM_Wall_Door_B
+    400054: SM_Wall_Door_B001
+    400056: SM_Wall_End_A
+    400058: SM_Wall_End_A001
+    400060: SM_Wall_Roof_End_A
+    400062: SM_Wall_Roof_End_A001
+    400064: SM_Wall_Windowed_A
+    400066: SM_Wall_Windowed_A001
+    400068: SM_Wall_Windowed_A002
+    400070: SM_Wall_Windowed_A003
+    400072: SM_Water_Chanel_Entrance
+    400074: SM_Water_Channel_Straight_A
+    400076: SM_Water_Channel_Straight_A001
+    400078: SM_Water_Channel_Straight_A002
+    400080: SM_Water_Channel_Straight_A003
+    400082: SM_Water_Channel_Straight_A004
+    400084: SM_Water_Channel_Straight_A005
+    400086: SM_Water_Channel_Straight_A006
+    2300000: SM_Drain
+    2300002: SM_Entrance_Drain
+    2300004: SM_Entrance_Roof
+    2300006: SM_Floor
+    2300008: SM_Roof_A
+    2300010: SM_Roof_A002
+    2300012: SM_Roof_A003
+    2300014: SM_Roof_A004
+    2300016: SM_Roof_A005
+    2300018: SM_Roof_End_A
+    2300020: SM_Roof_End_A002
+    2300022: SM_Roofbeam_A
+    2300024: SM_Roofbeam_A001
+    2300026: SM_Roofbeam_A002
+    2300028: SM_Roofbeam_A003
+    2300030: SM_Roofbeam_A004
+    2300032: SM_Roofbeam_A005
+    2300034: SM_Roofbeam_A006
+    2300036: SM_Sideboard
+    2300038: SM_Wall_Clean_A
+    2300040: SM_Wall_Clean_A001
+    2300042: SM_Wall_Clean_B
+    2300044: SM_Wall_Clean_C
+    2300046: SM_Wall_Clean_C001
+    2300048: SM_Wall_Door_A
+    2300050: SM_Wall_Door_B
+    2300052: SM_Wall_Door_B001
+    2300054: SM_Wall_End_A
+    2300056: SM_Wall_End_A001
+    2300058: SM_Wall_Roof_End_A
+    2300060: SM_Wall_Roof_End_A001
+    2300062: SM_Wall_Windowed_A
+    2300064: SM_Wall_Windowed_A001
+    2300066: SM_Wall_Windowed_A002
+    2300068: SM_Wall_Windowed_A003
+    2300070: SM_Water_Chanel_Entrance
+    2300072: SM_Water_Channel_Straight_A
+    2300074: SM_Water_Channel_Straight_A001
+    2300076: SM_Water_Channel_Straight_A002
+    2300078: SM_Water_Channel_Straight_A003
+    2300080: SM_Water_Channel_Straight_A004
+    2300082: SM_Water_Channel_Straight_A005
+    2300084: SM_Water_Channel_Straight_A006
+    3300000: SM_Drain
+    3300002: SM_Entrance_Drain
+    3300004: SM_Entrance_Roof
+    3300006: SM_Floor
+    3300008: SM_Roof_A
+    3300010: SM_Roof_A002
+    3300012: SM_Roof_A003
+    3300014: SM_Roof_A004
+    3300016: SM_Roof_A005
+    3300018: SM_Roof_End_A
+    3300020: SM_Roof_End_A002
+    3300022: SM_Roofbeam_A
+    3300024: SM_Roofbeam_A001
+    3300026: SM_Roofbeam_A002
+    3300028: SM_Roofbeam_A003
+    3300030: SM_Roofbeam_A004
+    3300032: SM_Roofbeam_A005
+    3300034: SM_Roofbeam_A006
+    3300036: SM_Sideboard
+    3300038: SM_Wall_Clean_A
+    3300040: SM_Wall_Clean_A001
+    3300042: SM_Wall_Clean_B
+    3300044: SM_Wall_Clean_C
+    3300046: SM_Wall_Clean_C001
+    3300048: SM_Wall_Door_A
+    3300050: SM_Wall_Door_B
+    3300052: SM_Wall_Door_B001
+    3300054: SM_Wall_End_A
+    3300056: SM_Wall_End_A001
+    3300058: SM_Wall_Roof_End_A
+    3300060: SM_Wall_Roof_End_A001
+    3300062: SM_Wall_Windowed_A
+    3300064: SM_Wall_Windowed_A001
+    3300066: SM_Wall_Windowed_A002
+    3300068: SM_Wall_Windowed_A003
+    3300070: SM_Water_Chanel_Entrance
+    3300072: SM_Water_Channel_Straight_A
+    3300074: SM_Water_Channel_Straight_A001
+    3300076: SM_Water_Channel_Straight_A002
+    3300078: SM_Water_Channel_Straight_A003
+    3300080: SM_Water_Channel_Straight_A004
+    3300082: SM_Water_Channel_Straight_A005
+    3300084: SM_Water_Channel_Straight_A006
+    4300000: SM_Wall_Windowed_A
+    4300002: SM_Wall_Clean_A
+    4300004: SM_Wall_Door_A
+    4300006: SM_Drain
+    4300008: SM_Water_Channel_Straight_A
+    4300010: SM_Wall_Roof_End_A
+    4300012: SM_Roof_End_A
+    4300014: SM_Wall_End_A
+    4300016: SM_Entrance_Roof
+    4300018: SM_Water_Chanel_Entrance
+    4300020: SM_Entrance_Drain
+    4300022: SM_Roof_A
+    4300024: SM_Floor
+    4300026: SM_Roofbeam_A
+    4300028: SM_Wall_Clean_B
+    4300030: SM_Wall_Door_B
+    4300032: SM_Wall_Clean_C
+    4300034: SM_Roofbeam_A001
+    4300036: SM_Wall_Windowed_A001
+    4300038: SM_Wall_Windowed_A002
+    4300040: SM_Wall_Clean_A001
+    4300042: SM_Wall_End_A001
+    4300044: SM_Wall_Windowed_A003
+    4300046: SM_Roof_A002
+    4300048: SM_Roof_A003
+    4300050: SM_Roof_A004
+    4300052: SM_Roof_A005
+    4300054: SM_Roof_End_A002
+    4300056: SM_Wall_Roof_End_A001
+    4300058: SM_Water_Channel_Straight_A001
+    4300060: SM_Water_Channel_Straight_A002
+    4300062: SM_Water_Channel_Straight_A003
+    4300064: SM_Water_Channel_Straight_A004
+    4300066: SM_Water_Channel_Straight_A005
+    4300068: SM_Water_Channel_Straight_A006
+    4300070: SM_Sideboard
+    4300072: SM_Wall_Clean_C001
+    4300074: SM_Wall_Door_B001
+    4300076: SM_Roofbeam_A002
+    4300078: SM_Roofbeam_A003
+    4300080: SM_Roofbeam_A004
+    4300082: SM_Roofbeam_A005
+    4300084: SM_Roofbeam_A006
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24 - Default
+    second: {fileID: 2100000, guid: 7f9593cfd287bda4588c4c09738e47b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gravel
+    second: {fileID: 2100000, guid: 06abeb92d2c467b44acf07a40b4cf383, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Drain
+    second: {fileID: 2100000, guid: 85bff19e435b9c0428d0a0d7ebfabbbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Floor_A
+    second: {fileID: 2100000, guid: 65c5da508c82a1040a2113d3f23d1942, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Floor_B
+    second: {fileID: 2100000, guid: 7b9780ab14ad05840916e8413cd45742, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Floor_C
+    second: {fileID: 2100000, guid: 511a38cad404de7419706996481d29a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Floor_Outside
+    second: {fileID: 2100000, guid: 2579660a0cf37534ba72d1f82d3fb3ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_FootCleaner
+    second: {fileID: 2100000, guid: 80d4dba90c0f21a449c5483eb9cea5a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Frame
+    second: {fileID: 2100000, guid: ac01ff6c1ff927f48864a728c5a279be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Roof_Inside
+    second: {fileID: 2100000, guid: 34cf9ad7210bf9146811ef52dc97d691, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Roof_Outside
+    second: {fileID: 2100000, guid: e5ccf550e2e479f4593cfd4603282885, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Struts
+    second: {fileID: 2100000, guid: 9736644465ec22b4ab3fc0497f36c93c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wall_AntiSplash
+    second: {fileID: 2100000, guid: 7e8cfc984f68d074593528d7c9088837, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wall_Inside
+    second: {fileID: 2100000, guid: b5a779c83c4a7c74db504709e3c3d6dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wall_Outside
+    second: {fileID: 2100000, guid: ab5a22678f6c9ff46987da39602ae782, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Window
+    second: {fileID: 2100000, guid: 7fc6d029bac20c444b0da9eb7ac19e73, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

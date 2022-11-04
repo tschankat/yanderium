@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 9c08189efa43e69429080630504ef3c9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CyborgHelmet
+    100004: LeftCyborgArm
+    100006: LeftCyborgHip
+    100008: LeftCyborgLeg
+    100010: LeftCyborgShoulder
+    100012: RightCyborgArm
+    100014: RightCyborgHip
+    100016: RightCyborgLeg
+    100018: RightCyborgShoulder
+    400000: //RootNode
+    400002: CyborgHelmet
+    400004: LeftCyborgArm
+    400006: LeftCyborgHip
+    400008: LeftCyborgLeg
+    400010: LeftCyborgShoulder
+    400012: RightCyborgArm
+    400014: RightCyborgHip
+    400016: RightCyborgLeg
+    400018: RightCyborgShoulder
+    2300000: CyborgHelmet
+    2300002: LeftCyborgArm
+    2300004: LeftCyborgHip
+    2300006: LeftCyborgLeg
+    2300008: LeftCyborgShoulder
+    2300010: RightCyborgArm
+    2300012: RightCyborgHip
+    2300014: RightCyborgLeg
+    2300016: RightCyborgShoulder
+    3300000: CyborgHelmet
+    3300002: LeftCyborgArm
+    3300004: LeftCyborgHip
+    3300006: LeftCyborgLeg
+    3300008: LeftCyborgShoulder
+    3300010: RightCyborgArm
+    3300012: RightCyborgHip
+    3300014: RightCyborgLeg
+    3300016: RightCyborgShoulder
+    4300000: RightCyborgHip
+    4300002: LeftCyborgHip
+    4300004: RightCyborgLeg
+    4300006: LeftCyborgLeg
+    4300008: RightCyborgShoulder
+    4300010: LeftCyborgShoulder
+    4300012: RightCyborgArm
+    4300014: LeftCyborgArm
+    4300016: CyborgHelmet
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

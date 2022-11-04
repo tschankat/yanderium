@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: ad4cfda509cef56428b779a38147030a
+timeCreated: 1503447933
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: QuillHair_Joint_02
+    100004: QuillHair_Joint_02 1
+    100006: QuillHair_Joint_03
+    100008: QuillHair_Joint_03 1
+    100010: QuillHair_Joint_04
+    100012: QuillHair_Joint_04 1
+    100014: QuillHair_L_Joint_01
+    100016: QuillHair_Mesh
+    100018: QuillHair_Null
+    100020: QuillHair_R_Joint_01
+    400000: //RootNode
+    400002: QuillHair_Joint_02
+    400004: QuillHair_Joint_02 1
+    400006: QuillHair_Joint_03
+    400008: QuillHair_Joint_03 1
+    400010: QuillHair_Joint_04
+    400012: QuillHair_Joint_04 1
+    400014: QuillHair_L_Joint_01
+    400016: QuillHair_Mesh
+    400018: QuillHair_Null
+    400020: QuillHair_R_Joint_01
+    4300000: QuillHair_Mesh
+    9500000: //RootNode
+    13700000: QuillHair_Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 6a942285a34b4fa459a742af4656db58
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: CymbalStandCymbalMesh
+    100002: CymbalStandMesh
+    100004: CymbalStandPedalMesh
+    100006: DrumkitCymbalLeftMesh
+    100008: DrumkitCymbalRightMesh
+    100010: DrumkitKickMesh
+    100012: DrumkitMesh
+    100014: DrumkitPedalMesh
+    100016: DrumMesh
+    100018: DrumSeatMesh
+    100020: //RootNode
+    400000: CymbalStandCymbalMesh
+    400002: CymbalStandMesh
+    400004: CymbalStandPedalMesh
+    400006: DrumkitCymbalLeftMesh
+    400008: DrumkitCymbalRightMesh
+    400010: DrumkitKickMesh
+    400012: DrumkitMesh
+    400014: DrumkitPedalMesh
+    400016: DrumMesh
+    400018: DrumSeatMesh
+    400020: //RootNode
+    2300000: CymbalStandCymbalMesh
+    2300002: CymbalStandMesh
+    2300004: CymbalStandPedalMesh
+    2300006: DrumkitCymbalLeftMesh
+    2300008: DrumkitCymbalRightMesh
+    2300010: DrumkitKickMesh
+    2300012: DrumkitMesh
+    2300014: DrumkitPedalMesh
+    2300016: DrumMesh
+    2300018: DrumSeatMesh
+    3300000: CymbalStandCymbalMesh
+    3300002: CymbalStandMesh
+    3300004: CymbalStandPedalMesh
+    3300006: DrumkitCymbalLeftMesh
+    3300008: DrumkitCymbalRightMesh
+    3300010: DrumkitKickMesh
+    3300012: DrumkitMesh
+    3300014: DrumkitPedalMesh
+    3300016: DrumMesh
+    3300018: DrumSeatMesh
+    4300000: DrumMesh
+    4300002: DrumkitMesh
+    4300004: DrumkitKickMesh
+    4300006: DrumkitPedalMesh
+    4300008: DrumkitCymbalLeftMesh
+    4300010: DrumkitCymbalRightMesh
+    4300012: DrumSeatMesh
+    4300014: CymbalStandMesh
+    4300016: CymbalStandPedalMesh
+    4300018: CymbalStandCymbalMesh
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

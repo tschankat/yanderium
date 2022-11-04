@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 09612351d320e204d85de9ab7c49119a
+timeCreated: 1511387597
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: BackHair_Main
+    100004: BackHair_Main1
+    100006: BackHair_Main2
+    100008: BackHair_Main3
+    100010: BackHair_Main4
+    100012: BackHair_Main4.001
+    100014: BackHair_Main4.001_end
+    100016: BackHair_Main4.001_end_end
+    100018: Head_null
+    100020: Head_null.001
+    100022: Head_null.001_end
+    100024: Head_null.001_end_end
+    100026: LeftSideHair_1
+    100028: LeftSideHair_2
+    100030: LeftSideHair_3
+    100032: LeftSideHair_4
+    100034: LeftSideHair_5
+    100036: LeftSideHair_6
+    100038: LeftSideHair_6_end
+    100040: LeftSideHair_6_end_end
+    100042: LeftSideHair_Main
+    100044: LucoaHairMesh
+    100046: //RootNode
+    100048: RightSideHair_Main
+    100050: SideHair_1
+    100052: SideHair_2
+    100054: SideHair_3
+    100056: SideHair_4
+    100058: SideHair_5
+    100060: SideHair_6
+    100062: SideHair_6_end
+    100064: SideHair_6_end_end
+    400000: Armature
+    400002: BackHair_Main
+    400004: BackHair_Main1
+    400006: BackHair_Main2
+    400008: BackHair_Main3
+    400010: BackHair_Main4
+    400012: BackHair_Main4.001
+    400014: BackHair_Main4.001_end
+    400016: BackHair_Main4.001_end_end
+    400018: Head_null
+    400020: Head_null.001
+    400022: Head_null.001_end
+    400024: Head_null.001_end_end
+    400026: LeftSideHair_1
+    400028: LeftSideHair_2
+    400030: LeftSideHair_3
+    400032: LeftSideHair_4
+    400034: LeftSideHair_5
+    400036: LeftSideHair_6
+    400038: LeftSideHair_6_end
+    400040: LeftSideHair_6_end_end
+    400042: LeftSideHair_Main
+    400044: LucoaHairMesh
+    400046: //RootNode
+    400048: RightSideHair_Main
+    400050: SideHair_1
+    400052: SideHair_2
+    400054: SideHair_3
+    400056: SideHair_4
+    400058: SideHair_5
+    400060: SideHair_6
+    400062: SideHair_6_end
+    400064: SideHair_6_end_end
+    4300000: LucoaHairMesh
+    9500000: //RootNode
+    13700000: LucoaHairMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

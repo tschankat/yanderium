@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b09376012c33d3d4b898672a0d5bb0b2, type: 3}
+  m_Name: Eggs
+  m_EditorClassIdentifier: 
+  largeSprite: {fileID: 21300000, guid: 1599fd3dfec48344089a964c7a0f8159, type: 3}
+  smallSprite: {fileID: 21300000, guid: eec31d6b7030ff64089afcb0a6b74553, type: 3}

@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: cd42b03f273c43c44a54702dc7955cde
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube
+    100004: Cylinder.001
+    100006: group
+    100008: group1
+    100010: group2
+    100012: group3
+    100014: group4
+    100016: group5
+    100018: group6
+    100020: group7
+    100022: pasted__Cube
+    100024: pasted__Cube 1
+    100026: pasted__Cylinder.001
+    100028: pasted__Cylinder.001 1
+    100030: pasted__Cylinder.001 2
+    100032: pasted__group5
+    100034: pasted__pasted__Cylinder.001
+    100036: pasted__Plane.003
+    100038: pasted__Plane.003 1
+    100040: Plane.002
+    100042: Plane.003
+    100044: Box
+    100046: Cucumber1
+    100048: Cucumber2
+    100050: Cucumber3
+    100052: Cucumber4
+    100054: Cucumber5
+    100056: Rice1
+    100058: Rice2
+    100060: Rice3
+    100062: Sushi1
+    100064: Sushi2
+    100066: Sushi3
+    400000: //RootNode
+    400002: Cube
+    400004: Cylinder.001
+    400006: group
+    400008: group1
+    400010: group2
+    400012: group3
+    400014: group4
+    400016: group5
+    400018: group6
+    400020: group7
+    400022: pasted__Cube
+    400024: pasted__Cube 1
+    400026: pasted__Cylinder.001
+    400028: pasted__Cylinder.001 1
+    400030: pasted__Cylinder.001 2
+    400032: pasted__group5
+    400034: pasted__pasted__Cylinder.001
+    400036: pasted__Plane.003
+    400038: pasted__Plane.003 1
+    400040: Plane.002
+    400042: Plane.003
+    400044: Box
+    400046: Cucumber1
+    400048: Cucumber2
+    400050: Cucumber3
+    400052: Cucumber4
+    400054: Cucumber5
+    400056: Rice1
+    400058: Rice2
+    400060: Rice3
+    400062: Sushi1
+    400064: Sushi2
+    400066: Sushi3
+    2300000: Cube
+    2300002: Cylinder.001
+    2300004: pasted__Cube
+    2300006: pasted__Cube 1
+    2300008: pasted__Cylinder.001
+    2300010: pasted__Cylinder.001 1
+    2300012: pasted__Cylinder.001 2
+    2300014: pasted__pasted__Cylinder.001
+    2300016: pasted__Plane.003
+    2300018: pasted__Plane.003 1
+    2300020: Plane.002
+    2300022: Plane.003
+    2300024: Box
+    2300026: Cucumber1
+    2300028: Cucumber2
+    2300030: Cucumber3
+    2300032: Cucumber4
+    2300034: Cucumber5
+    2300036: Rice1
+    2300038: Rice2
+    2300040: Rice3
+    2300042: Sushi1
+    2300044: Sushi2
+    2300046: Sushi3
+    3300000: Cube
+    3300002: Cylinder.001
+    3300004: pasted__Cube
+    3300006: pasted__Cube 1
+    3300008: pasted__Cylinder.001
+    3300010: pasted__Cylinder.001 1
+    3300012: pasted__Cylinder.001 2
+    3300014: pasted__pasted__Cylinder.001
+    3300016: pasted__Plane.003
+    3300018: pasted__Plane.003 1
+    3300020: Plane.002
+    3300022: Plane.003
+    3300024: Box
+    3300026: Cucumber1
+    3300028: Cucumber2
+    3300030: Cucumber3
+    3300032: Cucumber4
+    3300034: Cucumber5
+    3300036: Rice1
+    3300038: Rice2
+    3300040: Rice3
+    3300042: Sushi1
+    3300044: Sushi2
+    3300046: Sushi3
+    4300000: Plane.002
+    4300002: Plane.003
+    4300004: Cylinder.001
+    4300006: Cube
+    4300008: pasted__Plane.003
+    4300010: pasted__Plane.003
+    4300012: pasted__Cube
+    4300014: pasted__Cube
+    4300016: pasted__Cylinder.001
+    4300018: pasted__Cylinder.001
+    4300020: pasted__pasted__Cylinder.001
+    4300022: pasted__Cylinder.001
+    4300024: Box
+    4300026: Rice1
+    4300028: Rice2
+    4300030: Rice3
+    4300032: Cucumber1
+    4300034: Cucumber2
+    4300036: Cucumber3
+    4300038: Cucumber4
+    4300040: Cucumber5
+    4300042: Sushi1
+    4300044: Sushi2
+    4300046: Sushi3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 9.99999975e-05
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 0d494cc6427b02f4cb1a18813aea4e56
+timeCreated: 1570793222
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature.047
+    100002: Backheadbone
+    100004: Bone.002
+    100006: Bone.003
+    100008: Bone.004
+    100010: Bone.005
+    100012: Bone.006
+    100014: Bone.007
+    100016: Bone.008
+    100018: Bone.008_end
+    100020: Bone_L.001
+    100022: Bone_L.002
+    100024: Bone_L.003
+    100026: Bone_L.004
+    100028: Bone_L.005
+    100030: Bone_L.006
+    100032: Bone_L.006_end
+    100034: Bone_R.001
+    100036: Bone_R.002
+    100038: Bone_R.003
+    100040: Bone_R.004
+    100042: Bone_R.005
+    100044: Bone_R.006
+    100046: Bone_R.006_end
+    100048: headbone1
+    100050: headbone1_end
+    100052: HeadbonefrontL
+    100054: headbonefrontR
+    100056: //RootNode
+    100058: HimeCutMesh
+    400000: Armature.047
+    400002: Backheadbone
+    400004: Bone.002
+    400006: Bone.003
+    400008: Bone.004
+    400010: Bone.005
+    400012: Bone.006
+    400014: Bone.007
+    400016: Bone.008
+    400018: Bone.008_end
+    400020: Bone_L.001
+    400022: Bone_L.002
+    400024: Bone_L.003
+    400026: Bone_L.004
+    400028: Bone_L.005
+    400030: Bone_L.006
+    400032: Bone_L.006_end
+    400034: Bone_R.001
+    400036: Bone_R.002
+    400038: Bone_R.003
+    400040: Bone_R.004
+    400042: Bone_R.005
+    400044: Bone_R.006
+    400046: Bone_R.006_end
+    400048: headbone1
+    400050: headbone1_end
+    400052: HeadbonefrontL
+    400054: headbonefrontR
+    400056: //RootNode
+    400058: HimeCutMesh
+    4300000: HimeCutMesh
+    9500000: //RootNode
+    13700000: HimeCutMesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.089
+    second: {fileID: 2100000, guid: c0a4644f177b7d241b9f890c7bd37281, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

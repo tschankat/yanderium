@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: d359c5b6312a89a45be11f0aef4e5c2f
+timeCreated: 1500358368
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CassieHair_L_Joint_01
+    100004: CassieHair_L_Joint_02
+    100006: CassieHair_L_Joint_03
+    100008: CassieHair_L_Joint_04
+    100010: CassieHair_L_Joint_06
+    100012: CassieHair_Mesh
+    100014: CassieHair_Null
+    100016: CassieHair_R_Joint_01
+    100018: CassieHair_R_Joint_02
+    100020: CassieHair_R_Joint_03
+    100022: CassieHair_R_Joint_04
+    100024: CassieHair_R_Joint_06
+    400000: //RootNode
+    400002: CassieHair_L_Joint_01
+    400004: CassieHair_L_Joint_02
+    400006: CassieHair_L_Joint_03
+    400008: CassieHair_L_Joint_04
+    400010: CassieHair_L_Joint_06
+    400012: CassieHair_Mesh
+    400014: CassieHair_Null
+    400016: CassieHair_R_Joint_01
+    400018: CassieHair_R_Joint_02
+    400020: CassieHair_R_Joint_03
+    400022: CassieHair_R_Joint_04
+    400024: CassieHair_R_Joint_06
+    4300000: CassieHair_Mesh
+    9500000: //RootNode
+    13700000: CassieHair_Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

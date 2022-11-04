@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: cc2c9f503a7bfcc48bbdfcd775214af6
+timeCreated: 1543879390
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Lockpick01
+    100004: Lockpick02
+    100006: Lockpick03
+    100008: Lockpick04
+    100010: Lockpick05
+    100012: Lockpick06
+    400000: //RootNode
+    400002: Lockpick01
+    400004: Lockpick02
+    400006: Lockpick03
+    400008: Lockpick04
+    400010: Lockpick05
+    400012: Lockpick06
+    2300000: //RootNode
+    2300002: Lockpick01
+    2300004: Lockpick02
+    2300006: Lockpick03
+    2300008: Lockpick04
+    2300010: Lockpick05
+    2300012: Lockpick06
+    3300000: //RootNode
+    3300002: Lockpick01
+    3300004: Lockpick02
+    3300006: Lockpick03
+    3300008: Lockpick04
+    3300010: Lockpick05
+    3300012: Lockpick06
+    4300000: CC_LockPick_Mesh
+    4300002: LockpickBase_Mesh
+    4300004: Lockpick06
+    4300006: Lockpick05
+    4300008: Lockpick04
+    4300010: Lockpick03
+    4300012: Lockpick02
+    4300014: Lockpick01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CC_LockPick_Texture
+    second: {fileID: 2100000, guid: fd86b260e53ba734ca28f5bf928ac843, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lockpick_Material
+    second: {fileID: 2100000, guid: 7500303099eac3044bb7f7854e1e0528, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

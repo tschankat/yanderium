@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: 8b1cc3f45e81f9a4f999e9cec5f2930b
+timeCreated: 1433709291
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 'Book #1'
+    100002: 'Book #1.001'
+    100004: 'Book #1.002'
+    100006: 'Book #1.003'
+    100008: 'Book #1.004'
+    100010: 'Book #1.005'
+    100012: 'Book #1.006'
+    100014: 'Book #2'
+    100016: 'Book #2.001'
+    100018: 'Book #2.002'
+    100020: 'Book #2.003'
+    100022: 'Book #2.004'
+    100024: 'Book #3'
+    100026: 'Book #3.001'
+    100028: 'Book #3.002'
+    100030: Chair
+    100032: Computer
+    100034: //RootNode
+    100036: Hole Puncher
+    100038: Keyboard
+    100040: Monitor
+    100042: Mouse
+    100044: Mouse Pad
+    100046: Paper
+    100048: Paper Holder
+    100050: 'Paper Stack #1'
+    100052: 'Paper Stack #2'
+    100054: 'Pen #1'
+    100056: 'Pen #2'
+    100058: 'Pencil #1'
+    100060: 'Pencil #2'
+    100062: 'Pencil #3'
+    100064: Pencil Cup
+    100066: Rubber
+    100068: Scissor
+    400000: 'Book #1'
+    400002: 'Book #1.001'
+    400004: 'Book #1.002'
+    400006: 'Book #1.003'
+    400008: 'Book #1.004'
+    400010: 'Book #1.005'
+    400012: 'Book #1.006'
+    400014: 'Book #2'
+    400016: 'Book #2.001'
+    400018: 'Book #2.002'
+    400020: 'Book #2.003'
+    400022: 'Book #2.004'
+    400024: 'Book #3'
+    400026: 'Book #3.001'
+    400028: 'Book #3.002'
+    400030: Chair
+    400032: Computer
+    400034: //RootNode
+    400036: Hole Puncher
+    400038: Keyboard
+    400040: Monitor
+    400042: Mouse
+    400044: Mouse Pad
+    400046: Paper
+    400048: Paper Holder
+    400050: 'Paper Stack #1'
+    400052: 'Paper Stack #2'
+    400054: 'Pen #1'
+    400056: 'Pen #2'
+    400058: 'Pencil #1'
+    400060: 'Pencil #2'
+    400062: 'Pencil #3'
+    400064: Pencil Cup
+    400066: Rubber
+    400068: Scissor
+    2300000: 'Book #1'
+    2300002: 'Book #1.001'
+    2300004: 'Book #1.002'
+    2300006: 'Book #1.003'
+    2300008: 'Book #1.004'
+    2300010: 'Book #1.005'
+    2300012: 'Book #1.006'
+    2300014: 'Book #2'
+    2300016: 'Book #2.001'
+    2300018: 'Book #2.002'
+    2300020: 'Book #2.003'
+    2300022: 'Book #2.004'
+    2300024: 'Book #3'
+    2300026: 'Book #3.001'
+    2300028: 'Book #3.002'
+    2300030: Chair
+    2300032: Computer
+    2300034: //RootNode
+    2300036: Hole Puncher
+    2300038: Keyboard
+    2300040: Monitor
+    2300042: Mouse
+    2300044: Mouse Pad
+    2300046: Paper
+    2300048: Paper Holder
+    2300050: 'Paper Stack #1'
+    2300052: 'Paper Stack #2'
+    2300054: 'Pen #1'
+    2300056: 'Pen #2'
+    2300058: 'Pencil #1'
+    2300060: 'Pencil #2'
+    2300062: 'Pencil #3'
+    2300064: Pencil Cup
+    2300066: Rubber
+    2300068: Scissor
+    3300000: 'Book #1'
+    3300002: 'Book #1.001'
+    3300004: 'Book #1.002'
+    3300006: 'Book #1.003'
+    3300008: 'Book #1.004'
+    3300010: 'Book #1.005'
+    3300012: 'Book #1.006'
+    3300014: 'Book #2'
+    3300016: 'Book #2.001'
+    3300018: 'Book #2.002'
+    3300020: 'Book #2.003'
+    3300022: 'Book #2.004'
+    3300024: 'Book #3'
+    3300026: 'Book #3.001'
+    3300028: 'Book #3.002'
+    3300030: Chair
+    3300032: Computer
+    3300034: //RootNode
+    3300036: Hole Puncher
+    3300038: Keyboard
+    3300040: Monitor
+    3300042: Mouse
+    3300044: Mouse Pad
+    3300046: Paper
+    3300048: Paper Holder
+    3300050: 'Paper Stack #1'
+    3300052: 'Paper Stack #2'
+    3300054: 'Pen #1'
+    3300056: 'Pen #2'
+    3300058: 'Pencil #1'
+    3300060: 'Pencil #2'
+    3300062: 'Pencil #3'
+    3300064: Pencil Cup
+    3300066: Rubber
+    3300068: Scissor
+    4300000: Teacher Desk
+    4300002: 'Pen #2'
+    4300004: 'Pen #1'
+    4300006: Scissor
+    4300008: 'Paper Stack #2'
+    4300010: Hole Puncher
+    4300012: Paper
+    4300014: Paper Holder
+    4300016: Mouse Pad
+    4300018: 'Paper Stack #1'
+    4300020: 'Book #1'
+    4300022: 'Book #3'
+    4300024: 'Book #2'
+    4300026: 'Book #1.006'
+    4300028: 'Book #1.005'
+    4300030: 'Book #2.004'
+    4300032: Chair
+    4300034: 'Book #3.001'
+    4300036: 'Pencil #3'
+    4300038: 'Pencil #1'
+    4300040: 'Pencil #2'
+    4300042: Rubber
+    4300044: Pencil Cup
+    4300046: 'Book #1.001'
+    4300048: 'Book #2.001'
+    4300050: 'Book #2.003'
+    4300052: 'Book #1.004'
+    4300054: 'Book #1.003'
+    4300056: 'Book #2.002'
+    4300058: 'Book #3.002'
+    4300060: 'Book #1.002'
+    4300062: Mouse
+    4300064: Keyboard
+    4300066: Computer
+    4300068: Monitor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

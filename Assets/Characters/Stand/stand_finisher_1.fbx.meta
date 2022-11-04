@@ -1,0 +1,1211 @@
+fileFormatVersion: 2
+guid: dd956def8f713964c8222c81accdd2d1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: chest_01_JNT
+    100002: geo
+    100004: head_01_JNT
+    100006: head_02_END
+    100008: JntGrp
+    100010: L_armA_finger1A_JNT
+    100012: L_armA_finger1B_JNT
+    100014: L_armA_finger1C_JNT
+    100016: L_armA_finger1D_END
+    100018: L_armA_finger2A_JNT
+    100020: L_armA_finger2B_JNT
+    100022: L_armA_finger2C_JNT
+    100024: L_armA_finger2D_END
+    100026: L_armA_finger3A_JNT
+    100028: L_armA_finger3B_JNT
+    100030: L_armA_finger3C_JNT
+    100032: L_armA_finger3D_END
+    100034: L_armA_finger4A_JNT
+    100036: L_armA_finger4B_JNT
+    100038: L_armA_finger4C_JNT
+    100040: L_armA_finger4D_END
+    100042: L_armA_finger5A_JNT
+    100044: L_armA_finger5B_JNT
+    100046: L_armA_finger5C_JNT
+    100048: L_armA_finger5D_END
+    100050: L_armA_hand_JNT
+    100052: L_armA_lower_JNT
+    100054: L_armA_shoulderPad_01_JNT
+    100056: L_armA_shoulderPad_02_END
+    100058: L_armA_upper_JNT
+    100060: L_armA_wrist_END
+    100062: L_armB_finger1A_JNT
+    100064: L_armB_finger1B_JNT
+    100066: L_armB_finger1C_JNT
+    100068: L_armB_finger1D_END
+    100070: L_armB_finger2A_JNT
+    100072: L_armB_finger2B_JNT
+    100074: L_armB_finger2C_JNT
+    100076: L_armB_finger2D_END
+    100078: L_armB_finger3A_JNT
+    100080: L_armB_finger3B_JNT
+    100082: L_armB_finger3C_JNT
+    100084: L_armB_finger3D_END
+    100086: L_armB_finger4A_JNT
+    100088: L_armB_finger4B_JNT
+    100090: L_armB_finger4C_JNT
+    100092: L_armB_finger4D_END
+    100094: L_armB_finger5A_JNT
+    100096: L_armB_finger5B_JNT
+    100098: L_armB_finger5C_JNT
+    100100: L_armB_finger5D_END
+    100102: L_armB_hand_JNT
+    100104: L_armB_lower_JNT
+    100106: L_armB_upper_JNT
+    100108: L_armB_wrist_END
+    100110: L_armC_finger1A_JNT
+    100112: L_armC_finger1B_JNT
+    100114: L_armC_finger1C_JNT
+    100116: L_armC_finger1D_END
+    100118: L_armC_finger2A_JNT
+    100120: L_armC_finger2B_JNT
+    100122: L_armC_finger2C_JNT
+    100124: L_armC_finger2D_END
+    100126: L_armC_finger3A_JNT
+    100128: L_armC_finger3B_JNT
+    100130: L_armC_finger3C_JNT
+    100132: L_armC_finger3D_END
+    100134: L_armC_finger4A_JNT
+    100136: L_armC_finger4B_JNT
+    100138: L_armC_finger4C_JNT
+    100140: L_armC_finger4D_END
+    100142: L_armC_finger5A_JNT
+    100144: L_armC_finger5B_JNT
+    100146: L_armC_finger5C_JNT
+    100148: L_armC_finger5D_END
+    100150: L_armC_hand_JNT
+    100152: L_armC_lower_JNT
+    100154: L_armC_upper_JNT
+    100156: L_armC_wrist_END
+    100158: L_armD_finger1A_JNT
+    100160: L_armD_finger1B_JNT
+    100162: L_armD_finger1C_JNT
+    100164: L_armD_finger1D_END
+    100166: L_armD_finger2A_JNT
+    100168: L_armD_finger2B_JNT
+    100170: L_armD_finger2C_JNT
+    100172: L_armD_finger2D_END
+    100174: L_armD_finger3A_JNT
+    100176: L_armD_finger3B_JNT
+    100178: L_armD_finger3C_JNT
+    100180: L_armD_finger3D_END
+    100182: L_armD_finger4A_JNT
+    100184: L_armD_finger4B_JNT
+    100186: L_armD_finger4C_JNT
+    100188: L_armD_finger4D_END
+    100190: L_armD_finger5A_JNT
+    100192: L_armD_finger5B_JNT
+    100194: L_armD_finger5C_JNT
+    100196: L_armD_finger5D_END
+    100198: L_armD_hand_JNT
+    100200: L_armD_lower_JNT
+    100202: L_armD_upper_JNT
+    100204: L_armD_wrist_END
+    100206: L_hairA_10_JNT
+    100208: L_hairA_11_JNT
+    100210: L_hairA_12_JNT
+    100212: L_hairA_13_JNT
+    100214: L_hairA_1_JNT
+    100216: L_hairA_2_JNT
+    100218: L_hairA_3_JNT
+    100220: L_hairA_4_JNT
+    100222: L_hairA_5_JNT
+    100224: L_hairA_6_JNT
+    100226: L_hairA_7_JNT
+    100228: L_hairA_8_JNT
+    100230: L_hairA_9_JNT
+    100232: L_hairB_10_JNT
+    100234: L_hairB_11_JNT
+    100236: L_hairB_12_JNT
+    100238: L_hairB_13_JNT
+    100240: L_hairB_1_JNT
+    100242: L_hairB_2_JNT
+    100244: L_hairB_3_JNT
+    100246: L_hairB_4_JNT
+    100248: L_hairB_5_JNT
+    100250: L_hairB_6_JNT
+    100252: L_hairB_7_JNT
+    100254: L_hairB_8_JNT
+    100256: L_hairB_9_JNT
+    100258: L_ribbonBow1_JNT
+    100260: L_ribbonBow2_JNT
+    100262: L_ribbonBow3_JNT
+    100264: L_ribbonBow4_END
+    100266: L_ribbonTail1_JNT
+    100268: L_ribbonTail2_JNT
+    100270: L_ribbonTail3_JNT
+    100272: L_ribbonTail4_JNT
+    100274: L_ribbonTail5_END
+    100276: neck_01_JNT
+    100278: pelvis_01_JNT
+    100280: pelvis_02_END
+    100282: R_armA_finger1A_JNT
+    100284: R_armA_finger1B_JNT
+    100286: R_armA_finger1C_JNT
+    100288: R_armA_finger1D_END
+    100290: R_armA_finger2A_JNT
+    100292: R_armA_finger2B_JNT
+    100294: R_armA_finger2C_JNT
+    100296: R_armA_finger2D_END
+    100298: R_armA_finger3A_JNT
+    100300: R_armA_finger3B_JNT
+    100302: R_armA_finger3C_JNT
+    100304: R_armA_finger3D_END
+    100306: R_armA_finger4A_JNT
+    100308: R_armA_finger4B_JNT
+    100310: R_armA_finger4C_JNT
+    100312: R_armA_finger4D_END
+    100314: R_armA_finger5A_JNT
+    100316: R_armA_finger5B_JNT
+    100318: R_armA_finger5C_JNT
+    100320: R_armA_finger5D_END
+    100322: R_armA_hand_JNT
+    100324: R_armA_lower_JNT
+    100326: R_armA_shoulderPad_01_JNT
+    100328: R_armA_shoulderPad_02_END
+    100330: R_armA_upper_JNT
+    100332: R_armA_wrist_END
+    100334: R_armB_finger1A_JNT
+    100336: R_armB_finger1B_JNT
+    100338: R_armB_finger1C_JNT
+    100340: R_armB_finger1D_END
+    100342: R_armB_finger2A_JNT
+    100344: R_armB_finger2B_JNT
+    100346: R_armB_finger2C_JNT
+    100348: R_armB_finger2D_END
+    100350: R_armB_finger3A_JNT
+    100352: R_armB_finger3B_JNT
+    100354: R_armB_finger3C_JNT
+    100356: R_armB_finger3D_END
+    100358: R_armB_finger4A_JNT
+    100360: R_armB_finger4B_JNT
+    100362: R_armB_finger4C_JNT
+    100364: R_armB_finger4D_END
+    100366: R_armB_finger5A_JNT
+    100368: R_armB_finger5B_JNT
+    100370: R_armB_finger5C_JNT
+    100372: R_armB_finger5D_END
+    100374: R_armB_hand_JNT
+    100376: R_armB_lower_JNT
+    100378: R_armB_upper_JNT
+    100380: R_armB_wrist_END
+    100382: R_armC_finger1A_JNT
+    100384: R_armC_finger1B_JNT
+    100386: R_armC_finger1C_JNT
+    100388: R_armC_finger1D_END
+    100390: R_armC_finger2A_JNT
+    100392: R_armC_finger2B_JNT
+    100394: R_armC_finger2C_JNT
+    100396: R_armC_finger2D_END
+    100398: R_armC_finger3A_JNT
+    100400: R_armC_finger3B_JNT
+    100402: R_armC_finger3C_JNT
+    100404: R_armC_finger3D_END
+    100406: R_armC_finger4A_JNT
+    100408: R_armC_finger4B_JNT
+    100410: R_armC_finger4C_JNT
+    100412: R_armC_finger4D_END
+    100414: R_armC_finger5A_JNT
+    100416: R_armC_finger5B_JNT
+    100418: R_armC_finger5C_JNT
+    100420: R_armC_finger5D_END
+    100422: R_armC_hand_JNT
+    100424: R_armC_lower_JNT
+    100426: R_armC_upper_JNT
+    100428: R_armC_wrist_END
+    100430: R_armD_finger1A_JNT
+    100432: R_armD_finger1B_JNT
+    100434: R_armD_finger1C_JNT
+    100436: R_armD_finger1D_END
+    100438: R_armD_finger2A_JNT
+    100440: R_armD_finger2B_JNT
+    100442: R_armD_finger2C_JNT
+    100444: R_armD_finger2D_END
+    100446: R_armD_finger3A_JNT
+    100448: R_armD_finger3B_JNT
+    100450: R_armD_finger3C_JNT
+    100452: R_armD_finger3D_END
+    100454: R_armD_finger4A_JNT
+    100456: R_armD_finger4B_JNT
+    100458: R_armD_finger4C_JNT
+    100460: R_armD_finger4D_END
+    100462: R_armD_finger5A_JNT
+    100464: R_armD_finger5B_JNT
+    100466: R_armD_finger5C_JNT
+    100468: R_armD_finger5D_END
+    100470: R_armD_hand_JNT
+    100472: R_armD_lower_JNT
+    100474: R_armD_upper_JNT
+    100476: R_armD_wrist_END
+    100478: R_hairA_10_JNT
+    100480: R_hairA_11_JNT
+    100482: R_hairA_12_JNT
+    100484: R_hairA_13_JNT
+    100486: R_hairA_1_JNT
+    100488: R_hairA_2_JNT
+    100490: R_hairA_3_JNT
+    100492: R_hairA_4_JNT
+    100494: R_hairA_5_JNT
+    100496: R_hairA_6_JNT
+    100498: R_hairA_7_JNT
+    100500: R_hairA_8_JNT
+    100502: R_hairA_9_JNT
+    100504: R_hairB_10_JNT
+    100506: R_hairB_11_JNT
+    100508: R_hairB_12_JNT
+    100510: R_hairB_13_JNT
+    100512: R_hairB_1_JNT
+    100514: R_hairB_2_JNT
+    100516: R_hairB_3_JNT
+    100518: R_hairB_4_JNT
+    100520: R_hairB_5_JNT
+    100522: R_hairB_6_JNT
+    100524: R_hairB_7_JNT
+    100526: R_hairB_8_JNT
+    100528: R_hairB_9_JNT
+    100530: R_ribbonBow1_JNT
+    100532: R_ribbonBow2_JNT
+    100534: R_ribbonBow3_JNT
+    100536: R_ribbonBow4_END
+    100538: R_ribbonTail1_JNT
+    100540: R_ribbonTail2_JNT
+    100542: R_ribbonTail3_JNT
+    100544: R_ribbonTail4_JNT
+    100546: R_ribbonTail5_END
+    100548: RootBone
+    100550: //RootNode
+    100552: tail_01_JNT
+    100554: tail_02_JNT
+    100556: tail_03_JNT
+    100558: tail_04_END
+    400000: chest_01_JNT
+    400002: geo
+    400004: head_01_JNT
+    400006: head_02_END
+    400008: JntGrp
+    400010: L_armA_finger1A_JNT
+    400012: L_armA_finger1B_JNT
+    400014: L_armA_finger1C_JNT
+    400016: L_armA_finger1D_END
+    400018: L_armA_finger2A_JNT
+    400020: L_armA_finger2B_JNT
+    400022: L_armA_finger2C_JNT
+    400024: L_armA_finger2D_END
+    400026: L_armA_finger3A_JNT
+    400028: L_armA_finger3B_JNT
+    400030: L_armA_finger3C_JNT
+    400032: L_armA_finger3D_END
+    400034: L_armA_finger4A_JNT
+    400036: L_armA_finger4B_JNT
+    400038: L_armA_finger4C_JNT
+    400040: L_armA_finger4D_END
+    400042: L_armA_finger5A_JNT
+    400044: L_armA_finger5B_JNT
+    400046: L_armA_finger5C_JNT
+    400048: L_armA_finger5D_END
+    400050: L_armA_hand_JNT
+    400052: L_armA_lower_JNT
+    400054: L_armA_shoulderPad_01_JNT
+    400056: L_armA_shoulderPad_02_END
+    400058: L_armA_upper_JNT
+    400060: L_armA_wrist_END
+    400062: L_armB_finger1A_JNT
+    400064: L_armB_finger1B_JNT
+    400066: L_armB_finger1C_JNT
+    400068: L_armB_finger1D_END
+    400070: L_armB_finger2A_JNT
+    400072: L_armB_finger2B_JNT
+    400074: L_armB_finger2C_JNT
+    400076: L_armB_finger2D_END
+    400078: L_armB_finger3A_JNT
+    400080: L_armB_finger3B_JNT
+    400082: L_armB_finger3C_JNT
+    400084: L_armB_finger3D_END
+    400086: L_armB_finger4A_JNT
+    400088: L_armB_finger4B_JNT
+    400090: L_armB_finger4C_JNT
+    400092: L_armB_finger4D_END
+    400094: L_armB_finger5A_JNT
+    400096: L_armB_finger5B_JNT
+    400098: L_armB_finger5C_JNT
+    400100: L_armB_finger5D_END
+    400102: L_armB_hand_JNT
+    400104: L_armB_lower_JNT
+    400106: L_armB_upper_JNT
+    400108: L_armB_wrist_END
+    400110: L_armC_finger1A_JNT
+    400112: L_armC_finger1B_JNT
+    400114: L_armC_finger1C_JNT
+    400116: L_armC_finger1D_END
+    400118: L_armC_finger2A_JNT
+    400120: L_armC_finger2B_JNT
+    400122: L_armC_finger2C_JNT
+    400124: L_armC_finger2D_END
+    400126: L_armC_finger3A_JNT
+    400128: L_armC_finger3B_JNT
+    400130: L_armC_finger3C_JNT
+    400132: L_armC_finger3D_END
+    400134: L_armC_finger4A_JNT
+    400136: L_armC_finger4B_JNT
+    400138: L_armC_finger4C_JNT
+    400140: L_armC_finger4D_END
+    400142: L_armC_finger5A_JNT
+    400144: L_armC_finger5B_JNT
+    400146: L_armC_finger5C_JNT
+    400148: L_armC_finger5D_END
+    400150: L_armC_hand_JNT
+    400152: L_armC_lower_JNT
+    400154: L_armC_upper_JNT
+    400156: L_armC_wrist_END
+    400158: L_armD_finger1A_JNT
+    400160: L_armD_finger1B_JNT
+    400162: L_armD_finger1C_JNT
+    400164: L_armD_finger1D_END
+    400166: L_armD_finger2A_JNT
+    400168: L_armD_finger2B_JNT
+    400170: L_armD_finger2C_JNT
+    400172: L_armD_finger2D_END
+    400174: L_armD_finger3A_JNT
+    400176: L_armD_finger3B_JNT
+    400178: L_armD_finger3C_JNT
+    400180: L_armD_finger3D_END
+    400182: L_armD_finger4A_JNT
+    400184: L_armD_finger4B_JNT
+    400186: L_armD_finger4C_JNT
+    400188: L_armD_finger4D_END
+    400190: L_armD_finger5A_JNT
+    400192: L_armD_finger5B_JNT
+    400194: L_armD_finger5C_JNT
+    400196: L_armD_finger5D_END
+    400198: L_armD_hand_JNT
+    400200: L_armD_lower_JNT
+    400202: L_armD_upper_JNT
+    400204: L_armD_wrist_END
+    400206: L_hairA_10_JNT
+    400208: L_hairA_11_JNT
+    400210: L_hairA_12_JNT
+    400212: L_hairA_13_JNT
+    400214: L_hairA_1_JNT
+    400216: L_hairA_2_JNT
+    400218: L_hairA_3_JNT
+    400220: L_hairA_4_JNT
+    400222: L_hairA_5_JNT
+    400224: L_hairA_6_JNT
+    400226: L_hairA_7_JNT
+    400228: L_hairA_8_JNT
+    400230: L_hairA_9_JNT
+    400232: L_hairB_10_JNT
+    400234: L_hairB_11_JNT
+    400236: L_hairB_12_JNT
+    400238: L_hairB_13_JNT
+    400240: L_hairB_1_JNT
+    400242: L_hairB_2_JNT
+    400244: L_hairB_3_JNT
+    400246: L_hairB_4_JNT
+    400248: L_hairB_5_JNT
+    400250: L_hairB_6_JNT
+    400252: L_hairB_7_JNT
+    400254: L_hairB_8_JNT
+    400256: L_hairB_9_JNT
+    400258: L_ribbonBow1_JNT
+    400260: L_ribbonBow2_JNT
+    400262: L_ribbonBow3_JNT
+    400264: L_ribbonBow4_END
+    400266: L_ribbonTail1_JNT
+    400268: L_ribbonTail2_JNT
+    400270: L_ribbonTail3_JNT
+    400272: L_ribbonTail4_JNT
+    400274: L_ribbonTail5_END
+    400276: neck_01_JNT
+    400278: pelvis_01_JNT
+    400280: pelvis_02_END
+    400282: R_armA_finger1A_JNT
+    400284: R_armA_finger1B_JNT
+    400286: R_armA_finger1C_JNT
+    400288: R_armA_finger1D_END
+    400290: R_armA_finger2A_JNT
+    400292: R_armA_finger2B_JNT
+    400294: R_armA_finger2C_JNT
+    400296: R_armA_finger2D_END
+    400298: R_armA_finger3A_JNT
+    400300: R_armA_finger3B_JNT
+    400302: R_armA_finger3C_JNT
+    400304: R_armA_finger3D_END
+    400306: R_armA_finger4A_JNT
+    400308: R_armA_finger4B_JNT
+    400310: R_armA_finger4C_JNT
+    400312: R_armA_finger4D_END
+    400314: R_armA_finger5A_JNT
+    400316: R_armA_finger5B_JNT
+    400318: R_armA_finger5C_JNT
+    400320: R_armA_finger5D_END
+    400322: R_armA_hand_JNT
+    400324: R_armA_lower_JNT
+    400326: R_armA_shoulderPad_01_JNT
+    400328: R_armA_shoulderPad_02_END
+    400330: R_armA_upper_JNT
+    400332: R_armA_wrist_END
+    400334: R_armB_finger1A_JNT
+    400336: R_armB_finger1B_JNT
+    400338: R_armB_finger1C_JNT
+    400340: R_armB_finger1D_END
+    400342: R_armB_finger2A_JNT
+    400344: R_armB_finger2B_JNT
+    400346: R_armB_finger2C_JNT
+    400348: R_armB_finger2D_END
+    400350: R_armB_finger3A_JNT
+    400352: R_armB_finger3B_JNT
+    400354: R_armB_finger3C_JNT
+    400356: R_armB_finger3D_END
+    400358: R_armB_finger4A_JNT
+    400360: R_armB_finger4B_JNT
+    400362: R_armB_finger4C_JNT
+    400364: R_armB_finger4D_END
+    400366: R_armB_finger5A_JNT
+    400368: R_armB_finger5B_JNT
+    400370: R_armB_finger5C_JNT
+    400372: R_armB_finger5D_END
+    400374: R_armB_hand_JNT
+    400376: R_armB_lower_JNT
+    400378: R_armB_upper_JNT
+    400380: R_armB_wrist_END
+    400382: R_armC_finger1A_JNT
+    400384: R_armC_finger1B_JNT
+    400386: R_armC_finger1C_JNT
+    400388: R_armC_finger1D_END
+    400390: R_armC_finger2A_JNT
+    400392: R_armC_finger2B_JNT
+    400394: R_armC_finger2C_JNT
+    400396: R_armC_finger2D_END
+    400398: R_armC_finger3A_JNT
+    400400: R_armC_finger3B_JNT
+    400402: R_armC_finger3C_JNT
+    400404: R_armC_finger3D_END
+    400406: R_armC_finger4A_JNT
+    400408: R_armC_finger4B_JNT
+    400410: R_armC_finger4C_JNT
+    400412: R_armC_finger4D_END
+    400414: R_armC_finger5A_JNT
+    400416: R_armC_finger5B_JNT
+    400418: R_armC_finger5C_JNT
+    400420: R_armC_finger5D_END
+    400422: R_armC_hand_JNT
+    400424: R_armC_lower_JNT
+    400426: R_armC_upper_JNT
+    400428: R_armC_wrist_END
+    400430: R_armD_finger1A_JNT
+    400432: R_armD_finger1B_JNT
+    400434: R_armD_finger1C_JNT
+    400436: R_armD_finger1D_END
+    400438: R_armD_finger2A_JNT
+    400440: R_armD_finger2B_JNT
+    400442: R_armD_finger2C_JNT
+    400444: R_armD_finger2D_END
+    400446: R_armD_finger3A_JNT
+    400448: R_armD_finger3B_JNT
+    400450: R_armD_finger3C_JNT
+    400452: R_armD_finger3D_END
+    400454: R_armD_finger4A_JNT
+    400456: R_armD_finger4B_JNT
+    400458: R_armD_finger4C_JNT
+    400460: R_armD_finger4D_END
+    400462: R_armD_finger5A_JNT
+    400464: R_armD_finger5B_JNT
+    400466: R_armD_finger5C_JNT
+    400468: R_armD_finger5D_END
+    400470: R_armD_hand_JNT
+    400472: R_armD_lower_JNT
+    400474: R_armD_upper_JNT
+    400476: R_armD_wrist_END
+    400478: R_hairA_10_JNT
+    400480: R_hairA_11_JNT
+    400482: R_hairA_12_JNT
+    400484: R_hairA_13_JNT
+    400486: R_hairA_1_JNT
+    400488: R_hairA_2_JNT
+    400490: R_hairA_3_JNT
+    400492: R_hairA_4_JNT
+    400494: R_hairA_5_JNT
+    400496: R_hairA_6_JNT
+    400498: R_hairA_7_JNT
+    400500: R_hairA_8_JNT
+    400502: R_hairA_9_JNT
+    400504: R_hairB_10_JNT
+    400506: R_hairB_11_JNT
+    400508: R_hairB_12_JNT
+    400510: R_hairB_13_JNT
+    400512: R_hairB_1_JNT
+    400514: R_hairB_2_JNT
+    400516: R_hairB_3_JNT
+    400518: R_hairB_4_JNT
+    400520: R_hairB_5_JNT
+    400522: R_hairB_6_JNT
+    400524: R_hairB_7_JNT
+    400526: R_hairB_8_JNT
+    400528: R_hairB_9_JNT
+    400530: R_ribbonBow1_JNT
+    400532: R_ribbonBow2_JNT
+    400534: R_ribbonBow3_JNT
+    400536: R_ribbonBow4_END
+    400538: R_ribbonTail1_JNT
+    400540: R_ribbonTail2_JNT
+    400542: R_ribbonTail3_JNT
+    400544: R_ribbonTail4_JNT
+    400546: R_ribbonTail5_END
+    400548: RootBone
+    400550: //RootNode
+    400552: tail_01_JNT
+    400554: tail_02_JNT
+    400556: tail_03_JNT
+    400558: tail_04_END
+    2300000: geo
+    3300000: geo
+    4300000: geo
+    7400000: StandFinisher1
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: StandFinisher1
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 37
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: geo
+        weight: 1
+      - path: JntGrp
+        weight: 1
+      - path: JntGrp/RootBone
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger1A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger1A_JNT/L_armA_finger1B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger1A_JNT/L_armA_finger1B_JNT/L_armA_finger1C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger1A_JNT/L_armA_finger1B_JNT/L_armA_finger1C_JNT/L_armA_finger1D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger2A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger2A_JNT/L_armA_finger2B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger2A_JNT/L_armA_finger2B_JNT/L_armA_finger2C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger2A_JNT/L_armA_finger2B_JNT/L_armA_finger2C_JNT/L_armA_finger2D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger3A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger3A_JNT/L_armA_finger3B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger3A_JNT/L_armA_finger3B_JNT/L_armA_finger3C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger3A_JNT/L_armA_finger3B_JNT/L_armA_finger3C_JNT/L_armA_finger3D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger4A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger4A_JNT/L_armA_finger4B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger4A_JNT/L_armA_finger4B_JNT/L_armA_finger4C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger4A_JNT/L_armA_finger4B_JNT/L_armA_finger4C_JNT/L_armA_finger4D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger5A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger5A_JNT/L_armA_finger5B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger5A_JNT/L_armA_finger5B_JNT/L_armA_finger5C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_lower_JNT/L_armA_wrist_END/L_armA_hand_JNT/L_armA_finger5A_JNT/L_armA_finger5B_JNT/L_armA_finger5C_JNT/L_armA_finger5D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_shoulderPad_01_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armA_upper_JNT/L_armA_shoulderPad_01_JNT/L_armA_shoulderPad_02_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger1A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger1A_JNT/L_armB_finger1B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger1A_JNT/L_armB_finger1B_JNT/L_armB_finger1C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger1A_JNT/L_armB_finger1B_JNT/L_armB_finger1C_JNT/L_armB_finger1D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger2A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger2A_JNT/L_armB_finger2B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger2A_JNT/L_armB_finger2B_JNT/L_armB_finger2C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger2A_JNT/L_armB_finger2B_JNT/L_armB_finger2C_JNT/L_armB_finger2D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger3A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger3A_JNT/L_armB_finger3B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger3A_JNT/L_armB_finger3B_JNT/L_armB_finger3C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger3A_JNT/L_armB_finger3B_JNT/L_armB_finger3C_JNT/L_armB_finger3D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger4A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger4A_JNT/L_armB_finger4B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger4A_JNT/L_armB_finger4B_JNT/L_armB_finger4C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger4A_JNT/L_armB_finger4B_JNT/L_armB_finger4C_JNT/L_armB_finger4D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger5A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger5A_JNT/L_armB_finger5B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger5A_JNT/L_armB_finger5B_JNT/L_armB_finger5C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armB_upper_JNT/L_armB_lower_JNT/L_armB_wrist_END/L_armB_hand_JNT/L_armB_finger5A_JNT/L_armB_finger5B_JNT/L_armB_finger5C_JNT/L_armB_finger5D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger1A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger1A_JNT/L_armC_finger1B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger1A_JNT/L_armC_finger1B_JNT/L_armC_finger1C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger1A_JNT/L_armC_finger1B_JNT/L_armC_finger1C_JNT/L_armC_finger1D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger2A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger2A_JNT/L_armC_finger2B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger2A_JNT/L_armC_finger2B_JNT/L_armC_finger2C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger2A_JNT/L_armC_finger2B_JNT/L_armC_finger2C_JNT/L_armC_finger2D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger3A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger3A_JNT/L_armC_finger3B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger3A_JNT/L_armC_finger3B_JNT/L_armC_finger3C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger3A_JNT/L_armC_finger3B_JNT/L_armC_finger3C_JNT/L_armC_finger3D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger4A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger4A_JNT/L_armC_finger4B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger4A_JNT/L_armC_finger4B_JNT/L_armC_finger4C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger4A_JNT/L_armC_finger4B_JNT/L_armC_finger4C_JNT/L_armC_finger4D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger5A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger5A_JNT/L_armC_finger5B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger5A_JNT/L_armC_finger5B_JNT/L_armC_finger5C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armC_upper_JNT/L_armC_lower_JNT/L_armC_wrist_END/L_armC_hand_JNT/L_armC_finger5A_JNT/L_armC_finger5B_JNT/L_armC_finger5C_JNT/L_armC_finger5D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger1A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger1A_JNT/L_armD_finger1B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger1A_JNT/L_armD_finger1B_JNT/L_armD_finger1C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger1A_JNT/L_armD_finger1B_JNT/L_armD_finger1C_JNT/L_armD_finger1D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger2A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger2A_JNT/L_armD_finger2B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger2A_JNT/L_armD_finger2B_JNT/L_armD_finger2C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger2A_JNT/L_armD_finger2B_JNT/L_armD_finger2C_JNT/L_armD_finger2D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger3A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger3A_JNT/L_armD_finger3B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger3A_JNT/L_armD_finger3B_JNT/L_armD_finger3C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger3A_JNT/L_armD_finger3B_JNT/L_armD_finger3C_JNT/L_armD_finger3D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger4A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger4A_JNT/L_armD_finger4B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger4A_JNT/L_armD_finger4B_JNT/L_armD_finger4C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger4A_JNT/L_armD_finger4B_JNT/L_armD_finger4C_JNT/L_armD_finger4D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger5A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger5A_JNT/L_armD_finger5B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger5A_JNT/L_armD_finger5B_JNT/L_armD_finger5C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/L_armD_upper_JNT/L_armD_lower_JNT/L_armD_wrist_END/L_armD_hand_JNT/L_armD_finger5A_JNT/L_armD_finger5B_JNT/L_armD_finger5C_JNT/L_armD_finger5D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/head_02_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairA_1_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairA_1_JNT/L_hairA_2_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairA_1_JNT/L_hairA_2_JNT/L_hairA_3_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairA_1_JNT/L_hairA_2_JNT/L_hairA_3_JNT/L_hairA_4_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairA_1_JNT/L_hairA_2_JNT/L_hairA_3_JNT/L_hairA_4_JNT/L_hairA_5_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairA_1_JNT/L_hairA_2_JNT/L_hairA_3_JNT/L_hairA_4_JNT/L_hairA_5_JNT/L_hairA_6_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairA_1_JNT/L_hairA_2_JNT/L_hairA_3_JNT/L_hairA_4_JNT/L_hairA_5_JNT/L_hairA_6_JNT/L_hairA_7_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairA_1_JNT/L_hairA_2_JNT/L_hairA_3_JNT/L_hairA_4_JNT/L_hairA_5_JNT/L_hairA_6_JNT/L_hairA_7_JNT/L_hairA_8_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairA_1_JNT/L_hairA_2_JNT/L_hairA_3_JNT/L_hairA_4_JNT/L_hairA_5_JNT/L_hairA_6_JNT/L_hairA_7_JNT/L_hairA_8_JNT/L_hairA_9_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairA_1_JNT/L_hairA_2_JNT/L_hairA_3_JNT/L_hairA_4_JNT/L_hairA_5_JNT/L_hairA_6_JNT/L_hairA_7_JNT/L_hairA_8_JNT/L_hairA_9_JNT/L_hairA_10_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairA_1_JNT/L_hairA_2_JNT/L_hairA_3_JNT/L_hairA_4_JNT/L_hairA_5_JNT/L_hairA_6_JNT/L_hairA_7_JNT/L_hairA_8_JNT/L_hairA_9_JNT/L_hairA_10_JNT/L_hairA_11_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairA_1_JNT/L_hairA_2_JNT/L_hairA_3_JNT/L_hairA_4_JNT/L_hairA_5_JNT/L_hairA_6_JNT/L_hairA_7_JNT/L_hairA_8_JNT/L_hairA_9_JNT/L_hairA_10_JNT/L_hairA_11_JNT/L_hairA_12_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairA_1_JNT/L_hairA_2_JNT/L_hairA_3_JNT/L_hairA_4_JNT/L_hairA_5_JNT/L_hairA_6_JNT/L_hairA_7_JNT/L_hairA_8_JNT/L_hairA_9_JNT/L_hairA_10_JNT/L_hairA_11_JNT/L_hairA_12_JNT/L_hairA_13_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairB_1_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairB_1_JNT/L_hairB_2_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairB_1_JNT/L_hairB_2_JNT/L_hairB_3_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairB_1_JNT/L_hairB_2_JNT/L_hairB_3_JNT/L_hairB_4_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairB_1_JNT/L_hairB_2_JNT/L_hairB_3_JNT/L_hairB_4_JNT/L_hairB_5_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairB_1_JNT/L_hairB_2_JNT/L_hairB_3_JNT/L_hairB_4_JNT/L_hairB_5_JNT/L_hairB_6_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairB_1_JNT/L_hairB_2_JNT/L_hairB_3_JNT/L_hairB_4_JNT/L_hairB_5_JNT/L_hairB_6_JNT/L_hairB_7_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairB_1_JNT/L_hairB_2_JNT/L_hairB_3_JNT/L_hairB_4_JNT/L_hairB_5_JNT/L_hairB_6_JNT/L_hairB_7_JNT/L_hairB_8_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairB_1_JNT/L_hairB_2_JNT/L_hairB_3_JNT/L_hairB_4_JNT/L_hairB_5_JNT/L_hairB_6_JNT/L_hairB_7_JNT/L_hairB_8_JNT/L_hairB_9_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairB_1_JNT/L_hairB_2_JNT/L_hairB_3_JNT/L_hairB_4_JNT/L_hairB_5_JNT/L_hairB_6_JNT/L_hairB_7_JNT/L_hairB_8_JNT/L_hairB_9_JNT/L_hairB_10_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairB_1_JNT/L_hairB_2_JNT/L_hairB_3_JNT/L_hairB_4_JNT/L_hairB_5_JNT/L_hairB_6_JNT/L_hairB_7_JNT/L_hairB_8_JNT/L_hairB_9_JNT/L_hairB_10_JNT/L_hairB_11_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairB_1_JNT/L_hairB_2_JNT/L_hairB_3_JNT/L_hairB_4_JNT/L_hairB_5_JNT/L_hairB_6_JNT/L_hairB_7_JNT/L_hairB_8_JNT/L_hairB_9_JNT/L_hairB_10_JNT/L_hairB_11_JNT/L_hairB_12_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_hairB_1_JNT/L_hairB_2_JNT/L_hairB_3_JNT/L_hairB_4_JNT/L_hairB_5_JNT/L_hairB_6_JNT/L_hairB_7_JNT/L_hairB_8_JNT/L_hairB_9_JNT/L_hairB_10_JNT/L_hairB_11_JNT/L_hairB_12_JNT/L_hairB_13_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_ribbonBow1_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_ribbonBow1_JNT/L_ribbonBow2_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_ribbonBow1_JNT/L_ribbonBow2_JNT/L_ribbonBow3_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_ribbonBow1_JNT/L_ribbonBow2_JNT/L_ribbonBow3_JNT/L_ribbonBow4_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_ribbonTail1_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_ribbonTail1_JNT/L_ribbonTail2_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_ribbonTail1_JNT/L_ribbonTail2_JNT/L_ribbonTail3_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_ribbonTail1_JNT/L_ribbonTail2_JNT/L_ribbonTail3_JNT/L_ribbonTail4_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/L_ribbonTail1_JNT/L_ribbonTail2_JNT/L_ribbonTail3_JNT/L_ribbonTail4_JNT/L_ribbonTail5_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairA_1_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairA_1_JNT/R_hairA_2_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairA_1_JNT/R_hairA_2_JNT/R_hairA_3_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairA_1_JNT/R_hairA_2_JNT/R_hairA_3_JNT/R_hairA_4_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairA_1_JNT/R_hairA_2_JNT/R_hairA_3_JNT/R_hairA_4_JNT/R_hairA_5_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairA_1_JNT/R_hairA_2_JNT/R_hairA_3_JNT/R_hairA_4_JNT/R_hairA_5_JNT/R_hairA_6_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairA_1_JNT/R_hairA_2_JNT/R_hairA_3_JNT/R_hairA_4_JNT/R_hairA_5_JNT/R_hairA_6_JNT/R_hairA_7_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairA_1_JNT/R_hairA_2_JNT/R_hairA_3_JNT/R_hairA_4_JNT/R_hairA_5_JNT/R_hairA_6_JNT/R_hairA_7_JNT/R_hairA_8_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairA_1_JNT/R_hairA_2_JNT/R_hairA_3_JNT/R_hairA_4_JNT/R_hairA_5_JNT/R_hairA_6_JNT/R_hairA_7_JNT/R_hairA_8_JNT/R_hairA_9_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairA_1_JNT/R_hairA_2_JNT/R_hairA_3_JNT/R_hairA_4_JNT/R_hairA_5_JNT/R_hairA_6_JNT/R_hairA_7_JNT/R_hairA_8_JNT/R_hairA_9_JNT/R_hairA_10_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairA_1_JNT/R_hairA_2_JNT/R_hairA_3_JNT/R_hairA_4_JNT/R_hairA_5_JNT/R_hairA_6_JNT/R_hairA_7_JNT/R_hairA_8_JNT/R_hairA_9_JNT/R_hairA_10_JNT/R_hairA_11_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairA_1_JNT/R_hairA_2_JNT/R_hairA_3_JNT/R_hairA_4_JNT/R_hairA_5_JNT/R_hairA_6_JNT/R_hairA_7_JNT/R_hairA_8_JNT/R_hairA_9_JNT/R_hairA_10_JNT/R_hairA_11_JNT/R_hairA_12_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairA_1_JNT/R_hairA_2_JNT/R_hairA_3_JNT/R_hairA_4_JNT/R_hairA_5_JNT/R_hairA_6_JNT/R_hairA_7_JNT/R_hairA_8_JNT/R_hairA_9_JNT/R_hairA_10_JNT/R_hairA_11_JNT/R_hairA_12_JNT/R_hairA_13_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairB_1_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairB_1_JNT/R_hairB_2_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairB_1_JNT/R_hairB_2_JNT/R_hairB_3_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairB_1_JNT/R_hairB_2_JNT/R_hairB_3_JNT/R_hairB_4_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairB_1_JNT/R_hairB_2_JNT/R_hairB_3_JNT/R_hairB_4_JNT/R_hairB_5_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairB_1_JNT/R_hairB_2_JNT/R_hairB_3_JNT/R_hairB_4_JNT/R_hairB_5_JNT/R_hairB_6_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairB_1_JNT/R_hairB_2_JNT/R_hairB_3_JNT/R_hairB_4_JNT/R_hairB_5_JNT/R_hairB_6_JNT/R_hairB_7_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairB_1_JNT/R_hairB_2_JNT/R_hairB_3_JNT/R_hairB_4_JNT/R_hairB_5_JNT/R_hairB_6_JNT/R_hairB_7_JNT/R_hairB_8_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairB_1_JNT/R_hairB_2_JNT/R_hairB_3_JNT/R_hairB_4_JNT/R_hairB_5_JNT/R_hairB_6_JNT/R_hairB_7_JNT/R_hairB_8_JNT/R_hairB_9_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairB_1_JNT/R_hairB_2_JNT/R_hairB_3_JNT/R_hairB_4_JNT/R_hairB_5_JNT/R_hairB_6_JNT/R_hairB_7_JNT/R_hairB_8_JNT/R_hairB_9_JNT/R_hairB_10_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairB_1_JNT/R_hairB_2_JNT/R_hairB_3_JNT/R_hairB_4_JNT/R_hairB_5_JNT/R_hairB_6_JNT/R_hairB_7_JNT/R_hairB_8_JNT/R_hairB_9_JNT/R_hairB_10_JNT/R_hairB_11_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairB_1_JNT/R_hairB_2_JNT/R_hairB_3_JNT/R_hairB_4_JNT/R_hairB_5_JNT/R_hairB_6_JNT/R_hairB_7_JNT/R_hairB_8_JNT/R_hairB_9_JNT/R_hairB_10_JNT/R_hairB_11_JNT/R_hairB_12_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_hairB_1_JNT/R_hairB_2_JNT/R_hairB_3_JNT/R_hairB_4_JNT/R_hairB_5_JNT/R_hairB_6_JNT/R_hairB_7_JNT/R_hairB_8_JNT/R_hairB_9_JNT/R_hairB_10_JNT/R_hairB_11_JNT/R_hairB_12_JNT/R_hairB_13_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_ribbonBow1_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_ribbonBow1_JNT/R_ribbonBow2_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_ribbonBow1_JNT/R_ribbonBow2_JNT/R_ribbonBow3_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_ribbonBow1_JNT/R_ribbonBow2_JNT/R_ribbonBow3_JNT/R_ribbonBow4_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_ribbonTail1_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_ribbonTail1_JNT/R_ribbonTail2_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_ribbonTail1_JNT/R_ribbonTail2_JNT/R_ribbonTail3_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_ribbonTail1_JNT/R_ribbonTail2_JNT/R_ribbonTail3_JNT/R_ribbonTail4_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/neck_01_JNT/head_01_JNT/R_ribbonTail1_JNT/R_ribbonTail2_JNT/R_ribbonTail3_JNT/R_ribbonTail4_JNT/R_ribbonTail5_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger1A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger1A_JNT/R_armA_finger1B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger1A_JNT/R_armA_finger1B_JNT/R_armA_finger1C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger1A_JNT/R_armA_finger1B_JNT/R_armA_finger1C_JNT/R_armA_finger1D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger2A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger2A_JNT/R_armA_finger2B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger2A_JNT/R_armA_finger2B_JNT/R_armA_finger2C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger2A_JNT/R_armA_finger2B_JNT/R_armA_finger2C_JNT/R_armA_finger2D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger3A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger3A_JNT/R_armA_finger3B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger3A_JNT/R_armA_finger3B_JNT/R_armA_finger3C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger3A_JNT/R_armA_finger3B_JNT/R_armA_finger3C_JNT/R_armA_finger3D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger4A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger4A_JNT/R_armA_finger4B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger4A_JNT/R_armA_finger4B_JNT/R_armA_finger4C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger4A_JNT/R_armA_finger4B_JNT/R_armA_finger4C_JNT/R_armA_finger4D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger5A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger5A_JNT/R_armA_finger5B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger5A_JNT/R_armA_finger5B_JNT/R_armA_finger5C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_lower_JNT/R_armA_wrist_END/R_armA_hand_JNT/R_armA_finger5A_JNT/R_armA_finger5B_JNT/R_armA_finger5C_JNT/R_armA_finger5D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_shoulderPad_01_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armA_upper_JNT/R_armA_shoulderPad_01_JNT/R_armA_shoulderPad_02_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger1A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger1A_JNT/R_armB_finger1B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger1A_JNT/R_armB_finger1B_JNT/R_armB_finger1C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger1A_JNT/R_armB_finger1B_JNT/R_armB_finger1C_JNT/R_armB_finger1D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger2A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger2A_JNT/R_armB_finger2B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger2A_JNT/R_armB_finger2B_JNT/R_armB_finger2C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger2A_JNT/R_armB_finger2B_JNT/R_armB_finger2C_JNT/R_armB_finger2D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger3A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger3A_JNT/R_armB_finger3B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger3A_JNT/R_armB_finger3B_JNT/R_armB_finger3C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger3A_JNT/R_armB_finger3B_JNT/R_armB_finger3C_JNT/R_armB_finger3D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger4A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger4A_JNT/R_armB_finger4B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger4A_JNT/R_armB_finger4B_JNT/R_armB_finger4C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger4A_JNT/R_armB_finger4B_JNT/R_armB_finger4C_JNT/R_armB_finger4D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger5A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger5A_JNT/R_armB_finger5B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger5A_JNT/R_armB_finger5B_JNT/R_armB_finger5C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armB_upper_JNT/R_armB_lower_JNT/R_armB_wrist_END/R_armB_hand_JNT/R_armB_finger5A_JNT/R_armB_finger5B_JNT/R_armB_finger5C_JNT/R_armB_finger5D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger1A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger1A_JNT/R_armC_finger1B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger1A_JNT/R_armC_finger1B_JNT/R_armC_finger1C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger1A_JNT/R_armC_finger1B_JNT/R_armC_finger1C_JNT/R_armC_finger1D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger2A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger2A_JNT/R_armC_finger2B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger2A_JNT/R_armC_finger2B_JNT/R_armC_finger2C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger2A_JNT/R_armC_finger2B_JNT/R_armC_finger2C_JNT/R_armC_finger2D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger3A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger3A_JNT/R_armC_finger3B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger3A_JNT/R_armC_finger3B_JNT/R_armC_finger3C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger3A_JNT/R_armC_finger3B_JNT/R_armC_finger3C_JNT/R_armC_finger3D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger4A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger4A_JNT/R_armC_finger4B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger4A_JNT/R_armC_finger4B_JNT/R_armC_finger4C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger4A_JNT/R_armC_finger4B_JNT/R_armC_finger4C_JNT/R_armC_finger4D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger5A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger5A_JNT/R_armC_finger5B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger5A_JNT/R_armC_finger5B_JNT/R_armC_finger5C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armC_upper_JNT/R_armC_lower_JNT/R_armC_wrist_END/R_armC_hand_JNT/R_armC_finger5A_JNT/R_armC_finger5B_JNT/R_armC_finger5C_JNT/R_armC_finger5D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger1A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger1A_JNT/R_armD_finger1B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger1A_JNT/R_armD_finger1B_JNT/R_armD_finger1C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger1A_JNT/R_armD_finger1B_JNT/R_armD_finger1C_JNT/R_armD_finger1D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger2A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger2A_JNT/R_armD_finger2B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger2A_JNT/R_armD_finger2B_JNT/R_armD_finger2C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger2A_JNT/R_armD_finger2B_JNT/R_armD_finger2C_JNT/R_armD_finger2D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger3A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger3A_JNT/R_armD_finger3B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger3A_JNT/R_armD_finger3B_JNT/R_armD_finger3C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger3A_JNT/R_armD_finger3B_JNT/R_armD_finger3C_JNT/R_armD_finger3D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger4A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger4A_JNT/R_armD_finger4B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger4A_JNT/R_armD_finger4B_JNT/R_armD_finger4C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger4A_JNT/R_armD_finger4B_JNT/R_armD_finger4C_JNT/R_armD_finger4D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger5A_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger5A_JNT/R_armD_finger5B_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger5A_JNT/R_armD_finger5B_JNT/R_armD_finger5C_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/chest_01_JNT/R_armD_upper_JNT/R_armD_lower_JNT/R_armD_wrist_END/R_armD_hand_JNT/R_armD_finger5A_JNT/R_armD_finger5B_JNT/R_armD_finger5C_JNT/R_armD_finger5D_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/pelvis_02_END
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/tail_01_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/tail_01_JNT/tail_02_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/tail_01_JNT/tail_02_JNT/tail_03_JNT
+        weight: 1
+      - path: JntGrp/RootBone/pelvis_01_JNT/tail_01_JNT/tail_02_JNT/tail_03_JNT/tail_04_END
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

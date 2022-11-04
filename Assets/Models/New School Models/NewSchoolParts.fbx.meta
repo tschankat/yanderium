@@ -1,0 +1,551 @@
+fileFormatVersion: 2
+guid: 8c3d5cbbdb102b843ac1f0d68d1565bf
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Ceiling_Corner
+    100002: Ceiling_Corridor
+    100004: Ceiling_End
+    100006: Ceiling_Support
+    100008: Ceiling_Three_Way
+    100010: Column_Exterior_Corner
+    100012: Column_Exterior_Half
+    100014: Column_Exterior_Three_Quarters
+    100016: Column_Interior_Corner
+    100018: Column_Interior_Full
+    100020: Column_Interior_Three_Quarters
+    100022: Column_One_Sided
+    100024: Curtain
+    100026: Door
+    100028: Door 1
+    100030: Door 2
+    100032: Door 3
+    100034: Entrance_Column
+    100036: Entrance_Column_Half
+    100038: Exterior_Double_Door_Wall
+    100040: Exterior_Single_Door_Wall
+    100042: Exterior_Spacer
+    100044: Exterior_Wall
+    100046: Exterior_Wall_with_Window
+    100048: Exterior_Wall_with_Window 1
+    100050: Exterior_Window
+    100052: FarLeftFrame
+    100054: FarRightFrame
+    100056: Floor_Center
+    100058: Floor_Corner
+    100060: Floor_Corridor
+    100062: Floor_End
+    100064: Floor_Open_Corner
+    100066: Floor_Side_Corner
+    100068: Floor_Staircase_Connect
+    100070: Frame1
+    100072: Frame2
+    100074: Frame3
+    100076: Frame4
+    100078: Frame5
+    100080: Frame6
+    100082: Frame7
+    100084: Frame8
+    100086: Half_Column
+    100088: Handle
+    100090: Handle 1
+    100092: Handle 2
+    100094: Handle 3
+    100096: Handle 4
+    100098: Handle 5
+    100100: Interior_Wall
+    100102: Interior_Wall_Double_Door
+    100104: Interior_Wall_Single_Door_Left
+    100106: Interior_Wall_Single_Door_Right
+    100108: Interior_Wall_with_Exterior_Window
+    100110: Interior_Wall_with_Window
+    100112: Interior_Window
+    100114: LeftDoor
+    100116: LeftDoor 1
+    100118: LeftDoorAxis
+    100120: LeftDoorAxis 1
+    100122: LeftDoorFrame
+    100124: Lighting
+    100126: Main_Entrance_Doors
+    100128: NearLeftFrame
+    100130: NearRightFrame
+    100132: //RootNode
+    100134: RightDoor
+    100136: RightDoor 1
+    100138: RightDoorAxis
+    100140: RightDoorAxis 1
+    100142: RightDoorFrame
+    100144: Sign
+    100146: Sliding_Double_Doors
+    100148: Sliding_Double_Doors_No_Windows
+    100150: Staircase
+    100152: Staircase_Ceiling
+    100154: Staircase_Wall_Left
+    100156: Staircase_Wall_Right
+    100158: Swinging_Double_Doors
+    100160: Swinging_Double_Doors_No_Windows
+    100162: Swinging_Single_Door_No_Window
+    100164: Swinging_Single_Door_with_Window
+    100166: Window
+    100168: Window 1
+    100170: Window 10
+    100172: Window 11
+    100174: Window 12
+    100176: Window 13
+    100178: Window 14
+    100180: Window 15
+    100182: Window 16
+    100184: Window 17
+    100186: Window 18
+    100188: Window 19
+    100190: Window 2
+    100192: Window 20
+    100194: Window 3
+    100196: Window 4
+    100198: Window 5
+    100200: Window 6
+    100202: Window 7
+    100204: Window 8
+    100206: Window 9
+    400000: Ceiling_Corner
+    400002: Ceiling_Corridor
+    400004: Ceiling_End
+    400006: Ceiling_Support
+    400008: Ceiling_Three_Way
+    400010: Column_Exterior_Corner
+    400012: Column_Exterior_Half
+    400014: Column_Exterior_Three_Quarters
+    400016: Column_Interior_Corner
+    400018: Column_Interior_Full
+    400020: Column_Interior_Three_Quarters
+    400022: Column_One_Sided
+    400024: Curtain
+    400026: Door
+    400028: Door 1
+    400030: Door 2
+    400032: Door 3
+    400034: Entrance_Column
+    400036: Entrance_Column_Half
+    400038: Exterior_Double_Door_Wall
+    400040: Exterior_Single_Door_Wall
+    400042: Exterior_Spacer
+    400044: Exterior_Wall
+    400046: Exterior_Wall_with_Window
+    400048: Exterior_Wall_with_Window 1
+    400050: Exterior_Window
+    400052: FarLeftFrame
+    400054: FarRightFrame
+    400056: Floor_Center
+    400058: Floor_Corner
+    400060: Floor_Corridor
+    400062: Floor_End
+    400064: Floor_Open_Corner
+    400066: Floor_Side_Corner
+    400068: Floor_Staircase_Connect
+    400070: Frame1
+    400072: Frame2
+    400074: Frame3
+    400076: Frame4
+    400078: Frame5
+    400080: Frame6
+    400082: Frame7
+    400084: Frame8
+    400086: Half_Column
+    400088: Handle
+    400090: Handle 1
+    400092: Handle 2
+    400094: Handle 3
+    400096: Handle 4
+    400098: Handle 5
+    400100: Interior_Wall
+    400102: Interior_Wall_Double_Door
+    400104: Interior_Wall_Single_Door_Left
+    400106: Interior_Wall_Single_Door_Right
+    400108: Interior_Wall_with_Exterior_Window
+    400110: Interior_Wall_with_Window
+    400112: Interior_Window
+    400114: LeftDoor
+    400116: LeftDoor 1
+    400118: LeftDoorAxis
+    400120: LeftDoorAxis 1
+    400122: LeftDoorFrame
+    400124: Lighting
+    400126: Main_Entrance_Doors
+    400128: NearLeftFrame
+    400130: NearRightFrame
+    400132: //RootNode
+    400134: RightDoor
+    400136: RightDoor 1
+    400138: RightDoorAxis
+    400140: RightDoorAxis 1
+    400142: RightDoorFrame
+    400144: Sign
+    400146: Sliding_Double_Doors
+    400148: Sliding_Double_Doors_No_Windows
+    400150: Staircase
+    400152: Staircase_Ceiling
+    400154: Staircase_Wall_Left
+    400156: Staircase_Wall_Right
+    400158: Swinging_Double_Doors
+    400160: Swinging_Double_Doors_No_Windows
+    400162: Swinging_Single_Door_No_Window
+    400164: Swinging_Single_Door_with_Window
+    400166: Window
+    400168: Window 1
+    400170: Window 10
+    400172: Window 11
+    400174: Window 12
+    400176: Window 13
+    400178: Window 14
+    400180: Window 15
+    400182: Window 16
+    400184: Window 17
+    400186: Window 18
+    400188: Window 19
+    400190: Window 2
+    400192: Window 20
+    400194: Window 3
+    400196: Window 4
+    400198: Window 5
+    400200: Window 6
+    400202: Window 7
+    400204: Window 8
+    400206: Window 9
+    2300000: Ceiling_Corner
+    2300002: Ceiling_Corridor
+    2300004: Ceiling_End
+    2300006: Ceiling_Support
+    2300008: Ceiling_Three_Way
+    2300010: Column_Exterior_Corner
+    2300012: Column_Exterior_Half
+    2300014: Column_Exterior_Three_Quarters
+    2300016: Column_Interior_Corner
+    2300018: Column_Interior_Full
+    2300020: Column_Interior_Three_Quarters
+    2300022: Column_One_Sided
+    2300024: Door
+    2300026: Door 1
+    2300028: Door 2
+    2300030: Door 3
+    2300032: Entrance_Column
+    2300034: Entrance_Column_Half
+    2300036: Exterior_Double_Door_Wall
+    2300038: Exterior_Single_Door_Wall
+    2300040: Exterior_Spacer
+    2300042: Exterior_Wall
+    2300044: Exterior_Wall_with_Window 1
+    2300046: Exterior_Window
+    2300048: FarLeftFrame
+    2300050: FarRightFrame
+    2300052: Floor_Center
+    2300054: Floor_Corner
+    2300056: Floor_Corridor
+    2300058: Floor_End
+    2300060: Floor_Open_Corner
+    2300062: Floor_Side_Corner
+    2300064: Floor_Staircase_Connect
+    2300066: Frame1
+    2300068: Frame2
+    2300070: Frame3
+    2300072: Frame4
+    2300074: Frame5
+    2300076: Frame6
+    2300078: Frame7
+    2300080: Frame8
+    2300082: Half_Column
+    2300084: Handle
+    2300086: Handle 1
+    2300088: Handle 2
+    2300090: Handle 3
+    2300092: Handle 4
+    2300094: Handle 5
+    2300096: Interior_Wall
+    2300098: Interior_Wall_Double_Door
+    2300100: Interior_Wall_Single_Door_Left
+    2300102: Interior_Wall_Single_Door_Right
+    2300104: Interior_Wall_with_Exterior_Window
+    2300106: Interior_Wall_with_Window
+    2300108: Interior_Window
+    2300110: LeftDoor
+    2300112: LeftDoor 1
+    2300114: LeftDoorFrame
+    2300116: Lighting
+    2300118: Main_Entrance_Doors
+    2300120: NearLeftFrame
+    2300122: NearRightFrame
+    2300124: RightDoor
+    2300126: RightDoor 1
+    2300128: RightDoorFrame
+    2300130: Sign
+    2300132: Staircase
+    2300134: Staircase_Ceiling
+    2300136: Staircase_Wall_Left
+    2300138: Staircase_Wall_Right
+    2300140: Swinging_Single_Door_No_Window
+    2300142: Swinging_Single_Door_with_Window
+    2300144: Window
+    2300146: Window 1
+    2300148: Window 10
+    2300150: Window 11
+    2300152: Window 12
+    2300154: Window 13
+    2300156: Window 14
+    2300158: Window 15
+    2300160: Window 16
+    2300162: Window 17
+    2300164: Window 18
+    2300166: Window 19
+    2300168: Window 2
+    2300170: Window 20
+    2300172: Window 3
+    2300174: Window 4
+    2300176: Window 5
+    2300178: Window 6
+    2300180: Window 7
+    2300182: Window 8
+    2300184: Window 9
+    2300186: Exterior_Wall_with_Window
+    3300000: Ceiling_Corner
+    3300002: Ceiling_Corridor
+    3300004: Ceiling_End
+    3300006: Ceiling_Support
+    3300008: Ceiling_Three_Way
+    3300010: Column_Exterior_Corner
+    3300012: Column_Exterior_Half
+    3300014: Column_Exterior_Three_Quarters
+    3300016: Column_Interior_Corner
+    3300018: Column_Interior_Full
+    3300020: Column_Interior_Three_Quarters
+    3300022: Column_One_Sided
+    3300024: Door
+    3300026: Door 1
+    3300028: Door 2
+    3300030: Door 3
+    3300032: Entrance_Column
+    3300034: Entrance_Column_Half
+    3300036: Exterior_Double_Door_Wall
+    3300038: Exterior_Single_Door_Wall
+    3300040: Exterior_Spacer
+    3300042: Exterior_Wall
+    3300044: Exterior_Wall_with_Window 1
+    3300046: Exterior_Window
+    3300048: FarLeftFrame
+    3300050: FarRightFrame
+    3300052: Floor_Center
+    3300054: Floor_Corner
+    3300056: Floor_Corridor
+    3300058: Floor_End
+    3300060: Floor_Open_Corner
+    3300062: Floor_Side_Corner
+    3300064: Floor_Staircase_Connect
+    3300066: Frame1
+    3300068: Frame2
+    3300070: Frame3
+    3300072: Frame4
+    3300074: Frame5
+    3300076: Frame6
+    3300078: Frame7
+    3300080: Frame8
+    3300082: Half_Column
+    3300084: Handle
+    3300086: Handle 1
+    3300088: Handle 2
+    3300090: Handle 3
+    3300092: Handle 4
+    3300094: Handle 5
+    3300096: Interior_Wall
+    3300098: Interior_Wall_Double_Door
+    3300100: Interior_Wall_Single_Door_Left
+    3300102: Interior_Wall_Single_Door_Right
+    3300104: Interior_Wall_with_Exterior_Window
+    3300106: Interior_Wall_with_Window
+    3300108: Interior_Window
+    3300110: LeftDoor
+    3300112: LeftDoor 1
+    3300114: LeftDoorFrame
+    3300116: Lighting
+    3300118: Main_Entrance_Doors
+    3300120: NearLeftFrame
+    3300122: NearRightFrame
+    3300124: RightDoor
+    3300126: RightDoor 1
+    3300128: RightDoorFrame
+    3300130: Sign
+    3300132: Staircase
+    3300134: Staircase_Ceiling
+    3300136: Staircase_Wall_Left
+    3300138: Staircase_Wall_Right
+    3300140: Swinging_Single_Door_No_Window
+    3300142: Swinging_Single_Door_with_Window
+    3300144: Window
+    3300146: Window 1
+    3300148: Window 10
+    3300150: Window 11
+    3300152: Window 12
+    3300154: Window 13
+    3300156: Window 14
+    3300158: Window 15
+    3300160: Window 16
+    3300162: Window 17
+    3300164: Window 18
+    3300166: Window 19
+    3300168: Window 2
+    3300170: Window 20
+    3300172: Window 3
+    3300174: Window 4
+    3300176: Window 5
+    3300178: Window 6
+    3300180: Window 7
+    3300182: Window 8
+    3300184: Window 9
+    3300186: Exterior_Wall_with_Window
+    4300000: Door
+    4300002: Handle
+    4300004: Door
+    4300006: Handle
+    4300008: Door
+    4300010: Window
+    4300012: Handle
+    4300014: Door
+    4300016: Window
+    4300018: Handle
+    4300020: LeftDoor
+    4300022: RightDoor
+    4300024: LeftDoor
+    4300026: Window
+    4300028: RightDoor
+    4300030: Window
+    4300032: Exterior_Wall_with_Window
+    4300034: Staircase_Ceiling
+    4300036: Staircase
+    4300038: Sign
+    4300040: Lighting
+    4300042: Interior_Wall_with_Window
+    4300044: Interior_Window
+    4300046: Frame1
+    4300048: Window
+    4300050: Frame2
+    4300052: Window
+    4300054: Frame3
+    4300056: Window
+    4300058: Frame4
+    4300060: Window
+    4300062: Frame5
+    4300064: Window
+    4300066: Frame6
+    4300068: Window
+    4300070: Frame7
+    4300072: Window
+    4300074: Frame8
+    4300076: Window
+    4300078: Interior_Wall_with_Exterior_Window
+    4300080: Interior_Wall_Single_Door_Right
+    4300082: Interior_Wall_Single_Door_Left
+    4300084: Interior_Wall_Double_Door
+    4300086: Interior_Wall
+    4300088: Half_Column
+    4300090: Floor_Center
+    4300092: Exterior_Window
+    4300094: Window
+    4300096: FarLeftFrame
+    4300098: Window
+    4300100: NearLeftFrame
+    4300102: Window
+    4300104: NearRightFrame
+    4300106: Window
+    4300108: FarRightFrame
+    4300110: Window
+    4300112: Exterior_Wall
+    4300114: Exterior_Single_Door_Wall
+    4300116: Exterior_Double_Door_Wall
+    4300118: Column_Exterior_Half
+    4300120: Column_Exterior_Three_Quarters
+    4300122: Column_Exterior_Corner
+    4300124: Column_Interior_Corner
+    4300126: Column_Interior_Three_Quarters
+    4300128: Column_Interior_Full
+    4300130: Main_Entrance_Doors
+    4300132: Window
+    4300134: RightDoorFrame
+    4300136: Window
+    4300138: LeftDoorFrame
+    4300140: Window
+    4300142: Staircase_Wall_Left
+    4300144: Staircase_Wall_Right
+    4300146: Swinging_Single_Door_with_Window
+    4300148: Window
+    4300150: Handle
+    4300152: Swinging_Single_Door_No_Window
+    4300154: Handle
+    4300156: Curtain
+    4300158: Exterior_Spacer
+    4300160: Column_One_Sided
+    4300162: Entrance_Column
+    4300164: Entrance_Column_Half
+    4300166: Floor_Corridor
+    4300168: Floor_End
+    4300170: Floor_Corner
+    4300172: Floor_Open_Corner
+    4300174: Floor_Side_Corner
+    4300176: Floor_Staircase_Connect
+    4300178: Ceiling_Support
+    4300180: Ceiling_Corridor
+    4300182: Ceiling_End
+    4300184: Ceiling_Corner
+    4300186: Ceiling_Three_Way
+    9500000: //RootNode
+    13700000: Curtain
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

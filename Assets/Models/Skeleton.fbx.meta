@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: c44eae2b6659081479f1fca6c3f09d7b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: LeftSkeleArm
+    100002: LeftSkeleFoot
+    100004: LeftSkeleForearm
+    100006: LeftSkeleForeleg
+    100008: LeftSkeleHand
+    100010: LeftSkeleLeg
+    100012: RightSkeleArm
+    100014: RightSkeleFoot
+    100016: RightSkeleForearm
+    100018: RightSkeleForeleg
+    100020: RightSkeleHand
+    100022: RightSkeleLeg
+    100024: SkeleHead
+    100026: //RootNode
+    100028: SkeleTorso
+    400000: LeftSkeleArm
+    400002: LeftSkeleFoot
+    400004: LeftSkeleForearm
+    400006: LeftSkeleForeleg
+    400008: LeftSkeleHand
+    400010: LeftSkeleLeg
+    400012: RightSkeleArm
+    400014: RightSkeleFoot
+    400016: RightSkeleForearm
+    400018: RightSkeleForeleg
+    400020: RightSkeleHand
+    400022: RightSkeleLeg
+    400024: SkeleHead
+    400026: //RootNode
+    400028: SkeleTorso
+    2300000: LeftSkeleArm
+    2300002: LeftSkeleFoot
+    2300004: LeftSkeleForearm
+    2300006: LeftSkeleForeleg
+    2300008: LeftSkeleHand
+    2300010: LeftSkeleLeg
+    2300012: RightSkeleArm
+    2300014: RightSkeleFoot
+    2300016: RightSkeleForearm
+    2300018: RightSkeleForeleg
+    2300020: RightSkeleHand
+    2300022: RightSkeleLeg
+    2300024: SkeleHead
+    2300026: SkeleTorso
+    3300000: LeftSkeleArm
+    3300002: LeftSkeleFoot
+    3300004: LeftSkeleForearm
+    3300006: LeftSkeleForeleg
+    3300008: LeftSkeleHand
+    3300010: LeftSkeleLeg
+    3300012: RightSkeleArm
+    3300014: RightSkeleFoot
+    3300016: RightSkeleForearm
+    3300018: RightSkeleForeleg
+    3300020: RightSkeleHand
+    3300022: RightSkeleLeg
+    3300024: SkeleHead
+    3300026: SkeleTorso
+    4300000: SkeleHead
+    4300002: SkeleTorso
+    4300004: RightSkeleArm
+    4300006: RightSkeleForearm
+    4300008: RightSkeleHand
+    4300010: LeftSkeleArm
+    4300012: LeftSkeleForearm
+    4300014: LeftSkeleHand
+    4300016: RightSkeleLeg
+    4300018: RightSkeleForeleg
+    4300020: RightSkeleFoot
+    4300022: LeftSkeleLeg
+    4300024: LeftSkeleForeleg
+    4300026: LeftSkeleFoot
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

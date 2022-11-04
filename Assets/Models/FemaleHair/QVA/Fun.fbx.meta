@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 9e6f7780699734841b01267e5b2c0f27
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone.001
+    100004: Bone.002
+    100006: Bone.003
+    100008: Bone.004
+    100010: Bone.005
+    100012: Bone.005_end
+    100014: Bone.006
+    100016: Bone.007
+    100018: Bone.008
+    100020: Bone.009
+    100022: Bone.009_end
+    100024: Bone.010
+    100026: Bone.011
+    100028: Bone.012
+    100030: Bone.013
+    100032: Bone.013_end
+    100034: Bone.014
+    100036: Bone.015
+    100038: Bone.016
+    100040: Bone.017
+    100042: Bone.017_end
+    100044: Fun GIrl
+    100046: //RootNode
+    100048: Fun_Girl_Rig2
+    100050: FG_Rig
+    100052: Forehead
+    100054: Bone.012_end
+    100056: Bone.016_end
+    100058: Bone.018
+    100060: Bone.019
+    100062: Bone.020
+    100064: Bone.020_end
+    100066: Bone.021
+    100068: Bone.022
+    100070: Bone.023
+    100072: Bone.023_end
+    100074: Rig_6chains
+    100076: Bone.006_end
+    100078: Fun Girl
+    400000: Bone
+    400002: Bone.001
+    400004: Bone.002
+    400006: Bone.003
+    400008: Bone.004
+    400010: Bone.005
+    400012: Bone.005_end
+    400014: Bone.006
+    400016: Bone.007
+    400018: Bone.008
+    400020: Bone.009
+    400022: Bone.009_end
+    400024: Bone.010
+    400026: Bone.011
+    400028: Bone.012
+    400030: Bone.013
+    400032: Bone.013_end
+    400034: Bone.014
+    400036: Bone.015
+    400038: Bone.016
+    400040: Bone.017
+    400042: Bone.017_end
+    400044: Fun GIrl
+    400046: //RootNode
+    400048: Fun_Girl_Rig2
+    400050: FG_Rig
+    400052: Forehead
+    400054: Bone.012_end
+    400056: Bone.016_end
+    400058: Bone.018
+    400060: Bone.019
+    400062: Bone.020
+    400064: Bone.020_end
+    400066: Bone.021
+    400068: Bone.022
+    400070: Bone.023
+    400072: Bone.023_end
+    400074: Rig_6chains
+    400076: Bone.006_end
+    400078: Fun Girl
+    4300000: Fun GIrl
+    4300002: Forehead
+    9500000: //RootNode
+    13700000: Fun GIrl
+    13700002: Forehead
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

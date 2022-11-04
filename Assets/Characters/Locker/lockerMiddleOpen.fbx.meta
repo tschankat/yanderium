@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: baf5d8a76d5c73d42a284bc6cf268a31
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: locker
+    100002: LockerDoorMesh1
+    100004: LockerDoorMesh2
+    100006: LockerDoorMesh3
+    100008: LockerDoorMesh4
+    100010: LockerDoorMesh5
+    100012: LockerMesh
+    100014: //RootNode
+    100016: RRM_COG
+    100018: RRM_l_newArmDriver
+    100020: RRM_l_newArmDriver_AimLctr
+    100022: RRM_l_newArmDriver_Clavicle
+    100024: RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_Shoulder_AimLctr
+    100026: RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_Shoulder_TargetLctr
+    100028: RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_ShoulderCtrl
+    100030: RRM_l_newArmDriver_ClavicleGrp
+    100032: RRM_l_newArmDriver_ConnectorGrp
+    100034: RRM_l_newArmDriver_Elbow
+    100036: RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_Wrist_AimLctr
+    100038: RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_Wrist_TargetLctr
+    100040: RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_WristCtrl
+    100042: RRM_l_newArmDriver_ElbowAimLctr
+    100044: RRM_l_newArmDriver_ElbowAimLctrGrp
+    100046: RRM_l_newArmDriver_ElbowGrp
+    100048: RRM_l_newArmDriver_Lower1
+    100050: RRM_l_newArmDriver_Lower1Grp
+    100052: RRM_l_newArmDriver_Parent
+    100054: RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_Clavicle_AimLctr
+    100056: RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_Clavicle_TargetLctr
+    100058: RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_ClavicleCtrl
+    100060: RRM_l_newArmDriver_Shoulder
+    100062: RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_Elbow_AimLctr
+    100064: RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_Elbow_TargetLctr
+    100066: RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_ElbowCtrl
+    100068: RRM_l_newArmDriver_ShoulderGrp
+    100070: RRM_l_newArmDriver_Upper1
+    100072: RRM_l_newArmDriver_Upper1Grp
+    100074: RRM_l_newArmDriver_Wrist
+    100076: RRM_l_newArmDriver_WristGrp
+    100078: RRM_MAIN
+    100080: RRM_newArmDriver
+    100082: RRM_r_newArmDriver
+    100084: RRM_r_newArmDriver_AimLctr
+    100086: RRM_r_newArmDriver_Clavicle
+    100088: RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_Shoulder_AimLctr
+    100090: RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_Shoulder_TargetLctr
+    100092: RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_ShoulderCtrl
+    100094: RRM_r_newArmDriver_ClavicleGrp
+    100096: RRM_r_newArmDriver_ConnectorGrp
+    100098: RRM_r_newArmDriver_Elbow
+    100100: RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_Wrist_AimLctr
+    100102: RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_Wrist_TargetLctr
+    100104: RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_WristCtrl
+    100106: RRM_r_newArmDriver_ElbowAimLctr
+    100108: RRM_r_newArmDriver_ElbowAimLctrGrp
+    100110: RRM_r_newArmDriver_ElbowGrp
+    100112: RRM_r_newArmDriver_Lower1
+    100114: RRM_r_newArmDriver_Lower1Grp
+    100116: RRM_r_newArmDriver_Parent
+    100118: RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_Clavicle_AimLctr
+    100120: RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_Clavicle_TargetLctr
+    100122: RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_ClavicleCtrl
+    100124: RRM_r_newArmDriver_Shoulder
+    100126: RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_Elbow_AimLctr
+    100128: RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_Elbow_TargetLctr
+    100130: RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_ElbowCtrl
+    100132: RRM_r_newArmDriver_ShoulderGrp
+    100134: RRM_r_newArmDriver_Upper1
+    100136: RRM_r_newArmDriver_Upper1Grp
+    100138: RRM_r_newArmDriver_Wrist
+    100140: RRM_r_newArmDriver_WristGrp
+    100142: RRM_ROOT
+    100144: RRM_ROOT_RRM_l_newArmDriver_Parent_AimLctr
+    100146: RRM_ROOT_RRM_l_newArmDriver_Parent_TargetLctr
+    100148: RRM_ROOT_RRM_l_newArmDriver_ParentCtrl
+    100150: RRM_ROOT_RRM_r_newArmDriver_Parent_AimLctr
+    100152: RRM_ROOT_RRM_r_newArmDriver_Parent_TargetLctr
+    100154: RRM_ROOT_RRM_r_newArmDriver_ParentCtrl
+    400000: locker
+    400002: LockerDoorMesh1
+    400004: LockerDoorMesh2
+    400006: LockerDoorMesh3
+    400008: LockerDoorMesh4
+    400010: LockerDoorMesh5
+    400012: LockerMesh
+    400014: //RootNode
+    400016: RRM_COG
+    400018: RRM_l_newArmDriver
+    400020: RRM_l_newArmDriver_AimLctr
+    400022: RRM_l_newArmDriver_Clavicle
+    400024: RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_Shoulder_AimLctr
+    400026: RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_Shoulder_TargetLctr
+    400028: RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_ShoulderCtrl
+    400030: RRM_l_newArmDriver_ClavicleGrp
+    400032: RRM_l_newArmDriver_ConnectorGrp
+    400034: RRM_l_newArmDriver_Elbow
+    400036: RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_Wrist_AimLctr
+    400038: RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_Wrist_TargetLctr
+    400040: RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_WristCtrl
+    400042: RRM_l_newArmDriver_ElbowAimLctr
+    400044: RRM_l_newArmDriver_ElbowAimLctrGrp
+    400046: RRM_l_newArmDriver_ElbowGrp
+    400048: RRM_l_newArmDriver_Lower1
+    400050: RRM_l_newArmDriver_Lower1Grp
+    400052: RRM_l_newArmDriver_Parent
+    400054: RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_Clavicle_AimLctr
+    400056: RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_Clavicle_TargetLctr
+    400058: RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_ClavicleCtrl
+    400060: RRM_l_newArmDriver_Shoulder
+    400062: RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_Elbow_AimLctr
+    400064: RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_Elbow_TargetLctr
+    400066: RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_ElbowCtrl
+    400068: RRM_l_newArmDriver_ShoulderGrp
+    400070: RRM_l_newArmDriver_Upper1
+    400072: RRM_l_newArmDriver_Upper1Grp
+    400074: RRM_l_newArmDriver_Wrist
+    400076: RRM_l_newArmDriver_WristGrp
+    400078: RRM_MAIN
+    400080: RRM_newArmDriver
+    400082: RRM_r_newArmDriver
+    400084: RRM_r_newArmDriver_AimLctr
+    400086: RRM_r_newArmDriver_Clavicle
+    400088: RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_Shoulder_AimLctr
+    400090: RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_Shoulder_TargetLctr
+    400092: RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_ShoulderCtrl
+    400094: RRM_r_newArmDriver_ClavicleGrp
+    400096: RRM_r_newArmDriver_ConnectorGrp
+    400098: RRM_r_newArmDriver_Elbow
+    400100: RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_Wrist_AimLctr
+    400102: RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_Wrist_TargetLctr
+    400104: RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_WristCtrl
+    400106: RRM_r_newArmDriver_ElbowAimLctr
+    400108: RRM_r_newArmDriver_ElbowAimLctrGrp
+    400110: RRM_r_newArmDriver_ElbowGrp
+    400112: RRM_r_newArmDriver_Lower1
+    400114: RRM_r_newArmDriver_Lower1Grp
+    400116: RRM_r_newArmDriver_Parent
+    400118: RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_Clavicle_AimLctr
+    400120: RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_Clavicle_TargetLctr
+    400122: RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_ClavicleCtrl
+    400124: RRM_r_newArmDriver_Shoulder
+    400126: RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_Elbow_AimLctr
+    400128: RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_Elbow_TargetLctr
+    400130: RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_ElbowCtrl
+    400132: RRM_r_newArmDriver_ShoulderGrp
+    400134: RRM_r_newArmDriver_Upper1
+    400136: RRM_r_newArmDriver_Upper1Grp
+    400138: RRM_r_newArmDriver_Wrist
+    400140: RRM_r_newArmDriver_WristGrp
+    400142: RRM_ROOT
+    400144: RRM_ROOT_RRM_l_newArmDriver_Parent_AimLctr
+    400146: RRM_ROOT_RRM_l_newArmDriver_Parent_TargetLctr
+    400148: RRM_ROOT_RRM_l_newArmDriver_ParentCtrl
+    400150: RRM_ROOT_RRM_r_newArmDriver_Parent_AimLctr
+    400152: RRM_ROOT_RRM_r_newArmDriver_Parent_TargetLctr
+    400154: RRM_ROOT_RRM_r_newArmDriver_ParentCtrl
+    2300000: LockerDoorMesh1
+    2300002: LockerDoorMesh2
+    2300004: LockerDoorMesh3
+    2300006: LockerDoorMesh4
+    2300008: LockerDoorMesh5
+    2300010: LockerMesh
+    2300012: //RootNode
+    3300000: LockerDoorMesh1
+    3300002: LockerDoorMesh2
+    3300004: LockerDoorMesh3
+    3300006: LockerDoorMesh4
+    3300008: LockerDoorMesh5
+    3300010: LockerMesh
+    3300012: //RootNode
+    4300000: LockerMesh
+    4300002: LockerDoorMesh1
+    4300004: LockerDoorMesh2
+    4300006: LockerDoorMesh3
+    4300008: LockerDoorMesh4
+    4300010: LockerDoorMesh5
+    7400000: OpenMiddle
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: OpenMiddle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 288
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: locker
+        weight: 1
+      - path: locker/LockerMesh
+        weight: 1
+      - path: locker/LockerMesh/LockerDoorMesh1
+        weight: 1
+      - path: locker/LockerMesh/LockerDoorMesh2
+        weight: 1
+      - path: locker/LockerMesh/LockerDoorMesh3
+        weight: 1
+      - path: locker/LockerMesh/LockerDoorMesh4
+        weight: 1
+      - path: locker/LockerMesh/LockerDoorMesh5
+        weight: 1
+      - path: RRM_MAIN
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_COG
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_ConnectorGrp
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_ConnectorGrp/RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_Shoulder_AimLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_ConnectorGrp/RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_Shoulder_AimLctr/RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_Shoulder_TargetLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_ConnectorGrp/RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_ShoulderCtrl
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_ConnectorGrp/RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_Wrist_AimLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_ConnectorGrp/RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_Wrist_AimLctr/RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_Wrist_TargetLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_ConnectorGrp/RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_WristCtrl
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_ConnectorGrp/RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_Clavicle_AimLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_ConnectorGrp/RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_Clavicle_AimLctr/RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_Clavicle_TargetLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_ConnectorGrp/RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_ClavicleCtrl
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_ConnectorGrp/RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_Elbow_AimLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_ConnectorGrp/RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_Elbow_AimLctr/RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_Elbow_TargetLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_ConnectorGrp/RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_ElbowCtrl
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_ConnectorGrp/RRM_ROOT_RRM_l_newArmDriver_Parent_AimLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_ConnectorGrp/RRM_ROOT_RRM_l_newArmDriver_Parent_AimLctr/RRM_ROOT_RRM_l_newArmDriver_Parent_TargetLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_ConnectorGrp/RRM_ROOT_RRM_l_newArmDriver_ParentCtrl
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_Parent
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_Parent/RRM_l_newArmDriver_ClavicleGrp
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_Parent/RRM_l_newArmDriver_ClavicleGrp/RRM_l_newArmDriver_Clavicle
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_Parent/RRM_l_newArmDriver_ElbowGrp
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_Parent/RRM_l_newArmDriver_ElbowGrp/RRM_l_newArmDriver_Elbow
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_Parent/RRM_l_newArmDriver_ShoulderGrp
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_Parent/RRM_l_newArmDriver_ShoulderGrp/RRM_l_newArmDriver_Shoulder
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_Parent/RRM_l_newArmDriver_ShoulderGrp/RRM_l_newArmDriver_Shoulder/RRM_l_newArmDriver_AimLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_Parent/RRM_l_newArmDriver_ShoulderGrp/RRM_l_newArmDriver_Shoulder/RRM_l_newArmDriver_AimLctr/RRM_l_newArmDriver_ElbowAimLctrGrp
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_Parent/RRM_l_newArmDriver_ShoulderGrp/RRM_l_newArmDriver_Shoulder/RRM_l_newArmDriver_AimLctr/RRM_l_newArmDriver_ElbowAimLctrGrp/RRM_l_newArmDriver_ElbowAimLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_Parent/RRM_l_newArmDriver_ShoulderGrp/RRM_l_newArmDriver_Shoulder/RRM_l_newArmDriver_Lower1Grp
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_Parent/RRM_l_newArmDriver_ShoulderGrp/RRM_l_newArmDriver_Shoulder/RRM_l_newArmDriver_Lower1Grp/RRM_l_newArmDriver_Lower1
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_Parent/RRM_l_newArmDriver_ShoulderGrp/RRM_l_newArmDriver_Shoulder/RRM_l_newArmDriver_Upper1Grp
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_Parent/RRM_l_newArmDriver_ShoulderGrp/RRM_l_newArmDriver_Shoulder/RRM_l_newArmDriver_Upper1Grp/RRM_l_newArmDriver_Upper1
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_Parent/RRM_l_newArmDriver_WristGrp
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_l_newArmDriver/RRM_l_newArmDriver_Parent/RRM_l_newArmDriver_WristGrp/RRM_l_newArmDriver_Wrist
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_ConnectorGrp
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_ConnectorGrp/RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_Shoulder_AimLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_ConnectorGrp/RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_Shoulder_AimLctr/RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_Shoulder_TargetLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_ConnectorGrp/RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_ShoulderCtrl
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_ConnectorGrp/RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_Wrist_AimLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_ConnectorGrp/RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_Wrist_AimLctr/RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_Wrist_TargetLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_ConnectorGrp/RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_WristCtrl
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_ConnectorGrp/RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_Clavicle_AimLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_ConnectorGrp/RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_Clavicle_AimLctr/RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_Clavicle_TargetLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_ConnectorGrp/RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_ClavicleCtrl
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_ConnectorGrp/RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_Elbow_AimLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_ConnectorGrp/RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_Elbow_AimLctr/RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_Elbow_TargetLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_ConnectorGrp/RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_ElbowCtrl
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_ConnectorGrp/RRM_ROOT_RRM_r_newArmDriver_Parent_AimLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_ConnectorGrp/RRM_ROOT_RRM_r_newArmDriver_Parent_AimLctr/RRM_ROOT_RRM_r_newArmDriver_Parent_TargetLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_ConnectorGrp/RRM_ROOT_RRM_r_newArmDriver_ParentCtrl
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_Parent
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_Parent/RRM_r_newArmDriver_ClavicleGrp
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_Parent/RRM_r_newArmDriver_ClavicleGrp/RRM_r_newArmDriver_Clavicle
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_Parent/RRM_r_newArmDriver_ElbowGrp
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_Parent/RRM_r_newArmDriver_ElbowGrp/RRM_r_newArmDriver_Elbow
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_Parent/RRM_r_newArmDriver_ShoulderGrp
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_Parent/RRM_r_newArmDriver_ShoulderGrp/RRM_r_newArmDriver_Shoulder
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_Parent/RRM_r_newArmDriver_ShoulderGrp/RRM_r_newArmDriver_Shoulder/RRM_r_newArmDriver_AimLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_Parent/RRM_r_newArmDriver_ShoulderGrp/RRM_r_newArmDriver_Shoulder/RRM_r_newArmDriver_AimLctr/RRM_r_newArmDriver_ElbowAimLctrGrp
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_Parent/RRM_r_newArmDriver_ShoulderGrp/RRM_r_newArmDriver_Shoulder/RRM_r_newArmDriver_AimLctr/RRM_r_newArmDriver_ElbowAimLctrGrp/RRM_r_newArmDriver_ElbowAimLctr
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_Parent/RRM_r_newArmDriver_ShoulderGrp/RRM_r_newArmDriver_Shoulder/RRM_r_newArmDriver_Lower1Grp
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_Parent/RRM_r_newArmDriver_ShoulderGrp/RRM_r_newArmDriver_Shoulder/RRM_r_newArmDriver_Lower1Grp/RRM_r_newArmDriver_Lower1
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_Parent/RRM_r_newArmDriver_ShoulderGrp/RRM_r_newArmDriver_Shoulder/RRM_r_newArmDriver_Upper1Grp
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_Parent/RRM_r_newArmDriver_ShoulderGrp/RRM_r_newArmDriver_Shoulder/RRM_r_newArmDriver_Upper1Grp/RRM_r_newArmDriver_Upper1
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_Parent/RRM_r_newArmDriver_WristGrp
+        weight: 1
+      - path: RRM_MAIN/RRM_ROOT/RRM_newArmDriver/RRM_r_newArmDriver/RRM_r_newArmDriver_Parent/RRM_r_newArmDriver_WristGrp/RRM_r_newArmDriver_Wrist
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 242a2cc0dbf557e48b1d48fc5ec117e0
+timeCreated: 1583630788
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: atama_n
+    100002: BackHair1
+    100004: BackHair2
+    100006: BackHair3
+    100008: BackHair4
+    100010: eyebrow_a_Left
+    100012: eyebrow_a_Right
+    100014: eyebrow_b_Left
+    100016: eyebrow_b_Right
+    100018: f02
+    100020: //RootNode
+    100022: f02_naked_00_h
+    100024: face
+    100026: FrontHair
+    100028: Head
+    100030: Head_null
+    100032: Hips
+    100034: LeftHair1
+    100036: LeftHair2
+    100038: LeftHair3
+    100040: mayu
+    100042: Neck
+    100044: PelvisRoot
+    100046: RightHair1
+    100048: RightHair2
+    100050: RightHair3
+    100052: Spine
+    100054: Spine1
+    100056: Spine2
+    100058: Spine3
+    100060: temple_Left
+    100062: temple_Right
+    400000: atama_n
+    400002: BackHair1
+    400004: BackHair2
+    400006: BackHair3
+    400008: BackHair4
+    400010: eyebrow_a_Left
+    400012: eyebrow_a_Right
+    400014: eyebrow_b_Left
+    400016: eyebrow_b_Right
+    400018: f02
+    400020: //RootNode
+    400022: f02_naked_00_h
+    400024: face
+    400026: FrontHair
+    400028: Head
+    400030: Head_null
+    400032: Hips
+    400034: LeftHair1
+    400036: LeftHair2
+    400038: LeftHair3
+    400040: mayu
+    400042: Neck
+    400044: PelvisRoot
+    400046: RightHair1
+    400048: RightHair2
+    400050: RightHair3
+    400052: Spine
+    400054: Spine1
+    400056: Spine2
+    400058: Spine3
+    400060: temple_Left
+    400062: temple_Right
+    4300000: f02_naked_00_h
+    7400000: f02_sadEyebrows_00
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: f02_naked_00_h
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: f02_face_00_h
+    second: {fileID: 2100000, guid: b7b2145669a79c645863b4dc08d34f4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: f02_hair_00_h
+    second: {fileID: 2100000, guid: ce3d9064c309f2546b76efb87196b115, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: f02_naked_00_h_s
+    second: {fileID: 2100000, guid: d4f87c75ac445cf449a790aa92466513, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: f02_sadEyebrows_00
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

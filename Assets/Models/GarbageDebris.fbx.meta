@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 53261e4071e6ed34e88683cd7f8ba041
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: board
+    100002: //RootNode
+    100004: Plane001
+    100006: Rock004
+    100008: Rock005
+    100010: Rock006
+    100012: Rock007
+    100014: Rock008
+    100016: Rock009
+    100018: Rock2
+    100020: wood
+    100022: wood003
+    100024: wood1
+    100026: wood2
+    100028: wooden bucket
+    100030: wooden bucket001
+    400000: board
+    400002: //RootNode
+    400004: Plane001
+    400006: Rock004
+    400008: Rock005
+    400010: Rock006
+    400012: Rock007
+    400014: Rock008
+    400016: Rock009
+    400018: Rock2
+    400020: wood
+    400022: wood003
+    400024: wood1
+    400026: wood2
+    400028: wooden bucket
+    400030: wooden bucket001
+    2300000: board
+    2300002: Plane001
+    2300004: Rock004
+    2300006: Rock005
+    2300008: Rock006
+    2300010: Rock007
+    2300012: Rock008
+    2300014: Rock009
+    2300016: Rock2
+    2300018: wood
+    2300020: wood003
+    2300022: wood1
+    2300024: wood2
+    2300026: wooden bucket
+    2300028: wooden bucket001
+    3300000: board
+    3300002: Plane001
+    3300004: Rock004
+    3300006: Rock005
+    3300008: Rock006
+    3300010: Rock007
+    3300012: Rock008
+    3300014: Rock009
+    3300016: Rock2
+    3300018: wood
+    3300020: wood003
+    3300022: wood1
+    3300024: wood2
+    3300026: wooden bucket
+    3300028: wooden bucket001
+    4300000: Plane001
+    4300002: wood
+    4300004: wood2
+    4300006: wood1
+    4300008: wood003
+    4300010: wooden bucket
+    4300012: Rock005
+    4300014: Rock006
+    4300016: Rock009
+    4300018: Rock2
+    4300020: Rock004
+    4300022: Rock007
+    4300024: Rock008
+    4300026: board
+    4300028: wooden bucket001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

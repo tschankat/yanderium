@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 338debe74b4c921499e705d9c3d3b253
+timeCreated: 1525956398
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Hologram1
+    100004: Hologram10
+    100006: Hologram2
+    100008: Hologram3
+    100010: Hologram4
+    100012: Hologram5
+    100014: Hologram6
+    100016: Hologram7
+    100018: Hologram8
+    100020: Hologram9
+    100022: HologramLight
+    400000: //RootNode
+    400002: Hologram1
+    400004: Hologram10
+    400006: Hologram2
+    400008: Hologram3
+    400010: Hologram4
+    400012: Hologram5
+    400014: Hologram6
+    400016: Hologram7
+    400018: Hologram8
+    400020: Hologram9
+    400022: HologramLight
+    2300000: //RootNode
+    2300002: Hologram1
+    2300004: Hologram10
+    2300006: Hologram2
+    2300008: Hologram3
+    2300010: Hologram4
+    2300012: Hologram5
+    2300014: Hologram6
+    2300016: Hologram7
+    2300018: Hologram8
+    2300020: Hologram9
+    2300022: HologramLight
+    3300000: //RootNode
+    3300002: Hologram1
+    3300004: Hologram10
+    3300006: Hologram2
+    3300008: Hologram3
+    3300010: Hologram4
+    3300012: Hologram5
+    3300014: Hologram6
+    3300016: Hologram7
+    3300018: Hologram8
+    3300020: Hologram9
+    3300022: HologramLight
+    4300000: HologramEmitter
+    4300002: HologramLight
+    4300004: Hologram1
+    4300006: Hologram2
+    4300008: Hologram3
+    4300010: Hologram4
+    4300012: Hologram5
+    4300014: Hologram6
+    4300016: Hologram7
+    4300018: Hologram8
+    4300020: Hologram9
+    4300022: Hologram10
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

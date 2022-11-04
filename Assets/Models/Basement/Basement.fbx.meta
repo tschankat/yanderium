@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 932c22903c7a94742a02fbbbe1ff2eaf
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BasementBar1Mesh
+    100004: BasementBar2Mesh
+    100006: BasementBar3Mesh
+    100008: BasementBar4Mesh
+    100010: BasementBar5Mesh
+    100012: BasementCeilingMesh
+    100014: BasementEdgeMesh
+    100016: BasementEntranceMesh
+    100018: BasementFloorMesh
+    100020: BasementLampMesh
+    100022: BasementPipeMesh
+    100024: BasementShelfMesh
+    100026: BasementStairwayMesh
+    100028: BasementWallMesh
+    400000: //RootNode
+    400002: BasementBar1Mesh
+    400004: BasementBar2Mesh
+    400006: BasementBar3Mesh
+    400008: BasementBar4Mesh
+    400010: BasementBar5Mesh
+    400012: BasementCeilingMesh
+    400014: BasementEdgeMesh
+    400016: BasementEntranceMesh
+    400018: BasementFloorMesh
+    400020: BasementLampMesh
+    400022: BasementPipeMesh
+    400024: BasementShelfMesh
+    400026: BasementStairwayMesh
+    400028: BasementWallMesh
+    2300000: BasementBar1Mesh
+    2300002: BasementBar2Mesh
+    2300004: BasementBar3Mesh
+    2300006: BasementBar4Mesh
+    2300008: BasementBar5Mesh
+    2300010: BasementCeilingMesh
+    2300012: BasementEdgeMesh
+    2300014: BasementEntranceMesh
+    2300016: BasementFloorMesh
+    2300018: BasementLampMesh
+    2300020: BasementPipeMesh
+    2300022: BasementShelfMesh
+    2300024: BasementStairwayMesh
+    2300026: BasementWallMesh
+    3300000: BasementBar1Mesh
+    3300002: BasementBar2Mesh
+    3300004: BasementBar3Mesh
+    3300006: BasementBar4Mesh
+    3300008: BasementBar5Mesh
+    3300010: BasementCeilingMesh
+    3300012: BasementEdgeMesh
+    3300014: BasementEntranceMesh
+    3300016: BasementFloorMesh
+    3300018: BasementLampMesh
+    3300020: BasementPipeMesh
+    3300022: BasementShelfMesh
+    3300024: BasementStairwayMesh
+    3300026: BasementWallMesh
+    4300000: BasementWallMesh
+    4300002: BasementEdgeMesh
+    4300004: BasementBar2Mesh
+    4300006: BasementShelfMesh
+    4300008: BasementBar1Mesh
+    4300010: BasementBar4Mesh
+    4300012: BasementPipeMesh
+    4300014: BasementLampMesh
+    4300016: BasementEntranceMesh
+    4300018: BasementFloorMesh
+    4300020: BasementCeilingMesh
+    4300022: BasementBar3Mesh
+    4300024: BasementBar5Mesh
+    4300026: BasementStairwayMesh
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

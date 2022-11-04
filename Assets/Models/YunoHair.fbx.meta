@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 797345af278184c49b0b653fb946c65b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BowL1
+    100002: BowL2
+    100004: BowL3
+    100006: BowL4
+    100008: BowL5
+    100010: BowL6
+    100012: BowL7
+    100014: BowL8
+    100016: BowL9
+    100018: BowR1
+    100020: BowR2
+    100022: BowR3
+    100024: BowR4
+    100026: BowR5
+    100028: BowR6
+    100030: BowR7
+    100032: BowR8
+    100034: BowR9
+    100036: Crown
+    100038: Fringe
+    100040: Hair
+    100042: HairRig
+    100044: PigL2
+    100046: PigL3
+    100048: PigL4
+    100050: PigL5
+    100052: PigL6
+    100054: PigL7
+    100056: PigL8
+    100058: PigR2
+    100060: PigR3
+    100062: PigR4
+    100064: PigR5
+    100066: PigR6
+    100068: PigR7
+    100070: PigR8
+    100072: SideL
+    100074: SideR
+    100076: //RootNode
+    400000: BowL1
+    400002: BowL2
+    400004: BowL3
+    400006: BowL4
+    400008: BowL5
+    400010: BowL6
+    400012: BowL7
+    400014: BowL8
+    400016: BowL9
+    400018: BowR1
+    400020: BowR2
+    400022: BowR3
+    400024: BowR4
+    400026: BowR5
+    400028: BowR6
+    400030: BowR7
+    400032: BowR8
+    400034: BowR9
+    400036: Crown
+    400038: Fringe
+    400040: Hair
+    400042: HairRig
+    400044: PigL2
+    400046: PigL3
+    400048: PigL4
+    400050: PigL5
+    400052: PigL6
+    400054: PigL7
+    400056: PigL8
+    400058: PigR2
+    400060: PigR3
+    400062: PigR4
+    400064: PigR5
+    400066: PigR6
+    400068: PigR7
+    400070: PigR8
+    400072: SideL
+    400074: SideR
+    400076: //RootNode
+    4300000: Hair
+    9500000: //RootNode
+    13700000: Hair
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

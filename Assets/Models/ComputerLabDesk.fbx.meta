@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 434ffdb9a4ad97d489b359eb75b7fd3c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ComputerChairMesh
+    100002: ComputerDeskMesh
+    100004: ComputerKeyboardMesh
+    100006: //RootNode
+    100008: ComputerMoniterMesh
+    100010: ComputerMouse
+    100012: ComputerTowerMesh
+    100014: MousePadMesh
+    100016: ComputerMousePadMesh
+    400000: ComputerChairMesh
+    400002: ComputerDeskMesh
+    400004: ComputerKeyboardMesh
+    400006: //RootNode
+    400008: ComputerMoniterMesh
+    400010: ComputerMouse
+    400012: ComputerTowerMesh
+    400014: MousePadMesh
+    400016: ComputerMousePadMesh
+    2300000: ComputerChairMesh
+    2300002: ComputerDeskMesh
+    2300004: ComputerKeyboardMesh
+    2300006: ComputerMoniterMesh
+    2300008: ComputerMouse
+    2300010: ComputerTowerMesh
+    2300012: MousePadMesh
+    2300014: ComputerMousePadMesh
+    3300000: ComputerChairMesh
+    3300002: ComputerDeskMesh
+    3300004: ComputerKeyboardMesh
+    3300006: ComputerMoniterMesh
+    3300008: ComputerMouse
+    3300010: ComputerTowerMesh
+    3300012: MousePadMesh
+    3300014: ComputerMousePadMesh
+    4300000: ComputerDeskMesh
+    4300002: ComputerKeyboardMesh
+    4300004: ComputerMoniterMesh
+    4300006: ComputerMouse
+    4300008: ComputerTowerMesh
+    4300010: MousePadMesh
+    4300012: ComputerChairMesh
+    4300014: ComputerMousePadMesh
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

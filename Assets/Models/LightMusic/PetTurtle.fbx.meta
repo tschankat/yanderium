@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 6f13e5e4cf6244048b43336877a966ed
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BackLeftFoot
+    100002: BackRightFoot
+    100004: Body
+    100006: FrontLeftFoot
+    100008: FrontRightFoot
+    100010: Head
+    100012: joint3
+    100014: joint3 1
+    100016: joint5
+    100018: joint5 1
+    100020: joint7
+    100022: //RootNode
+    100024: TurtleMesh
+    400000: BackLeftFoot
+    400002: BackRightFoot
+    400004: Body
+    400006: FrontLeftFoot
+    400008: FrontRightFoot
+    400010: Head
+    400012: joint3
+    400014: joint3 1
+    400016: joint5
+    400018: joint5 1
+    400020: joint7
+    400022: //RootNode
+    400024: TurtleMesh
+    4300000: TurtleMesh
+    7400000: TurtleIdle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: TurtleMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: TurtleIdle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/BackLeftFoot
+        weight: 1
+      - path: Body/BackLeftFoot/joint3
+        weight: 1
+      - path: Body/BackRightFoot
+        weight: 1
+      - path: Body/BackRightFoot/joint3 1
+        weight: 1
+      - path: Body/FrontLeftFoot
+        weight: 1
+      - path: Body/FrontLeftFoot/joint5
+        weight: 1
+      - path: Body/FrontRightFoot
+        weight: 1
+      - path: Body/FrontRightFoot/joint5 1
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/Head/joint7
+        weight: 1
+      - path: TurtleMesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

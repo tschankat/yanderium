@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: 27f28fdd0f8fa0747be095c868251334
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Honey1
+    100002: Honey2
+    100004: Honey3
+    100006: Honey4
+    100008: //RootNode
+    100010: HoneyLiciousHair
+    100012: HoneyLiciousHair 1
+    100014: HoneyBack
+    100016: HoneyBack01
+    100018: HoneyBack02
+    100020: HoneyBack03
+    100022: Bone
+    100024: Bone.001
+    100026: Bone.002
+    100028: Bone.003
+    100030: Bone.004
+    100032: Bone.004_end
+    100034: Q_Honey_Licious
+    100036: Q_Honey_Licious_Rig
+    400000: Honey1
+    400002: Honey2
+    400004: Honey3
+    400006: Honey4
+    400008: //RootNode
+    400010: HoneyLiciousHair
+    400012: HoneyLiciousHair 1
+    400014: HoneyBack
+    400016: HoneyBack01
+    400018: HoneyBack02
+    400020: HoneyBack03
+    400022: Bone
+    400024: Bone.001
+    400026: Bone.002
+    400028: Bone.003
+    400030: Bone.004
+    400032: Bone.004_end
+    400034: Q_Honey_Licious
+    400036: Q_Honey_Licious_Rig
+    4300000: HoneyLiciousHair
+    4300002: Q_Honey_Licious
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: HoneyLiciousHair
+    13700002: Q_Honey_Licious
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

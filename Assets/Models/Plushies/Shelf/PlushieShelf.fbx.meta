@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 1429cdcb35f5f75458a4fdf86868c4fb
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Q_Alien
+    100004: Q_Biju
+    100006: Q_LZ
+    100008: Q_MullBerry
+    100010: Q_Plush_Kubz
+    100012: Q_Plushie_Blue_Scar
+    100014: Q_Plushie_BnW
+    100016: Q_Plushie_Bubble
+    100018: Q_Plushie_Golden_Sun
+    100020: Q_Plushie_Green_Star
+    100022: Q_Plushie_Jangel
+    100024: Q_Plushie_Moon
+    100026: Q_Plushie_Orange
+    100028: Q_Plushie_Shelf
+    100030: Q_Plushie_YH
+    100032: Q_Razz
+    100034: Q_VG
+    400000: //RootNode
+    400002: Q_Alien
+    400004: Q_Biju
+    400006: Q_LZ
+    400008: Q_MullBerry
+    400010: Q_Plush_Kubz
+    400012: Q_Plushie_Blue_Scar
+    400014: Q_Plushie_BnW
+    400016: Q_Plushie_Bubble
+    400018: Q_Plushie_Golden_Sun
+    400020: Q_Plushie_Green_Star
+    400022: Q_Plushie_Jangel
+    400024: Q_Plushie_Moon
+    400026: Q_Plushie_Orange
+    400028: Q_Plushie_Shelf
+    400030: Q_Plushie_YH
+    400032: Q_Razz
+    400034: Q_VG
+    2300000: //RootNode
+    2300002: Q_Alien
+    2300004: Q_Biju
+    2300006: Q_LZ
+    2300008: Q_MullBerry
+    2300010: Q_Plush_Kubz
+    2300012: Q_Plushie_Blue_Scar
+    2300014: Q_Plushie_BnW
+    2300016: Q_Plushie_Bubble
+    2300018: Q_Plushie_Golden_Sun
+    2300020: Q_Plushie_Green_Star
+    2300022: Q_Plushie_Moon
+    2300024: Q_Plushie_Orange
+    2300026: Q_Plushie_Shelf
+    2300028: Q_Plushie_YH
+    2300030: Q_Razz
+    2300032: Q_VG
+    3300000: //RootNode
+    3300002: Q_Alien
+    3300004: Q_Biju
+    3300006: Q_LZ
+    3300008: Q_MullBerry
+    3300010: Q_Plush_Kubz
+    3300012: Q_Plushie_Blue_Scar
+    3300014: Q_Plushie_BnW
+    3300016: Q_Plushie_Bubble
+    3300018: Q_Plushie_Golden_Sun
+    3300020: Q_Plushie_Green_Star
+    3300022: Q_Plushie_Moon
+    3300024: Q_Plushie_Orange
+    3300026: Q_Plushie_Shelf
+    3300028: Q_Plushie_YH
+    3300030: Q_Razz
+    3300032: Q_VG
+    4300000: Q_Plushie_Shelf
+    4300002: Q_Biju
+    4300004: Q_Plush_Kubz
+    4300006: Q_LZ
+    4300008: Q_Razz
+    4300010: Q_VG
+    4300012: Q_Plushie_Jangel
+    4300014: Q_Plushie_YH
+    4300016: Q_Plushie_Orange
+    4300018: Q_MullBerry
+    4300020: Q_Plushie_Moon
+    4300022: Q_Plushie_Green_Star
+    4300024: Q_Plushie_Golden_Sun
+    4300026: Q_Plushie_Bubble
+    4300028: Q_Plushie_BnW
+    4300030: Q_Plushie_Blue_Scar
+    4300032: Q_Alien
+    9500000: //RootNode
+    13700000: Q_Plushie_Jangel
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Q Alien
+    second: {fileID: 2100000, guid: fbf0da7fe35ae5340b36799ebfa924c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Q_Biju
+    second: {fileID: 2100000, guid: 9e7df5ae95f53f5498218d5117d01bb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Q_LZ
+    second: {fileID: 2100000, guid: e57c5d3cb87b4124b89345d2d3ade849, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Q_Mullberry
+    second: {fileID: 2100000, guid: e82bfd99e9a90874fbba85f2dea0cee6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Q_Plush_Kubz
+    second: {fileID: 2100000, guid: 72afb4d32bfd3de42b923d50da5cf7a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Q_Plushie_Blue_Scar
+    second: {fileID: 2100000, guid: 615d5ecc77560834b91d8f61e9a9794d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Q_Plushie_BnW
+    second: {fileID: 2100000, guid: 53385860ce1cc0e4b9ec396f3633f8d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Q_Plushie_Bubble
+    second: {fileID: 2100000, guid: ccd93914b4be6704fa8d6770f365e71d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Q_Plushie_Golden_Sun
+    second: {fileID: 2100000, guid: 59dc7c6461ccd0f4e98bd71854484db3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Q_Plushie_Green_Star
+    second: {fileID: 2100000, guid: 9d7d16f5525c9cf449b229c9ce1f3e3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Q_Plushie_Jangel
+    second: {fileID: 2100000, guid: df89a8dc963d06f4e9295e8096769e48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Q_Plushie_Moon
+    second: {fileID: 2100000, guid: a50cafe4b95b0594abb77f57022dbd39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Q_Plushie_Orange
+    second: {fileID: 2100000, guid: 20948c9d6b6f6d945a912cc47d4ffd0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Q_Plushie_Shelf
+    second: {fileID: 2100000, guid: df89a8dc963d06f4e9295e8096769e48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Q_Plushie_YH
+    second: {fileID: 2100000, guid: 580d165df32192d40884ef8a71d22392, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Q_Razz
+    second: {fileID: 2100000, guid: 92299b3e342ae454da140ffdd31f06bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Q_VG
+    second: {fileID: 2100000, guid: 207c2c12f588b67449ac1e596ca8287e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: 8a7cb6fe839f12041bdadd774a9db25c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Greenhouse
+    100004: GreenhouseLeftDoor
+    100006: GreenhouseRightDoor
+    100008: GreenhouseFrameMesh
+    100010: GreenhouseGlassMesh
+    100012: GreenHouseLeftDoorMesh
+    100014: GreenHouseRightDoorMesh
+    400000: //RootNode
+    400002: Greenhouse
+    400004: GreenhouseLeftDoor
+    400006: GreenhouseRightDoor
+    400008: GreenhouseFrameMesh
+    400010: GreenhouseGlassMesh
+    400012: GreenHouseLeftDoorMesh
+    400014: GreenHouseRightDoorMesh
+    2300000: Greenhouse
+    2300002: GreenhouseLeftDoor
+    2300004: GreenhouseRightDoor
+    2300006: GreenhouseFrameMesh
+    2300008: GreenhouseGlassMesh
+    2300010: GreenHouseLeftDoorMesh
+    2300012: GreenHouseRightDoorMesh
+    3300000: Greenhouse
+    3300002: GreenhouseLeftDoor
+    3300004: GreenhouseRightDoor
+    3300006: GreenhouseFrameMesh
+    3300008: GreenhouseGlassMesh
+    3300010: GreenHouseLeftDoorMesh
+    3300012: GreenHouseRightDoorMesh
+    4300000: Greenhouse
+    4300002: GreenhouseLeftDoor
+    4300004: GreenhouseRightDoor
+    4300006: GreenHouseRightDoorMesh
+    4300008: GreenHouseLeftDoorMesh
+    4300010: GreenhouseGlassMesh
+    4300012: GreenhouseFrameMesh
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

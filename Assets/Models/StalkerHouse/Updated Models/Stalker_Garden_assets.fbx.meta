@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: c87477e636297594e99090d619f23060
+timeCreated: 1578359666
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Blue barrel
+    100002: Blue barrel.002
+    100004: Electrical distribution panel
+    100006: Garden Chair 1
+    100008: Garden Chair 1.002
+    100010: Garden Chair 1.003
+    100012: Garden Chair 1.004
+    100014: Garden Chair 2
+    100016: Garden Chair 2.002
+    100018: Garden Faucet
+    100020: Garden Fence
+    100022: Garden Fence big
+    100024: Garden Fence big door
+    100026: Garden Fence big door.001
+    100028: Garden Fence big.001
+    100030: Garden Fence.001
+    100032: Garden Fence.002
+    100034: Garden Fence.003
+    100036: Garden Fence.004
+    100038: Garden Fence.005
+    100040: Garden Fence.006
+    100042: Garden Fence.007
+    100044: Garden Fence.008
+    100046: Garden Fence.009
+    100048: Garden Frame 1
+    100050: Garden Frame 2
+    100052: Garden Ground
+    100054: Garden Hose
+    100056: Garden Shelving
+    100058: Garden Table
+    100060: Garden Table.002
+    100062: Gas Main
+    100064: pot
+    100066: pot.001
+    100068: pot.002
+    100070: pot.003
+    100072: pot.004
+    100074: pot.005
+    100076: pot.006
+    100078: pot.007
+    100080: pot.013
+    100082: pot.014
+    100084: pot.015
+    100086: pot.017
+    100088: pot.018
+    100090: Showel
+    100092: Showel.002
+    100094: //RootNode
+    100096: Trampoline
+    100098: Trash Container
+    400000: Blue barrel
+    400002: Blue barrel.002
+    400004: Electrical distribution panel
+    400006: Garden Chair 1
+    400008: Garden Chair 1.002
+    400010: Garden Chair 1.003
+    400012: Garden Chair 1.004
+    400014: Garden Chair 2
+    400016: Garden Chair 2.002
+    400018: Garden Faucet
+    400020: Garden Fence
+    400022: Garden Fence big
+    400024: Garden Fence big door
+    400026: Garden Fence big door.001
+    400028: Garden Fence big.001
+    400030: Garden Fence.001
+    400032: Garden Fence.002
+    400034: Garden Fence.003
+    400036: Garden Fence.004
+    400038: Garden Fence.005
+    400040: Garden Fence.006
+    400042: Garden Fence.007
+    400044: Garden Fence.008
+    400046: Garden Fence.009
+    400048: Garden Frame 1
+    400050: Garden Frame 2
+    400052: Garden Ground
+    400054: Garden Hose
+    400056: Garden Shelving
+    400058: Garden Table
+    400060: Garden Table.002
+    400062: Gas Main
+    400064: pot
+    400066: pot.001
+    400068: pot.002
+    400070: pot.003
+    400072: pot.004
+    400074: pot.005
+    400076: pot.006
+    400078: pot.007
+    400080: pot.013
+    400082: pot.014
+    400084: pot.015
+    400086: pot.017
+    400088: pot.018
+    400090: Showel
+    400092: Showel.002
+    400094: //RootNode
+    400096: Trampoline
+    400098: Trash Container
+    2300000: Blue barrel
+    2300002: Blue barrel.002
+    2300004: Electrical distribution panel
+    2300006: Garden Chair 1
+    2300008: Garden Chair 1.002
+    2300010: Garden Chair 1.003
+    2300012: Garden Chair 1.004
+    2300014: Garden Chair 2
+    2300016: Garden Chair 2.002
+    2300018: Garden Faucet
+    2300020: Garden Fence
+    2300022: Garden Fence big
+    2300024: Garden Fence big door
+    2300026: Garden Fence big door.001
+    2300028: Garden Fence big.001
+    2300030: Garden Fence.001
+    2300032: Garden Fence.002
+    2300034: Garden Fence.003
+    2300036: Garden Fence.004
+    2300038: Garden Fence.005
+    2300040: Garden Fence.006
+    2300042: Garden Fence.007
+    2300044: Garden Fence.008
+    2300046: Garden Fence.009
+    2300048: Garden Frame 1
+    2300050: Garden Frame 2
+    2300052: Garden Ground
+    2300054: Garden Hose
+    2300056: Garden Shelving
+    2300058: Garden Table
+    2300060: Garden Table.002
+    2300062: Gas Main
+    2300064: pot
+    2300066: pot.001
+    2300068: pot.002
+    2300070: pot.003
+    2300072: pot.004
+    2300074: pot.005
+    2300076: pot.006
+    2300078: pot.007
+    2300080: pot.013
+    2300082: pot.014
+    2300084: pot.015
+    2300086: pot.017
+    2300088: pot.018
+    2300090: Showel
+    2300092: Showel.002
+    2300094: Trampoline
+    2300096: Trash Container
+    3300000: Blue barrel
+    3300002: Blue barrel.002
+    3300004: Electrical distribution panel
+    3300006: Garden Chair 1
+    3300008: Garden Chair 1.002
+    3300010: Garden Chair 1.003
+    3300012: Garden Chair 1.004
+    3300014: Garden Chair 2
+    3300016: Garden Chair 2.002
+    3300018: Garden Faucet
+    3300020: Garden Fence
+    3300022: Garden Fence big
+    3300024: Garden Fence big door
+    3300026: Garden Fence big door.001
+    3300028: Garden Fence big.001
+    3300030: Garden Fence.001
+    3300032: Garden Fence.002
+    3300034: Garden Fence.003
+    3300036: Garden Fence.004
+    3300038: Garden Fence.005
+    3300040: Garden Fence.006
+    3300042: Garden Fence.007
+    3300044: Garden Fence.008
+    3300046: Garden Fence.009
+    3300048: Garden Frame 1
+    3300050: Garden Frame 2
+    3300052: Garden Ground
+    3300054: Garden Hose
+    3300056: Garden Shelving
+    3300058: Garden Table
+    3300060: Garden Table.002
+    3300062: Gas Main
+    3300064: pot
+    3300066: pot.001
+    3300068: pot.002
+    3300070: pot.003
+    3300072: pot.004
+    3300074: pot.005
+    3300076: pot.006
+    3300078: pot.007
+    3300080: pot.013
+    3300082: pot.014
+    3300084: pot.015
+    3300086: pot.017
+    3300088: pot.018
+    3300090: Showel
+    3300092: Showel.002
+    3300094: Trampoline
+    3300096: Trash Container
+    4300000: Electrical distribution panel
+    4300002: Gas Main
+    4300004: Trash Container
+    4300006: Garden Chair 1
+    4300008: Garden Table
+    4300010: Blue barrel
+    4300012: Showel
+    4300014: Garden Frame 1
+    4300016: Trampoline
+    4300018: Garden Shelving
+    4300020: pot
+    4300022: Garden Ground
+    4300024: Garden Fence
+    4300026: Garden Fence.001
+    4300028: Garden Fence.002
+    4300030: Garden Fence.003
+    4300032: Garden Fence.004
+    4300034: Garden Fence.005
+    4300036: Garden Fence.006
+    4300038: Garden Fence.007
+    4300040: Garden Fence.008
+    4300042: Garden Fence.009
+    4300044: Garden Fence big
+    4300046: Garden Fence big door
+    4300048: Garden Frame 2
+    4300050: Garden Chair 2
+    4300052: Garden Hose
+    4300054: Garden Faucet
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GardenProps
+    second: {fileID: 2100000, guid: 23cbf80276e79014c8472e16373290ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OsanaWallMaterial
+    second: {fileID: 2100000, guid: 926f192c59ab5134f90bad2ad7be657b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

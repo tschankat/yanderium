@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: ccb61257989f1e142a991e852278fd63
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Hair
+    100002: //RootNode
+    100004: TwintailLeft1
+    100006: TwintailLeft2
+    100008: TwintailLeft3
+    100010: TwintailLeft4
+    100012: TwintailLeft5
+    100014: TwintailLeft6
+    100016: TwintailLeft7
+    100018: TwintailLeft8
+    100020: TwintailLeft9
+    100022: TwintailRight1
+    100024: TwintailRight2
+    100026: TwintailRight3
+    100028: TwintailRight4
+    100030: TwintailRight5
+    100032: TwintailRight6
+    100034: TwintailRight7
+    100036: TwintailRight8
+    100038: TwintailRight9
+    100040: pPyramid1
+    100042: OsanaHairMesh
+    400000: Hair
+    400002: //RootNode
+    400004: TwintailLeft1
+    400006: TwintailLeft2
+    400008: TwintailLeft3
+    400010: TwintailLeft4
+    400012: TwintailLeft5
+    400014: TwintailLeft6
+    400016: TwintailLeft7
+    400018: TwintailLeft8
+    400020: TwintailLeft9
+    400022: TwintailRight1
+    400024: TwintailRight2
+    400026: TwintailRight3
+    400028: TwintailRight4
+    400030: TwintailRight5
+    400032: TwintailRight6
+    400034: TwintailRight7
+    400036: TwintailRight8
+    400038: TwintailRight9
+    400040: pPyramid1
+    400042: OsanaHairMesh
+    2300000: pPyramid1
+    3300000: pPyramid1
+    4300000: pPyramid1
+    4300002: OsanaHairMesh
+    7400000: Hair_sunbatheMurderB_00
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: OsanaHairMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Hair_sunbatheMurderB_00
+      takeName: PoolDeath_
+      firstFrame: 0
+      lastFrame: 477
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Hair/TwintailLeft1
+        weight: 1
+      - path: Hair/TwintailLeft1/TwintailLeft2
+        weight: 1
+      - path: Hair/TwintailLeft1/TwintailLeft2/TwintailLeft3
+        weight: 1
+      - path: Hair/TwintailLeft1/TwintailLeft2/TwintailLeft3/TwintailLeft4
+        weight: 1
+      - path: Hair/TwintailLeft1/TwintailLeft2/TwintailLeft3/TwintailLeft4/TwintailLeft5
+        weight: 1
+      - path: Hair/TwintailLeft1/TwintailLeft2/TwintailLeft3/TwintailLeft4/TwintailLeft5/TwintailLeft6
+        weight: 1
+      - path: Hair/TwintailLeft1/TwintailLeft2/TwintailLeft3/TwintailLeft4/TwintailLeft5/TwintailLeft6/TwintailLeft7
+        weight: 1
+      - path: Hair/TwintailLeft1/TwintailLeft2/TwintailLeft3/TwintailLeft4/TwintailLeft5/TwintailLeft6/TwintailLeft7/TwintailLeft8
+        weight: 1
+      - path: Hair/TwintailLeft1/TwintailLeft2/TwintailLeft3/TwintailLeft4/TwintailLeft5/TwintailLeft6/TwintailLeft7/TwintailLeft8/TwintailLeft9
+        weight: 1
+      - path: Hair/TwintailRight1
+        weight: 1
+      - path: Hair/TwintailRight1/TwintailRight2
+        weight: 1
+      - path: Hair/TwintailRight1/TwintailRight2/TwintailRight3
+        weight: 1
+      - path: Hair/TwintailRight1/TwintailRight2/TwintailRight3/TwintailRight4
+        weight: 1
+      - path: Hair/TwintailRight1/TwintailRight2/TwintailRight3/TwintailRight4/TwintailRight5
+        weight: 1
+      - path: Hair/TwintailRight1/TwintailRight2/TwintailRight3/TwintailRight4/TwintailRight5/TwintailRight6
+        weight: 1
+      - path: Hair/TwintailRight1/TwintailRight2/TwintailRight3/TwintailRight4/TwintailRight5/TwintailRight6/TwintailRight7
+        weight: 1
+      - path: Hair/TwintailRight1/TwintailRight2/TwintailRight3/TwintailRight4/TwintailRight5/TwintailRight6/TwintailRight7/TwintailRight8
+        weight: 1
+      - path: Hair/TwintailRight1/TwintailRight2/TwintailRight3/TwintailRight4/TwintailRight5/TwintailRight6/TwintailRight7/TwintailRight8/TwintailRight9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

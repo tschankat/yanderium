@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 7ca994d1d8ec4074996ec079088752c5
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone.005
+    100004: Bone.006
+    100006: Bone.007
+    100008: Bone.008
+    100010: Bone.009
+    100012: Bone.010
+    100014: Bone.011
+    100016: Bone.011_end
+    100018: Bone.012
+    100020: Bone.012_end
+    100022: Bone.013
+    100024: Bone.013_end
+    100026: Bone.016
+    100028: Bone.017
+    100030: Bone.018
+    100032: Bone.019
+    100034: Bone.020
+    100036: Bone.020_end
+    100038: Bone.021
+    100040: Bone.021_end
+    100042: //RootNode
+    100044: Jitsumi
+    100046: Jitsumi_Rig1
+    100048: Bone.002
+    100050: Bone.003
+    100052: Bone.004
+    100054: Bone.006_end
+    100056: Q_Jitsumi_Hair
+    100058: Q_Jitsumi_Hair_Rigged
+    400000: Bone
+    400002: Bone.005
+    400004: Bone.006
+    400006: Bone.007
+    400008: Bone.008
+    400010: Bone.009
+    400012: Bone.010
+    400014: Bone.011
+    400016: Bone.011_end
+    400018: Bone.012
+    400020: Bone.012_end
+    400022: Bone.013
+    400024: Bone.013_end
+    400026: Bone.016
+    400028: Bone.017
+    400030: Bone.018
+    400032: Bone.019
+    400034: Bone.020
+    400036: Bone.020_end
+    400038: Bone.021
+    400040: Bone.021_end
+    400042: //RootNode
+    400044: Jitsumi
+    400046: Jitsumi_Rig1
+    400048: Bone.002
+    400050: Bone.003
+    400052: Bone.004
+    400054: Bone.006_end
+    400056: Q_Jitsumi_Hair
+    400058: Q_Jitsumi_Hair_Rigged
+    4300000: Jitsumi
+    4300002: Q_Jitsumi_Hair
+    9500000: //RootNode
+    13700000: Jitsumi
+    13700002: Q_Jitsumi_Hair
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

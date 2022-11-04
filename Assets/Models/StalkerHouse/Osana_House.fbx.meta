@@ -1,0 +1,615 @@
+fileFormatVersion: 2
+guid: d34b3b40e1990134e822825e1ed39cce
+timeCreated: 1508292282
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: A_Celinglights
+    100002: A_Close1
+    100004: A_Close2
+    100006: A_Closeddoors
+    100008: A_FirstFloor
+    100010: A_Floor
+    100012: A_Foyer
+    100014: A_Foyer_Glass
+    100016: A_Hall1
+    100018: A_Kitchen
+    100020: A_Light_Switch1
+    100022: A_Light_Switch3
+    100024: A_Light_Switch4
+    100026: A_Lightswitchs
+    100028: A_OpenDoors
+    100030: A_TargetRoom
+    100032: A_TargetRoomAssets
+    100034: A_Wall1
+    100036: AB_Stairs
+    100038: B_Celinglights
+    100040: B_Closed_2
+    100042: B_Closed_3
+    100044: B_Closed_4
+    100046: B_Closed_Doors
+    100048: B_Floor
+    100050: B_Lightswitchs
+    100052: B_Openable_Doors
+    100054: B_SecondFloor
+    100056: B_Sister_Closed
+    100058: B_SisterRoom
+    100060: B_SisterRoomAssets
+    100062: B_Window
+    100064: B_Windowframes
+    100066: BCabinet1Mesh
+    100068: BCabinet1Mesh2
+    100070: BCabinet2Mesh
+    100072: BCabinet3Mesh
+    100074: BCabinet3Mesh1
+    100076: BCabinet3Mesh2
+    100078: BedMesh
+    100080: BedMesh 1
+    100082: BinMesh
+    100084: BinMesh 1
+    100086: C_RoofMesh
+    100088: CeilingLightMesh
+    100090: CeilingLightMesh 1
+    100092: CeilingLightMesh1
+    100094: CeilingLightMesh1 1
+    100096: CeilingLightMesh10
+    100098: CeilingLightMesh2
+    100100: CeilingLightMesh3
+    100102: CeilingLightMesh4
+    100104: CeilingLightMesh5
+    100106: CeilingLightMesh6
+    100108: CeilingLightMesh7
+    100110: CeilingLightMesh8
+    100112: CeilingLightMesh8 1
+    100114: CeilingLightMesh9
+    100116: CeilingLightMesh9 1
+    100118: ChairMesh
+    100120: ChairMesh1
+    100122: ChairMesh2
+    100124: ChairMesh3
+    100126: ChairMesh4
+    100128: ChesterdrawMesh
+    100130: ChesterdrawMesh 1
+    100132: ClockMesh
+    100134: ClockMesh 1
+    100136: ClosedDoorMesh
+    100138: ClosedDoorMesh1
+    100140: ClosedDoorMesh2
+    100142: ClosedDoorMesh3
+    100144: ClosedDoorMesh4
+    100146: ClosedDoorMesh5
+    100148: CurtainMesh
+    100150: DeskMesh
+    100152: DeskMesh 1
+    100154: DeskMirrorMesh
+    100156: DoorFrameMesh
+    100158: DoorFrameMesh1
+    100160: DoorFrameMesh2
+    100162: DoorMesh1
+    100164: DoorMesh2
+    100166: DoorMesh4
+    100168: EntrancewindowMesh
+    100170: Floor
+    100172: FridgeMesh
+    100174: FrontDoorMesh
+    100176: Froyer_Cupboard
+    100178: Keyboard_Mouse
+    100180: KItchenAssets
+    100182: KitchenTableMesh
+    100184: Kithchen_Table
+    100186: KWorktopMesh
+    100188: LightSwitch1Mesh
+    100190: LightSwitch3Mesh
+    100192: LivingroomAssets
+    100194: MonitorMesh
+    100196: //RootNode
+    100198: pasted__PillowMesh
+    100200: PC_Set
+    100202: PCtowerMesh
+    100204: PillowMesh
+    100206: ShoedrawMesh
+    100208: ShoedrawMesh1
+    100210: SistersroomWindowMesh
+    100212: Sofa
+    100214: SofaCushionsMesh
+    100216: SofaFrameMesh
+    100218: Stair_Well
+    100220: TallCabinetMesh
+    100222: TallCabinetMesh 1
+    100224: TopcabinetMesh
+    100226: TopcabinetMesh1
+    100228: TopcabinetMesh2
+    100230: TopcabinetMesh3
+    100232: TopcabinetMesh4
+    100234: TopcabinetMesh5
+    100236: TVMesh
+    100238: TVStandMesh
+    400000: A_Celinglights
+    400002: A_Close1
+    400004: A_Close2
+    400006: A_Closeddoors
+    400008: A_FirstFloor
+    400010: A_Floor
+    400012: A_Foyer
+    400014: A_Foyer_Glass
+    400016: A_Hall1
+    400018: A_Kitchen
+    400020: A_Light_Switch1
+    400022: A_Light_Switch3
+    400024: A_Light_Switch4
+    400026: A_Lightswitchs
+    400028: A_OpenDoors
+    400030: A_TargetRoom
+    400032: A_TargetRoomAssets
+    400034: A_Wall1
+    400036: AB_Stairs
+    400038: B_Celinglights
+    400040: B_Closed_2
+    400042: B_Closed_3
+    400044: B_Closed_4
+    400046: B_Closed_Doors
+    400048: B_Floor
+    400050: B_Lightswitchs
+    400052: B_Openable_Doors
+    400054: B_SecondFloor
+    400056: B_Sister_Closed
+    400058: B_SisterRoom
+    400060: B_SisterRoomAssets
+    400062: B_Window
+    400064: B_Windowframes
+    400066: BCabinet1Mesh
+    400068: BCabinet1Mesh2
+    400070: BCabinet2Mesh
+    400072: BCabinet3Mesh
+    400074: BCabinet3Mesh1
+    400076: BCabinet3Mesh2
+    400078: BedMesh
+    400080: BedMesh 1
+    400082: BinMesh
+    400084: BinMesh 1
+    400086: C_RoofMesh
+    400088: CeilingLightMesh
+    400090: CeilingLightMesh 1
+    400092: CeilingLightMesh1
+    400094: CeilingLightMesh1 1
+    400096: CeilingLightMesh10
+    400098: CeilingLightMesh2
+    400100: CeilingLightMesh3
+    400102: CeilingLightMesh4
+    400104: CeilingLightMesh5
+    400106: CeilingLightMesh6
+    400108: CeilingLightMesh7
+    400110: CeilingLightMesh8
+    400112: CeilingLightMesh8 1
+    400114: CeilingLightMesh9
+    400116: CeilingLightMesh9 1
+    400118: ChairMesh
+    400120: ChairMesh1
+    400122: ChairMesh2
+    400124: ChairMesh3
+    400126: ChairMesh4
+    400128: ChesterdrawMesh
+    400130: ChesterdrawMesh 1
+    400132: ClockMesh
+    400134: ClockMesh 1
+    400136: ClosedDoorMesh
+    400138: ClosedDoorMesh1
+    400140: ClosedDoorMesh2
+    400142: ClosedDoorMesh3
+    400144: ClosedDoorMesh4
+    400146: ClosedDoorMesh5
+    400148: CurtainMesh
+    400150: DeskMesh
+    400152: DeskMesh 1
+    400154: DeskMirrorMesh
+    400156: DoorFrameMesh
+    400158: DoorFrameMesh1
+    400160: DoorFrameMesh2
+    400162: DoorMesh1
+    400164: DoorMesh2
+    400166: DoorMesh4
+    400168: EntrancewindowMesh
+    400170: Floor
+    400172: FridgeMesh
+    400174: FrontDoorMesh
+    400176: Froyer_Cupboard
+    400178: Keyboard_Mouse
+    400180: KItchenAssets
+    400182: KitchenTableMesh
+    400184: Kithchen_Table
+    400186: KWorktopMesh
+    400188: LightSwitch1Mesh
+    400190: LightSwitch3Mesh
+    400192: LivingroomAssets
+    400194: MonitorMesh
+    400196: //RootNode
+    400198: pasted__PillowMesh
+    400200: PC_Set
+    400202: PCtowerMesh
+    400204: PillowMesh
+    400206: ShoedrawMesh
+    400208: ShoedrawMesh1
+    400210: SistersroomWindowMesh
+    400212: Sofa
+    400214: SofaCushionsMesh
+    400216: SofaFrameMesh
+    400218: Stair_Well
+    400220: TallCabinetMesh
+    400222: TallCabinetMesh 1
+    400224: TopcabinetMesh
+    400226: TopcabinetMesh1
+    400228: TopcabinetMesh2
+    400230: TopcabinetMesh3
+    400232: TopcabinetMesh4
+    400234: TopcabinetMesh5
+    400236: TVMesh
+    400238: TVStandMesh
+    2300000: A_Close1
+    2300002: A_Close2
+    2300004: A_Floor
+    2300006: A_Foyer
+    2300008: A_Foyer_Glass
+    2300010: A_Hall1
+    2300012: A_Kitchen
+    2300014: A_Light_Switch1
+    2300016: A_Light_Switch3
+    2300018: A_Light_Switch4
+    2300020: A_TargetRoom
+    2300022: A_Wall1
+    2300024: AB_Stairs
+    2300026: B_Closed_2
+    2300028: B_Closed_3
+    2300030: B_Closed_4
+    2300032: B_Sister_Closed
+    2300034: B_SisterRoom
+    2300036: B_Window
+    2300038: BCabinet1Mesh
+    2300040: BCabinet1Mesh2
+    2300042: BCabinet2Mesh
+    2300044: BCabinet3Mesh
+    2300046: BCabinet3Mesh1
+    2300048: BCabinet3Mesh2
+    2300050: BedMesh
+    2300052: BedMesh 1
+    2300054: BinMesh
+    2300056: BinMesh 1
+    2300058: C_RoofMesh
+    2300060: CeilingLightMesh
+    2300062: CeilingLightMesh 1
+    2300064: CeilingLightMesh1
+    2300066: CeilingLightMesh1 1
+    2300068: CeilingLightMesh10
+    2300070: CeilingLightMesh2
+    2300072: CeilingLightMesh3
+    2300074: CeilingLightMesh4
+    2300076: CeilingLightMesh5
+    2300078: CeilingLightMesh6
+    2300080: CeilingLightMesh7
+    2300082: CeilingLightMesh8
+    2300084: CeilingLightMesh8 1
+    2300086: CeilingLightMesh9
+    2300088: CeilingLightMesh9 1
+    2300090: ChairMesh
+    2300092: ChairMesh1
+    2300094: ChairMesh2
+    2300096: ChairMesh3
+    2300098: ChairMesh4
+    2300100: ChesterdrawMesh
+    2300102: ChesterdrawMesh 1
+    2300104: ClockMesh
+    2300106: ClockMesh 1
+    2300108: ClosedDoorMesh
+    2300110: ClosedDoorMesh1
+    2300112: ClosedDoorMesh2
+    2300114: ClosedDoorMesh3
+    2300116: ClosedDoorMesh4
+    2300118: ClosedDoorMesh5
+    2300120: CurtainMesh
+    2300122: DeskMesh
+    2300124: DeskMesh 1
+    2300126: DeskMirrorMesh
+    2300128: DoorFrameMesh
+    2300130: DoorFrameMesh1
+    2300132: DoorFrameMesh2
+    2300134: DoorMesh1
+    2300136: DoorMesh2
+    2300138: DoorMesh4
+    2300140: EntrancewindowMesh
+    2300142: Floor
+    2300144: FridgeMesh
+    2300146: FrontDoorMesh
+    2300148: Keyboard_Mouse
+    2300150: KitchenTableMesh
+    2300152: KWorktopMesh
+    2300154: LightSwitch1Mesh
+    2300156: LightSwitch3Mesh
+    2300158: MonitorMesh
+    2300160: pasted__PillowMesh
+    2300162: PCtowerMesh
+    2300164: PillowMesh
+    2300166: ShoedrawMesh
+    2300168: ShoedrawMesh1
+    2300170: SistersroomWindowMesh
+    2300172: SofaCushionsMesh
+    2300174: SofaFrameMesh
+    2300176: Stair_Well
+    2300178: TallCabinetMesh
+    2300180: TallCabinetMesh 1
+    2300182: TopcabinetMesh
+    2300184: TopcabinetMesh1
+    2300186: TopcabinetMesh2
+    2300188: TopcabinetMesh3
+    2300190: TopcabinetMesh4
+    2300192: TopcabinetMesh5
+    2300194: TVMesh
+    2300196: TVStandMesh
+    3300000: A_Close1
+    3300002: A_Close2
+    3300004: A_Floor
+    3300006: A_Foyer
+    3300008: A_Foyer_Glass
+    3300010: A_Hall1
+    3300012: A_Kitchen
+    3300014: A_Light_Switch1
+    3300016: A_Light_Switch3
+    3300018: A_Light_Switch4
+    3300020: A_TargetRoom
+    3300022: A_Wall1
+    3300024: AB_Stairs
+    3300026: B_Closed_2
+    3300028: B_Closed_3
+    3300030: B_Closed_4
+    3300032: B_Sister_Closed
+    3300034: B_SisterRoom
+    3300036: B_Window
+    3300038: BCabinet1Mesh
+    3300040: BCabinet1Mesh2
+    3300042: BCabinet2Mesh
+    3300044: BCabinet3Mesh
+    3300046: BCabinet3Mesh1
+    3300048: BCabinet3Mesh2
+    3300050: BedMesh
+    3300052: BedMesh 1
+    3300054: BinMesh
+    3300056: BinMesh 1
+    3300058: C_RoofMesh
+    3300060: CeilingLightMesh
+    3300062: CeilingLightMesh 1
+    3300064: CeilingLightMesh1
+    3300066: CeilingLightMesh1 1
+    3300068: CeilingLightMesh10
+    3300070: CeilingLightMesh2
+    3300072: CeilingLightMesh3
+    3300074: CeilingLightMesh4
+    3300076: CeilingLightMesh5
+    3300078: CeilingLightMesh6
+    3300080: CeilingLightMesh7
+    3300082: CeilingLightMesh8
+    3300084: CeilingLightMesh8 1
+    3300086: CeilingLightMesh9
+    3300088: CeilingLightMesh9 1
+    3300090: ChairMesh
+    3300092: ChairMesh1
+    3300094: ChairMesh2
+    3300096: ChairMesh3
+    3300098: ChairMesh4
+    3300100: ChesterdrawMesh
+    3300102: ChesterdrawMesh 1
+    3300104: ClockMesh
+    3300106: ClockMesh 1
+    3300108: ClosedDoorMesh
+    3300110: ClosedDoorMesh1
+    3300112: ClosedDoorMesh2
+    3300114: ClosedDoorMesh3
+    3300116: ClosedDoorMesh4
+    3300118: ClosedDoorMesh5
+    3300120: CurtainMesh
+    3300122: DeskMesh
+    3300124: DeskMesh 1
+    3300126: DeskMirrorMesh
+    3300128: DoorFrameMesh
+    3300130: DoorFrameMesh1
+    3300132: DoorFrameMesh2
+    3300134: DoorMesh1
+    3300136: DoorMesh2
+    3300138: DoorMesh4
+    3300140: EntrancewindowMesh
+    3300142: Floor
+    3300144: FridgeMesh
+    3300146: FrontDoorMesh
+    3300148: Keyboard_Mouse
+    3300150: KitchenTableMesh
+    3300152: KWorktopMesh
+    3300154: LightSwitch1Mesh
+    3300156: LightSwitch3Mesh
+    3300158: MonitorMesh
+    3300160: pasted__PillowMesh
+    3300162: PCtowerMesh
+    3300164: PillowMesh
+    3300166: ShoedrawMesh
+    3300168: ShoedrawMesh1
+    3300170: SistersroomWindowMesh
+    3300172: SofaCushionsMesh
+    3300174: SofaFrameMesh
+    3300176: Stair_Well
+    3300178: TallCabinetMesh
+    3300180: TallCabinetMesh 1
+    3300182: TopcabinetMesh
+    3300184: TopcabinetMesh1
+    3300186: TopcabinetMesh2
+    3300188: TopcabinetMesh3
+    3300190: TopcabinetMesh4
+    3300192: TopcabinetMesh5
+    3300194: TVMesh
+    3300196: TVStandMesh
+    4300000: CeilingLightMesh
+    4300002: CeilingLightMesh1
+    4300004: CeilingLightMesh2
+    4300006: CeilingLightMesh3
+    4300008: CeilingLightMesh4
+    4300010: CeilingLightMesh5
+    4300012: CeilingLightMesh6
+    4300014: CeilingLightMesh7
+    4300016: CeilingLightMesh8
+    4300018: CeilingLightMesh9
+    4300020: A_Light_Switch3
+    4300022: A_Light_Switch1
+    4300024: A_Light_Switch4
+    4300026: A_Floor
+    4300028: A_Close1
+    4300030: A_TargetRoom
+    4300032: BedMesh
+    4300034: PillowMesh
+    4300036: DeskMesh
+    4300038: ClockMesh
+    4300040: BinMesh
+    4300042: TallCabinetMesh
+    4300044: ChesterdrawMesh
+    4300046: A_Kitchen
+    4300048: TopcabinetMesh
+    4300050: FridgeMesh
+    4300052: BCabinet1Mesh
+    4300054: BCabinet2Mesh
+    4300056: BCabinet3Mesh
+    4300058: KWorktopMesh
+    4300060: BCabinet1Mesh2
+    4300062: TopcabinetMesh1
+    4300064: TopcabinetMesh2
+    4300066: TopcabinetMesh3
+    4300068: TopcabinetMesh4
+    4300070: TopcabinetMesh5
+    4300072: BCabinet3Mesh1
+    4300074: BCabinet3Mesh2
+    4300076: A_Hall1
+    4300078: A_Foyer
+    4300080: A_Foyer_Glass
+    4300082: A_Close2
+    4300084: A_Wall1
+    4300086: ClosedDoorMesh4
+    4300088: FrontDoorMesh
+    4300090: ClosedDoorMesh5
+    4300092: DoorMesh1
+    4300094: DoorFrameMesh1
+    4300096: DoorFrameMesh2
+    4300098: DoorMesh2
+    4300100: TVStandMesh
+    4300102: TVMesh
+    4300104: SofaFrameMesh
+    4300106: SofaCushionsMesh
+    4300108: ShoedrawMesh
+    4300110: ShoedrawMesh1
+    4300112: PCtowerMesh
+    4300114: MonitorMesh
+    4300116: Keyboard_Mouse
+    4300118: ChairMesh
+    4300120: KitchenTableMesh
+    4300122: ChairMesh1
+    4300124: ChairMesh2
+    4300126: ChairMesh3
+    4300128: ChairMesh4
+    4300130: CeilingLightMesh
+    4300132: CeilingLightMesh1
+    4300134: CeilingLightMesh8
+    4300136: CeilingLightMesh9
+    4300138: CeilingLightMesh10
+    4300140: B_SisterRoom
+    4300142: BedMesh
+    4300144: pasted__PillowMesh
+    4300146: DeskMesh
+    4300148: ClockMesh
+    4300150: BinMesh
+    4300152: TallCabinetMesh
+    4300154: DeskMirrorMesh
+    4300156: CurtainMesh
+    4300158: ChesterdrawMesh
+    4300160: LightSwitch3Mesh
+    4300162: LightSwitch1Mesh
+    4300164: B_Sister_Closed
+    4300166: B_Closed_2
+    4300168: B_Closed_3
+    4300170: B_Closed_4
+    4300172: B_Window
+    4300174: Stair_Well
+    4300176: Floor
+    4300178: ClosedDoorMesh
+    4300180: ClosedDoorMesh1
+    4300182: ClosedDoorMesh2
+    4300184: ClosedDoorMesh3
+    4300186: DoorFrameMesh
+    4300188: DoorMesh4
+    4300190: EntrancewindowMesh
+    4300192: SistersroomWindowMesh
+    4300194: AB_Stairs
+    4300196: C_RoofMesh
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

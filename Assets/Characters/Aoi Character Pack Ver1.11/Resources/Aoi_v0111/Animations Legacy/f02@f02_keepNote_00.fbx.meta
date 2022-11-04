@@ -1,0 +1,2015 @@
+fileFormatVersion: 2
+guid: 245b9ccbf8e00a149a0ee572563b5136
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: atama_n
+    100002: b_lip_center
+    100004: Back_skart1
+    100006: Back_skart2
+    100008: Back_skart3
+    100010: BackHair1
+    100012: BackHair2
+    100014: BackHair3
+    100016: BackHair4
+    100018: Char_A_1
+    100020: Char_C_1
+    100022: Char_C_2
+    100024: Char_E_1
+    100026: Char_F_2
+    100028: Char_L_1
+    100030: Char_R_1
+    100032: Char_T_1
+    100034: cheek_Left
+    100036: cheek_Right
+    100038: chin
+    100040: CTRL_Back_skart1_1
+    100042: CTRL_Back_skart2_1
+    100044: CTRL_BackHair1_1
+    100046: CTRL_BackHair2_1
+    100048: CTRL_BackHair3_1
+    100050: CTRL_BackHair4_1
+    100052: CTRL_eye_Left_2
+    100054: CTRL_eye_Right_1
+    100056: CTRL_Face
+    100058: CTRL_Front_skart1_1
+    100060: CTRL_Front_skart2_1
+    100062: CTRL_FrontHair_1
+    100064: CTRL_Head_1
+    100066: CTRL_Head_null_1
+    100068: CTRL_Hips_1
+    100070: CTRL_Hips_2
+    100072: CTRL_Left_skart1_1
+    100074: CTRL_Left_skart2_1
+    100076: CTRL_LeftBreast_1
+    100078: CTRL_LeftFoot_1
+    100080: CTRL_LeftFoot_2
+    100082: CTRL_LeftFoot_3
+    100084: CTRL_LeftHair1_1
+    100086: CTRL_LeftHair2_1
+    100088: CTRL_LeftHair3_1
+    100090: CTRL_LeftHandIndex1_1
+    100092: CTRL_LeftHandIndex2_1
+    100094: CTRL_LeftHandIndex3_1
+    100096: CTRL_LeftHandMiddle1_1
+    100098: CTRL_LeftHandMiddle2_1
+    100100: CTRL_LeftHandMiddle3_1
+    100102: CTRL_LeftHandPinky1_1
+    100104: CTRL_LeftHandPinky2_1
+    100106: CTRL_LeftHandPinky3_1
+    100108: CTRL_LeftHandRing1_1
+    100110: CTRL_LeftHandRing2_1
+    100112: CTRL_LeftHandRing3_1
+    100114: CTRL_LeftHandThumb1_1
+    100116: CTRL_LeftHandThumb2_1
+    100118: CTRL_LeftHandThumb3_1
+    100120: CTRL_LeftLeg_1
+    100122: CTRL_LeftLeg_Helper_1
+    100124: CTRL_LeftNipple_1
+    100126: CTRL_LeftToes_1
+    100128: CTRL_LeftUpLeg_1
+    100130: CTRL_Neck_1
+    100132: CTRL_PelvisRoot_1
+    100134: CTRL_Right_skart1_1
+    100136: CTRL_Right_skart2_1
+    100138: CTRL_RightBreast_1
+    100140: CTRL_RightFoot_1
+    100142: CTRL_RightFoot_2
+    100144: CTRL_RightFoot_3
+    100146: CTRL_RightHair1_1
+    100148: CTRL_RightHair2_1
+    100150: CTRL_RightHair3_1
+    100152: CTRL_RightHandIndex1_1
+    100154: CTRL_RightHandIndex2_1
+    100156: CTRL_RightHandIndex3_1
+    100158: CTRL_RightHandMiddle1_1
+    100160: CTRL_RightHandMiddle2_1
+    100162: CTRL_RightHandMiddle3_1
+    100164: CTRL_RightHandPinky1_1
+    100166: CTRL_RightHandPinky2_1
+    100168: CTRL_RightHandPinky3_1
+    100170: CTRL_RightHandRing1_1
+    100172: CTRL_RightHandRing2_1
+    100174: CTRL_RightHandRing3_1
+    100176: CTRL_RightHandThumb1_1
+    100178: CTRL_RightHandThumb2_1
+    100180: CTRL_RightHandThumb3_1
+    100182: CTRL_RightLeg_1
+    100184: CTRL_RightLeg_Helper_1
+    100186: CTRL_RightNipple_1
+    100188: CTRL_RightNipple_2
+    100190: CTRL_RightToes_1
+    100192: CTRL_RightUpLeg_1
+    100194: CTRL_Spine1_1
+    100196: CTRL_Spine2_1
+    100198: CTRL_Spine3_1
+    100200: CTRL_Spine_1
+    100202: curve10
+    100204: curve11
+    100206: curve12
+    100208: curve13
+    100210: curve14
+    100212: curve15
+    100214: curve16
+    100216: curve7
+    100218: curve8
+    100220: curve9
+    100222: door1
+    100224: door1 1
+    100226: door2
+    100228: door2 1
+    100230: door3
+    100232: door3 1
+    100234: door4
+    100236: door4 1
+    100238: door5
+    100240: door5 1
+    100242: door6
+    100244: door6 1
+    100246: door7
+    100248: door7 1
+    100250: door8
+    100252: door8 1
+    100254: eye_Left
+    100256: eye_Right
+    100258: eyebrow_a_Left
+    100260: eyebrow_a_Right
+    100262: eyebrow_b_Left
+    100264: eyebrow_b_Right
+    100266: eyelid_und1_Left
+    100268: eyelid_und1_Right
+    100270: eyelid_und2_Left
+    100272: eyelid_und2_Right
+    100274: eyelid_und_Left
+    100276: eyelid_und_Right
+    100278: eyerid1_Left
+    100280: eyerid1_Right
+    100282: eyerid2_Left
+    100284: eyerid2_Right
+    100286: eyerid_Left
+    100288: eyerid_Right
+    100290: //RootNode
+    100292: f02_schoolwear_210_h
+    100294: face
+    100296: Front_skart1
+    100298: Front_skart2
+    100300: Front_skart3
+    100302: FrontHair
+    100304: G_heel_ikH_LeftFoot
+    100306: G_heel_ikH_RightFoot
+    100308: G_ikH_LeftFoot
+    100310: G_ikH_LeftToes_ikH_LeftToesNull
+    100312: G_ikH_RightFoot
+    100314: G_ikH_RightToes_ikH_RightToesNull
+    100316: G_toe_ikH_LeftToesNull
+    100318: G_toe_ikH_RightToesNull
+    100320: Glasses_Null
+    100322: group1
+    100324: group2
+    100326: Head
+    100328: Head_null
+    100330: Hips
+    100332: ikH_LeftFoot
+    100334: ikH_LeftToes
+    100336: ikH_LeftToesNull
+    100338: ikH_RightFoot
+    100340: ikH_RightToes
+    100342: ikH_RightToesNull
+    100344: inner_corner_of_eye_Left
+    100346: inner_corner_of_eye_Right
+    100348: jaw
+    100350: Left_skart1
+    100352: Left_skart2
+    100354: Left_skart3
+    100356: LeftArm
+    100358: LeftArmRoll
+    100360: LeftBreast
+    100362: LeftEarring_Null
+    100364: LeftFoot
+    100366: LeftForeArm
+    100368: LeftForeArm_Helper
+    100370: LeftForeArmRoll
+    100372: LeftHair1
+    100374: LeftHair2
+    100376: LeftHair3
+    100378: LeftHand
+    100380: LeftHandfingerAttach
+    100382: LeftHandIndex1
+    100384: LeftHandIndex2
+    100386: LeftHandIndex3
+    100388: LeftHandIndexNull
+    100390: LeftHanditem_Null
+    100392: LeftHandMiddle1
+    100394: LeftHandMiddle2
+    100396: LeftHandMiddle3
+    100398: LeftHandMiddleNull
+    100400: LeftHandPinky1
+    100402: LeftHandPinky2
+    100404: LeftHandPinky3
+    100406: LeftHandPinkyNull
+    100408: LeftHandRing1
+    100410: LeftHandRing2
+    100412: LeftHandRing3
+    100414: LeftHandRingNull
+    100416: LeftHandThumb1
+    100418: LeftHandThumb2
+    100420: LeftHandThumb3
+    100422: LeftHandThumbNull
+    100424: LeftHip_Helper
+    100426: leftHipHelper_1
+    100428: LeftLeg
+    100430: LeftLeg_Helper
+    100432: LeftNipple
+    100434: LeftShoulder
+    100436: LeftToes
+    100438: LeftToesNull
+    100440: LeftUpLeg
+    100442: lip_Left
+    100444: lip_Right
+    100446: lip_t_Left
+    100448: lip_t_Right
+    100450: lip_top_Left
+    100452: lip_top_Right
+    100454: lip_u_Left
+    100456: lip_u_Right
+    100458: locker
+    100460: locker 1
+    100462: mayu
+    100464: Neck
+    100466: newArmDriver
+    100468: newArmDriver_l_newArmDriver
+    100470: newArmDriver_l_newArmDriver_ArmIKHandle
+    100472: newArmDriver_l_newArmDriver_ArmLengthEndLctr
+    100474: newArmDriver_l_newArmDriver_ArmLengthOriginLctr
+    100476: newArmDriver_l_newArmDriver_ClavicleCtrl
+    100478: newArmDriver_l_newArmDriver_ClavicleCtrlGrp
+    100480: newArmDriver_l_newArmDriver_ClavicleJnt
+    100482: newArmDriver_l_newArmDriver_ClavicleSHJnt
+    100484: newArmDriver_l_newArmDriver_curveNodesGrp
+    100486: newArmDriver_l_newArmDriver_Elbow_CurveCtrl
+    100488: newArmDriver_l_newArmDriver_Elbow_CurveCtrlGrp
+    100490: newArmDriver_l_newArmDriver_Elbow_CurveJnt
+    100492: newArmDriver_l_newArmDriver_Elbow_CurveSHJnt
+    100494: newArmDriver_l_newArmDriver_Elbow_FKAimLctr
+    100496: newArmDriver_l_newArmDriver_ElbowFKCtrl
+    100498: newArmDriver_l_newArmDriver_ElbowFKCtrlGrp
+    100500: newArmDriver_l_newArmDriver_ElbowIKAimConnectorLctr
+    100502: newArmDriver_l_newArmDriver_ElbowIKConnectorCtrl
+    100504: newArmDriver_l_newArmDriver_ElbowIKCtrl
+    100506: newArmDriver_l_newArmDriver_ElbowIKCtrl_ShoulderLctr
+    100508: newArmDriver_l_newArmDriver_ElbowIKCtrl_TargetLctr
+    100510: newArmDriver_l_newArmDriver_ElbowIKCtrl_WristLctr
+    100512: newArmDriver_l_newArmDriver_ElbowIKCtrlGrp
+    100514: newArmDriver_l_newArmDriver_ElbowIKLockLctr
+    100516: newArmDriver_l_newArmDriver_ElbowIKTargetConnectorLctr
+    100518: newArmDriver_l_newArmDriver_ElbowIKtoFKAimLctr
+    100520: newArmDriver_l_newArmDriver_ElbowJnt
+    100522: newArmDriver_l_newArmDriver_ElbowJntFK
+    100524: newArmDriver_l_newArmDriver_ElbowJntFKGrp1
+    100526: newArmDriver_l_newArmDriver_ElbowJntFKGrp2
+    100528: newArmDriver_l_newArmDriver_ElbowJntIK
+    100530: newArmDriver_l_newArmDriver_extraCurveNodesGrp
+    100532: newArmDriver_l_newArmDriver_Lower_Curve1Ctrl
+    100534: newArmDriver_l_newArmDriver_Lower_Curve1CtrlGrp
+    100536: newArmDriver_l_newArmDriver_Lower_Curve1Jnt
+    100538: newArmDriver_l_newArmDriver_Lower_Curve1SHJnt
+    100540: newArmDriver_l_newArmDriver_Lower_CurveCtrl
+    100542: newArmDriver_l_newArmDriver_Lower_CurveCtrlGrp
+    100544: newArmDriver_l_newArmDriver_Lower_Elbow_NoRollIKHandle
+    100546: newArmDriver_l_newArmDriver_Lower_Elbow_NoRollJnt
+    100548: newArmDriver_l_newArmDriver_Lower_Elbow_NoRollJntGrp
+    100550: newArmDriver_l_newArmDriver_Lower_Elbow_TwistEndJnt
+    100552: newArmDriver_l_newArmDriver_Lower_Elbow_TwistJnt1
+    100554: newArmDriver_l_newArmDriver_Lower_Elbow_TwistJointExtraJnt
+    100556: newArmDriver_l_newArmDriver_Lower_Elbow_TwistJointsGrp
+    100558: newArmDriver_l_newArmDriver_Lower_Elbow_TwistSplineIK_Up1Lctr
+    100560: newArmDriver_l_newArmDriver_Lower_Elbow_TwistSplineIK_Up2Lctr
+    100562: newArmDriver_l_newArmDriver_Lower_Elbow_TwistSplineIKCurve
+    100564: newArmDriver_l_newArmDriver_Lower_Elbow_TwistSplineIKHandle
+    100566: newArmDriver_l_newArmDriver_Lower_Elbow_TwistStartJnt
+    100568: newArmDriver_l_newArmDriver_Lower_TwistCtrl
+    100570: newArmDriver_l_newArmDriver_Lower_TwistCtrlGrp
+    100572: newArmDriver_l_newArmDriver_Lower_Wrist_NoRollJnt
+    100574: newArmDriver_l_newArmDriver_Lower_Wrist_TwistGrp
+    100576: newArmDriver_l_newArmDriver_Lower_Wrist_TwistLctr
+    100578: newArmDriver_l_newArmDriver_LowerBtmClstr
+    100580: newArmDriver_l_newArmDriver_LowerBtmClstrGrp
+    100582: newArmDriver_l_newArmDriver_LowerBtmGuideClstr
+    100584: newArmDriver_l_newArmDriver_LowerBtmGuideClstrGrp
+    100586: newArmDriver_l_newArmDriver_LowerCurveAttach
+    100588: newArmDriver_l_newArmDriver_LowerCurveGuide
+    100590: newArmDriver_l_newArmDriver_LowerMidClstr
+    100592: newArmDriver_l_newArmDriver_LowerTopClstr
+    100594: newArmDriver_l_newArmDriver_LowerTopClstrGrp
+    100596: newArmDriver_l_newArmDriver_LowerTopGuideClstr
+    100598: newArmDriver_l_newArmDriver_LowerTopGuideClstrGrp
+    100600: newArmDriver_l_newArmDriver_MiddleBtmGuideClstr
+    100602: newArmDriver_l_newArmDriver_MiddleCurveAttach
+    100604: newArmDriver_l_newArmDriver_MiddleTopGuideClstr
+    100606: newArmDriver_l_newArmDriver_OffsetLctr
+    100608: newArmDriver_l_newArmDriver_ScaleGrp
+    100610: newArmDriver_l_newArmDriver_Shoulder_CurveJnt
+    100612: newArmDriver_l_newArmDriver_Shoulder_CurveJnt_AimLctr
+    100614: newArmDriver_l_newArmDriver_Shoulder_CurveJnt_AimLctrGrp
+    100616: newArmDriver_l_newArmDriver_Shoulder_CurveSHJnt
+    100618: newArmDriver_l_newArmDriver_ShoulderFKCtrl
+    100620: newArmDriver_l_newArmDriver_ShoulderFKCtrlGrp
+    100622: newArmDriver_l_newArmDriver_ShoulderFKCtrlGrp2
+    100624: newArmDriver_l_newArmDriver_ShoulderFKOrientLctr
+    100626: newArmDriver_l_newArmDriver_ShoulderFKtoIKOrientLctr
+    100628: newArmDriver_l_newArmDriver_ShoulderIKLockLctr
+    100630: newArmDriver_l_newArmDriver_ShoulderJnt
+    100632: newArmDriver_l_newArmDriver_ShoulderJntFK
+    100634: newArmDriver_l_newArmDriver_ShoulderJntIK
+    100636: newArmDriver_l_newArmDriver_SwitchCtrl
+    100638: newArmDriver_l_newArmDriver_SwitchCtrlGrp
+    100640: newArmDriver_l_newArmDriver_Upper_Curve1Ctrl
+    100642: newArmDriver_l_newArmDriver_Upper_Curve1CtrlGrp
+    100644: newArmDriver_l_newArmDriver_Upper_Curve1Jnt
+    100646: newArmDriver_l_newArmDriver_Upper_Curve1SHJnt
+    100648: newArmDriver_l_newArmDriver_Upper_CurveCtrl
+    100650: newArmDriver_l_newArmDriver_Upper_CurveCtrlGrp
+    100652: newArmDriver_l_newArmDriver_Upper_Elbow_NoRollJnt
+    100654: newArmDriver_l_newArmDriver_Upper_Elbow_TwistLctr
+    100656: newArmDriver_l_newArmDriver_Upper_Shoulder_NoRollIKHandle
+    100658: newArmDriver_l_newArmDriver_Upper_Shoulder_NoRollJnt
+    100660: newArmDriver_l_newArmDriver_Upper_Shoulder_NoRollJntGrp
+    100662: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistEndJnt
+    100664: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistGrp
+    100666: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistJnt1
+    100668: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistJointExtraJnt
+    100670: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistJointsGrp
+    100672: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistSplineIK_Up1Lctr
+    100674: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistSplineIK_Up2Lctr
+    100676: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistSplineIKCurve
+    100678: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistSplineIKHandle
+    100680: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistStartJnt
+    100682: newArmDriver_l_newArmDriver_Upper_TwistCtrl
+    100684: newArmDriver_l_newArmDriver_Upper_TwistCtrlGrp
+    100686: newArmDriver_l_newArmDriver_UpperBtmClstr
+    100688: newArmDriver_l_newArmDriver_UpperBtmClstrGrp
+    100690: newArmDriver_l_newArmDriver_UpperBtmGuideClstr
+    100692: newArmDriver_l_newArmDriver_UpperBtmGuideClstrGrp
+    100694: newArmDriver_l_newArmDriver_UpperCurveAttach
+    100696: newArmDriver_l_newArmDriver_UpperCurveGuide
+    100698: newArmDriver_l_newArmDriver_UpperMidClstr
+    100700: newArmDriver_l_newArmDriver_UpperTopClstr
+    100702: newArmDriver_l_newArmDriver_UpperTopClstrGrp
+    100704: newArmDriver_l_newArmDriver_UpperTopGuideClstr
+    100706: newArmDriver_l_newArmDriver_UpperTopGuideClstrGrp
+    100708: newArmDriver_l_newArmDriver_Wrist_NoRollBtmEndJnt
+    100710: newArmDriver_l_newArmDriver_Wrist_NoRollBtmIKHandle
+    100712: newArmDriver_l_newArmDriver_Wrist_NoRollBtmStartJnt
+    100714: newArmDriver_l_newArmDriver_Wrist_NoRollBtmStartJntGrp
+    100716: newArmDriver_l_newArmDriver_Wrist_RollBtmEndJnt
+    100718: newArmDriver_l_newArmDriver_Wrist_RollBtmStartJnt
+    100720: newArmDriver_l_newArmDriver_Wrist_RollBtmStartJntGrp
+    100722: newArmDriver_l_newArmDriver_Wrist_SplineIKBtmEndJnt
+    100724: newArmDriver_l_newArmDriver_Wrist_SplineIKBtmIKCurve
+    100726: newArmDriver_l_newArmDriver_Wrist_SplineIKBtmIKHandle
+    100728: newArmDriver_l_newArmDriver_Wrist_SplineIKBtmRollValJnt
+    100730: newArmDriver_l_newArmDriver_Wrist_SplineIKBtmStartJnt
+    100732: newArmDriver_l_newArmDriver_Wrist_SplineIKBtmStartJntGrp
+    100734: newArmDriver_l_newArmDriver_Wrist_SplineIKUpLctr1
+    100736: newArmDriver_l_newArmDriver_Wrist_SplineIKUpLctr2
+    100738: newArmDriver_l_newArmDriver_WristFKCtrl
+    100740: newArmDriver_l_newArmDriver_WristFKCtrlGrp
+    100742: newArmDriver_l_newArmDriver_WristFKLctr
+    100744: newArmDriver_l_newArmDriver_WristFKtoIKLctr
+    100746: newArmDriver_l_newArmDriver_WristIKCtrl
+    100748: newArmDriver_l_newArmDriver_WristIKCtrlGrp
+    100750: newArmDriver_l_newArmDriver_WristIKLctr
+    100752: newArmDriver_l_newArmDriver_WristIKLockLctr
+    100754: newArmDriver_l_newArmDriver_WristIKtoFKLctr
+    100756: newArmDriver_l_newArmDriver_WristJnt
+    100758: newArmDriver_l_newArmDriver_WristJntDummy
+    100760: newArmDriver_l_newArmDriver_WristJntFK
+    100762: newArmDriver_l_newArmDriver_WristJntFKGrp1
+    100764: newArmDriver_l_newArmDriver_WristJntFKGrp2
+    100766: newArmDriver_l_newArmDriver_WristJntGrp1
+    100768: newArmDriver_l_newArmDriver_WristJntGrp2
+    100770: newArmDriver_l_newArmDriver_WristJntIK
+    100772: newArmDriver_l_newArmDriver_WristJntIKDummy
+    100774: newArmDriver_l_newArmDriver_WristJntIKDummyGrp1
+    100776: newArmDriver_l_newArmDriver_WristJntIKDummyGrp2
+    100778: newArmDriver_l_newArmDriver_WristSHJnt
+    100780: newArmDriver_l_newArmDriverGrp
+    100782: newArmDriver_r_newArmDriver
+    100784: newArmDriver_r_newArmDriver_ArmIKHandle
+    100786: newArmDriver_r_newArmDriver_ArmLengthEndLctr
+    100788: newArmDriver_r_newArmDriver_ArmLengthOriginLctr
+    100790: newArmDriver_r_newArmDriver_ClavicleCtrl
+    100792: newArmDriver_r_newArmDriver_ClavicleCtrlGrp
+    100794: newArmDriver_r_newArmDriver_ClavicleJnt
+    100796: newArmDriver_r_newArmDriver_ClavicleSHJnt
+    100798: newArmDriver_r_newArmDriver_curveNodesGrp
+    100800: newArmDriver_r_newArmDriver_Elbow_CurveCtrl
+    100802: newArmDriver_r_newArmDriver_Elbow_CurveCtrlGrp
+    100804: newArmDriver_r_newArmDriver_Elbow_CurveJnt
+    100806: newArmDriver_r_newArmDriver_Elbow_CurveSHJnt
+    100808: newArmDriver_r_newArmDriver_Elbow_FKAimLctr
+    100810: newArmDriver_r_newArmDriver_ElbowFKCtrl
+    100812: newArmDriver_r_newArmDriver_ElbowFKCtrlGrp
+    100814: newArmDriver_r_newArmDriver_ElbowIKAimConnectorLctr
+    100816: newArmDriver_r_newArmDriver_ElbowIKConnectorCtrl
+    100818: newArmDriver_r_newArmDriver_ElbowIKCtrl
+    100820: newArmDriver_r_newArmDriver_ElbowIKCtrl_ShoulderLctr
+    100822: newArmDriver_r_newArmDriver_ElbowIKCtrl_TargetLctr
+    100824: newArmDriver_r_newArmDriver_ElbowIKCtrl_WristLctr
+    100826: newArmDriver_r_newArmDriver_ElbowIKCtrlGrp
+    100828: newArmDriver_r_newArmDriver_ElbowIKLockLctr
+    100830: newArmDriver_r_newArmDriver_ElbowIKTargetConnectorLctr
+    100832: newArmDriver_r_newArmDriver_ElbowIKtoFKAimLctr
+    100834: newArmDriver_r_newArmDriver_ElbowJnt
+    100836: newArmDriver_r_newArmDriver_ElbowJntFK
+    100838: newArmDriver_r_newArmDriver_ElbowJntFKGrp1
+    100840: newArmDriver_r_newArmDriver_ElbowJntFKGrp2
+    100842: newArmDriver_r_newArmDriver_ElbowJntIK
+    100844: newArmDriver_r_newArmDriver_extraCurveNodesGrp
+    100846: newArmDriver_r_newArmDriver_Lower_Curve1Ctrl
+    100848: newArmDriver_r_newArmDriver_Lower_Curve1CtrlGrp
+    100850: newArmDriver_r_newArmDriver_Lower_Curve1Jnt
+    100852: newArmDriver_r_newArmDriver_Lower_Curve1SHJnt
+    100854: newArmDriver_r_newArmDriver_Lower_CurveCtrl
+    100856: newArmDriver_r_newArmDriver_Lower_CurveCtrlGrp
+    100858: newArmDriver_r_newArmDriver_Lower_Elbow_NoRollIKHandle
+    100860: newArmDriver_r_newArmDriver_Lower_Elbow_NoRollJnt
+    100862: newArmDriver_r_newArmDriver_Lower_Elbow_NoRollJntGrp
+    100864: newArmDriver_r_newArmDriver_Lower_Elbow_TwistEndJnt
+    100866: newArmDriver_r_newArmDriver_Lower_Elbow_TwistJnt1
+    100868: newArmDriver_r_newArmDriver_Lower_Elbow_TwistJointExtraJnt
+    100870: newArmDriver_r_newArmDriver_Lower_Elbow_TwistJointsGrp
+    100872: newArmDriver_r_newArmDriver_Lower_Elbow_TwistSplineIK_Up1Lctr
+    100874: newArmDriver_r_newArmDriver_Lower_Elbow_TwistSplineIK_Up2Lctr
+    100876: newArmDriver_r_newArmDriver_Lower_Elbow_TwistSplineIKCurve
+    100878: newArmDriver_r_newArmDriver_Lower_Elbow_TwistSplineIKHandle
+    100880: newArmDriver_r_newArmDriver_Lower_Elbow_TwistStartJnt
+    100882: newArmDriver_r_newArmDriver_Lower_TwistCtrl
+    100884: newArmDriver_r_newArmDriver_Lower_TwistCtrlGrp
+    100886: newArmDriver_r_newArmDriver_Lower_Wrist_NoRollJnt
+    100888: newArmDriver_r_newArmDriver_Lower_Wrist_TwistGrp
+    100890: newArmDriver_r_newArmDriver_Lower_Wrist_TwistLctr
+    100892: newArmDriver_r_newArmDriver_LowerBtmClstr
+    100894: newArmDriver_r_newArmDriver_LowerBtmClstrGrp
+    100896: newArmDriver_r_newArmDriver_LowerBtmGuideClstr
+    100898: newArmDriver_r_newArmDriver_LowerBtmGuideClstrGrp
+    100900: newArmDriver_r_newArmDriver_LowerCurveAttach
+    100902: newArmDriver_r_newArmDriver_LowerCurveGuide
+    100904: newArmDriver_r_newArmDriver_LowerMidClstr
+    100906: newArmDriver_r_newArmDriver_LowerTopClstr
+    100908: newArmDriver_r_newArmDriver_LowerTopClstrGrp
+    100910: newArmDriver_r_newArmDriver_LowerTopGuideClstr
+    100912: newArmDriver_r_newArmDriver_LowerTopGuideClstrGrp
+    100914: newArmDriver_r_newArmDriver_MiddleBtmGuideClstr
+    100916: newArmDriver_r_newArmDriver_MiddleCurveAttach
+    100918: newArmDriver_r_newArmDriver_MiddleTopGuideClstr
+    100920: newArmDriver_r_newArmDriver_OffsetLctr
+    100922: newArmDriver_r_newArmDriver_ScaleGrp
+    100924: newArmDriver_r_newArmDriver_Shoulder_CurveJnt
+    100926: newArmDriver_r_newArmDriver_Shoulder_CurveJnt_AimLctr
+    100928: newArmDriver_r_newArmDriver_Shoulder_CurveJnt_AimLctrGrp
+    100930: newArmDriver_r_newArmDriver_Shoulder_CurveSHJnt
+    100932: newArmDriver_r_newArmDriver_ShoulderFKCtrl
+    100934: newArmDriver_r_newArmDriver_ShoulderFKCtrlGrp
+    100936: newArmDriver_r_newArmDriver_ShoulderFKCtrlGrp2
+    100938: newArmDriver_r_newArmDriver_ShoulderFKOrientLctr
+    100940: newArmDriver_r_newArmDriver_ShoulderFKtoIKOrientLctr
+    100942: newArmDriver_r_newArmDriver_ShoulderIKLockLctr
+    100944: newArmDriver_r_newArmDriver_ShoulderJnt
+    100946: newArmDriver_r_newArmDriver_ShoulderJntFK
+    100948: newArmDriver_r_newArmDriver_ShoulderJntIK
+    100950: newArmDriver_r_newArmDriver_SwitchCtrl
+    100952: newArmDriver_r_newArmDriver_SwitchCtrlGrp
+    100954: newArmDriver_r_newArmDriver_Upper_Curve1Ctrl
+    100956: newArmDriver_r_newArmDriver_Upper_Curve1CtrlGrp
+    100958: newArmDriver_r_newArmDriver_Upper_Curve1Jnt
+    100960: newArmDriver_r_newArmDriver_Upper_Curve1SHJnt
+    100962: newArmDriver_r_newArmDriver_Upper_CurveCtrl
+    100964: newArmDriver_r_newArmDriver_Upper_CurveCtrlGrp
+    100966: newArmDriver_r_newArmDriver_Upper_Elbow_NoRollJnt
+    100968: newArmDriver_r_newArmDriver_Upper_Elbow_TwistLctr
+    100970: newArmDriver_r_newArmDriver_Upper_Shoulder_NoRollIKHandle
+    100972: newArmDriver_r_newArmDriver_Upper_Shoulder_NoRollJnt
+    100974: newArmDriver_r_newArmDriver_Upper_Shoulder_NoRollJntGrp
+    100976: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistEndJnt
+    100978: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistGrp
+    100980: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistJnt1
+    100982: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistJointExtraJnt
+    100984: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistJointsGrp
+    100986: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistSplineIK_Up1Lctr
+    100988: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistSplineIK_Up2Lctr
+    100990: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistSplineIKCurve
+    100992: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistSplineIKHandle
+    100994: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistStartJnt
+    100996: newArmDriver_r_newArmDriver_Upper_TwistCtrl
+    100998: newArmDriver_r_newArmDriver_Upper_TwistCtrlGrp
+    101000: newArmDriver_r_newArmDriver_UpperBtmClstr
+    101002: newArmDriver_r_newArmDriver_UpperBtmClstrGrp
+    101004: newArmDriver_r_newArmDriver_UpperBtmGuideClstr
+    101006: newArmDriver_r_newArmDriver_UpperBtmGuideClstrGrp
+    101008: newArmDriver_r_newArmDriver_UpperCurveAttach
+    101010: newArmDriver_r_newArmDriver_UpperCurveGuide
+    101012: newArmDriver_r_newArmDriver_UpperMidClstr
+    101014: newArmDriver_r_newArmDriver_UpperTopClstr
+    101016: newArmDriver_r_newArmDriver_UpperTopClstrGrp
+    101018: newArmDriver_r_newArmDriver_UpperTopGuideClstr
+    101020: newArmDriver_r_newArmDriver_UpperTopGuideClstrGrp
+    101022: newArmDriver_r_newArmDriver_Wrist_NoRollBtmEndJnt
+    101024: newArmDriver_r_newArmDriver_Wrist_NoRollBtmIKHandle
+    101026: newArmDriver_r_newArmDriver_Wrist_NoRollBtmStartJnt
+    101028: newArmDriver_r_newArmDriver_Wrist_NoRollBtmStartJntGrp
+    101030: newArmDriver_r_newArmDriver_Wrist_RollBtmEndJnt
+    101032: newArmDriver_r_newArmDriver_Wrist_RollBtmStartJnt
+    101034: newArmDriver_r_newArmDriver_Wrist_RollBtmStartJntGrp
+    101036: newArmDriver_r_newArmDriver_Wrist_SplineIKBtmEndJnt
+    101038: newArmDriver_r_newArmDriver_Wrist_SplineIKBtmIKCurve
+    101040: newArmDriver_r_newArmDriver_Wrist_SplineIKBtmIKHandle
+    101042: newArmDriver_r_newArmDriver_Wrist_SplineIKBtmRollValJnt
+    101044: newArmDriver_r_newArmDriver_Wrist_SplineIKBtmStartJnt
+    101046: newArmDriver_r_newArmDriver_Wrist_SplineIKBtmStartJntGrp
+    101048: newArmDriver_r_newArmDriver_Wrist_SplineIKUpLctr1
+    101050: newArmDriver_r_newArmDriver_Wrist_SplineIKUpLctr2
+    101052: newArmDriver_r_newArmDriver_WristFKCtrl
+    101054: newArmDriver_r_newArmDriver_WristFKCtrlGrp
+    101056: newArmDriver_r_newArmDriver_WristFKLctr
+    101058: newArmDriver_r_newArmDriver_WristFKtoIKLctr
+    101060: newArmDriver_r_newArmDriver_WristIKCtrl
+    101062: newArmDriver_r_newArmDriver_WristIKCtrlGrp
+    101064: newArmDriver_r_newArmDriver_WristIKLctr
+    101066: newArmDriver_r_newArmDriver_WristIKLockLctr
+    101068: newArmDriver_r_newArmDriver_WristIKtoFKLctr
+    101070: newArmDriver_r_newArmDriver_WristJnt
+    101072: newArmDriver_r_newArmDriver_WristJntDummy
+    101074: newArmDriver_r_newArmDriver_WristJntFK
+    101076: newArmDriver_r_newArmDriver_WristJntFKGrp1
+    101078: newArmDriver_r_newArmDriver_WristJntFKGrp2
+    101080: newArmDriver_r_newArmDriver_WristJntGrp1
+    101082: newArmDriver_r_newArmDriver_WristJntGrp2
+    101084: newArmDriver_r_newArmDriver_WristJntIK
+    101086: newArmDriver_r_newArmDriver_WristJntIKDummy
+    101088: newArmDriver_r_newArmDriver_WristJntIKDummyGrp1
+    101090: newArmDriver_r_newArmDriver_WristJntIKDummyGrp2
+    101092: newArmDriver_r_newArmDriver_WristSHJnt
+    101094: newArmDriver_r_newArmDriverGrp
+    101096: newArmDriver_SHJntGrp
+    101098: nose
+    101100: nostrir_Left
+    101102: nostrir_Right
+    101104: PelvisRoot
+    101106: Right_skart1
+    101108: Right_skart2
+    101110: Right_skart3
+    101112: RightArm
+    101114: RightArmRoll
+    101116: RightBreast
+    101118: RightEarring_Null
+    101120: RightFoot
+    101122: RightForeArm
+    101124: RightForeArm_Helper
+    101126: RightForeArmRoll
+    101128: RightHair1
+    101130: RightHair2
+    101132: RightHair3
+    101134: RightHand
+    101136: RightHandfingerAttach
+    101138: RightHandIndex1
+    101140: RightHandIndex2
+    101142: RightHandIndex3
+    101144: RightHandIndexNull
+    101146: RightHanditem_Null
+    101148: RightHandMiddle1
+    101150: RightHandMiddle2
+    101152: RightHandMiddle3
+    101154: RightHandMiddleNull
+    101156: RightHandPinky1
+    101158: RightHandPinky2
+    101160: RightHandPinky3
+    101162: RightHandPinkyNull
+    101164: RightHandRing1
+    101166: RightHandRing2
+    101168: RightHandRing3
+    101170: RightHandRingNull
+    101172: RightHandThumb1
+    101174: RightHandThumb2
+    101176: RightHandThumb3
+    101178: RightHandThumbNull
+    101180: RightHip_Helper
+    101182: rightHipHelper_1
+    101184: RightLeg
+    101186: RightLeg_Helper
+    101188: RightNipple
+    101190: RightShoulder
+    101192: RightToes
+    101194: RightToesNull
+    101196: RightUpLeg
+    101198: rip_btm_Left
+    101200: rip_btm_Right
+    101202: RRM_COG
+    101204: RRM_l_newArmDriver
+    101206: RRM_l_newArmDriver_AimLctr
+    101208: RRM_l_newArmDriver_Clavicle
+    101210: RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_Shoulder_AimLctr
+    101212: RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_Shoulder_TargetLctr
+    101214: RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_ShoulderCtrl
+    101216: RRM_l_newArmDriver_ClavicleGrp
+    101218: RRM_l_newArmDriver_ConnectorGrp
+    101220: RRM_l_newArmDriver_Elbow
+    101222: RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_Wrist_AimLctr
+    101224: RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_Wrist_TargetLctr
+    101226: RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_WristCtrl
+    101228: RRM_l_newArmDriver_ElbowAimLctr
+    101230: RRM_l_newArmDriver_ElbowAimLctrGrp
+    101232: RRM_l_newArmDriver_ElbowGrp
+    101234: RRM_l_newArmDriver_Lower1
+    101236: RRM_l_newArmDriver_Lower1Grp
+    101238: RRM_l_newArmDriver_Parent
+    101240: RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_Clavicle_AimLctr
+    101242: RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_Clavicle_TargetLctr
+    101244: RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_ClavicleCtrl
+    101246: RRM_l_newArmDriver_Shoulder
+    101248: RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_Elbow_AimLctr
+    101250: RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_Elbow_TargetLctr
+    101252: RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_ElbowCtrl
+    101254: RRM_l_newArmDriver_ShoulderGrp
+    101256: RRM_l_newArmDriver_Upper1
+    101258: RRM_l_newArmDriver_Upper1Grp
+    101260: RRM_l_newArmDriver_Wrist
+    101262: RRM_l_newArmDriver_WristGrp
+    101264: RRM_MAIN
+    101266: RRM_newArmDriver
+    101268: RRM_r_newArmDriver
+    101270: RRM_r_newArmDriver_AimLctr
+    101272: RRM_r_newArmDriver_Clavicle
+    101274: RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_Shoulder_AimLctr
+    101276: RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_Shoulder_TargetLctr
+    101278: RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_ShoulderCtrl
+    101280: RRM_r_newArmDriver_ClavicleGrp
+    101282: RRM_r_newArmDriver_ConnectorGrp
+    101284: RRM_r_newArmDriver_Elbow
+    101286: RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_Wrist_AimLctr
+    101288: RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_Wrist_TargetLctr
+    101290: RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_WristCtrl
+    101292: RRM_r_newArmDriver_ElbowAimLctr
+    101294: RRM_r_newArmDriver_ElbowAimLctrGrp
+    101296: RRM_r_newArmDriver_ElbowGrp
+    101298: RRM_r_newArmDriver_Lower1
+    101300: RRM_r_newArmDriver_Lower1Grp
+    101302: RRM_r_newArmDriver_Parent
+    101304: RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_Clavicle_AimLctr
+    101306: RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_Clavicle_TargetLctr
+    101308: RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_ClavicleCtrl
+    101310: RRM_r_newArmDriver_Shoulder
+    101312: RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_Elbow_AimLctr
+    101314: RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_Elbow_TargetLctr
+    101316: RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_ElbowCtrl
+    101318: RRM_r_newArmDriver_ShoulderGrp
+    101320: RRM_r_newArmDriver_Upper1
+    101322: RRM_r_newArmDriver_Upper1Grp
+    101324: RRM_r_newArmDriver_Wrist
+    101326: RRM_r_newArmDriver_WristGrp
+    101328: RRM_ROOT
+    101330: RRM_ROOT_RRM_l_newArmDriver_Parent_AimLctr
+    101332: RRM_ROOT_RRM_l_newArmDriver_Parent_TargetLctr
+    101334: RRM_ROOT_RRM_l_newArmDriver_ParentCtrl
+    101336: RRM_ROOT_RRM_r_newArmDriver_Parent_AimLctr
+    101338: RRM_ROOT_RRM_r_newArmDriver_Parent_TargetLctr
+    101340: RRM_ROOT_RRM_r_newArmDriver_ParentCtrl
+    101342: Spine
+    101344: Spine1
+    101346: Spine2
+    101348: Spine3
+    101350: SwitchLocal_Head
+    101352: SwitchOffset_Head
+    101354: SwitchWorld_Head
+    101356: tail_of_eye_Left
+    101358: tail_of_eye_Right
+    101360: temple_Left
+    101362: temple_Right
+    101364: Text_CTRL_1
+    101366: Text_FACE_1
+    101368: u_lip_center
+    101370: Z_CTRL_Back_skart1_1
+    101372: Z_CTRL_Back_skart2_1
+    101374: Z_CTRL_BackHair1_3
+    101376: Z_CTRL_BackHair2_3
+    101378: Z_CTRL_BackHair3_3
+    101380: Z_CTRL_BackHair4_3
+    101382: Z_CTRL_Face
+    101384: Z_CTRL_Front_skart1_1
+    101386: Z_CTRL_Front_skart2_1
+    101388: Z_CTRL_FrontHair_1
+    101390: Z_CTRL_Head_3
+    101392: Z_CTRL_Head_null_1
+    101394: Z_CTRL_Hips_1
+    101396: Z_CTRL_Hips_2
+    101398: Z_CTRL_Left_skart1_1
+    101400: Z_CTRL_Left_skart2_1
+    101402: Z_CTRL_LeftBreast_1
+    101404: Z_CTRL_LeftFoot_1
+    101406: Z_CTRL_LeftFoot_2
+    101408: Z_CTRL_LeftFoot_3
+    101410: Z_CTRL_LeftHair1_1
+    101412: Z_CTRL_LeftHair2_1
+    101414: Z_CTRL_LeftHair3_1
+    101416: Z_CTRL_LeftHandIndex1_1
+    101418: Z_CTRL_LeftHandIndex2_1
+    101420: Z_CTRL_LeftHandIndex3_1
+    101422: Z_CTRL_LeftHandMiddle1_1
+    101424: Z_CTRL_LeftHandMiddle2_1
+    101426: Z_CTRL_LeftHandMiddle3_1
+    101428: Z_CTRL_LeftHandPinky1_1
+    101430: Z_CTRL_LeftHandPinky2_1
+    101432: Z_CTRL_LeftHandPinky3_1
+    101434: Z_CTRL_LeftHandRing1_1
+    101436: Z_CTRL_LeftHandRing2_1
+    101438: Z_CTRL_LeftHandRing3_1
+    101440: Z_CTRL_LeftHandThumb1_1
+    101442: Z_CTRL_LeftHandThumb2_1
+    101444: Z_CTRL_LeftHandThumb3_1
+    101446: Z_CTRL_LeftLeg_1
+    101448: Z_CTRL_LeftLeg_Helper_1
+    101450: Z_CTRL_LeftNipple_1
+    101452: Z_CTRL_LeftToes_1
+    101454: Z_CTRL_LeftUpLeg_1
+    101456: Z_CTRL_Neck_1
+    101458: Z_CTRL_Right_skart1_1
+    101460: Z_CTRL_Right_skart2_1
+    101462: Z_CTRL_RightBreast_1
+    101464: Z_CTRL_RightFoot_1
+    101466: Z_CTRL_RightFoot_2
+    101468: Z_CTRL_RightFoot_3
+    101470: Z_CTRL_RightHair1_1
+    101472: Z_CTRL_RightHair2_1
+    101474: Z_CTRL_RightHair3_1
+    101476: Z_CTRL_RightHandIndex1_1
+    101478: Z_CTRL_RightHandIndex2_1
+    101480: Z_CTRL_RightHandIndex3_1
+    101482: Z_CTRL_RightHandMiddle1_1
+    101484: Z_CTRL_RightHandMiddle2_1
+    101486: Z_CTRL_RightHandMiddle3_1
+    101488: Z_CTRL_RightHandPinky1_1
+    101490: Z_CTRL_RightHandPinky2_1
+    101492: Z_CTRL_RightHandPinky3_1
+    101494: Z_CTRL_RightHandRing1_1
+    101496: Z_CTRL_RightHandRing2_1
+    101498: Z_CTRL_RightHandRing3_1
+    101500: Z_CTRL_RightHandThumb1_1
+    101502: Z_CTRL_RightHandThumb2_1
+    101504: Z_CTRL_RightHandThumb3_1
+    101506: Z_CTRL_RightLeg_1
+    101508: Z_CTRL_RightLeg_Helper_1
+    101510: Z_CTRL_RightNipple_1
+    101512: Z_CTRL_RightNipple_2
+    101514: Z_CTRL_RightToes_1
+    101516: Z_CTRL_RightUpLeg_1
+    101518: Z_CTRL_Spine1_1
+    101520: Z_CTRL_Spine2_1
+    101522: Z_CTRL_Spine3_1
+    101524: Z_CTRL_Spine_1
+    400000: atama_n
+    400002: b_lip_center
+    400004: Back_skart1
+    400006: Back_skart2
+    400008: Back_skart3
+    400010: BackHair1
+    400012: BackHair2
+    400014: BackHair3
+    400016: BackHair4
+    400018: Char_A_1
+    400020: Char_C_1
+    400022: Char_C_2
+    400024: Char_E_1
+    400026: Char_F_2
+    400028: Char_L_1
+    400030: Char_R_1
+    400032: Char_T_1
+    400034: cheek_Left
+    400036: cheek_Right
+    400038: chin
+    400040: CTRL_Back_skart1_1
+    400042: CTRL_Back_skart2_1
+    400044: CTRL_BackHair1_1
+    400046: CTRL_BackHair2_1
+    400048: CTRL_BackHair3_1
+    400050: CTRL_BackHair4_1
+    400052: CTRL_eye_Left_2
+    400054: CTRL_eye_Right_1
+    400056: CTRL_Face
+    400058: CTRL_Front_skart1_1
+    400060: CTRL_Front_skart2_1
+    400062: CTRL_FrontHair_1
+    400064: CTRL_Head_1
+    400066: CTRL_Head_null_1
+    400068: CTRL_Hips_1
+    400070: CTRL_Hips_2
+    400072: CTRL_Left_skart1_1
+    400074: CTRL_Left_skart2_1
+    400076: CTRL_LeftBreast_1
+    400078: CTRL_LeftFoot_1
+    400080: CTRL_LeftFoot_2
+    400082: CTRL_LeftFoot_3
+    400084: CTRL_LeftHair1_1
+    400086: CTRL_LeftHair2_1
+    400088: CTRL_LeftHair3_1
+    400090: CTRL_LeftHandIndex1_1
+    400092: CTRL_LeftHandIndex2_1
+    400094: CTRL_LeftHandIndex3_1
+    400096: CTRL_LeftHandMiddle1_1
+    400098: CTRL_LeftHandMiddle2_1
+    400100: CTRL_LeftHandMiddle3_1
+    400102: CTRL_LeftHandPinky1_1
+    400104: CTRL_LeftHandPinky2_1
+    400106: CTRL_LeftHandPinky3_1
+    400108: CTRL_LeftHandRing1_1
+    400110: CTRL_LeftHandRing2_1
+    400112: CTRL_LeftHandRing3_1
+    400114: CTRL_LeftHandThumb1_1
+    400116: CTRL_LeftHandThumb2_1
+    400118: CTRL_LeftHandThumb3_1
+    400120: CTRL_LeftLeg_1
+    400122: CTRL_LeftLeg_Helper_1
+    400124: CTRL_LeftNipple_1
+    400126: CTRL_LeftToes_1
+    400128: CTRL_LeftUpLeg_1
+    400130: CTRL_Neck_1
+    400132: CTRL_PelvisRoot_1
+    400134: CTRL_Right_skart1_1
+    400136: CTRL_Right_skart2_1
+    400138: CTRL_RightBreast_1
+    400140: CTRL_RightFoot_1
+    400142: CTRL_RightFoot_2
+    400144: CTRL_RightFoot_3
+    400146: CTRL_RightHair1_1
+    400148: CTRL_RightHair2_1
+    400150: CTRL_RightHair3_1
+    400152: CTRL_RightHandIndex1_1
+    400154: CTRL_RightHandIndex2_1
+    400156: CTRL_RightHandIndex3_1
+    400158: CTRL_RightHandMiddle1_1
+    400160: CTRL_RightHandMiddle2_1
+    400162: CTRL_RightHandMiddle3_1
+    400164: CTRL_RightHandPinky1_1
+    400166: CTRL_RightHandPinky2_1
+    400168: CTRL_RightHandPinky3_1
+    400170: CTRL_RightHandRing1_1
+    400172: CTRL_RightHandRing2_1
+    400174: CTRL_RightHandRing3_1
+    400176: CTRL_RightHandThumb1_1
+    400178: CTRL_RightHandThumb2_1
+    400180: CTRL_RightHandThumb3_1
+    400182: CTRL_RightLeg_1
+    400184: CTRL_RightLeg_Helper_1
+    400186: CTRL_RightNipple_1
+    400188: CTRL_RightNipple_2
+    400190: CTRL_RightToes_1
+    400192: CTRL_RightUpLeg_1
+    400194: CTRL_Spine1_1
+    400196: CTRL_Spine2_1
+    400198: CTRL_Spine3_1
+    400200: CTRL_Spine_1
+    400202: curve10
+    400204: curve11
+    400206: curve12
+    400208: curve13
+    400210: curve14
+    400212: curve15
+    400214: curve16
+    400216: curve7
+    400218: curve8
+    400220: curve9
+    400222: door1
+    400224: door1 1
+    400226: door2
+    400228: door2 1
+    400230: door3
+    400232: door3 1
+    400234: door4
+    400236: door4 1
+    400238: door5
+    400240: door5 1
+    400242: door6
+    400244: door6 1
+    400246: door7
+    400248: door7 1
+    400250: door8
+    400252: door8 1
+    400254: eye_Left
+    400256: eye_Right
+    400258: eyebrow_a_Left
+    400260: eyebrow_a_Right
+    400262: eyebrow_b_Left
+    400264: eyebrow_b_Right
+    400266: eyelid_und1_Left
+    400268: eyelid_und1_Right
+    400270: eyelid_und2_Left
+    400272: eyelid_und2_Right
+    400274: eyelid_und_Left
+    400276: eyelid_und_Right
+    400278: eyerid1_Left
+    400280: eyerid1_Right
+    400282: eyerid2_Left
+    400284: eyerid2_Right
+    400286: eyerid_Left
+    400288: eyerid_Right
+    400290: //RootNode
+    400292: f02_schoolwear_210_h
+    400294: face
+    400296: Front_skart1
+    400298: Front_skart2
+    400300: Front_skart3
+    400302: FrontHair
+    400304: G_heel_ikH_LeftFoot
+    400306: G_heel_ikH_RightFoot
+    400308: G_ikH_LeftFoot
+    400310: G_ikH_LeftToes_ikH_LeftToesNull
+    400312: G_ikH_RightFoot
+    400314: G_ikH_RightToes_ikH_RightToesNull
+    400316: G_toe_ikH_LeftToesNull
+    400318: G_toe_ikH_RightToesNull
+    400320: Glasses_Null
+    400322: group1
+    400324: group2
+    400326: Head
+    400328: Head_null
+    400330: Hips
+    400332: ikH_LeftFoot
+    400334: ikH_LeftToes
+    400336: ikH_LeftToesNull
+    400338: ikH_RightFoot
+    400340: ikH_RightToes
+    400342: ikH_RightToesNull
+    400344: inner_corner_of_eye_Left
+    400346: inner_corner_of_eye_Right
+    400348: jaw
+    400350: Left_skart1
+    400352: Left_skart2
+    400354: Left_skart3
+    400356: LeftArm
+    400358: LeftArmRoll
+    400360: LeftBreast
+    400362: LeftEarring_Null
+    400364: LeftFoot
+    400366: LeftForeArm
+    400368: LeftForeArm_Helper
+    400370: LeftForeArmRoll
+    400372: LeftHair1
+    400374: LeftHair2
+    400376: LeftHair3
+    400378: LeftHand
+    400380: LeftHandfingerAttach
+    400382: LeftHandIndex1
+    400384: LeftHandIndex2
+    400386: LeftHandIndex3
+    400388: LeftHandIndexNull
+    400390: LeftHanditem_Null
+    400392: LeftHandMiddle1
+    400394: LeftHandMiddle2
+    400396: LeftHandMiddle3
+    400398: LeftHandMiddleNull
+    400400: LeftHandPinky1
+    400402: LeftHandPinky2
+    400404: LeftHandPinky3
+    400406: LeftHandPinkyNull
+    400408: LeftHandRing1
+    400410: LeftHandRing2
+    400412: LeftHandRing3
+    400414: LeftHandRingNull
+    400416: LeftHandThumb1
+    400418: LeftHandThumb2
+    400420: LeftHandThumb3
+    400422: LeftHandThumbNull
+    400424: LeftHip_Helper
+    400426: leftHipHelper_1
+    400428: LeftLeg
+    400430: LeftLeg_Helper
+    400432: LeftNipple
+    400434: LeftShoulder
+    400436: LeftToes
+    400438: LeftToesNull
+    400440: LeftUpLeg
+    400442: lip_Left
+    400444: lip_Right
+    400446: lip_t_Left
+    400448: lip_t_Right
+    400450: lip_top_Left
+    400452: lip_top_Right
+    400454: lip_u_Left
+    400456: lip_u_Right
+    400458: locker
+    400460: locker 1
+    400462: mayu
+    400464: Neck
+    400466: newArmDriver
+    400468: newArmDriver_l_newArmDriver
+    400470: newArmDriver_l_newArmDriver_ArmIKHandle
+    400472: newArmDriver_l_newArmDriver_ArmLengthEndLctr
+    400474: newArmDriver_l_newArmDriver_ArmLengthOriginLctr
+    400476: newArmDriver_l_newArmDriver_ClavicleCtrl
+    400478: newArmDriver_l_newArmDriver_ClavicleCtrlGrp
+    400480: newArmDriver_l_newArmDriver_ClavicleJnt
+    400482: newArmDriver_l_newArmDriver_ClavicleSHJnt
+    400484: newArmDriver_l_newArmDriver_curveNodesGrp
+    400486: newArmDriver_l_newArmDriver_Elbow_CurveCtrl
+    400488: newArmDriver_l_newArmDriver_Elbow_CurveCtrlGrp
+    400490: newArmDriver_l_newArmDriver_Elbow_CurveJnt
+    400492: newArmDriver_l_newArmDriver_Elbow_CurveSHJnt
+    400494: newArmDriver_l_newArmDriver_Elbow_FKAimLctr
+    400496: newArmDriver_l_newArmDriver_ElbowFKCtrl
+    400498: newArmDriver_l_newArmDriver_ElbowFKCtrlGrp
+    400500: newArmDriver_l_newArmDriver_ElbowIKAimConnectorLctr
+    400502: newArmDriver_l_newArmDriver_ElbowIKConnectorCtrl
+    400504: newArmDriver_l_newArmDriver_ElbowIKCtrl
+    400506: newArmDriver_l_newArmDriver_ElbowIKCtrl_ShoulderLctr
+    400508: newArmDriver_l_newArmDriver_ElbowIKCtrl_TargetLctr
+    400510: newArmDriver_l_newArmDriver_ElbowIKCtrl_WristLctr
+    400512: newArmDriver_l_newArmDriver_ElbowIKCtrlGrp
+    400514: newArmDriver_l_newArmDriver_ElbowIKLockLctr
+    400516: newArmDriver_l_newArmDriver_ElbowIKTargetConnectorLctr
+    400518: newArmDriver_l_newArmDriver_ElbowIKtoFKAimLctr
+    400520: newArmDriver_l_newArmDriver_ElbowJnt
+    400522: newArmDriver_l_newArmDriver_ElbowJntFK
+    400524: newArmDriver_l_newArmDriver_ElbowJntFKGrp1
+    400526: newArmDriver_l_newArmDriver_ElbowJntFKGrp2
+    400528: newArmDriver_l_newArmDriver_ElbowJntIK
+    400530: newArmDriver_l_newArmDriver_extraCurveNodesGrp
+    400532: newArmDriver_l_newArmDriver_Lower_Curve1Ctrl
+    400534: newArmDriver_l_newArmDriver_Lower_Curve1CtrlGrp
+    400536: newArmDriver_l_newArmDriver_Lower_Curve1Jnt
+    400538: newArmDriver_l_newArmDriver_Lower_Curve1SHJnt
+    400540: newArmDriver_l_newArmDriver_Lower_CurveCtrl
+    400542: newArmDriver_l_newArmDriver_Lower_CurveCtrlGrp
+    400544: newArmDriver_l_newArmDriver_Lower_Elbow_NoRollIKHandle
+    400546: newArmDriver_l_newArmDriver_Lower_Elbow_NoRollJnt
+    400548: newArmDriver_l_newArmDriver_Lower_Elbow_NoRollJntGrp
+    400550: newArmDriver_l_newArmDriver_Lower_Elbow_TwistEndJnt
+    400552: newArmDriver_l_newArmDriver_Lower_Elbow_TwistJnt1
+    400554: newArmDriver_l_newArmDriver_Lower_Elbow_TwistJointExtraJnt
+    400556: newArmDriver_l_newArmDriver_Lower_Elbow_TwistJointsGrp
+    400558: newArmDriver_l_newArmDriver_Lower_Elbow_TwistSplineIK_Up1Lctr
+    400560: newArmDriver_l_newArmDriver_Lower_Elbow_TwistSplineIK_Up2Lctr
+    400562: newArmDriver_l_newArmDriver_Lower_Elbow_TwistSplineIKCurve
+    400564: newArmDriver_l_newArmDriver_Lower_Elbow_TwistSplineIKHandle
+    400566: newArmDriver_l_newArmDriver_Lower_Elbow_TwistStartJnt
+    400568: newArmDriver_l_newArmDriver_Lower_TwistCtrl
+    400570: newArmDriver_l_newArmDriver_Lower_TwistCtrlGrp
+    400572: newArmDriver_l_newArmDriver_Lower_Wrist_NoRollJnt
+    400574: newArmDriver_l_newArmDriver_Lower_Wrist_TwistGrp
+    400576: newArmDriver_l_newArmDriver_Lower_Wrist_TwistLctr
+    400578: newArmDriver_l_newArmDriver_LowerBtmClstr
+    400580: newArmDriver_l_newArmDriver_LowerBtmClstrGrp
+    400582: newArmDriver_l_newArmDriver_LowerBtmGuideClstr
+    400584: newArmDriver_l_newArmDriver_LowerBtmGuideClstrGrp
+    400586: newArmDriver_l_newArmDriver_LowerCurveAttach
+    400588: newArmDriver_l_newArmDriver_LowerCurveGuide
+    400590: newArmDriver_l_newArmDriver_LowerMidClstr
+    400592: newArmDriver_l_newArmDriver_LowerTopClstr
+    400594: newArmDriver_l_newArmDriver_LowerTopClstrGrp
+    400596: newArmDriver_l_newArmDriver_LowerTopGuideClstr
+    400598: newArmDriver_l_newArmDriver_LowerTopGuideClstrGrp
+    400600: newArmDriver_l_newArmDriver_MiddleBtmGuideClstr
+    400602: newArmDriver_l_newArmDriver_MiddleCurveAttach
+    400604: newArmDriver_l_newArmDriver_MiddleTopGuideClstr
+    400606: newArmDriver_l_newArmDriver_OffsetLctr
+    400608: newArmDriver_l_newArmDriver_ScaleGrp
+    400610: newArmDriver_l_newArmDriver_Shoulder_CurveJnt
+    400612: newArmDriver_l_newArmDriver_Shoulder_CurveJnt_AimLctr
+    400614: newArmDriver_l_newArmDriver_Shoulder_CurveJnt_AimLctrGrp
+    400616: newArmDriver_l_newArmDriver_Shoulder_CurveSHJnt
+    400618: newArmDriver_l_newArmDriver_ShoulderFKCtrl
+    400620: newArmDriver_l_newArmDriver_ShoulderFKCtrlGrp
+    400622: newArmDriver_l_newArmDriver_ShoulderFKCtrlGrp2
+    400624: newArmDriver_l_newArmDriver_ShoulderFKOrientLctr
+    400626: newArmDriver_l_newArmDriver_ShoulderFKtoIKOrientLctr
+    400628: newArmDriver_l_newArmDriver_ShoulderIKLockLctr
+    400630: newArmDriver_l_newArmDriver_ShoulderJnt
+    400632: newArmDriver_l_newArmDriver_ShoulderJntFK
+    400634: newArmDriver_l_newArmDriver_ShoulderJntIK
+    400636: newArmDriver_l_newArmDriver_SwitchCtrl
+    400638: newArmDriver_l_newArmDriver_SwitchCtrlGrp
+    400640: newArmDriver_l_newArmDriver_Upper_Curve1Ctrl
+    400642: newArmDriver_l_newArmDriver_Upper_Curve1CtrlGrp
+    400644: newArmDriver_l_newArmDriver_Upper_Curve1Jnt
+    400646: newArmDriver_l_newArmDriver_Upper_Curve1SHJnt
+    400648: newArmDriver_l_newArmDriver_Upper_CurveCtrl
+    400650: newArmDriver_l_newArmDriver_Upper_CurveCtrlGrp
+    400652: newArmDriver_l_newArmDriver_Upper_Elbow_NoRollJnt
+    400654: newArmDriver_l_newArmDriver_Upper_Elbow_TwistLctr
+    400656: newArmDriver_l_newArmDriver_Upper_Shoulder_NoRollIKHandle
+    400658: newArmDriver_l_newArmDriver_Upper_Shoulder_NoRollJnt
+    400660: newArmDriver_l_newArmDriver_Upper_Shoulder_NoRollJntGrp
+    400662: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistEndJnt
+    400664: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistGrp
+    400666: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistJnt1
+    400668: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistJointExtraJnt
+    400670: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistJointsGrp
+    400672: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistSplineIK_Up1Lctr
+    400674: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistSplineIK_Up2Lctr
+    400676: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistSplineIKCurve
+    400678: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistSplineIKHandle
+    400680: newArmDriver_l_newArmDriver_Upper_Shoulder_TwistStartJnt
+    400682: newArmDriver_l_newArmDriver_Upper_TwistCtrl
+    400684: newArmDriver_l_newArmDriver_Upper_TwistCtrlGrp
+    400686: newArmDriver_l_newArmDriver_UpperBtmClstr
+    400688: newArmDriver_l_newArmDriver_UpperBtmClstrGrp
+    400690: newArmDriver_l_newArmDriver_UpperBtmGuideClstr
+    400692: newArmDriver_l_newArmDriver_UpperBtmGuideClstrGrp
+    400694: newArmDriver_l_newArmDriver_UpperCurveAttach
+    400696: newArmDriver_l_newArmDriver_UpperCurveGuide
+    400698: newArmDriver_l_newArmDriver_UpperMidClstr
+    400700: newArmDriver_l_newArmDriver_UpperTopClstr
+    400702: newArmDriver_l_newArmDriver_UpperTopClstrGrp
+    400704: newArmDriver_l_newArmDriver_UpperTopGuideClstr
+    400706: newArmDriver_l_newArmDriver_UpperTopGuideClstrGrp
+    400708: newArmDriver_l_newArmDriver_Wrist_NoRollBtmEndJnt
+    400710: newArmDriver_l_newArmDriver_Wrist_NoRollBtmIKHandle
+    400712: newArmDriver_l_newArmDriver_Wrist_NoRollBtmStartJnt
+    400714: newArmDriver_l_newArmDriver_Wrist_NoRollBtmStartJntGrp
+    400716: newArmDriver_l_newArmDriver_Wrist_RollBtmEndJnt
+    400718: newArmDriver_l_newArmDriver_Wrist_RollBtmStartJnt
+    400720: newArmDriver_l_newArmDriver_Wrist_RollBtmStartJntGrp
+    400722: newArmDriver_l_newArmDriver_Wrist_SplineIKBtmEndJnt
+    400724: newArmDriver_l_newArmDriver_Wrist_SplineIKBtmIKCurve
+    400726: newArmDriver_l_newArmDriver_Wrist_SplineIKBtmIKHandle
+    400728: newArmDriver_l_newArmDriver_Wrist_SplineIKBtmRollValJnt
+    400730: newArmDriver_l_newArmDriver_Wrist_SplineIKBtmStartJnt
+    400732: newArmDriver_l_newArmDriver_Wrist_SplineIKBtmStartJntGrp
+    400734: newArmDriver_l_newArmDriver_Wrist_SplineIKUpLctr1
+    400736: newArmDriver_l_newArmDriver_Wrist_SplineIKUpLctr2
+    400738: newArmDriver_l_newArmDriver_WristFKCtrl
+    400740: newArmDriver_l_newArmDriver_WristFKCtrlGrp
+    400742: newArmDriver_l_newArmDriver_WristFKLctr
+    400744: newArmDriver_l_newArmDriver_WristFKtoIKLctr
+    400746: newArmDriver_l_newArmDriver_WristIKCtrl
+    400748: newArmDriver_l_newArmDriver_WristIKCtrlGrp
+    400750: newArmDriver_l_newArmDriver_WristIKLctr
+    400752: newArmDriver_l_newArmDriver_WristIKLockLctr
+    400754: newArmDriver_l_newArmDriver_WristIKtoFKLctr
+    400756: newArmDriver_l_newArmDriver_WristJnt
+    400758: newArmDriver_l_newArmDriver_WristJntDummy
+    400760: newArmDriver_l_newArmDriver_WristJntFK
+    400762: newArmDriver_l_newArmDriver_WristJntFKGrp1
+    400764: newArmDriver_l_newArmDriver_WristJntFKGrp2
+    400766: newArmDriver_l_newArmDriver_WristJntGrp1
+    400768: newArmDriver_l_newArmDriver_WristJntGrp2
+    400770: newArmDriver_l_newArmDriver_WristJntIK
+    400772: newArmDriver_l_newArmDriver_WristJntIKDummy
+    400774: newArmDriver_l_newArmDriver_WristJntIKDummyGrp1
+    400776: newArmDriver_l_newArmDriver_WristJntIKDummyGrp2
+    400778: newArmDriver_l_newArmDriver_WristSHJnt
+    400780: newArmDriver_l_newArmDriverGrp
+    400782: newArmDriver_r_newArmDriver
+    400784: newArmDriver_r_newArmDriver_ArmIKHandle
+    400786: newArmDriver_r_newArmDriver_ArmLengthEndLctr
+    400788: newArmDriver_r_newArmDriver_ArmLengthOriginLctr
+    400790: newArmDriver_r_newArmDriver_ClavicleCtrl
+    400792: newArmDriver_r_newArmDriver_ClavicleCtrlGrp
+    400794: newArmDriver_r_newArmDriver_ClavicleJnt
+    400796: newArmDriver_r_newArmDriver_ClavicleSHJnt
+    400798: newArmDriver_r_newArmDriver_curveNodesGrp
+    400800: newArmDriver_r_newArmDriver_Elbow_CurveCtrl
+    400802: newArmDriver_r_newArmDriver_Elbow_CurveCtrlGrp
+    400804: newArmDriver_r_newArmDriver_Elbow_CurveJnt
+    400806: newArmDriver_r_newArmDriver_Elbow_CurveSHJnt
+    400808: newArmDriver_r_newArmDriver_Elbow_FKAimLctr
+    400810: newArmDriver_r_newArmDriver_ElbowFKCtrl
+    400812: newArmDriver_r_newArmDriver_ElbowFKCtrlGrp
+    400814: newArmDriver_r_newArmDriver_ElbowIKAimConnectorLctr
+    400816: newArmDriver_r_newArmDriver_ElbowIKConnectorCtrl
+    400818: newArmDriver_r_newArmDriver_ElbowIKCtrl
+    400820: newArmDriver_r_newArmDriver_ElbowIKCtrl_ShoulderLctr
+    400822: newArmDriver_r_newArmDriver_ElbowIKCtrl_TargetLctr
+    400824: newArmDriver_r_newArmDriver_ElbowIKCtrl_WristLctr
+    400826: newArmDriver_r_newArmDriver_ElbowIKCtrlGrp
+    400828: newArmDriver_r_newArmDriver_ElbowIKLockLctr
+    400830: newArmDriver_r_newArmDriver_ElbowIKTargetConnectorLctr
+    400832: newArmDriver_r_newArmDriver_ElbowIKtoFKAimLctr
+    400834: newArmDriver_r_newArmDriver_ElbowJnt
+    400836: newArmDriver_r_newArmDriver_ElbowJntFK
+    400838: newArmDriver_r_newArmDriver_ElbowJntFKGrp1
+    400840: newArmDriver_r_newArmDriver_ElbowJntFKGrp2
+    400842: newArmDriver_r_newArmDriver_ElbowJntIK
+    400844: newArmDriver_r_newArmDriver_extraCurveNodesGrp
+    400846: newArmDriver_r_newArmDriver_Lower_Curve1Ctrl
+    400848: newArmDriver_r_newArmDriver_Lower_Curve1CtrlGrp
+    400850: newArmDriver_r_newArmDriver_Lower_Curve1Jnt
+    400852: newArmDriver_r_newArmDriver_Lower_Curve1SHJnt
+    400854: newArmDriver_r_newArmDriver_Lower_CurveCtrl
+    400856: newArmDriver_r_newArmDriver_Lower_CurveCtrlGrp
+    400858: newArmDriver_r_newArmDriver_Lower_Elbow_NoRollIKHandle
+    400860: newArmDriver_r_newArmDriver_Lower_Elbow_NoRollJnt
+    400862: newArmDriver_r_newArmDriver_Lower_Elbow_NoRollJntGrp
+    400864: newArmDriver_r_newArmDriver_Lower_Elbow_TwistEndJnt
+    400866: newArmDriver_r_newArmDriver_Lower_Elbow_TwistJnt1
+    400868: newArmDriver_r_newArmDriver_Lower_Elbow_TwistJointExtraJnt
+    400870: newArmDriver_r_newArmDriver_Lower_Elbow_TwistJointsGrp
+    400872: newArmDriver_r_newArmDriver_Lower_Elbow_TwistSplineIK_Up1Lctr
+    400874: newArmDriver_r_newArmDriver_Lower_Elbow_TwistSplineIK_Up2Lctr
+    400876: newArmDriver_r_newArmDriver_Lower_Elbow_TwistSplineIKCurve
+    400878: newArmDriver_r_newArmDriver_Lower_Elbow_TwistSplineIKHandle
+    400880: newArmDriver_r_newArmDriver_Lower_Elbow_TwistStartJnt
+    400882: newArmDriver_r_newArmDriver_Lower_TwistCtrl
+    400884: newArmDriver_r_newArmDriver_Lower_TwistCtrlGrp
+    400886: newArmDriver_r_newArmDriver_Lower_Wrist_NoRollJnt
+    400888: newArmDriver_r_newArmDriver_Lower_Wrist_TwistGrp
+    400890: newArmDriver_r_newArmDriver_Lower_Wrist_TwistLctr
+    400892: newArmDriver_r_newArmDriver_LowerBtmClstr
+    400894: newArmDriver_r_newArmDriver_LowerBtmClstrGrp
+    400896: newArmDriver_r_newArmDriver_LowerBtmGuideClstr
+    400898: newArmDriver_r_newArmDriver_LowerBtmGuideClstrGrp
+    400900: newArmDriver_r_newArmDriver_LowerCurveAttach
+    400902: newArmDriver_r_newArmDriver_LowerCurveGuide
+    400904: newArmDriver_r_newArmDriver_LowerMidClstr
+    400906: newArmDriver_r_newArmDriver_LowerTopClstr
+    400908: newArmDriver_r_newArmDriver_LowerTopClstrGrp
+    400910: newArmDriver_r_newArmDriver_LowerTopGuideClstr
+    400912: newArmDriver_r_newArmDriver_LowerTopGuideClstrGrp
+    400914: newArmDriver_r_newArmDriver_MiddleBtmGuideClstr
+    400916: newArmDriver_r_newArmDriver_MiddleCurveAttach
+    400918: newArmDriver_r_newArmDriver_MiddleTopGuideClstr
+    400920: newArmDriver_r_newArmDriver_OffsetLctr
+    400922: newArmDriver_r_newArmDriver_ScaleGrp
+    400924: newArmDriver_r_newArmDriver_Shoulder_CurveJnt
+    400926: newArmDriver_r_newArmDriver_Shoulder_CurveJnt_AimLctr
+    400928: newArmDriver_r_newArmDriver_Shoulder_CurveJnt_AimLctrGrp
+    400930: newArmDriver_r_newArmDriver_Shoulder_CurveSHJnt
+    400932: newArmDriver_r_newArmDriver_ShoulderFKCtrl
+    400934: newArmDriver_r_newArmDriver_ShoulderFKCtrlGrp
+    400936: newArmDriver_r_newArmDriver_ShoulderFKCtrlGrp2
+    400938: newArmDriver_r_newArmDriver_ShoulderFKOrientLctr
+    400940: newArmDriver_r_newArmDriver_ShoulderFKtoIKOrientLctr
+    400942: newArmDriver_r_newArmDriver_ShoulderIKLockLctr
+    400944: newArmDriver_r_newArmDriver_ShoulderJnt
+    400946: newArmDriver_r_newArmDriver_ShoulderJntFK
+    400948: newArmDriver_r_newArmDriver_ShoulderJntIK
+    400950: newArmDriver_r_newArmDriver_SwitchCtrl
+    400952: newArmDriver_r_newArmDriver_SwitchCtrlGrp
+    400954: newArmDriver_r_newArmDriver_Upper_Curve1Ctrl
+    400956: newArmDriver_r_newArmDriver_Upper_Curve1CtrlGrp
+    400958: newArmDriver_r_newArmDriver_Upper_Curve1Jnt
+    400960: newArmDriver_r_newArmDriver_Upper_Curve1SHJnt
+    400962: newArmDriver_r_newArmDriver_Upper_CurveCtrl
+    400964: newArmDriver_r_newArmDriver_Upper_CurveCtrlGrp
+    400966: newArmDriver_r_newArmDriver_Upper_Elbow_NoRollJnt
+    400968: newArmDriver_r_newArmDriver_Upper_Elbow_TwistLctr
+    400970: newArmDriver_r_newArmDriver_Upper_Shoulder_NoRollIKHandle
+    400972: newArmDriver_r_newArmDriver_Upper_Shoulder_NoRollJnt
+    400974: newArmDriver_r_newArmDriver_Upper_Shoulder_NoRollJntGrp
+    400976: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistEndJnt
+    400978: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistGrp
+    400980: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistJnt1
+    400982: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistJointExtraJnt
+    400984: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistJointsGrp
+    400986: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistSplineIK_Up1Lctr
+    400988: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistSplineIK_Up2Lctr
+    400990: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistSplineIKCurve
+    400992: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistSplineIKHandle
+    400994: newArmDriver_r_newArmDriver_Upper_Shoulder_TwistStartJnt
+    400996: newArmDriver_r_newArmDriver_Upper_TwistCtrl
+    400998: newArmDriver_r_newArmDriver_Upper_TwistCtrlGrp
+    401000: newArmDriver_r_newArmDriver_UpperBtmClstr
+    401002: newArmDriver_r_newArmDriver_UpperBtmClstrGrp
+    401004: newArmDriver_r_newArmDriver_UpperBtmGuideClstr
+    401006: newArmDriver_r_newArmDriver_UpperBtmGuideClstrGrp
+    401008: newArmDriver_r_newArmDriver_UpperCurveAttach
+    401010: newArmDriver_r_newArmDriver_UpperCurveGuide
+    401012: newArmDriver_r_newArmDriver_UpperMidClstr
+    401014: newArmDriver_r_newArmDriver_UpperTopClstr
+    401016: newArmDriver_r_newArmDriver_UpperTopClstrGrp
+    401018: newArmDriver_r_newArmDriver_UpperTopGuideClstr
+    401020: newArmDriver_r_newArmDriver_UpperTopGuideClstrGrp
+    401022: newArmDriver_r_newArmDriver_Wrist_NoRollBtmEndJnt
+    401024: newArmDriver_r_newArmDriver_Wrist_NoRollBtmIKHandle
+    401026: newArmDriver_r_newArmDriver_Wrist_NoRollBtmStartJnt
+    401028: newArmDriver_r_newArmDriver_Wrist_NoRollBtmStartJntGrp
+    401030: newArmDriver_r_newArmDriver_Wrist_RollBtmEndJnt
+    401032: newArmDriver_r_newArmDriver_Wrist_RollBtmStartJnt
+    401034: newArmDriver_r_newArmDriver_Wrist_RollBtmStartJntGrp
+    401036: newArmDriver_r_newArmDriver_Wrist_SplineIKBtmEndJnt
+    401038: newArmDriver_r_newArmDriver_Wrist_SplineIKBtmIKCurve
+    401040: newArmDriver_r_newArmDriver_Wrist_SplineIKBtmIKHandle
+    401042: newArmDriver_r_newArmDriver_Wrist_SplineIKBtmRollValJnt
+    401044: newArmDriver_r_newArmDriver_Wrist_SplineIKBtmStartJnt
+    401046: newArmDriver_r_newArmDriver_Wrist_SplineIKBtmStartJntGrp
+    401048: newArmDriver_r_newArmDriver_Wrist_SplineIKUpLctr1
+    401050: newArmDriver_r_newArmDriver_Wrist_SplineIKUpLctr2
+    401052: newArmDriver_r_newArmDriver_WristFKCtrl
+    401054: newArmDriver_r_newArmDriver_WristFKCtrlGrp
+    401056: newArmDriver_r_newArmDriver_WristFKLctr
+    401058: newArmDriver_r_newArmDriver_WristFKtoIKLctr
+    401060: newArmDriver_r_newArmDriver_WristIKCtrl
+    401062: newArmDriver_r_newArmDriver_WristIKCtrlGrp
+    401064: newArmDriver_r_newArmDriver_WristIKLctr
+    401066: newArmDriver_r_newArmDriver_WristIKLockLctr
+    401068: newArmDriver_r_newArmDriver_WristIKtoFKLctr
+    401070: newArmDriver_r_newArmDriver_WristJnt
+    401072: newArmDriver_r_newArmDriver_WristJntDummy
+    401074: newArmDriver_r_newArmDriver_WristJntFK
+    401076: newArmDriver_r_newArmDriver_WristJntFKGrp1
+    401078: newArmDriver_r_newArmDriver_WristJntFKGrp2
+    401080: newArmDriver_r_newArmDriver_WristJntGrp1
+    401082: newArmDriver_r_newArmDriver_WristJntGrp2
+    401084: newArmDriver_r_newArmDriver_WristJntIK
+    401086: newArmDriver_r_newArmDriver_WristJntIKDummy
+    401088: newArmDriver_r_newArmDriver_WristJntIKDummyGrp1
+    401090: newArmDriver_r_newArmDriver_WristJntIKDummyGrp2
+    401092: newArmDriver_r_newArmDriver_WristSHJnt
+    401094: newArmDriver_r_newArmDriverGrp
+    401096: newArmDriver_SHJntGrp
+    401098: nose
+    401100: nostrir_Left
+    401102: nostrir_Right
+    401104: PelvisRoot
+    401106: Right_skart1
+    401108: Right_skart2
+    401110: Right_skart3
+    401112: RightArm
+    401114: RightArmRoll
+    401116: RightBreast
+    401118: RightEarring_Null
+    401120: RightFoot
+    401122: RightForeArm
+    401124: RightForeArm_Helper
+    401126: RightForeArmRoll
+    401128: RightHair1
+    401130: RightHair2
+    401132: RightHair3
+    401134: RightHand
+    401136: RightHandfingerAttach
+    401138: RightHandIndex1
+    401140: RightHandIndex2
+    401142: RightHandIndex3
+    401144: RightHandIndexNull
+    401146: RightHanditem_Null
+    401148: RightHandMiddle1
+    401150: RightHandMiddle2
+    401152: RightHandMiddle3
+    401154: RightHandMiddleNull
+    401156: RightHandPinky1
+    401158: RightHandPinky2
+    401160: RightHandPinky3
+    401162: RightHandPinkyNull
+    401164: RightHandRing1
+    401166: RightHandRing2
+    401168: RightHandRing3
+    401170: RightHandRingNull
+    401172: RightHandThumb1
+    401174: RightHandThumb2
+    401176: RightHandThumb3
+    401178: RightHandThumbNull
+    401180: RightHip_Helper
+    401182: rightHipHelper_1
+    401184: RightLeg
+    401186: RightLeg_Helper
+    401188: RightNipple
+    401190: RightShoulder
+    401192: RightToes
+    401194: RightToesNull
+    401196: RightUpLeg
+    401198: rip_btm_Left
+    401200: rip_btm_Right
+    401202: RRM_COG
+    401204: RRM_l_newArmDriver
+    401206: RRM_l_newArmDriver_AimLctr
+    401208: RRM_l_newArmDriver_Clavicle
+    401210: RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_Shoulder_AimLctr
+    401212: RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_Shoulder_TargetLctr
+    401214: RRM_l_newArmDriver_Clavicle_RRM_l_newArmDriver_ShoulderCtrl
+    401216: RRM_l_newArmDriver_ClavicleGrp
+    401218: RRM_l_newArmDriver_ConnectorGrp
+    401220: RRM_l_newArmDriver_Elbow
+    401222: RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_Wrist_AimLctr
+    401224: RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_Wrist_TargetLctr
+    401226: RRM_l_newArmDriver_Elbow_RRM_l_newArmDriver_WristCtrl
+    401228: RRM_l_newArmDriver_ElbowAimLctr
+    401230: RRM_l_newArmDriver_ElbowAimLctrGrp
+    401232: RRM_l_newArmDriver_ElbowGrp
+    401234: RRM_l_newArmDriver_Lower1
+    401236: RRM_l_newArmDriver_Lower1Grp
+    401238: RRM_l_newArmDriver_Parent
+    401240: RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_Clavicle_AimLctr
+    401242: RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_Clavicle_TargetLctr
+    401244: RRM_l_newArmDriver_Parent_RRM_l_newArmDriver_ClavicleCtrl
+    401246: RRM_l_newArmDriver_Shoulder
+    401248: RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_Elbow_AimLctr
+    401250: RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_Elbow_TargetLctr
+    401252: RRM_l_newArmDriver_Shoulder_RRM_l_newArmDriver_ElbowCtrl
+    401254: RRM_l_newArmDriver_ShoulderGrp
+    401256: RRM_l_newArmDriver_Upper1
+    401258: RRM_l_newArmDriver_Upper1Grp
+    401260: RRM_l_newArmDriver_Wrist
+    401262: RRM_l_newArmDriver_WristGrp
+    401264: RRM_MAIN
+    401266: RRM_newArmDriver
+    401268: RRM_r_newArmDriver
+    401270: RRM_r_newArmDriver_AimLctr
+    401272: RRM_r_newArmDriver_Clavicle
+    401274: RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_Shoulder_AimLctr
+    401276: RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_Shoulder_TargetLctr
+    401278: RRM_r_newArmDriver_Clavicle_RRM_r_newArmDriver_ShoulderCtrl
+    401280: RRM_r_newArmDriver_ClavicleGrp
+    401282: RRM_r_newArmDriver_ConnectorGrp
+    401284: RRM_r_newArmDriver_Elbow
+    401286: RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_Wrist_AimLctr
+    401288: RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_Wrist_TargetLctr
+    401290: RRM_r_newArmDriver_Elbow_RRM_r_newArmDriver_WristCtrl
+    401292: RRM_r_newArmDriver_ElbowAimLctr
+    401294: RRM_r_newArmDriver_ElbowAimLctrGrp
+    401296: RRM_r_newArmDriver_ElbowGrp
+    401298: RRM_r_newArmDriver_Lower1
+    401300: RRM_r_newArmDriver_Lower1Grp
+    401302: RRM_r_newArmDriver_Parent
+    401304: RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_Clavicle_AimLctr
+    401306: RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_Clavicle_TargetLctr
+    401308: RRM_r_newArmDriver_Parent_RRM_r_newArmDriver_ClavicleCtrl
+    401310: RRM_r_newArmDriver_Shoulder
+    401312: RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_Elbow_AimLctr
+    401314: RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_Elbow_TargetLctr
+    401316: RRM_r_newArmDriver_Shoulder_RRM_r_newArmDriver_ElbowCtrl
+    401318: RRM_r_newArmDriver_ShoulderGrp
+    401320: RRM_r_newArmDriver_Upper1
+    401322: RRM_r_newArmDriver_Upper1Grp
+    401324: RRM_r_newArmDriver_Wrist
+    401326: RRM_r_newArmDriver_WristGrp
+    401328: RRM_ROOT
+    401330: RRM_ROOT_RRM_l_newArmDriver_Parent_AimLctr
+    401332: RRM_ROOT_RRM_l_newArmDriver_Parent_TargetLctr
+    401334: RRM_ROOT_RRM_l_newArmDriver_ParentCtrl
+    401336: RRM_ROOT_RRM_r_newArmDriver_Parent_AimLctr
+    401338: RRM_ROOT_RRM_r_newArmDriver_Parent_TargetLctr
+    401340: RRM_ROOT_RRM_r_newArmDriver_ParentCtrl
+    401342: Spine
+    401344: Spine1
+    401346: Spine2
+    401348: Spine3
+    401350: SwitchLocal_Head
+    401352: SwitchOffset_Head
+    401354: SwitchWorld_Head
+    401356: tail_of_eye_Left
+    401358: tail_of_eye_Right
+    401360: temple_Left
+    401362: temple_Right
+    401364: Text_CTRL_1
+    401366: Text_FACE_1
+    401368: u_lip_center
+    401370: Z_CTRL_Back_skart1_1
+    401372: Z_CTRL_Back_skart2_1
+    401374: Z_CTRL_BackHair1_3
+    401376: Z_CTRL_BackHair2_3
+    401378: Z_CTRL_BackHair3_3
+    401380: Z_CTRL_BackHair4_3
+    401382: Z_CTRL_Face
+    401384: Z_CTRL_Front_skart1_1
+    401386: Z_CTRL_Front_skart2_1
+    401388: Z_CTRL_FrontHair_1
+    401390: Z_CTRL_Head_3
+    401392: Z_CTRL_Head_null_1
+    401394: Z_CTRL_Hips_1
+    401396: Z_CTRL_Hips_2
+    401398: Z_CTRL_Left_skart1_1
+    401400: Z_CTRL_Left_skart2_1
+    401402: Z_CTRL_LeftBreast_1
+    401404: Z_CTRL_LeftFoot_1
+    401406: Z_CTRL_LeftFoot_2
+    401408: Z_CTRL_LeftFoot_3
+    401410: Z_CTRL_LeftHair1_1
+    401412: Z_CTRL_LeftHair2_1
+    401414: Z_CTRL_LeftHair3_1
+    401416: Z_CTRL_LeftHandIndex1_1
+    401418: Z_CTRL_LeftHandIndex2_1
+    401420: Z_CTRL_LeftHandIndex3_1
+    401422: Z_CTRL_LeftHandMiddle1_1
+    401424: Z_CTRL_LeftHandMiddle2_1
+    401426: Z_CTRL_LeftHandMiddle3_1
+    401428: Z_CTRL_LeftHandPinky1_1
+    401430: Z_CTRL_LeftHandPinky2_1
+    401432: Z_CTRL_LeftHandPinky3_1
+    401434: Z_CTRL_LeftHandRing1_1
+    401436: Z_CTRL_LeftHandRing2_1
+    401438: Z_CTRL_LeftHandRing3_1
+    401440: Z_CTRL_LeftHandThumb1_1
+    401442: Z_CTRL_LeftHandThumb2_1
+    401444: Z_CTRL_LeftHandThumb3_1
+    401446: Z_CTRL_LeftLeg_1
+    401448: Z_CTRL_LeftLeg_Helper_1
+    401450: Z_CTRL_LeftNipple_1
+    401452: Z_CTRL_LeftToes_1
+    401454: Z_CTRL_LeftUpLeg_1
+    401456: Z_CTRL_Neck_1
+    401458: Z_CTRL_Right_skart1_1
+    401460: Z_CTRL_Right_skart2_1
+    401462: Z_CTRL_RightBreast_1
+    401464: Z_CTRL_RightFoot_1
+    401466: Z_CTRL_RightFoot_2
+    401468: Z_CTRL_RightFoot_3
+    401470: Z_CTRL_RightHair1_1
+    401472: Z_CTRL_RightHair2_1
+    401474: Z_CTRL_RightHair3_1
+    401476: Z_CTRL_RightHandIndex1_1
+    401478: Z_CTRL_RightHandIndex2_1
+    401480: Z_CTRL_RightHandIndex3_1
+    401482: Z_CTRL_RightHandMiddle1_1
+    401484: Z_CTRL_RightHandMiddle2_1
+    401486: Z_CTRL_RightHandMiddle3_1
+    401488: Z_CTRL_RightHandPinky1_1
+    401490: Z_CTRL_RightHandPinky2_1
+    401492: Z_CTRL_RightHandPinky3_1
+    401494: Z_CTRL_RightHandRing1_1
+    401496: Z_CTRL_RightHandRing2_1
+    401498: Z_CTRL_RightHandRing3_1
+    401500: Z_CTRL_RightHandThumb1_1
+    401502: Z_CTRL_RightHandThumb2_1
+    401504: Z_CTRL_RightHandThumb3_1
+    401506: Z_CTRL_RightLeg_1
+    401508: Z_CTRL_RightLeg_Helper_1
+    401510: Z_CTRL_RightNipple_1
+    401512: Z_CTRL_RightNipple_2
+    401514: Z_CTRL_RightToes_1
+    401516: Z_CTRL_RightUpLeg_1
+    401518: Z_CTRL_Spine1_1
+    401520: Z_CTRL_Spine2_1
+    401522: Z_CTRL_Spine3_1
+    401524: Z_CTRL_Spine_1
+    2300000: door1
+    2300002: door1 1
+    2300004: door2
+    2300006: door2 1
+    2300008: door3
+    2300010: door3 1
+    2300012: door4
+    2300014: door4 1
+    2300016: door5
+    2300018: door5 1
+    2300020: door6
+    2300022: door6 1
+    2300024: door7
+    2300026: door7 1
+    2300028: door8
+    2300030: door8 1
+    2300032: locker
+    2300034: locker 1
+    3300000: door1
+    3300002: door1 1
+    3300004: door2
+    3300006: door2 1
+    3300008: door3
+    3300010: door3 1
+    3300012: door4
+    3300014: door4 1
+    3300016: door5
+    3300018: door5 1
+    3300020: door6
+    3300022: door6 1
+    3300024: door7
+    3300026: door7 1
+    3300028: door8
+    3300030: door8 1
+    3300032: locker
+    3300034: locker 1
+    4300000: f02_schoolwear_210_h
+    4300002: locker
+    4300004: door1
+    4300006: door2
+    4300008: door3
+    4300010: door4
+    4300012: door5
+    4300014: door6
+    4300016: door7
+    4300018: door8
+    4300020: locker
+    4300022: door1
+    4300024: door2
+    4300026: door3
+    4300028: door4
+    4300030: door5
+    4300032: door6
+    4300034: door7
+    4300036: door8
+    7400000: f02_keepNote_00
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: f02_schoolwear_210_h
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 051ed970e733613419c1f4c7bbda3fa9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: f02_keepNote_00
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 420.00003
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: f02_schoolwear_210_h
+        weight: 1
+      - path: PelvisRoot
+        weight: 1
+      - path: PelvisRoot/Hips
+        weight: 1
+      - path: PelvisRoot/Hips/Back_skart1
+        weight: 1
+      - path: PelvisRoot/Hips/Back_skart1/Back_skart2
+        weight: 1
+      - path: PelvisRoot/Hips/Back_skart1/Back_skart2/Back_skart3
+        weight: 1
+      - path: PelvisRoot/Hips/Front_skart1
+        weight: 1
+      - path: PelvisRoot/Hips/Front_skart1/Front_skart2
+        weight: 1
+      - path: PelvisRoot/Hips/Front_skart1/Front_skart2/Front_skart3
+        weight: 1
+      - path: PelvisRoot/Hips/Left_skart1
+        weight: 1
+      - path: PelvisRoot/Hips/Left_skart1/Left_skart2
+        weight: 1
+      - path: PelvisRoot/Hips/Left_skart1/Left_skart2/Left_skart3
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg/LeftHip_Helper
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToes
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToes/LeftToesNull
+        weight: 1
+      - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg/LeftLeg_Helper
+        weight: 1
+      - path: PelvisRoot/Hips/Right_skart1
+        weight: 1
+      - path: PelvisRoot/Hips/Right_skart1/Right_skart2
+        weight: 1
+      - path: PelvisRoot/Hips/Right_skart1/Right_skart2/Right_skart3
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg/RightHip_Helper
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg/RightLeg/RightFoot/RightToes
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg/RightLeg/RightFoot/RightToes/RightToesNull
+        weight: 1
+      - path: PelvisRoot/Hips/RightUpLeg/RightLeg/RightLeg_Helper
+        weight: 1
+      - path: PelvisRoot/Hips/Spine
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftBreast
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftBreast/LeftNipple
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArm_Helper
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandIndex1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandIndex1/LeftHandIndex2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3/LeftHandIndexNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHanditem_Null
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandMiddle1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandMiddle1/LeftHandMiddle2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3/LeftHandMiddleNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandPinky1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandPinky1/LeftHandPinky2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3/LeftHandPinkyNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandRing1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandRing1/LeftHandRing2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3/LeftHandRingNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandThumb1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandThumb1/LeftHandThumb2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3/LeftHandThumbNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/cheek_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/cheek_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eye_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eye_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyelid_und1_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyelid_und1_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyelid_und2_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyelid_und2_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyelid_und_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyelid_und_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid1_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid1_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid2_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid2_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/inner_corner_of_eye_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/inner_corner_of_eye_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/b_lip_center
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/chin
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/lip_u_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/lip_u_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/rip_btm_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/rip_btm_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/lip_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/lip_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/lip_t_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/lip_t_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu/eyebrow_a_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu/eyebrow_a_Left/eyebrow_b_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu/eyebrow_a_Left/eyebrow_b_Left/temple_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu/eyebrow_a_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu/eyebrow_a_Right/eyebrow_b_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/mayu/eyebrow_a_Right/eyebrow_b_Right/temple_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/nose
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/nose/nostrir_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/nose/nostrir_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/tail_of_eye_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/tail_of_eye_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/u_lip_center
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/u_lip_center/lip_top_Left
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/u_lip_center/lip_top_Right
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Glasses_Null
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/BackHair1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/BackHair1/BackHair2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/BackHair1/BackHair2/BackHair3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/BackHair1/BackHair2/BackHair3/BackHair4
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/FrontHair
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/LeftHair1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/LeftHair1/LeftHair2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/LeftHair1/LeftHair2/LeftHair3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/RightHair1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/RightHair1/RightHair2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/Head_null/RightHair1/RightHair2/RightHair3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/LeftEarring_Null
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/RightEarring_Null
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightBreast
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightBreast/RightNipple
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArm_Helper
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandIndex1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandIndex1/RightHandIndex2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3/RightHandIndexNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHanditem_Null
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandMiddle1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandMiddle1/RightHandMiddle2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3/RightHandMiddleNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandPinky1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandPinky1/RightHandPinky2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandPinky1/RightHandPinky2/RightHandPinky3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandPinky1/RightHandPinky2/RightHandPinky3/RightHandPinkyNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandRing1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandRing1/RightHandRing2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandRing1/RightHandRing2/RightHandRing3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandRing1/RightHandRing2/RightHandRing3/RightHandRingNull
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandThumb1
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandThumb1/RightHandThumb2
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3
+        weight: 1
+      - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3/RightHandThumbNull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

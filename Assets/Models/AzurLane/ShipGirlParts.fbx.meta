@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: ad4185213a2d1a94e9be80d44cacff59
+timeCreated: 1542868688
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: backhinge
+    100002: control_base
+    100004: control_bend
+    100006: lowerarm.L
+    100008: lowerarm.L.001
+    100010: lowerarm.R
+    100012: lowerarm.R.001
+    100014: lowercannon.L
+    100016: lowercannon.L.001
+    100018: lowercannon.L.001_end
+    100020: lowercannon.L.002
+    100022: lowercannon.L.002_end
+    100024: lowercannon.R
+    100026: lowercannon.R.001
+    100028: lowercannon.R.001_end
+    100030: lowercannon.R.002
+    100032: lowercannon.R.002_end
+    100034: //RootNode
+    100036: Sun
+    100038: Sun.001
+    100040: Sun.002
+    100042: toparm.L
+    100044: toparm.L.001
+    100046: toparm.L.002
+    100048: toparm.R
+    100050: toparm.R.001
+    100052: toparm.R.002
+    100054: topcannon.L
+    100056: topcannon.L.001
+    100058: topcannon.L.001_end
+    100060: topcannon.L.002
+    100062: topcannon.L.002_end
+    100064: topcannon.R
+    100066: topcannon.R.001
+    100068: topcannon.R.001_end
+    100070: topcannon.R.002
+    100072: topcannon.R.002_end
+    100074: Yan.ShipModel
+    100076: Yan.ShipModel_Armature
+    100078: Yan.ShipModel_Targ
+    400000: backhinge
+    400002: control_base
+    400004: control_bend
+    400006: lowerarm.L
+    400008: lowerarm.L.001
+    400010: lowerarm.R
+    400012: lowerarm.R.001
+    400014: lowercannon.L
+    400016: lowercannon.L.001
+    400018: lowercannon.L.001_end
+    400020: lowercannon.L.002
+    400022: lowercannon.L.002_end
+    400024: lowercannon.R
+    400026: lowercannon.R.001
+    400028: lowercannon.R.001_end
+    400030: lowercannon.R.002
+    400032: lowercannon.R.002_end
+    400034: //RootNode
+    400036: Sun
+    400038: Sun.001
+    400040: Sun.002
+    400042: toparm.L
+    400044: toparm.L.001
+    400046: toparm.L.002
+    400048: toparm.R
+    400050: toparm.R.001
+    400052: toparm.R.002
+    400054: topcannon.L
+    400056: topcannon.L.001
+    400058: topcannon.L.001_end
+    400060: topcannon.L.002
+    400062: topcannon.L.002_end
+    400064: topcannon.R
+    400066: topcannon.R.001
+    400068: topcannon.R.001_end
+    400070: topcannon.R.002
+    400072: topcannon.R.002_end
+    400074: Yan.ShipModel
+    400076: Yan.ShipModel_Armature
+    400078: Yan.ShipModel_Targ
+    4300000: Yan.ShipModel
+    9500000: //RootNode
+    10800000: Sun
+    10800002: Sun.001
+    10800004: Sun.002
+    13700000: Yan.ShipModel
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: main
+    second: {fileID: 2100000, guid: 0d375e7957e5e004ea8df4e70ff183b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ship parts
+    second: {fileID: 2100000, guid: 655922759f534fa4d864457783c12860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: turrets
+    second: {fileID: 2100000, guid: efe31997b12da6740889448f7ac3fef3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

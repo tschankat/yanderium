@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: 20b37f29a087044418869562ef2fb0bd
+timeCreated: 1555664104
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: InfoClub_AC
+    100004: InfoClub_CPU
+    100006: InfoClub_CPU1
+    100008: InfoClub_CPU2
+    100010: InfoClub_CPU2.001
+    100012: InfoClub_Keyboard1
+    100014: InfoClub_Keyboard1.001
+    100016: InfoClub_Machine
+    100018: InfoClub_Machine1
+    100020: InfoClub_Machine2
+    100022: InfoClub_Monitor1
+    100024: InfoClub_Monitor1.001
+    100026: InfoClub_Monitor2
+    100028: InfoClub_Monitor2.001
+    100030: InfoClub_Monitor3
+    100032: InfoClub_Monitor4
+    100034: InfoClub_OpenBox
+    100036: InfoClub_PaperBox
+    100038: InfoClub_PaperFiles
+    100040: InfoClub_PaperPile
+    100042: InfoClub_PaperPile.001
+    100044: InfoClub_PaperPile.002
+    100046: InfoClub_PenHolder
+    100048: InfoClub_PowerStrip3
+    100050: InfoClub_PowerStrip4
+    100052: InfoClub_Printer
+    100054: InfoClub_Table
+    100056: InfoClub_Table1
+    100058: InfoClub_Table3
+    100060: InfoClub_Wire1
+    100062: InfoClub_Wire2
+    100064: InfoClub_Wire3
+    100066: InfoClub_Wire4
+    100068: InfoClub_WireRoll
+    400000: //RootNode
+    400002: InfoClub_AC
+    400004: InfoClub_CPU
+    400006: InfoClub_CPU1
+    400008: InfoClub_CPU2
+    400010: InfoClub_CPU2.001
+    400012: InfoClub_Keyboard1
+    400014: InfoClub_Keyboard1.001
+    400016: InfoClub_Machine
+    400018: InfoClub_Machine1
+    400020: InfoClub_Machine2
+    400022: InfoClub_Monitor1
+    400024: InfoClub_Monitor1.001
+    400026: InfoClub_Monitor2
+    400028: InfoClub_Monitor2.001
+    400030: InfoClub_Monitor3
+    400032: InfoClub_Monitor4
+    400034: InfoClub_OpenBox
+    400036: InfoClub_PaperBox
+    400038: InfoClub_PaperFiles
+    400040: InfoClub_PaperPile
+    400042: InfoClub_PaperPile.001
+    400044: InfoClub_PaperPile.002
+    400046: InfoClub_PenHolder
+    400048: InfoClub_PowerStrip3
+    400050: InfoClub_PowerStrip4
+    400052: InfoClub_Printer
+    400054: InfoClub_Table
+    400056: InfoClub_Table1
+    400058: InfoClub_Table3
+    400060: InfoClub_Wire1
+    400062: InfoClub_Wire2
+    400064: InfoClub_Wire3
+    400066: InfoClub_Wire4
+    400068: InfoClub_WireRoll
+    2300000: InfoClub_AC
+    2300002: InfoClub_CPU
+    2300004: InfoClub_CPU1
+    2300006: InfoClub_CPU2
+    2300008: InfoClub_CPU2.001
+    2300010: InfoClub_Keyboard1
+    2300012: InfoClub_Keyboard1.001
+    2300014: InfoClub_Machine
+    2300016: InfoClub_Machine1
+    2300018: InfoClub_Machine2
+    2300020: InfoClub_Monitor1
+    2300022: InfoClub_Monitor1.001
+    2300024: InfoClub_Monitor2
+    2300026: InfoClub_Monitor2.001
+    2300028: InfoClub_Monitor3
+    2300030: InfoClub_Monitor4
+    2300032: InfoClub_OpenBox
+    2300034: InfoClub_PaperBox
+    2300036: InfoClub_PaperFiles
+    2300038: InfoClub_PaperPile
+    2300040: InfoClub_PaperPile.001
+    2300042: InfoClub_PaperPile.002
+    2300044: InfoClub_PenHolder
+    2300046: InfoClub_PowerStrip3
+    2300048: InfoClub_PowerStrip4
+    2300050: InfoClub_Printer
+    2300052: InfoClub_Table
+    2300054: InfoClub_Table1
+    2300056: InfoClub_Table3
+    2300058: InfoClub_Wire1
+    2300060: InfoClub_Wire2
+    2300062: InfoClub_Wire3
+    2300064: InfoClub_Wire4
+    2300066: InfoClub_WireRoll
+    3300000: InfoClub_AC
+    3300002: InfoClub_CPU
+    3300004: InfoClub_CPU1
+    3300006: InfoClub_CPU2
+    3300008: InfoClub_CPU2.001
+    3300010: InfoClub_Keyboard1
+    3300012: InfoClub_Keyboard1.001
+    3300014: InfoClub_Machine
+    3300016: InfoClub_Machine1
+    3300018: InfoClub_Machine2
+    3300020: InfoClub_Monitor1
+    3300022: InfoClub_Monitor1.001
+    3300024: InfoClub_Monitor2
+    3300026: InfoClub_Monitor2.001
+    3300028: InfoClub_Monitor3
+    3300030: InfoClub_Monitor4
+    3300032: InfoClub_OpenBox
+    3300034: InfoClub_PaperBox
+    3300036: InfoClub_PaperFiles
+    3300038: InfoClub_PaperPile
+    3300040: InfoClub_PaperPile.001
+    3300042: InfoClub_PaperPile.002
+    3300044: InfoClub_PenHolder
+    3300046: InfoClub_PowerStrip3
+    3300048: InfoClub_PowerStrip4
+    3300050: InfoClub_Printer
+    3300052: InfoClub_Table
+    3300054: InfoClub_Table1
+    3300056: InfoClub_Table3
+    3300058: InfoClub_Wire1
+    3300060: InfoClub_Wire2
+    3300062: InfoClub_Wire3
+    3300064: InfoClub_Wire4
+    3300066: InfoClub_WireRoll
+    4300000: InfoClub_Wire4
+    4300002: InfoClub_Wire3
+    4300004: InfoClub_Wire2
+    4300006: InfoClub_Wire1
+    4300008: InfoClub_CPU2.001
+    4300010: InfoClub_PaperPile.002
+    4300012: InfoClub_Keyboard1.001
+    4300014: InfoClub_Monitor1.001
+    4300016: InfoClub_PaperPile.001
+    4300018: InfoClub_Monitor2.001
+    4300020: InfoClub_PowerStrip4
+    4300022: InfoClub_PowerStrip3
+    4300024: InfoClub_PenHolder
+    4300026: InfoClub_Monitor4
+    4300028: InfoClub_CPU1
+    4300030: InfoClub_CPU
+    4300032: InfoClub_Printer
+    4300034: InfoClub_Monitor3
+    4300036: InfoClub_CPU2
+    4300038: InfoClub_Machine2
+    4300040: InfoClub_AC
+    4300042: InfoClub_Monitor1
+    4300044: InfoClub_Machine1
+    4300046: InfoClub_Table
+    4300048: InfoClub_Table3
+    4300050: InfoClub_Machine
+    4300052: InfoClub_WireRoll
+    4300054: InfoClub_OpenBox
+    4300056: InfoClub_PaperBox
+    4300058: InfoClub_PaperPile
+    4300060: InfoClub_PaperFiles
+    4300062: InfoClub_Table1
+    4300064: InfoClub_Keyboard1
+    4300066: InfoClub_Monitor2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_AC
+    second: {fileID: 2100000, guid: 5addca7f49eaf874c80935a5ad3e5b21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_CPU
+    second: {fileID: 2100000, guid: f9d0f5e33ceb62f488ed3b35fce89bbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_ComputerKeyboard
+    second: {fileID: 2100000, guid: e12829a0b0341424e90847a8e93ac0bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_Machine
+    second: {fileID: 2100000, guid: fbb986e48be33f14ab4daea9ec52a478, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_Machine1
+    second: {fileID: 2100000, guid: c2d2fd1b241010c4ab2ef50545c802e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_Machine2
+    second: {fileID: 2100000, guid: 97b3639c18a953e4f9c7adf3d9a7fcda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_Monitor1
+    second: {fileID: 2100000, guid: 3c189caa8d9674846bff58b802b19d4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_Monitors
+    second: {fileID: 2100000, guid: 589c444d8dac03f4caea4587f292e7b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_OpenBox
+    second: {fileID: 2100000, guid: b71ce8e5ea5c08645a053b035861d941, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_PaperBox
+    second: {fileID: 2100000, guid: 7fa14b53ea95f8849b3d6b46bd8441bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_PaperMaterials
+    second: {fileID: 2100000, guid: 45b149649c6a73a47aa7ba1bb4489b29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_PenHolder
+    second: {fileID: 2100000, guid: 3ad69e81cd146e2418281ea3ba3458f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_PlugPowerStrip
+    second: {fileID: 2100000, guid: 90924c3ab01819b4f8ff6521124b8264, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_Printer
+    second: {fileID: 2100000, guid: aefe97644d9428d44826dbeb2abb703a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_Table
+    second: {fileID: 2100000, guid: 76b37505f19647348b6851463eba5ae6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_Table1
+    second: {fileID: 2100000, guid: 000f4a5453bc13047b04b12d52e00953, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_Tables
+    second: {fileID: 2100000, guid: c55e9a991880cd746a523424d132001a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_WireRoll
+    second: {fileID: 2100000, guid: a27d5cc76e1d0e24fae59f91e96a011b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InfoClub_Wires
+    second: {fileID: 2100000, guid: 1dc849756a2009149bb168eaad3e050f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

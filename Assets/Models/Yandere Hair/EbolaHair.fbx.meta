@@ -1,0 +1,96 @@
+fileFormatVersion: 2
+guid: aecd6b49228254f4da1f557145179d67
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: joint7
+    100004: Left_Hair
+    100006: Left_Hair1
+    100008: Left_Hair2
+    100010: Left_Hair3
+    100012: Left_Hair4
+    100014: Left_Hair5
+    100016: NoodleHairMesh
+    100018: Right_Hair
+    100020: Right_Hair1
+    100022: Right_Hair2
+    100024: Right_Hair3
+    100026: Right_Hair4
+    100028: Right_Hair5
+    100030: EbolaHairMesh
+    400000: //RootNode
+    400002: joint7
+    400004: Left_Hair
+    400006: Left_Hair1
+    400008: Left_Hair2
+    400010: Left_Hair3
+    400012: Left_Hair4
+    400014: Left_Hair5
+    400016: NoodleHairMesh
+    400018: Right_Hair
+    400020: Right_Hair1
+    400022: Right_Hair2
+    400024: Right_Hair3
+    400026: Right_Hair4
+    400028: Right_Hair5
+    400030: EbolaHairMesh
+    4300000: NoodleHairMesh
+    4300002: EbolaHairMesh
+    9500000: //RootNode
+    13700000: NoodleHairMesh
+    13700002: EbolaHairMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

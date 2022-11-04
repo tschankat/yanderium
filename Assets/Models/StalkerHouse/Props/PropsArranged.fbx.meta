@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 644e6dfb278e23d41ae8dab4d4755408
+timeCreated: 1535832441
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: PropPlants
+    100002: //RootNode
+    100004: PropTables
+    100006: WallPaintings
+    100008: HouseProps
+    100010: PropPlants1
+    100012: SingleLamp
+    100014: SingleTable
+    400000: PropPlants
+    400002: //RootNode
+    400004: PropTables
+    400006: WallPaintings
+    400008: HouseProps
+    400010: PropPlants1
+    400012: SingleLamp
+    400014: SingleTable
+    2300000: PropPlants
+    2300002: PropTables
+    2300004: WallPaintings
+    2300006: HouseProps
+    2300008: PropPlants1
+    2300010: SingleLamp
+    2300012: SingleTable
+    3300000: PropPlants
+    3300002: PropTables
+    3300004: WallPaintings
+    3300006: HouseProps
+    3300008: PropPlants1
+    3300010: SingleLamp
+    3300012: SingleTable
+    4300000: PropPlants
+    4300002: PropTables
+    4300004: WallPaintings
+    4300006: PropPlants1
+    4300008: HouseProps
+    4300010: SingleTable
+    4300012: SingleLamp
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HosuePropsMaterial
+    second: {fileID: 2100000, guid: 0c6cadc10f81f4d4ab3a3ecc86dbfa0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HousePaintingsFramesMaterial
+    second: {fileID: 2100000, guid: ea91692eb2563b14b8c08fb8ec85f072, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HousePropsMaterial
+    second: {fileID: 2100000, guid: 6dfbf613e32b65b4fa8422c1c55837e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Painting1Material
+    second: {fileID: 2100000, guid: fbb2ad64748c5a342a3fbc4c8b1cfa27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Painting2Material
+    second: {fileID: 2100000, guid: 4f22f40d92f81eb4d8973c64040983d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Painting3Material
+    second: {fileID: 2100000, guid: 608c01165e3268e4db890e1199a268c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Painting4Material
+    second: {fileID: 2100000, guid: 2536b0a0e5361c641bfdddee445f4dac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Painting5Material
+    second: {fileID: 2100000, guid: 4b9c36398162407478dc9bde9528d479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Painting6Material
+    second: {fileID: 2100000, guid: ed2ab7f54d1636646b262d90468c849d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PropTablesMaterial
+    second: {fileID: 2100000, guid: 48e3b063a8fc2fb49978972cf78d7875, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PuzzlePainting1Material
+    second: {fileID: 2100000, guid: 5d92b1f9299208241bb1200fa19ea9c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PuzzlePaintings1Material
+    second: {fileID: 2100000, guid: 7d4711d222f6a1549a78928de1688d6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PuzzlePaintings2Material
+    second: {fileID: 2100000, guid: 4f104945cd35042478e3e623ddb6102b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

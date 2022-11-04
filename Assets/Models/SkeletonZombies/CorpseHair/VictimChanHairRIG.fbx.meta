@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 897d13b3c9723c14b8d916a81fda1e15
+timeCreated: 1582277305
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: BackHair1
+    100004: BackHair2
+    100006: BackHair3
+    100008: BackHair4
+    100010: BackLeftHair1
+    100012: BackLeftHair2
+    100014: BackLeftHair3
+    100016: BackLeftHair4
+    100018: BackRightHair1
+    100020: BackRightHair2
+    100022: BackRightHair3
+    100024: BackRightHair4
+    100026: Deform
+    100028: FrontBang1
+    100030: FrontBang2
+    100032: FrontBang3
+    100034: FrontBang4
+    100036: FrontLeftHair1
+    100038: FrontLeftHair2
+    100040: FrontLeftHair3
+    100042: FrontLeftHair4
+    100044: FrontRightHair1
+    100046: FrontRightHair2
+    100048: FrontRightHair3
+    100050: FrontRightHair4
+    100052: hair_geo.000
+    100054: hair_geo.001
+    100056: hair_geo.002
+    100058: hair_geo.003
+    100060: hair_geo.004
+    100062: hair_geo.005
+    100064: hair_geo.006
+    100066: hair_geo.007
+    100068: hair_geo.008
+    100070: hair_geo.009
+    100072: hair_geo.010
+    100074: hair_geo.011
+    100076: hair_geo.012
+    100078: hair_geo.013
+    100080: LeftHair1
+    100082: LeftHair2
+    100084: LeftHair3
+    100086: LeftHair4
+    100088: RightHair1
+    100090: RightHair2
+    100092: RightHair3
+    100094: RightHair4
+    100096: Root
+    100098: //RootNode
+    400000: Armature
+    400002: BackHair1
+    400004: BackHair2
+    400006: BackHair3
+    400008: BackHair4
+    400010: BackLeftHair1
+    400012: BackLeftHair2
+    400014: BackLeftHair3
+    400016: BackLeftHair4
+    400018: BackRightHair1
+    400020: BackRightHair2
+    400022: BackRightHair3
+    400024: BackRightHair4
+    400026: Deform
+    400028: FrontBang1
+    400030: FrontBang2
+    400032: FrontBang3
+    400034: FrontBang4
+    400036: FrontLeftHair1
+    400038: FrontLeftHair2
+    400040: FrontLeftHair3
+    400042: FrontLeftHair4
+    400044: FrontRightHair1
+    400046: FrontRightHair2
+    400048: FrontRightHair3
+    400050: FrontRightHair4
+    400052: hair_geo.000
+    400054: hair_geo.001
+    400056: hair_geo.002
+    400058: hair_geo.003
+    400060: hair_geo.004
+    400062: hair_geo.005
+    400064: hair_geo.006
+    400066: hair_geo.007
+    400068: hair_geo.008
+    400070: hair_geo.009
+    400072: hair_geo.010
+    400074: hair_geo.011
+    400076: hair_geo.012
+    400078: hair_geo.013
+    400080: LeftHair1
+    400082: LeftHair2
+    400084: LeftHair3
+    400086: LeftHair4
+    400088: RightHair1
+    400090: RightHair2
+    400092: RightHair3
+    400094: RightHair4
+    400096: Root
+    400098: //RootNode
+    4300000: hair_geo.000
+    4300002: hair_geo.001
+    4300004: hair_geo.002
+    4300006: hair_geo.003
+    4300008: hair_geo.004
+    4300010: hair_geo.005
+    4300012: hair_geo.006
+    4300014: hair_geo.007
+    4300016: hair_geo.008
+    4300018: hair_geo.009
+    4300020: hair_geo.010
+    4300022: hair_geo.011
+    4300024: hair_geo.012
+    4300026: hair_geo.013
+    9500000: //RootNode
+    13700000: hair_geo.000
+    13700002: hair_geo.001
+    13700004: hair_geo.002
+    13700006: hair_geo.003
+    13700008: hair_geo.004
+    13700010: hair_geo.005
+    13700012: hair_geo.006
+    13700014: hair_geo.007
+    13700016: hair_geo.008
+    13700018: hair_geo.009
+    13700020: hair_geo.010
+    13700022: hair_geo.011
+    13700024: hair_geo.012
+    13700026: hair_geo.013
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VictimChanHair
+    second: {fileID: 2100000, guid: 0ecda3dc2e67d4b44b054b169d00cba0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

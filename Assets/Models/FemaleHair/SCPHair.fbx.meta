@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: b1ec0ffe441c5dd47b793d1c2d59cf95
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BackHair1
+    100004: BackHair2
+    100006: BackHair3
+    100008: BackHair4
+    100010: BackHair5
+    100012: BackHair6
+    100014: BackHair7
+    100016: BackHair8
+    100018: BackHair9
+    100020: HairMainJoint
+    100022: HairTailLeft1
+    100024: HairTailLeft2
+    100026: HairTailLeft3
+    100028: HairTailLeft4
+    100030: HairTailLeft5
+    100032: HairTailLeft6
+    100034: HairTailLeft7
+    100036: HairTailLeft8
+    100038: HairTailLeft9
+    100040: HairTailRight1
+    100042: HairTailRight2
+    100044: HairTailRight3
+    100046: HairTailRight4
+    100048: HairTailRight5
+    100050: HairTailRight6
+    100052: HairTailRight7
+    100054: HairTailRight8
+    100056: HairTailRight9
+    100058: joint20
+    100060: joint20 1
+    100062: SCPHairMesh
+    400000: //RootNode
+    400002: BackHair1
+    400004: BackHair2
+    400006: BackHair3
+    400008: BackHair4
+    400010: BackHair5
+    400012: BackHair6
+    400014: BackHair7
+    400016: BackHair8
+    400018: BackHair9
+    400020: HairMainJoint
+    400022: HairTailLeft1
+    400024: HairTailLeft2
+    400026: HairTailLeft3
+    400028: HairTailLeft4
+    400030: HairTailLeft5
+    400032: HairTailLeft6
+    400034: HairTailLeft7
+    400036: HairTailLeft8
+    400038: HairTailLeft9
+    400040: HairTailRight1
+    400042: HairTailRight2
+    400044: HairTailRight3
+    400046: HairTailRight4
+    400048: HairTailRight5
+    400050: HairTailRight6
+    400052: HairTailRight7
+    400054: HairTailRight8
+    400056: HairTailRight9
+    400058: joint20
+    400060: joint20 1
+    400062: SCPHairMesh
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: pCube24
+    4300002: SCPHairMesh
+    9500000: //RootNode
+    13700000: SCPHairMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
